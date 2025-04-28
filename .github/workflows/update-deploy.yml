@@ -55,10 +55,6 @@ jobs:
           name: data-artifact
           path: ./data
       - run: pnpm build
-      # - run: |
-      #     if [ -f "CNAME" ]; then
-      #       cp CNAME ./out/
-      #     fi
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -76,7 +72,7 @@ jobs:
         with:
           name: data-artifact
           path: ./data
-      - uses: amondnet/vercel-action@v20
+      - uses: amondnet/vercel-action@v25.2.0
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
