@@ -156,7 +156,9 @@ You can directly import your GitHub repository to Vercel:
 1. Go to [Vercel Import page](https://vercel.com/import/git)
 2. Select "GitHub" and authorize access
 3. Search and select your forked FeedMe repository
-4. Keep default settings and click "Deploy"
+Keep the default settings and click "Deploy" to start the deployment (it's normal for the deployment to fail at this stage because the data is missing. The upcoming auto-update step will push the necessary data to ensure a successful deployment. The purpose of this step is simply to obtain the Project ID).
+
+(Important) Change Project Settings -> Build and Deployment -> Framework Settings -> Output Directory back to the default value, instead of using a custom value like out.
 
 **Configure automatic updates:**
 1. After Vercel deployment, obtain the following information:
@@ -165,17 +167,6 @@ You can directly import your GitHub repository to Vercel:
    - `VERCEL_PROJECT_ID`: Find at [Vercel Dashboard](https://vercel.com/dashboard) > Your Project > Settings > General > bottom of the page
 2. Add these values as Secrets in your GitHub repository (Settings -> Secrets and variables -> Actions)
 3. Add repository variable `ENABLE_VERCEL_DEPLOYMENT` and set it to `true` (Settings -> Secrets and variables -> Variables)
-
-### Method 3: Hugging Face Spaces Deployment
-
-**Deployment Steps:**
-1. Create a new Space on Hugging Face (select "Static HTML" type)
-2. Add the following secrets to your GitHub repository:
-   - `HF_TOKEN`: Your Hugging Face API token
-   - `HF_SPACE`: Space ID (format: "username/spacename")
-3. Add repository variables:
-   - Go to repository "Settings" -> "Secrets and variables" -> "Variables"
-   - Add the variable `ENABLE_HF_DEPLOYMENT` and set it to `true`
 
 ## Workflow Description
 
@@ -190,7 +181,6 @@ You can directly import your GitHub repository to Vercel:
   - Deploy based on repository variable settings:
     - Always deploy to GitHub Pages
     - Deploy to Vercel if `ENABLE_VERCEL_DEPLOYMENT` is `true`
-    - Deploy to Hugging Face if `ENABLE_HF_DEPLOYMENT` is `true`
 
 ## Custom Deployment Configuration
 

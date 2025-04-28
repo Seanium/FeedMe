@@ -83,26 +83,3 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           working-directory: ./
           vercel-args: '--prod'
-
-  deploy-huggingface:
-    needs: update-data
-    runs-on: ubuntu-latest
-    if: ${{ vars.ENABLE_HF_DEPLOYMENT == 'true' }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
-        with:
-          name: data-artifact
-          path: ./data
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - uses: pnpm/action-setup@v3
-        with:
-          version: 8.4.0
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm build
-      - run: |
-          npx @huggingface/hub upload ${{ secrets.HF_SPACE }} ./out / --repo-type=space
-        env:
-          HUGGING_FACE_TOKEN: ${{ secrets.HF_TOKEN }}
