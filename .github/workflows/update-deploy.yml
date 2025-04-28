@@ -103,7 +103,6 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
       - run: |
-          npm install -g @huggingface/hub
-          npx @huggingface/hub upload ${{ secrets.HF_SPACE }} ./out --repo-type=space
+          npx @huggingface/hub upload ${{ secrets.HF_SPACE }} ./out / --repo-type=space
         env:
           HUGGING_FACE_TOKEN: ${{ secrets.HF_TOKEN }}
