@@ -54,7 +54,7 @@
 
 ## Local Development
 
-### Method 1: Using Docker (Recommended)
+### Method 1: Using Docker
 
 ```bash
 # Clone the repository
@@ -64,7 +64,7 @@ cd feedme
 # Copy the example environment file and fill in your API keys
 cp .env.example .env
 
-# Start Docker container(Update data and start the development server)
+# Start Docker container
 docker-compose up
 ```
 
@@ -144,22 +144,20 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 
 ### Method 2: Vercel Deployment
 
-You can directly import your GitHub repository to Vercel:
+Import your GitHub repository to Vercel:
 
 1. Go to [Vercel Import page](https://vercel.com/import/git)
 2. Select "GitHub" and authorize access
 3. Search and select your forked FeedMe repository
-Keep the default settings and click "Deploy" to start the deployment (it's normal for the deployment to fail at this stage because the data is missing. The upcoming auto-update step will push the necessary data to ensure a successful deployment. The purpose of this step is simply to obtain the Project ID).
-
-(Important) Change Project Settings -> Build and Deployment -> Framework Settings -> Output Directory back to the default value, instead of using a custom value like out.
+4. Keep the default settings and click "Deploy" to start the deployment
 
 **Configure automatic updates:**
 1. After Vercel deployment, obtain the following information:
-   - `VERCEL_TOKEN`: Create from [Vercel Tokens page](https://vercel.com/account/tokens)
+   - `VERCEL_TOKEN`: Create from [Vercel Tokens](https://vercel.com/account/tokens)
    - `VERCEL_ORG_ID`: Find at [Account Settings](https://vercel.com/account) > General > bottom of the page
    - `VERCEL_PROJECT_ID`: Find at [Vercel Dashboard](https://vercel.com/dashboard) > Your Project > Settings > General > bottom of the page
-2. Add these values as Secrets in your GitHub repository (Settings -> Secrets and variables -> Actions)
-3. Add repository variable `ENABLE_VERCEL_DEPLOYMENT` and set it to `true` (Settings -> Secrets and variables -> Variables)
+2. Add the above information to repository secrets (**Secrets**) (Location: Settings -> Secrets and variables -> Actions -> **Secrets**)
+3. Add repository variable (**Variables**) `ENABLE_VERCEL_DEPLOYMENT` and set it to `true` (Location: Settings -> Secrets and variables -> Actions -> **Variables**)
 
 ## Workflow Description
 
