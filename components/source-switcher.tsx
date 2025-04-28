@@ -37,21 +37,27 @@ export function SourceSwitcher() {
           <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
         </Button>
       </PopoverTrigger>
-      <PopoverContent className="w-full md:w-[300px] p-0">
+      <PopoverContent 
+        className="w-full md:w-[300px] p-0"
+        onOpenAutoFocus={(e) => e.preventDefault()}
+      >
         <Command>
           <CommandInput placeholder="搜索信息源..." autoFocus={false} />
           <CommandList>
             <CommandEmpty>未找到匹配的信息源</CommandEmpty>
-            {Object.entries(groupedSources).map(([category, categorySources]) => (
-              <CommandGroup key={category} heading={category}>
-                {categorySources.map((source) => (
-                  <CommandItem key={source.url} value={source.name} onSelect={() => handleSelect(source)}>
-                    <Check className={cn("mr-2 h-4 w-4", currentSource === source.url ? "opacity-100" : "opacity-0")} />
-                    {source.name}
-                  </CommandItem>
-                ))}
-              </CommandGroup>
-            ))}
+            {Object.entries(groupedSources).map(([category, categorySources]) => {
+              const sources = categorySources as RssSource[];
+              return (
+                <CommandGroup key={category} heading={category}>
+                  {sources.map((source: RssSource) => (
+                    <CommandItem key={source.url} value={source.name} onSelect={() => handleSelect(source)}>
+                      <Check className={cn("mr-2 h-4 w-4", currentSource === source.url ? "opacity-100" : "opacity-0")} />
+                      {source.name}
+                    </CommandItem>
+                  ))}
+                </CommandGroup>
+              );
+            })}
           </CommandList>
         </Command>
       </PopoverContent>
