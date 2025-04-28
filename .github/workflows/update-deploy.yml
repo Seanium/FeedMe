@@ -55,10 +55,10 @@ jobs:
           name: data-artifact
           path: ./data
       - run: pnpm build
-      - run: |
-          if [ -f "CNAME" ]; then
-            cp CNAME ./out/
-          fi
+      # - run: |
+      #     if [ -f "CNAME" ]; then
+      #       cp CNAME ./out/
+      #     fi
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -117,13 +117,6 @@ docker exec -it feedme pnpm update-feeds
    ```
    Visit [http://localhost:3000](http://localhost:3000) to view the application
 
-6. **Customize RSS Sources**
-   
-   Edit the `config/rss-config.js` file to modify or add RSS sources. Each source should include:
-   - Name
-   - URL
-   - Category
-
 ## Production Deployment
 
 ### Method 1: GitHub Pages Deployment
@@ -183,6 +176,12 @@ Keep the default settings and click "Deploy" to start the deployment (it's norma
     - Deploy to Vercel if `ENABLE_VERCEL_DEPLOYMENT` is `true`
 
 ## Custom Deployment Configuration
+
+- **Customize RSS Sources**:
+  Edit the `config/rss-config.js` file to modify or add RSS sources. Each source should include:
+  - Name
+  - URL
+  - Category
 
 - **Modify Update Frequency**: Edit the cron expression in `.github/workflows/update-deploy.yml`
   ```yml
