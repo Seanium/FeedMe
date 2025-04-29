@@ -123,9 +123,8 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
 
 3.  **Build and Start the Docker Container**
     ```bash
-    docker-compose up --build -d
+    docker-compose up --build
     ```
-    The `-d` flag runs the container in detached mode (background).
 
 4.  **Access the Application**
     The application will be available at [http://localhost:3000](http://localhost:3000).
@@ -133,12 +132,6 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
 5.  **Automatic Updates**
     The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `config/crontab-docker` (defaults to every 3 hours).
     To modify the update frequency, edit the cron expression in the `config/crontab-docker` file (e.g., `0 */6 * * *` for updates every 6 hours).
-
-6.  **View Logs**
-    To check the logs for the Cron job or the application service, use the following command:
-    ```bash
-    docker logs feedme
-    ```
 
 ## Workflow Description
 
