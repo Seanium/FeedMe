@@ -59,72 +59,7 @@
 - **Deployment**: [GitHub Actions](https://github.com/features/actions), [GitHub Pages](https://pages.github.com/)
 - **RSS Parsing**: [rss-parser](https://www.npmjs.com/package/rss-parser)
 
-## Local Development
-
-### Method 1: Using Docker
-
-```bash
-# Clone the repository
-git clone https://github.com/Seanium/feedme.git
-cd feedme
-
-# Copy the example environment file and fill in your API keys
-cp .env.example .env
-
-# Start Docker container
-docker-compose up
-```
-
-Visit [http://localhost:3000](http://localhost:3000) to view the application
-
-Update RSS data:
-```bash
-# Run update command in a new terminal window
-docker exec -it feedme pnpm update-feeds
-# After data update, the Next.js development server automatically detects changes and updates the page
-```
-
-### Method 2: Step-by-Step Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Seanium/feedme.git
-   cd feedme
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pnpm install
-   ```
-
-3. **Configure Environment Variables**
-   
-   Copy the example environment file and edit it:
-   ```bash
-   cp .env.example .env
-   ```
-   
-   Fill in the following content:
-   ```
-   LLM_API_KEY=your_api_key
-   LLM_API_BASE=LLM service API base URL (e.g., https://api.siliconflow.cn/v1)
-   LLM_NAME=model name (e.g., THUDM/GLM-4-9B-0414)
-   ```
-   These environment variables are used to configure the article summary generation feature and need to be obtained from an LLM service provider
-
-4. **Update RSS Data**
-   ```bash
-   pnpm update-feeds
-   ```
-   This command fetches RSS sources and generates summaries, saving them to the `data` directory
-
-5. **Start the Development Server**
-   ```bash
-   pnpm dev
-   ```
-   Visit [http://localhost:3000](http://localhost:3000) to view the application
-
-## Production Deployment
+## Deployment Guide
 
 ### Method 1: GitHub Pages Deployment
 
@@ -200,6 +135,71 @@ Import your GitHub repository to Vercel:
 
 - **Customize Summary Generation**:
   If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts\update-feeds.js`
+
+## Development Guide
+
+### Method 1: Using Docker
+
+```bash
+# Clone the repository
+git clone https://github.com/Seanium/feedme.git
+cd feedme
+
+# Copy the example environment file and fill in your API keys
+cp .env.example .env
+
+# Start Docker container
+docker-compose up
+```
+
+Visit [http://localhost:3000](http://localhost:3000) to view the application
+
+Update RSS data:
+```bash
+# Run update command in a new terminal window
+docker exec -it feedme pnpm update-feeds
+# After data update, the Next.js development server automatically detects changes and updates the page
+```
+
+### Method 2: Step-by-Step Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Seanium/feedme.git
+   cd feedme
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pnpm install
+   ```
+
+3. **Configure Environment Variables**
+   
+   Copy the example environment file and edit it:
+   ```bash
+   cp .env.example .env
+   ```
+   
+   Fill in the following content:
+   ```
+   LLM_API_KEY=your_api_key
+   LLM_API_BASE=LLM service API base URL (e.g., https://api.siliconflow.cn/v1)
+   LLM_NAME=model name (e.g., THUDM/GLM-4-9B-0414)
+   ```
+   These environment variables are used to configure the article summary generation feature and need to be obtained from an LLM service provider
+
+4. **Update RSS Data**
+   ```bash
+   pnpm update-feeds
+   ```
+   This command fetches RSS sources and generates summaries, saving them to the `data` directory
+
+5. **Start the Development Server**
+   ```bash
+   pnpm dev
+   ```
+   Visit [http://localhost:3000](http://localhost:3000) to view the application
 
 ## Star History
 
