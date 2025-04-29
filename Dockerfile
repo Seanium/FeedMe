@@ -1,24 +1,41 @@
 FROM node:20-alpine
 
+# Update package list and install necessary packages
+# Use dcron for cron, bash for scripts, procps-ng for pkill
+RUN apk update && apk add --no-cache dcron bash procps-ng
+
 WORKDIR /app
 
-# 安装pnpm
+# Install pnpm globally
 RUN npm install -g pnpm@8.4.0
 
-# 复制项目文件（包括可能存在的data目录）
+# Copy package.json and pnpm-lock.yaml first for dependency caching
+COPY package.json pnpm-lock.yaml ./
+
+# Install project dependencies
+RUN pnpm install --frozen-lockfile
+
+# Copy the rest of the project files
 COPY . .
 
-# 确保data目录存在
+# Ensure the data directory exists
 RUN mkdir -p /app/data
 
-# 安装依赖
-RUN pnpm install
+# Copy the crontab file to the appropriate directory
+COPY config/crontab-docker /etc/crontabs/root
+# Apply the crontab
+RUN crontab /etc/crontabs/root
 
-# 环境变量
-ENV NODE_ENV=development
+# Copy the scripts and make them executable
+COPY scripts/update_and_serve.sh /app/scripts/
+COPY scripts/entrypoint.sh /app/scripts/
+RUN chmod +x /app/scripts/update_and_serve.sh /app/scripts/entrypoint.sh
 
-# 暴露端口
+# Expose the port the application will run on
 EXPOSE 3000
 
-# 启动命令
-CMD ["pnpm", "dev"] 
+# Set the entrypoint to our custom script
+ENTRYPOINT ["/app/scripts/entrypoint.sh"]
+
+# Remove the old CMD, as ENTRYPOINT handles the startup
+# CMD ["pnpm", "dev"] 

@@ -99,6 +99,47 @@ Import your GitHub repository to Vercel:
 2. Add the above information to repository secrets (**Secrets**) (Location: Settings -> Secrets and variables -> Actions -> **Secrets**)
 3. Add repository variable (**Variables**) `ENABLE_VERCEL_DEPLOYMENT` and set it to `true` (Location: Settings -> Secrets and variables -> Actions -> **Variables**)
 
+### Method 3: Docker Local Deployment
+
+This method uses Docker to run FeedMe locally or on a server. It utilizes an in-container Cron job for automatic data updates and rebuilds, independent of GitHub Actions.
+
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/Seanium/feedme.git
+    cd feedme
+    ```
+
+2.  **Configure Environment Variables**
+    Copy the `.env.example` file to `.env` and fill in the necessary API keys:
+    ```bash
+    cp .env.example .env
+    ```
+    Edit the `.env` file:
+    ```dotenv
+    LLM_API_KEY=your_api_key
+    LLM_API_BASE=LLM_service_api_base_url
+    LLM_NAME=model_name_to_use
+    ```
+
+3.  **Build and Start the Docker Container**
+    ```bash
+    docker-compose up --build -d
+    ```
+    The `-d` flag runs the container in detached mode (background).
+
+4.  **Access the Application**
+    The application will be available at [http://localhost:3000](http://localhost:3000).
+
+5.  **Automatic Updates**
+    The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `config/crontab-docker` (defaults to every 3 hours).
+    To modify the update frequency, edit the cron expression in the `config/crontab-docker` file (e.g., `0 */6 * * *` for updates every 6 hours).
+
+6.  **View Logs**
+    To check the logs for the Cron job or the application service, use the following command:
+    ```bash
+    docker logs feedme
+    ```
+
 ## Workflow Description
 
 **Update Data and Deploy** (`update-deploy.yml`):
