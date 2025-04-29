@@ -138,31 +138,6 @@ Import your GitHub repository to Vercel:
 
 ## Development Guide
 
-### Method 1: Using Docker
-
-```bash
-# Clone the repository
-git clone https://github.com/Seanium/feedme.git
-cd feedme
-
-# Copy the example environment file and fill in your API keys
-cp .env.example .env
-
-# Start Docker container
-docker-compose up
-```
-
-Visit [http://localhost:3000](http://localhost:3000) to view the application
-
-Update RSS data:
-```bash
-# Run update command in a new terminal window
-docker exec -it feedme pnpm update-feeds
-# After data update, the Next.js development server automatically detects changes and updates the page
-```
-
-### Method 2: Step-by-Step Setup
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Seanium/feedme.git
