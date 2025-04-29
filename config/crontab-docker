@@ -1,2 +1,2 @@
 # Schedule the update and serve script to run every 3 hours
-* * * * * /app/scripts/update_and_serve.sh >> /proc/1/fd/1 2>&1
+0 */3 * * * /app/scripts/update_and_serve.sh >> /proc/1/fd/1 2>&1

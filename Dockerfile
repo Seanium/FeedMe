@@ -18,9 +18,6 @@ RUN pnpm install --frozen-lockfile
 # Copy the rest of the project files
 COPY . .
 
-RUN apk add --no-cache dos2unix \
-  && find . -type f -exec dos2unix {} \;
-
 # Ensure the data directory exists
 RUN mkdir -p /app/data
 
