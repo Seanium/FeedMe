@@ -9,4 +9,4 @@ crontab /etc/crontabs/root
 # Start crond with log level information
 crond -L 8
 
-echo "$(date): Cron setup completed and daemon started." 
+echo "$(date): 定时任务设置完成，守护进程已启动。" >> /var/log/cron.log 
