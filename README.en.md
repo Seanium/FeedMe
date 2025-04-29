@@ -28,8 +28,8 @@
   <a href="https://feedme.icu" target="_blank">🌐 Live Demo</a> •
   <a href="#key-features">✨ Features</a> •
   <a href="#tech-stack">🔧 Tech Stack</a> •
-  <a href="#local-development">💻 Development</a> •
-  <a href="#production-deployment">🚀 Deployment</a>
+  <a href="#deployment-guide">🚀 Deployment</a> •
+  <a href="#development-guide">💻 Development</a>
 </p>
 
 ---
