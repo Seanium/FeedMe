@@ -188,7 +188,7 @@
    ```
    LLM_API_KEY=你的 API 密钥
    LLM_API_BASE=LLM服务的 API 基础 URL（例如：https://api.siliconflow.cn/v1）
-   LLM_NAME=使用的模型名称（例如：THUDM/GLM-4-9B-0414）
+   LLM_NAME=使用的模型名称（例如：Qwen/Qwen3-8B）
    ```
    这些环境变量用于配置文章摘要生成功能，需要从 LLM 服务提供商获取
 
