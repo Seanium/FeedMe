@@ -187,7 +187,7 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    ```
    LLM_API_KEY=your_api_key
    LLM_API_BASE=LLM service API base URL (e.g., https://api.siliconflow.cn/v1)
-   LLM_NAME=model name (e.g., Qwen/Qwen3-8B)
+   LLM_NAME=model name (e.g., THUDM/GLM-4-9B-0414)
    ```
    These environment variables are used to configure the article summary generation feature and need to be obtained from an LLM service provider
 
