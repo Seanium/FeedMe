@@ -54,7 +54,11 @@ jobs:
         with:
           name: data-artifact
           path: ./data
+      - name: Get repository name
+        run: echo "REPOSITORY_NAME=$(echo ${{ github.repository }} | cut -d'/' -f2)" >> $GITHUB_ENV
       - run: pnpm build
+        env:
+          REPOSITORY_NAME: ${{ env.REPOSITORY_NAME }}
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -79,3 +83,5 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           working-directory: ./
           vercel-args: '--prod'
+          env: |
+            VERCEL=1

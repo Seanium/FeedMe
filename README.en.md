@@ -108,6 +108,10 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   Please follow these instructions to avoid page resource loading issues:
   - **Not using a custom domain**: Delete the `CNAME` file in the directory
   - **Using a custom domain**: Add your custom domain in the GitHub Pages section of repository settings, and modify the CNAME file content to your custom domain
+  - **Multi-platform deployment**: The system automatically handles path differences for different platforms (GitHub Pages/Vercel):
+    - GitHub Pages: Automatically uses `/{repository-name}` as basePath
+    - Custom domain: No basePath added
+    - Vercel: No basePath added
 
 - **Customize Summary Generation**:
   If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts\update-feeds.js`

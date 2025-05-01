@@ -10,6 +10,10 @@ const __dirname = path.dirname(__filename);
 // 检测是否存在CNAME文件（表示使用自定义域名）
 const hasCNAME = fs.existsSync(path.join(__dirname, 'CNAME'));
 
+// 判断部署环境和获取仓库名称
+const isVercel = process.env.VERCEL === '1';
+const repositoryName = process.env.REPOSITORY_NAME || 'feedme';
+
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
@@ -25,10 +29,11 @@ const nextConfig = {
   // 设置trailingSlash
   trailingSlash: true,
   
-  // 根据CNAME存在与否设置basePath
-  // 如果有CNAME（自定义域名），则不使用basePath
-  // 如果没有CNAME（GitHub Pages默认域名），则在生产环境使用/feedme
-  basePath: hasCNAME ? '' : (process.env.NODE_ENV === 'production' ? '/feedme' : ''),
+  // 根据部署环境设置basePath
+  // 1. 有CNAME文件（自定义域名）：不使用basePath
+  // 2. Vercel部署：不使用basePath
+  // 3. GitHub Pages（没有自定义域名）：使用 /仓库名称
+  basePath: hasCNAME || isVercel ? '' : (process.env.NODE_ENV === 'production' ? `/${repositoryName}` : ''),
   
   // 解决 fs 和 path 模块的问题
   webpack: (config, { isServer }) => {

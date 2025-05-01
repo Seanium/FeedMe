@@ -109,6 +109,10 @@
   请按照以下内容设置，避免出现页面资源加载异常：
   - **不使用自定义域名**: 请删除目录下的 `CNAME` 文件
   - **使用自定义域名**: 在仓库设置的 GitHub Pages 部分添加自定义域名，并修改 CNAME 文件内容为自定义域名
+  - **多平台部署**: 系统会自动处理不同平台（GitHub Pages/Vercel）的路径差异:
+    - GitHub Pages: 自动使用 `/{仓库名}` 为 basePath
+    - 自定义域名: 不会添加 basePath
+    - Vercel: 不会添加 basePath
 
 - **自定义摘要生成**：
   如果需要自定义摘要生成方法，比如遵循特定格式或切换摘要语言，请修改 `scripts\update-feeds.js` 中的 `prompt` 变量
