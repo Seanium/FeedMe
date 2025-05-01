@@ -53,11 +53,11 @@ export const config = {
       url: "https://rsshub.rssforever.com/google/research",
       category: "技术博客",
     },
-    {
-      name: "Product Hunt 今日热门",
-      url: "https://rsshub.rssforever.com/producthunt/today",
-      category: "产品资讯",
-    },
+    // {
+    //   name: "Product Hunt 今日热门",
+    //   url: "https://rsshub.rssforever.com/producthunt/today",
+    //   category: "产品资讯",
+    // },
     {
       name: "LINUX DO 今日热门",
       url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
