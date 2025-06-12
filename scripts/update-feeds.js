@@ -53,6 +53,7 @@ const parser = new Parser({
     item: [
       ["content:encoded", "content"],
       ["dc:creator", "creator"],
+      ["summary", "summary"], // 添加对 Atom feed 中 summary 标签的支持
     ],
   },
 });
@@ -134,8 +135,10 @@ function loadFeedData(sourceUrl) {
 // 生成摘要函数
 async function generateSummary(title, content) {
   try {
+    // 确保 content 不为空
+    const contentToClean = content || "";
     // 清理内容 - 移除HTML标签
-    const cleanContent = content.replace(/<[^>]*>?/gm, "");
+    const cleanContent = contentToClean.replace(/<[^>]*>?/gm, "");
 
     // 准备提示词
     const prompt = `
@@ -186,7 +189,8 @@ async function fetchRssFeed(url) {
         link: item.link || "",
         pubDate: item.pubDate || "",
         isoDate: item.isoDate || "",
-        content: item.content || "",
+        // 优先使用 content，如果为空则尝试使用 summary（Atom feed），再尝试 contentSnippet
+        content: item.content || item.summary || item.contentSnippet || "",
         contentSnippet: item.contentSnippet || "",
         creator: item.creator || "",
       };
@@ -240,9 +244,20 @@ function mergeFeedItems(oldItems = [], newItems = [], maxItems = config.maxItems
       }
 
       // 无论如何都更新Map，使用新条目（但保留旧摘要如果有的话）
+      // 注意：item.summary 可能来自 Atom feed 的 <summary> 标签，这是原始内容，而不是我们生成的摘要
+      // 为了避免混淆，将 Atom feed 的 summary 移动到 content 字段
+      let generatedSummary = existingItem?.summary;
+      
+      // 如果 item 有 summary 但没有 content，这可能是 Atom feed 的情况
+      if (!item.content && item.summary && !generatedSummary) {
+        item.content = item.summary; // 将 Atom feed 的 summary 移动到 content
+        item.summary = undefined; // 清除原始的 summary，避免与我们的生成摘要混淆
+      }
+      
       const serializedItem = {
         ...item,
-        summary: existingItem?.summary || item.summary,
+        content: item.content || existingItem?.content || "",
+        summary: generatedSummary || item.summary, // 保留已生成的摘要
       };
       
       itemsMap.set(item.link, serializedItem);
@@ -285,7 +300,9 @@ async function updateFeed(sourceUrl) {
         // 如果是新条目且需要生成摘要
         if (newItemsForSummary.some((newItem) => newItem.link === item.link) && !item.summary) {
           try {
-            const summary = await generateSummary(item.title, item.content || item.contentSnippet || "");
+            // 确保使用任何可用的内容源 - content, item 本身的 summary 字段, 或 contentSnippet
+            const contentForSummary = item.content || item.contentSnippet || "";
+            const summary = await generateSummary(item.title, contentForSummary);
             return { ...item, summary };
           } catch (err) {
             console.error(`为条目 ${item.title} 生成摘要时出错:`, err);

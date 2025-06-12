@@ -53,6 +53,11 @@ export const config = {
       url: "https://rsshub.rssforever.com/google/research",
       category: "技术博客",
     },
+    {
+      name: "Simon Willison's Weblog",
+      url: "https://simonwillison.net/atom/everything/",
+      category: "技术博客",
+    },
     // {
     //   name: "Product Hunt 今日热门",
     //   url: "https://rsshub.rssforever.com/producthunt/today",
