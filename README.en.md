@@ -12,8 +12,8 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
 [![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%203h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&labelColor=black)](https://opensource.org/licenses/MIT)
-[![DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-5D5FEF?style=flat-square&labelColor=black&logo=probot&logoColor=white)](https://deepwiki.com/Seanium/FeedMe)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://feedme.icu)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
 </div>
 
@@ -21,33 +21,29 @@
   <b>AI-powered RSS reader, deployable to GitHub Pages or with Docker</b>
 </p>
 
-<p align="center">
-  <a href="https://feedme.icu" target="_blank">🌐 Live Demo</a> •
-  <a href="#key-features">✨ Features</a> •
-  <a href="#deployment-guide">🚀 Deployment</a> •
-  <a href="#development-guide">💻 Development</a>
-</p>
-
 ---
 
-## Lightweight, Flexible, and Made for You
+## 🍱 Lightweight, Smart, Made for You
 
-- Want to **explore fresh updates** from various sources all in one place, but find most products too "heavy" (**no sign-up, no app download, no desktop software needed**)? A static page is the perfect fit — responsive, supports light/dark themes, and easy to browse on both desktop and mobile.
-- Want a **TLDR-style** quick glance? We built AI-powered summaries for that.
-- **Freely configure** RSS sources, AI models, and update frequency.
-- **Open-source, easy to fork, zero-cost, and effortless to self-host**.
+- 🪶 **No Bloat**: Say goodbye to forced logins and app downloads, a responsive static page for all your feed needs
 
-## Key Features
+- 🤖 **Efficiency First**: AI automatically generates article summaries, helping you grasp key points
 
-- **Multi-source RSS Aggregation**: Fetch and integrate RSS content from multiple information sources
-- **AI Summary Generation**: Automatically generate summaries for articles using LLM
-- **Scheduled Updates**: Regularly auto-update content via GitHub Actions
-- **Category Browsing**: View different information sources by category
-- **Theme Switching**: Support for light and dark themes
-- **Static Deployment**: Can be deployed on GitHub Pages and other static hosting services
-- **Docker Deployment**: Easily deployable to a local server
+- ⚙️ **Customizable**: Full control over RSS sources and AI configuration
 
-## Deployment Guide
+- 🚀 **Deploy Freely**: Zero-cost deployment to GitHub Pages or Docker
+
+## ✨ Features
+
+- **Aggregation & Summaries**: Integrate multi-source RSS feeds with LLM-powered automatic summaries
+
+- **Auto Updates**: Keep content fresh via GitHub Actions / Cron jobs
+
+- **Flexible Deployment**: Zero-cost static hosting on GitHub Pages / Self-hosted with Docker
+
+- **Modern Experience**: Responsive design with light/dark themes
+
+## 🚀 Deployment
 
 ### Method 1: GitHub Pages Deployment
 
@@ -56,18 +52,18 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 1. **Fork or Clone the Repository** to your GitHub account
 
 2. **Set GitHub Secrets**
-   
+
    Add the following secrets in your project's Settings - Secrets and variables: Actions:
    - `LLM_API_KEY`: API key for AI summary generation
    - `LLM_API_BASE`: API base URL for the LLM service
    - `LLM_NAME`: Name of the model to use
 
 3. **Enable GitHub Pages**
-   
+
    In repository settings, choose to deploy from GitHub Actions
 
 4. **Manually Trigger the Workflow** (optional)
-   
+
    Manually trigger the "Update Data and Deploy" workflow from the Actions page of your GitHub repository
 
 #### Workflow Description
@@ -75,13 +71,13 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 **Update Data and Deploy** (`update-deploy.yml`):
 - Trigger conditions:
   - Scheduled execution (every 3 hours)
-  - Push to main or dev branch
+  - Push code
   - Manual trigger
 - Execution content:
   - **Single build process**: Fetch RSS content, generate summaries, and build static website in one go
   - **Multi-platform deployment**:
     - Automatically deploy to GitHub Pages
-    - Push build artifacts to `deploy` branch for Vercel and Aliyun Pages to monitor
+    - Push build artifacts to `deploy` branch for platforms like Vercel to monitor
 
 #### Custom Deployment Configuration
 
@@ -96,6 +92,7 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   # For example, change to update once daily at midnight
   cron: '0 0 * * *'
   ```
+
 - **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `src/config/rss-config.js`
 
 - **Customize Summary Generation**:
@@ -166,10 +163,10 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
     The application will be available at [http://localhost:3000](http://localhost:3000).
 
 5.  **Automatic Updates**
-    The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `config/crontab-docker` (defaults to every 3 hours).
-    To modify the update frequency, edit the cron expression in the `config/crontab-docker` file (e.g., `0 */6 * * *` for updates every 6 hours).
+    The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `src/config/crontab-docker` (defaults to every 3 hours).
+    To modify the update frequency, edit the cron expression in the `src/config/crontab-docker` file (e.g., `0 */6 * * *` for updates every 6 hours).
 
-## Development Guide
+## 💻 Development
 
 1. **Clone the Repository**
    ```bash
@@ -183,12 +180,12 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    ```
 
 3. **Configure Environment Variables**
-   
+
    Copy the example environment file and edit it:
    ```bash
    cp .env.example .env
    ```
-   
+
    Fill in the following content:
    ```
    LLM_API_KEY=your_api_key
@@ -221,4 +218,4 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
 
 ## License
 
-[MIT](LICENSE) © 2025 Seanium 
+[MIT](LICENSE) © 2025 Seanium
