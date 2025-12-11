@@ -189,7 +189,3 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
  </picture>
 </a>
-
-## License
-
-[MIT](LICENSE) © 2025 Seanium
