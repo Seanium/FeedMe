@@ -2,8 +2,19 @@
 // 供GitHub Actions直接调用
 
 // 加载.env文件中的环境变量
-const path = require('path');
-const fs = require('fs');
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+import Parser from 'rss-parser';
+import { OpenAI } from 'openai';
+
+// 从配置文件中导入RSS源配置
+import { config } from '../src/config/rss-config.js';
+
+// 获取 __dirname 的 ES 模块等价物
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const dotenvPath = path.resolve(process.cwd(), '.env');
 if (fs.existsSync(dotenvPath)) {
   const dotenvContent = fs.readFileSync(dotenvPath, 'utf8');
@@ -40,12 +51,6 @@ if (fs.existsSync(dotenvPath)) {
     console.warn('未找到.env或.env.local文件，请确保环境变量已设置');
   }
 }
-
-const Parser = require('rss-parser');
-const { OpenAI } = require('openai');
-
-// 从配置文件中导入RSS源配置
-const { config } = require('../src/config/rss-config.js');
 
 // RSS解析器配置
 const parser = new Parser({
@@ -194,7 +199,7 @@ async function fetchRssFeed(url) {
         contentSnippet: item.contentSnippet || "",
         creator: item.creator || "",
       };
-      
+
       // 如果存在enclosure，以纯对象形式添加
       if (item.enclosure) {
         serializedItem.enclosure = {
@@ -202,7 +207,7 @@ async function fetchRssFeed(url) {
           type: item.enclosure.type || "",
         };
       }
-      
+
       return serializedItem;
     });
 
@@ -247,19 +252,19 @@ function mergeFeedItems(oldItems = [], newItems = [], maxItems = config.maxItems
       // 注意：item.summary 可能来自 Atom feed 的 <summary> 标签，这是原始内容，而不是我们生成的摘要
       // 为了避免混淆，将 Atom feed 的 summary 移动到 content 字段
       let generatedSummary = existingItem?.summary;
-      
+
       // 如果 item 有 summary 但没有 content，这可能是 Atom feed 的情况
       if (!item.content && item.summary && !generatedSummary) {
         item.content = item.summary; // 将 Atom feed 的 summary 移动到 content
         item.summary = undefined; // 清除原始的 summary，避免与我们的生成摘要混淆
       }
-      
+
       const serializedItem = {
         ...item,
         content: item.content || existingItem?.content || "",
         summary: generatedSummary || item.summary, // 保留已生成的摘要
       };
-      
+
       itemsMap.set(item.link, serializedItem);
     }
   }
@@ -367,4 +372,4 @@ async function main() {
 }
 
 // 执行主函数
-main(); 
+main();
