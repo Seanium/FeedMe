@@ -19,10 +19,10 @@ RUN pnpm install --frozen-lockfile
 COPY . .
 
 # Ensure the data directory exists
-RUN mkdir -p /app/data
+RUN mkdir -p /app/public/data
 
 # Copy the crontab file to the appropriate directory
-COPY config/crontab-docker /etc/crontabs/root
+COPY src/config/crontab-docker /etc/crontabs/root
 # Apply the crontab
 RUN crontab /etc/crontabs/root
 
