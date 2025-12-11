@@ -88,9 +88,6 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   - **Multi-platform deployment**:
     - Automatically deploy to GitHub Pages
     - Push build artifacts to `deploy` branch for Vercel and Aliyun Pages to monitor
-- Advantages:
-  - Uses Vite's relative path build, no basePath configuration needed
-  - All platforms use the same build artifact, ensuring consistency
 
 #### Custom Deployment Configuration
 
