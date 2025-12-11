@@ -45,7 +45,7 @@ const Parser = require('rss-parser');
 const { OpenAI } = require('openai');
 
 // 从配置文件中导入RSS源配置
-const { config } = require('../config/rss-config.js');
+const { config } = require('../src/config/rss-config.js');
 
 // RSS解析器配置
 const parser = new Parser({
