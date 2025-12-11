@@ -100,37 +100,11 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 
 ### Method 2: Vercel Deployment
 
-**Method A: Monitor deploy branch (Recommended)**
-
-This is the simplest approach, using the build artifacts from GitHub Actions:
-
-1. Go to [Vercel Import page](https://vercel.com/import/git)
-2. Select "GitHub" and authorize access
-3. Search and select your forked FeedMe repository
-4. In deployment settings:
-   - **Framework Preset**: Select "Other"
-   - **Build Command**: Leave empty or enter `echo "Using pre-built files"`
-   - **Output Directory**: Enter `./` (root directory)
-   - **Install Command**: Leave empty or enter `echo "No install needed"`
-5. In project settings, change the deployment branch to `deploy`
-6. Click "Deploy"
+1. Go to [Vercel Import page](https://vercel.com/import/git), select "GitHub" and authorize access
+2. Select your forked FeedMe repository, change the deployment branch to `deploy`
+3. Click "Deploy"
 
 GitHub Actions will automatically push to the `deploy` branch after each build, and Vercel will automatically detect and deploy.
-
-**Method B: Let Vercel build independently**
-
-If you want Vercel to build independently (without relying on GitHub Actions):
-
-1. Follow steps 1-3 from Method A
-2. In deployment settings:
-   - **Framework Preset**: Select "Vite"
-   - **Build Command**: `pnpm update-feeds && pnpm build`
-   - **Output Directory**: `out`
-3. Add environment variables in Vercel project settings:
-   - `LLM_API_KEY`: Your API key
-   - `LLM_API_BASE`: LLM service API base URL
-   - `LLM_NAME`: Model name to use
-4. Click "Deploy"
 
 ### Method 3: Docker Local Deployment
 

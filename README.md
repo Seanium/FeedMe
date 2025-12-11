@@ -100,37 +100,11 @@
 
 ### 方式二：Vercel 部署
 
-**方法 A：监控 deploy 分支（推荐）**
-
-这是最简单的方法，使用 GitHub Actions 构建的产物：
-
-1. 前往 [Vercel 导入页面](https://vercel.com/import/git)
-2. 选择 "GitHub" 并授权访问
-3. 搜索并选择你 fork 的 FeedMe 仓库
-4. 在部署设置中：
-   - **Framework Preset**: 选择 "Other"
-   - **Build Command**: 留空或填写 `echo "Using pre-built files"`
-   - **Output Directory**: 填写 `./`（根目录）
-   - **Install Command**: 留空或填写 `echo "No install needed"`
-5. 在项目设置中，将部署分支改为 `deploy`
-6. 点击 "Deploy"
+1. 前往 [Vercel 导入页面](https://vercel.com/import/git)，选择 "GitHub" 并授权访问
+2. 选择你 fork 的 FeedMe 仓库，将部署分支改为 `deploy`
+3. 点击 "Deploy"
 
 GitHub Actions 每次构建后会自动推送到 `deploy` 分支，Vercel 会自动检测并部署。
-
-**方法 B：让 Vercel 自行构建**
-
-如果你希望 Vercel 独立构建（不依赖 GitHub Actions）：
-
-1. 按照方法 A 的步骤 1-3 操作
-2. 在部署设置中：
-   - **Framework Preset**: 选择 "Vite"
-   - **Build Command**: `pnpm update-feeds && pnpm build`
-   - **Output Directory**: `out`
-3. 在 Vercel 项目设置中添加环境变量：
-   - `LLM_API_KEY`: 你的 API 密钥
-   - `LLM_API_BASE`: LLM 服务的 API 基础 URL
-   - `LLM_NAME`: 使用的模型名称
-4. 点击 "Deploy"
 
 ### 方式三：Docker 本地部署
 
@@ -163,8 +137,8 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，Vercel 会自
     应用将在 [http://localhost:3000](http://localhost:3000) 上可用。
 
 5.  **自动更新**
-    容器将根据 `config/crontab-docker` 中的配置（默认为每 3 小时）自动执行 `pnpm update-feeds` 和 `pnpm build`，并重新启动服务。
-    如需修改更新频率，请编辑 `config/crontab-docker` 文件中的 cron 表达式（例如 `0 */6 * * *` 表示每 6 小时执行一次）。
+    容器将根据 `src/config/crontab-docker` 中的配置（默认为每 3 小时）自动执行 `pnpm update-feeds` 和 `pnpm build`，并重新启动服务。
+    如需修改更新频率，请编辑 `src/config/crontab-docker` 文件中的 cron 表达式（例如 `0 */6 * * *` 表示每 6 小时执行一次）。
 
 ## 💻 开发
 
