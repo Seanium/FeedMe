@@ -86,8 +86,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Create or switch to deploy branch
-          git checkout --orphan deploy 2>/dev/null || git checkout deploy
+          # Always create a fresh orphan branch (no history)
+          git checkout --orphan deploy-new
 
           # Remove all existing files
           git rm -rf . 2>/dev/null || true
@@ -98,4 +98,7 @@ jobs:
 
           # Add and commit
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')" && git push -f origin deploy)
+          git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')"
+
+          # Force push to deploy branch (replaces all history)
+          git push -f origin deploy-new:deploy
