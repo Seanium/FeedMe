@@ -43,6 +43,20 @@
 
 - **现代体验**：响应式设计，明暗主题
 
+---
+
+<div align="center">
+
+**本项目由[阿里云 ESA](https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX)提供加速、计算和保护**
+
+<a href="https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX">
+  <img src="https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png" alt="阿里云 ESA" width="600">
+</a>
+
+</div>
+
+---
+
 ## 🚀 部署
 
 ### 方式一：GitHub Pages 部署
@@ -106,7 +120,20 @@
 
 GitHub Actions 每次构建后会自动推送到 `deploy` 分支，Vercel 会自动检测并部署。
 
-### 方式三：Docker 本地部署
+### 方式三：阿里云 ESA Pages 部署
+
+1. 前往 [阿里云 ESA 控制台](https://esa.console.aliyun.com/)，进入 Pages 服务
+2. 点击"新建应用"，选择 "GitHub" 并授权访问
+3. 选择你 fork 的 FeedMe 仓库，配置如下：
+   - **生产分支**：`deploy`
+   - **静态资源目录**：`.`（一个英文句号）
+   - **安装命令**：留空
+   - **构建命令**：留空
+4. 点击"部署"即可
+
+GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA Pages 会自动检测并部署。得益于阿里云 ESA 的边缘加速能力，应用在全球范围内均可获得极速访问体验。
+
+### 方式四：Docker 本地部署
 
 此方式使用 Docker 在本地或服务器上运行 FeedMe，并通过容器内的 Cron 任务自动更新数据和重建，不依赖 GitHub Actions。
 

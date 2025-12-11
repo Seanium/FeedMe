@@ -43,6 +43,20 @@
 
 - **Modern Experience**: Responsive design with light/dark themes
 
+---
+
+<div align="center">
+
+**This project is powered by [Alibaba Cloud ESA](https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX) for acceleration, computing, and protection**
+
+<a href="https://www.aliyun.com/product/esa?spm=a2c22.12281978.0.0.6fb27f3bHEvaBX">
+  <img src="https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png" alt="Alibaba Cloud ESA" width="600">
+</a>
+
+</div>
+
+---
+
 ## 🚀 Deployment
 
 ### Method 1: GitHub Pages Deployment
@@ -106,7 +120,20 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 
 GitHub Actions will automatically push to the `deploy` branch after each build, and Vercel will automatically detect and deploy.
 
-### Method 3: Docker Local Deployment
+### Method 3: Alibaba Cloud ESA Pages Deployment
+
+1. Go to [Alibaba Cloud ESA Console](https://esa.console.aliyun.com/) and enter Pages service
+2. Click "New Application", select "GitHub" and authorize access
+3. Select your forked FeedMe repository and configure as follows:
+   - **Production Branch**: `deploy`
+   - **Assets Directory**: `.` (a single dot)
+   - **Install Command**: Leave empty
+   - **Build Command**: Leave empty
+4. Click "Deploy"
+
+GitHub Actions will automatically push to the `deploy` branch after each build, and Alibaba Cloud ESA Pages will automatically detect and deploy. Thanks to Alibaba Cloud ESA's edge acceleration capabilities, the application achieves ultra-fast access speeds globally.
+
+### Method 4: Docker Local Deployment
 
 This method uses Docker to run FeedMe locally or on a server. It utilizes an in-container Cron job for automatic data updates and rebuilds, independent of GitHub Actions.
 
