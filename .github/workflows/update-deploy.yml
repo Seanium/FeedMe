@@ -74,16 +74,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: deploy
+          fetch-depth: 0
 
       - uses: actions/download-artifact@v4
         with:
           name: site-build
-          path: ./
+          path: ./build-output
 
-      - name: Commit and push to deploy branch
+      - name: Deploy to deploy branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create or switch to deploy branch
+          git checkout --orphan deploy 2>/dev/null || git checkout deploy
+
+          # Remove all existing files
+          git rm -rf . 2>/dev/null || true
+
+          # Copy build output
+          cp -r build-output/* .
+          rm -rf build-output
+
+          # Add and commit
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')" && git push -f origin deploy)
