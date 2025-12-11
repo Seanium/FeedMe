@@ -107,11 +107,6 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   ```
 - **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `src/config/rss-config.js`
 
-- **Custom Domain Configuration**:
-  - **Not using a custom domain**: Delete the `CNAME` file in the directory
-  - **Using a custom domain**: Add your custom domain in the GitHub Pages section of repository settings, and modify the CNAME file content to your custom domain
-  - **Note**: The project uses Vite's relative path build, automatically compatible with various deployment scenarios without manual basePath configuration
-
 - **Customize Summary Generation**:
   If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts/update-feeds.js`
 
