@@ -14,7 +14,7 @@ function App() {
       <main className="min-h-screen bg-background">
         <div className="container py-10 mx-auto max-w-4xl">
           <div className="flex justify-between items-center mb-6">
-            <a href="/" className="text-4xl font-bold hover:text-primary transition-colors">
+            <a href="./" className="text-4xl font-bold hover:text-primary transition-colors">
               😋FeedMe
             </a>
             <div className="flex items-center gap-2">

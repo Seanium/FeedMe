@@ -11,9 +11,17 @@ export async function loadFeedData(sourceUrl: string): Promise<FeedData | null> 
     // 使用浏览器兼容的base64编码
     const sourceHash = btoa(sourceUrl).replace(/[/+=]/g, "_")
 
-    // 使用fetch从public目录加载数据文件
+    // 获取当前HTML文档的基础路径
+    // 使用pathname（去掉文件名，保留目录）
+    const basePath = window.location.pathname.endsWith('/')
+      ? window.location.pathname
+      : window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1)
+
+    // 使用绝对路径从基础路径加载数据文件
+    const dataUrl = `${basePath}data/${sourceHash}.json`
+
     try {
-      const response = await fetch(`./data/${sourceHash}.json`)
+      const response = await fetch(dataUrl)
 
       if (!response.ok) {
         console.warn(`No data found for ${sourceUrl}`)

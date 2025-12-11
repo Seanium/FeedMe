@@ -19,7 +19,9 @@ export function SourceSwitcher() {
   const handleSelect = (source: RssSource) => {
     const params = new URLSearchParams(searchParams)
     params.set("source", source.url)
-    router.push(`/?${params.toString()}`)
+    // 使用当前页面路径，保留 basePath
+    const currentPath = window.location.pathname
+    router.push(`${currentPath}?${params.toString()}`)
     setOpen(false)
   }
 
