@@ -43,6 +43,9 @@ jobs:
       - name: Build static site
         run: pnpm build
 
+      - name: Copy vercel config to output
+        run: cp vercel.json ./out/
+
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
