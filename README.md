@@ -101,8 +101,8 @@
 ### 方式二：Vercel 部署
 
 1. 前往 [Vercel 导入页面](https://vercel.com/import/git)，选择 "GitHub" 并授权访问
-2. 选择你 fork 的 FeedMe 仓库，将部署分支改为 `deploy`
-3. 点击 "Deploy"
+2. 选择你 fork 的 FeedMe 仓库，点击 "Deploy"，这时部署失败是正常的，因为默认部署分支为 main
+3. 将部署分支改为 `deploy`（可参考 https://vercel.com/docs/git#production-branch），重新部署
 
 GitHub Actions 每次构建后会自动推送到 `deploy` 分支，Vercel 会自动检测并部署。
 

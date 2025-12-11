@@ -101,8 +101,8 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 ### Method 2: Vercel Deployment
 
 1. Go to [Vercel Import page](https://vercel.com/import/git), select "GitHub" and authorize access
-2. Select your forked FeedMe repository, change the deployment branch to `deploy`
-3. Click "Deploy"
+2. Select your forked FeedMe repository, click "Deploy". Initial deployment failure is expected as the default branch is main
+3. Change the deployment branch to `deploy` (refer to https://vercel.com/docs/git#production-branch), then redeploy
 
 GitHub Actions will automatically push to the `deploy` branch after each build, and Vercel will automatically detect and deploy.
 
