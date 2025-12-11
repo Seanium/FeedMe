@@ -100,7 +100,7 @@ export const config = {
     },
   ],
   maxItemsPerFeed: 30,
-  dataPath: "./data",
+  dataPath: "./public/data",
 }
 
 export const defaultSource = config.sources[0]

@@ -5,8 +5,8 @@
 /.pnp
 .pnp.js
 
-# next.js
-/.next/
+# vite
+/dist/
 /out/
 
 # production
@@ -27,7 +27,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
 
 # misc
 .DS_Store
@@ -47,6 +46,7 @@ logs
 
 # data directory - stored locally and updated on deploy
 data/
+public/data/*.json
 
 .cursorrules
 AGENTS.md

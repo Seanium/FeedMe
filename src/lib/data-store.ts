@@ -3,18 +3,25 @@ import type { FeedData, FeedItem } from "@/lib/types"
 
 /**
  * 从静态数据文件加载RSS数据
- * 在Next.js静态导出模式下，通过动态导入JSON文件获取数据
+ * 使用fetch从public/data目录加载JSON文件
  */
 export async function loadFeedData(sourceUrl: string): Promise<FeedData | null> {
   try {
     // 使用URL的哈希作为文件名，与GitHub Actions中相同的逻辑
-    const sourceHash = Buffer.from(sourceUrl).toString("base64").replace(/[/+=]/g, "_")
-    
-    // 动态导入数据文件
-    // 注意：在静态构建时，这会被打包进输出文件
+    // 使用浏览器兼容的base64编码
+    const sourceHash = btoa(sourceUrl).replace(/[/+=]/g, "_")
+
+    // 使用fetch从public目录加载数据文件
     try {
-      const data = await import(`@/data/${sourceHash}.json`)
-      return data.default as FeedData
+      const response = await fetch(`./data/${sourceHash}.json`)
+
+      if (!response.ok) {
+        console.warn(`No data found for ${sourceUrl}`)
+        return null
+      }
+
+      const data = await response.json()
+      return data as FeedData
     } catch (error) {
       console.warn(`No data found for ${sourceUrl}`)
       return null
