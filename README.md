@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -81,19 +81,21 @@
 **更新数据并部署** (`update-deploy.yml`)：
 - 触发条件：
   - 定时执行（每 3 小时一次）
-  - 推送到 main 分支
+  - 推送到 main 或 dev 分支
   - 手动触发
 - 执行内容：
-  - 获取最新 RSS 内容并生成摘要
-  - 构建静态网站
-  - 根据仓库变量设置决定部署目标:
-    - 总是部署到 GitHub Pages
-    - 如果 `ENABLE_VERCEL_DEPLOYMENT` 为 `true` 则部署到 Vercel
+  - **单次构建流程**：一次性获取 RSS 内容、生成摘要并构建静态网站
+  - **多平台部署**：
+    - 自动部署到 GitHub Pages
+    - 将构建产物推送到 `deploy` 分支，供 Vercel 和阿里云等平台监控部署
+- 优势：
+  - 使用 Vite 的相对路径构建，无需配置 basePath
+  - 所有平台使用相同的构建产物，确保一致性
 
 #### 自定义部署配置
 
 - **自定义 RSS 源**：
-  编辑 `config/rss-config.js` 文件以修改或添加 RSS 源。每个源需要包含：
+  编辑 `src/config/rss-config.js` 文件以修改或添加 RSS 源。每个源需要包含：
   - 名称
   - URL
   - 分类
@@ -104,36 +106,49 @@
   cron: '0 0 * * *'
   ```
 
-- **调整保留条目数**: 修改 `config/rss-config.js` 中的 `maxItemsPerFeed` 值
+- **调整保留条目数**: 修改 `src/config/rss-config.js` 中的 `maxItemsPerFeed` 值
 
 - **自定义域名配置**:
-  请按照以下内容设置，避免出现页面资源加载异常：
   - **不使用自定义域名**: 请删除目录下的 `CNAME` 文件
   - **使用自定义域名**: 在仓库设置的 GitHub Pages 部分添加自定义域名，并修改 CNAME 文件内容为自定义域名
-  - **多平台部署**: 系统会自动处理不同平台（GitHub Pages/Vercel）的路径差异:
-    - GitHub Pages: 自动使用 `/{仓库名}` 为 basePath
-    - 自定义域名: 不会添加 basePath
-    - Vercel: 不会添加 basePath
+  - **注意**: 项目使用 Vite 的相对路径构建，自动兼容各种部署场景，无需手动配置 basePath
 
 - **自定义摘要生成**：
-  如果需要自定义摘要生成方法，比如遵循特定格式或切换摘要语言，请修改 `scripts\update-feeds.js` 中的 `prompt` 变量
+  如果需要自定义摘要生成方法，比如遵循特定格式或切换摘要语言，请修改 `scripts/update-feeds.js` 中的 `prompt` 变量
 
 ### 方式二：Vercel 部署
 
-将你的 GitHub 仓库导入到 Vercel：
+**方法 A：监控 deploy 分支（推荐）**
 
-1. 前往 [Vercel导入页面](https://vercel.com/import/git)
+这是最简单的方法，使用 GitHub Actions 构建的产物：
+
+1. 前往 [Vercel 导入页面](https://vercel.com/import/git)
 2. 选择 "GitHub" 并授权访问
 3. 搜索并选择你 fork 的 FeedMe 仓库
-4. 保持默认设置，点击 "Deploy" 开始部署
+4. 在部署设置中：
+   - **Framework Preset**: 选择 "Other"
+   - **Build Command**: 留空或填写 `echo "Using pre-built files"`
+   - **Output Directory**: 填写 `./`（根目录）
+   - **Install Command**: 留空或填写 `echo "No install needed"`
+5. 在项目设置中，将部署分支改为 `deploy`
+6. 点击 "Deploy"
 
-**配置自动更新：**
-1. 完成 Vercel 部署后，获取以下信息:
-   - `VERCEL_TOKEN`: 从 [Vercel Tokens](https://vercel.com/account/tokens) 创建
-   - `VERCEL_ORG_ID`: 从 [账户设置](https://vercel.com/account) > 常规 > 页面底部获取
-   - `VERCEL_PROJECT_ID`: 从 [Vercel Dashboard](https://vercel.com/dashboard) > 你的项目 > 设置 > 常规 > 页面底部获取
-2. 添加上述信息到仓库密钥（**Secrets**）（位置：Settings -> Secrets and variables -> Actions -> **Secrets**）
-3. 添加仓库变量（**Variables**） `ENABLE_VERCEL_DEPLOYMENT` 并设为 `true`（位置：Settings -> Secrets and variables -> Actions -> **Variables**）
+GitHub Actions 每次构建后会自动推送到 `deploy` 分支，Vercel 会自动检测并部署。
+
+**方法 B：让 Vercel 自行构建**
+
+如果你希望 Vercel 独立构建（不依赖 GitHub Actions）：
+
+1. 按照方法 A 的步骤 1-3 操作
+2. 在部署设置中：
+   - **Framework Preset**: 选择 "Vite"
+   - **Build Command**: `pnpm update-feeds && pnpm build`
+   - **Output Directory**: `out`
+3. 在 Vercel 项目设置中添加环境变量：
+   - `LLM_API_KEY`: 你的 API 密钥
+   - `LLM_API_BASE`: LLM 服务的 API 基础 URL
+   - `LLM_NAME`: 使用的模型名称
+4. 点击 "Deploy"
 
 ### 方式三：Docker 本地部署
 
@@ -201,7 +216,7 @@
    ```bash
    pnpm update-feeds
    ```
-   此命令会抓取 RSS 源并生成摘要，保存到 `data` 目录
+   此命令会抓取 RSS 源并生成摘要，保存到 `public/data` 目录
 
 5. **启动开发服务器**
    ```bash

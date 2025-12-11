@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -81,19 +81,21 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 **Update Data and Deploy** (`update-deploy.yml`):
 - Trigger conditions:
   - Scheduled execution (every 3 hours)
-  - Push to main branch
+  - Push to main or dev branch
   - Manual trigger
 - Execution content:
-  - Fetch latest RSS content and generate summaries
-  - Build static website
-  - Deploy based on repository variable settings:
-    - Always deploy to GitHub Pages
-    - Deploy to Vercel if `ENABLE_VERCEL_DEPLOYMENT` is `true`
+  - **Single build process**: Fetch RSS content, generate summaries, and build static website in one go
+  - **Multi-platform deployment**:
+    - Automatically deploy to GitHub Pages
+    - Push build artifacts to `deploy` branch for Vercel and Aliyun Pages to monitor
+- Advantages:
+  - Uses Vite's relative path build, no basePath configuration needed
+  - All platforms use the same build artifact, ensuring consistency
 
 #### Custom Deployment Configuration
 
 - **Customize RSS Sources**:
-  Edit the `config/rss-config.js` file to modify or add RSS sources. Each source should include:
+  Edit the `src/config/rss-config.js` file to modify or add RSS sources. Each source should include:
   - Name
   - URL
   - Category
@@ -103,36 +105,49 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   # For example, change to update once daily at midnight
   cron: '0 0 * * *'
   ```
-- **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `config/rss-config.js`
+- **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `src/config/rss-config.js`
 
 - **Custom Domain Configuration**:
-  Please follow these instructions to avoid page resource loading issues:
   - **Not using a custom domain**: Delete the `CNAME` file in the directory
   - **Using a custom domain**: Add your custom domain in the GitHub Pages section of repository settings, and modify the CNAME file content to your custom domain
-  - **Multi-platform deployment**: The system automatically handles path differences for different platforms (GitHub Pages/Vercel):
-    - GitHub Pages: Automatically uses `/{repository-name}` as basePath
-    - Custom domain: No basePath added
-    - Vercel: No basePath added
+  - **Note**: The project uses Vite's relative path build, automatically compatible with various deployment scenarios without manual basePath configuration
 
 - **Customize Summary Generation**:
-  If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts\update-feeds.js`
+  If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts/update-feeds.js`
 
 ### Method 2: Vercel Deployment
 
-Import your GitHub repository to Vercel:
+**Method A: Monitor deploy branch (Recommended)**
+
+This is the simplest approach, using the build artifacts from GitHub Actions:
 
 1. Go to [Vercel Import page](https://vercel.com/import/git)
 2. Select "GitHub" and authorize access
 3. Search and select your forked FeedMe repository
-4. Keep the default settings and click "Deploy" to start the deployment
+4. In deployment settings:
+   - **Framework Preset**: Select "Other"
+   - **Build Command**: Leave empty or enter `echo "Using pre-built files"`
+   - **Output Directory**: Enter `./` (root directory)
+   - **Install Command**: Leave empty or enter `echo "No install needed"`
+5. In project settings, change the deployment branch to `deploy`
+6. Click "Deploy"
 
-**Configure automatic updates:**
-1. After Vercel deployment, obtain the following information:
-   - `VERCEL_TOKEN`: Create from [Vercel Tokens](https://vercel.com/account/tokens)
-   - `VERCEL_ORG_ID`: Find at [Account Settings](https://vercel.com/account) > General > bottom of the page
-   - `VERCEL_PROJECT_ID`: Find at [Vercel Dashboard](https://vercel.com/dashboard) > Your Project > Settings > General > bottom of the page
-2. Add the above information to repository secrets (**Secrets**) (Location: Settings -> Secrets and variables -> Actions -> **Secrets**)
-3. Add repository variable (**Variables**) `ENABLE_VERCEL_DEPLOYMENT` and set it to `true` (Location: Settings -> Secrets and variables -> Actions -> **Variables**)
+GitHub Actions will automatically push to the `deploy` branch after each build, and Vercel will automatically detect and deploy.
+
+**Method B: Let Vercel build independently**
+
+If you want Vercel to build independently (without relying on GitHub Actions):
+
+1. Follow steps 1-3 from Method A
+2. In deployment settings:
+   - **Framework Preset**: Select "Vite"
+   - **Build Command**: `pnpm update-feeds && pnpm build`
+   - **Output Directory**: `out`
+3. Add environment variables in Vercel project settings:
+   - `LLM_API_KEY`: Your API key
+   - `LLM_API_BASE`: LLM service API base URL
+   - `LLM_NAME`: Model name to use
+4. Click "Deploy"
 
 ### Method 3: Docker Local Deployment
 
@@ -200,7 +215,7 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    ```bash
    pnpm update-feeds
    ```
-   This command fetches RSS sources and generates summaries, saving them to the `data` directory
+   This command fetches RSS sources and generates summaries, saving them to the `public/data` directory
 
 5. **Start the Development Server**
    ```bash
