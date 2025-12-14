@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "link": "https://openai.com/index/bbva-collaboration-expansion",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "contentSnippet": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "creator": "",
+      "summary": "西班牙银行BBVA与OpenAI达成战略合作，启动为期数年的AI转型计划。双方将向12万名员工推广ChatGPT Enterprise，共同开发AI解决方案，旨在优化客户互动、简化运营，并构建面向AI的原生银行体验。此举将推动全球银行业数字化转型。"
+    },
+    {
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "link": "https://openai.com/index/bny",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "contentSnippet": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "creator": "",
+      "summary": "花旗集团（BNY）正利用OpenAI技术推动企业范围内的AI应用普及。其Eliza平台已使超2万名员工构建AI代理，以提升工作效率并改善客户成果。"
+    },
+    {
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "link": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "contentSnippet": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "creator": "",
+      "summary": "OpenAI利用Codex在28天内完成Sora安卓版的开发。通过AI辅助的规划、翻译和并行编码工作流程，敏捷团队实现了快速可靠的开发。"
+    },
+    {
+      "title": "Advancing science and math with GPT-5.2",
+      "link": "https://openai.com/index/gpt-5-2-for-science-and-math",
+      "pubDate": "Thu, 11 Dec 2025 10:00:00 GMT",
+      "isoDate": "2025-12-11T10:00:00.000Z",
+      "content": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+      "contentSnippet": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+      "creator": "",
+      "summary": "GPT-5.2是OpenAI最新的数学与科学模型，在GPQA Diamond和FrontierMath等基准测试中取得新纪录。该模型助力科研进展，成功解决理论难题并生成可靠数学证明，展现了其在推动科学和数学领域的强大能力。"
+    },
+    {
+      "title": "Introducing GPT-5.2",
+      "link": "https://openai.com/index/introducing-gpt-5-2",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "contentSnippet": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "creator": "",
+      "summary": "GPT-5.2是OpenAI最新推出的专业工作应用模型，具备顶尖的推理、长文本理解、编程和视觉处理能力。该模型可通过ChatGPT和OpenAI API使用，以实现更快速、可靠的任务自动化流程。"
+    },
+    {
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "link": "https://openai.com/index/disney-sora-agreement",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
+      "contentSnippet": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
+      "creator": "",
+      "summary": "华特迪士尼公司与OpenAI达成里程碑协议，将超过200位迪士尼、漫威、皮克斯和星球大战角色引入Sora平台，用于粉丝创作的短视频。协议强调娱乐领域的负责任AI应用，并涵盖迪士尼公司全面使用ChatGPT Enterprise和OpenAI API。"
+    },
+    {
+      "title": "Ten years",
+      "link": "https://openai.com/index/ten-years",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+      "contentSnippet": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+      "creator": "",
+      "summary": "OpenAI回顾了十年来的发展历程，从早期研究突破到广泛应用的人工智能系统重塑了可能性和界限。文章分享了十年的经验教训，并表达了构建造福全人类的通用人工智能（AGI）的乐观态度。"
+    },
+    {
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "link": "https://openai.com/index/podium",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "contentSnippet": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "creator": "",
+      "summary": "Podium利用OpenAI的GPT-5开发AI助手“Jerry”，帮助中小企业实现营收增长300%，并革新了实体店的服务模式。该AI团队提升了客户服务效率，推动企业数字化转型。"
+    },
+    {
+      "title": "Update to GPT-5 System Card: GPT-5.2",
+      "link": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+      "contentSnippet": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+      "creator": "",
+      "summary": "GPT-5.2是GPT-5系列的最新模型。其安全防护措施与GPT-5及GPT-5.1系统卡中的描述基本一致。该模型采用与OpenAI其他模型相同的训练方式，数据来源包括公开互联网信息、第三方合作信息以及用户或人类训练师提供的内容。"
+    },
+    {
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "link": "https://openai.com/index/strengthening-cyber-resilience",
+      "pubDate": "Wed, 10 Dec 2025 12:00:00 GMT",
+      "isoDate": "2025-12-10T12:00:00.000Z",
+      "content": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+      "contentSnippet": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+      "creator": "",
+      "summary": "OpenAI正加强安全防护和防御能力以应对AI模型在网络安全领域的增强。公司通过风险评估、限制滥用及与安全社区合作来提升网络韧性。"
+    },
+    {
+      "title": "How Scout24 is building the next generation of real-estate search with AI",
+      "link": "https://openai.com/index/scout24",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "contentSnippet": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "creator": "",
+      "summary": "Scout24利用GPT-5开发出智能对话助手，革新房地产搜索体验。该助手通过提问澄清、提供摘要及个性化房源推荐，帮助用户高效查找。"
+    },
+    {
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "link": "https://openai.com/index/agentic-ai-foundation",
+      "pubDate": "Tue, 09 Dec 2025 09:00:00 GMT",
+      "isoDate": "2025-12-09T09:00:00.000Z",
+      "content": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "contentSnippet": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "creator": "",
+      "summary": "OpenAI联合创办了由Linux Foundation支持的行为式人工智能基金会，并捐赠了AGENTS.md文件，旨在推动安全的行为式人工智能的开放、互操作标准。"
+    },
+    {
+      "title": "Launching our first OpenAI Certifications courses",
+      "link": "https://openai.com/index/openai-certificate-courses",
+      "pubDate": "Tue, 09 Dec 2025 06:00:00 GMT",
+      "isoDate": "2025-12-09T06:00:00.000Z",
+      "content": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "contentSnippet": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "creator": "",
+      "summary": "OpenAI推出首期认证课程，旨在帮助学员掌握实用AI技能，提升职业发展机会，并为未来工作做好准备。这些课程涵盖AI基础知识，助力个人在AI领域发展。"
+    },
+    {
+      "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+      "link": "https://openai.com/index/deutsche-telekom-collaboration",
+      "pubDate": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-09T00:00:00.000Z",
+      "content": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+      "contentSnippet": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+      "creator": "",
+      "summary": "OpenAI与德国电信合作，将先进的、多语言的AI体验带给欧洲数百万民众。ChatGPT Enterprise将部署于德国电信内部，以提升员工工作效率和加速创新。"
+    },
+    {
+      "title": "Building AI fluency at scale with ChatGPT Enterprise",
+      "link": "https://openai.com/index/commonwealth-bank-of-australia",
+      "pubDate": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-09T00:00:00.000Z",
+      "content": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+      "contentSnippet": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+      "creator": "",
+      "summary": "澳大利亚联邦银行与OpenAI合作，将ChatGPT Enterprise推广至5万名员工，以大规模提升AI应用能力，旨在改善客户服务和欺诈应对。此举旨在通过普及AI技能，增强企业整体竞争力。"
+    },
+    {
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "link": "https://openai.com/index/openai-appoints-denise-dresser",
+      "pubDate": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-09T00:00:00.000Z",
+      "content": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+      "contentSnippet": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+      "creator": "",
+      "summary": "OpenAI任命Denise Dresser担任首席营收官，负责其全球营收战略，涵盖企业及客户成功领域。她将助力更多企业将AI应用于日常运营，支持OpenAI的持续扩张。"
+    },
+    {
+      "title": "Instacart and OpenAI partner on AI shopping experiences",
+      "link": "https://openai.com/index/instacart-partnership",
+      "pubDate": "Mon, 08 Dec 2025 06:00:00 GMT",
+      "isoDate": "2025-12-08T06:00:00.000Z",
+      "content": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+      "contentSnippet": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+      "creator": "",
+      "summary": "OpenAI与Instacart深化合作，将首个完全集成的杂货购物和即时结账支付应用程序引入ChatGPT，提升AI购物体验。"
+    },
+    {
+      "title": "The state of enterprise AI",
+      "link": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+      "pubDate": "Mon, 08 Dec 2025 04:00:00 GMT",
+      "isoDate": "2025-12-08T04:00:00.000Z",
+      "content": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+      "contentSnippet": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+      "creator": "",
+      "summary": "2025年，OpenAI的企业数据显示，AI应用加速普及，与业务深度融合，各行业均实现可衡量的生产力提升。"
+    },
+    {
+      "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+      "link": "https://openai.com/index/virgin-atlantic-oliver-byers",
+      "pubDate": "Mon, 08 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-08T00:00:00.000Z",
+      "content": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+      "contentSnippet": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+      "creator": "",
+      "summary": "维珍航空首席财务官奥利弗·拜尔斯分享了该航空公司如何利用人工智能加速开发、改进决策并提升客户体验。"
+    },
+    {
+      "title": "Introducing OpenAI for Australia",
+      "link": "https://openai.com/global-affairs/openai-for-australia",
+      "pubDate": "Thu, 04 Dec 2025 19:00:00 GMT",
+      "isoDate": "2025-12-04T19:00:00.000Z",
+      "content": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "contentSnippet": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "creator": "",
+      "summary": "OpenAI将在澳大利亚推出“OpenAI for Australia”项目，旨在建设本土化AI基础设施，提升超过150万劳动力的技能，并加速该国日益发展的AI生态系统创新。"
+    },
+    {
+      "title": "OpenAI to acquire Neptune",
+      "link": "https://openai.com/index/openai-to-acquire-neptune",
+      "pubDate": "Wed, 03 Dec 2025 10:00:00 GMT",
+      "isoDate": "2025-12-03T10:00:00.000Z",
+      "content": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+      "contentSnippet": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+      "creator": "",
+      "summary": "OpenAI计划收购Neptune，旨在提升模型行为的可见性，并强化研究人员追踪实验与监控训练的工具。此举将帮助研究人员更有效地监测模型行为，优化实验流程。"
+    },
+    {
+      "title": "How confessions can keep language models honest",
+      "link": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "pubDate": "Wed, 03 Dec 2025 10:00:00 GMT",
+      "isoDate": "2025-12-03T10:00:00.000Z",
+      "content": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+      "contentSnippet": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+      "creator": "",
+      "summary": "OpenAI研究人员正在测试一种“坦白”方法，通过训练模型承认错误或不当行为，以提升AI的诚实性、透明度和对模型输出的信任。"
+    },
+    {
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "link": "https://openai.com/index/people-first-ai-fund-grantees",
+      "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "isoDate": "2025-12-03T08:00:00.000Z",
+      "content": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "contentSnippet": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "creator": "",
+      "summary": "OpenAI基金会宣布首批“以人为本AI基金”获得者，向208个支持社区创新和机会的非营利组织提供总额4050万美元的无限制拨款。"
+    },
+    {
+      "title": "Inside Mirakl's agentic commerce vision",
+      "link": "https://openai.com/index/mirakl",
+      "pubDate": "Mon, 01 Dec 2025 22:00:00 GMT",
+      "isoDate": "2025-12-01T22:00:00.000Z",
+      "content": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+      "contentSnippet": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+      "creator": "",
+      "summary": "Mirakl正通过AI代理和ChatGPT Enterprise重塑商业，实现更快的文档处理、更智能的客户支持，并致力于构建基于代理的原生商业生态Mirakl Nexus。"
+    },
+    {
+      "title": "Funding grants for new research into AI and mental health",
+      "link": "https://openai.com/index/ai-mental-health-research-grants",
+      "pubDate": "Mon, 01 Dec 2025 12:00:00 GMT",
+      "isoDate": "2025-12-01T12:00:00.000Z",
+      "content": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+      "contentSnippet": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+      "creator": "",
+      "summary": "OpenAI将提供高达200万美元的资助，用于人工智能与心理健康交叉领域的研究。该计划支持研究实际风险、益处及应用的项目，旨在提升安全与福祉。"
+    },
+    {
+      "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+      "link": "https://openai.com/index/norad-holiday-collaboration",
+      "pubDate": "Mon, 01 Dec 2025 06:00:00 GMT",
+      "isoDate": "2025-12-01T06:00:00.000Z",
+      "content": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+      "contentSnippet": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+      "creator": "",
+      "summary": "OpenAI与NORAD合作，为“NORAD追踪圣诞老人”活动推出三项ChatGPT节日工具，帮助家庭创建节日精灵、设计玩具填色页和定制圣诞故事，增添节日趣味。"
+    },
+    {
+      "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+      "link": "https://openai.com/index/thrive-holdings",
+      "pubDate": "Mon, 01 Dec 2025 05:00:00 GMT",
+      "isoDate": "2025-12-01T05:00:00.000Z",
+      "content": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
+      "contentSnippet": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
+      "creator": "",
+      "summary": "OpenAI入股Thrive Holdings，旨在加速企业AI应用。此举将前沿研究与工程嵌入会计和IT服务，提升速度、准确性和效率，并打造可扩展的行业转型模式。"
+    },
+    {
+      "title": "Accenture and OpenAI accelerate enterprise AI success",
+      "link": "https://openai.com/index/accenture-partnership",
+      "pubDate": "Mon, 01 Dec 2025 05:00:00 GMT",
+      "isoDate": "2025-12-01T05:00:00.000Z",
+      "content": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "contentSnippet": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "creator": "",
+      "summary": "埃森哲与OpenAI合作，旨在帮助企业将自主AI能力融入核心业务，实现新的增长。此举将加速企业AI的成功应用，推动业务发展。"
+    },
+    {
+      "title": "Mixpanel security incident: what OpenAI users need to know",
+      "link": "https://openai.com/index/mixpanel-incident",
+      "pubDate": "Wed, 26 Nov 2025 19:00:00 GMT",
+      "isoDate": "2025-11-26T19:00:00.000Z",
+      "content": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "contentSnippet": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "creator": "",
+      "summary": "OpenAI通报了Mixpanel发生的安全事件，涉及有限API分析数据，但未泄露API内容、凭证或支付信息。公司解释了事件详情及保护措施，用户需了解相关情况。"
+    },
+    {
+      "title": "Expanding data residency access to business customers worldwide",
+      "link": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+      "pubDate": "Tue, 25 Nov 2025 22:00:00 GMT",
+      "isoDate": "2025-11-25T22:00:00.000Z",
+      "content": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+      "contentSnippet": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+      "creator": "",
+      "summary": "OpenAI扩大了ChatGPT Enterprise、ChatGPT Edu和API平台的区域数据驻留服务，允许符合条件的客户在区域内存储静态数据。此举旨在满足全球商业客户的数据存储需求，提升数据安全和合规性。"
+    }
+  ],
+  "lastUpdated": "2025-12-14T02:09:47.234Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "VPN location claims don't match real traffic exits",
+      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "pubDate": "Sat, 13 Dec 2025 19:46:19 +0000",
+      "isoDate": "2025-12-13T19:46:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ipinfo.io/blog/vpn-location-mismatch-report\">https://ipinfo.io/blog/vpn-location-mismatch-report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46257339\">https://news.ycombinator.com/item?id=46257339</a></p>\n<p>Points: 232</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://ipinfo.io/blog/vpn-location-mismatch-report\nComments URL: https://news.ycombinator.com/item?id=46257339\nPoints: 232\n# Comments: 143",
+      "creator": "mmaia",
+      "summary": "文章标题：VPN位置声明与实际流量出口不匹配\n\n摘要：研究发现，许多VPN服务的位置声明与用户的实际网络流量出口地点不符。报告指出，部分VPN可能无法提供其声称的地理位置服务。这一发现引发了对VPN隐私保护效果的质疑，表明用户在选择VPN时应谨慎评估其真实性和可靠性。"
+    },
+    {
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "pubDate": "Sat, 13 Dec 2025 17:00:14 +0000",
+      "isoDate": "2025-12-13T17:00:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.tymscar.com/posts/gleamaoc2025/\">https://blog.tymscar.com/posts/gleamaoc2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255991\">https://news.ycombinator.com/item?id=46255991</a></p>\n<p>Points: 235</p>\n<p># Comments: 132</p>\n",
+      "contentSnippet": "Article URL: https://blog.tymscar.com/posts/gleamaoc2025/\nComments URL: https://news.ycombinator.com/item?id=46255991\nPoints: 235\n# Comments: 132",
+      "creator": "tymscar",
+      "summary": "作者尝试使用Gleam工具参与Advent of Code编程挑战，并分享了使用体验。文章探讨了Gleam在活动中的功能表现，以及作者的个人感受。整体评价较为积极，突出了工具的便捷性和实用性。"
+    },
+    {
+      "title": "LG TV's new software update installed MS Copilot, which cannot be deleted",
+      "link": "https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/",
+      "pubDate": "Sat, 13 Dec 2025 15:41:24 +0000",
+      "isoDate": "2025-12-13T15:41:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/\">https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255335\">https://news.ycombinator.com/item?id=46255335</a></p>\n<p>Points: 168</p>\n<p># Comments: 142</p>\n",
+      "contentSnippet": "Article URL: https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/\nComments URL: https://news.ycombinator.com/item?id=46255335\nPoints: 168\n# Comments: 142",
+      "creator": "bj-rn",
+      "summary": "LG电视最新软件更新预装了微软Cortana（现名Copilot），且无法删除。该更新引发用户不满，认为侵犯了用户选择权。部分用户表示更新后电视性能下降，并担忧隐私问题。文章链接至Reddit和Hacker News，讨论此问题。"
+    },
+    {
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "link": "https://news.ycombinator.com/item?id=46255285",
+      "pubDate": "Sat, 13 Dec 2025 15:37:16 +0000",
+      "isoDate": "2025-12-13T15:37:16.000Z",
+      "content": "\n<p>I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrapping divs in divs in divs, and replacing bootstrap with minimal tailwind. It also includes some logic refactors, to maintain the original functionality but rewritten to avoid years of code debt. Things like replacing templates using boolean flags for multiple views with composable Svelte components.<p>I've had a fairly steady process for doing this: look at each route defined in Django, build out my `+page.server.ts`, and then split each major section of the page into a Svelte component with a matching Storybook story. It takes a lot of time to do this, since I have to ensure I'm not just copying the template but rather recreating it in a more idiomatic style.<p>This kind of work seems like a great use case for AI assisted programming, but I've failed to use it effectively. At most, I can only get Claude Code to recreate some slightly less spaghetti code in Svelte. Simple prompting just isn't able to get AI's code quality within 90% of what I'd write by hand. Ideally, AI could get it's code to something I could review manually in 15-20 minutes, which would massively speed up the time spent on this project (right now it takes me 1-2 hours to properly translate a route).<p>Do you guys have tips or suggestions on how to improve my efficiency and code quality with AI?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255285\">https://news.ycombinator.com/item?id=46255285</a></p>\n<p>Points: 204</p>\n<p># Comments: 243</p>\n",
+      "contentSnippet": "I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrapping divs in divs in divs, and replacing bootstrap with minimal tailwind. It also includes some logic refactors, to maintain the original functionality but rewritten to avoid years of code debt. Things like replacing templates using boolean flags for multiple views with composable Svelte components.\nI've had a fairly steady process for doing this: look at each route defined in Django, build out my `+page.server.ts`, and then split each major section of the page into a Svelte component with a matching Storybook story. It takes a lot of time to do this, since I have to ensure I'm not just copying the template but rather recreating it in a more idiomatic style.\nThis kind of work seems like a great use case for AI assisted programming, but I've failed to use it effectively. At most, I can only get Claude Code to recreate some slightly less spaghetti code in Svelte. Simple prompting just isn't able to get AI's code quality within 90% of what I'd write by hand. Ideally, AI could get it's code to something I could review manually in 15-20 minutes, which would massively speed up the time spent on this project (right now it takes me 1-2 hours to properly translate a route).\nDo you guys have tips or suggestions on how to improve my efficiency and code quality with AI?\nComments URL: https://news.ycombinator.com/item?id=46255285\nPoints: 204\n# Comments: 243",
+      "creator": "lemonlime227",
+      "summary": "作者在将旧jQuery+Django项目重构为SvelteKit时，尝试使用AI辅助编程，但效果不佳。AI生成的代码质量无法达到手动编写水平，导致重构效率低下。作者寻求提高AI编程效率和质量的方法，希望能通过AI快速生成可手动审查的代码，以加速项目进度。"
+    },
+    {
+      "title": "YouTube's CEO limits his kids' social media use – other tech bosses do the same",
+      "link": "https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html",
+      "pubDate": "Sat, 13 Dec 2025 12:03:51 +0000",
+      "isoDate": "2025-12-13T12:03:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html\">https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46253985\">https://news.ycombinator.com/item?id=46253985</a></p>\n<p>Points: 183</p>\n<p># Comments: 172</p>\n",
+      "contentSnippet": "Article URL: https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html\nComments URL: https://news.ycombinator.com/item?id=46253985\nPoints: 183\n# Comments: 172",
+      "creator": "pseudolus",
+      "summary": "YouTube首席执行官限制孩子使用社交媒体，其他科技高管也效仿。这一做法引发关注，反映出科技界内部对社交媒体影响的担忧。"
+    },
+    {
+      "title": "Computer animator and Amiga fanatic Dick van Dyke turns 100",
+      "link": "https://news.ycombinator.com/item?id=46252993",
+      "pubDate": "Sat, 13 Dec 2025 08:15:48 +0000",
+      "isoDate": "2025-12-13T08:15:48.000Z",
+      "content": "\n<p>Here's a video from 2004 <a href=\"https://www.youtube.com/watch?v=Y1J9kfDCAmU\" rel=\"nofollow\">https://www.youtube.com/watch?v=Y1J9kfDCAmU</a><p>It's his 100th birthday today.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252993\">https://news.ycombinator.com/item?id=46252993</a></p>\n<p>Points: 231</p>\n<p># Comments: 82</p>\n",
+      "contentSnippet": "Here's a video from 2004 https://www.youtube.com/watch?v=Y1J9kfDCAmU\nIt's his 100th birthday today.\nComments URL: https://news.ycombinator.com/item?id=46252993\nPoints: 231\n# Comments: 82",
+      "creator": "ggm",
+      "summary": "动画师兼阿米加爱好者迪克·范·迪克（Dick van Dyke）今日迎来百岁生日。2004年曾发布相关视频庆祝。"
+    },
+    {
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "link": "https://hey.paris/posts/appleid/",
+      "pubDate": "Sat, 13 Dec 2025 04:55:59 +0000",
+      "isoDate": "2025-12-13T04:55:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hey.paris/posts/appleid/\">https://hey.paris/posts/appleid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252114\">https://news.ycombinator.com/item?id=46252114</a></p>\n<p>Points: 1483</p>\n<p># Comments: 891</p>\n",
+      "contentSnippet": "Article URL: https://hey.paris/posts/appleid/\nComments URL: https://news.ycombinator.com/item?id=46252114\nPoints: 1483\n# Comments: 891",
+      "creator": "parisidau",
+      "summary": "苹果公司封禁了我的Apple ID，且我无法申诉。文章作者因此呼吁帮助，并分享了相关链接供讨论。目前已有1483个点数和891条评论。"
+    },
+    {
+      "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
+      "link": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "pubDate": "Sat, 13 Dec 2025 03:21:32 +0000",
+      "isoDate": "2025-12-13T03:21:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\">https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251684\">https://news.ycombinator.com/item?id=46251684</a></p>\n<p>Points: 258</p>\n<p># Comments: 45</p>\n",
+      "contentSnippet": "Article URL: https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\nComments URL: https://news.ycombinator.com/item?id=46251684\nPoints: 258\n# Comments: 45",
+      "creator": "t-3",
+      "summary": "谷歌因一项过期的法院命令，将Sci-Hub域名从美国搜索结果中移除。此举是针对Sci-Hub未经授权分享学术文章的行为。该命令已失效，谷歌决定遵守最新法律要求。"
+    },
+    {
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "link": "https://www.ghibli.jp/info/013772/",
+      "pubDate": "Sat, 13 Dec 2025 02:56:49 +0000",
+      "isoDate": "2025-12-13T02:56:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ghibli.jp/info/013772/\">https://www.ghibli.jp/info/013772/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251582\">https://news.ycombinator.com/item?id=46251582</a></p>\n<p>Points: 209</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://www.ghibli.jp/info/013772/\nComments URL: https://news.ycombinator.com/item?id=46251582\nPoints: 209\n# Comments: 83",
+      "creator": "vinhnx",
+      "summary": "《吉卜力工作室宫崎骏动画电影1300张静止图像（2023）》发布，包含多部动画作品的精选画面。这些图像展示了工作室的经典视觉风格和艺术成就，引发观众讨论。内容涵盖角色、场景及细节，为粉丝提供欣赏机会。"
+    },
+    {
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "pubDate": "Fri, 12 Dec 2025 23:30:19 +0000",
+      "isoDate": "2025-12-12T23:30:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2025/Dec/12/openai-skills/\">https://simonwillison.net/2025/Dec/12/openai-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46250332\">https://news.ycombinator.com/item?id=46250332</a></p>\n<p>Points: 541</p>\n<p># Comments: 307</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2025/Dec/12/openai-skills/\nComments URL: https://news.ycombinator.com/item?id=46250332\nPoints: 541\n# Comments: 307",
+      "creator": "simonw",
+      "summary": "OpenAI正在悄然采用新技能，这些技能现已集成于ChatGPT和Codex CLI中。文章未提供具体技能细节，但指出OpenAI在持续更新其技术能力。"
+    },
+    {
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "pubDate": "Fri, 12 Dec 2025 22:02:14 +0000",
+      "isoDate": "2025-12-12T22:02:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ringtailsoftware/uvm32\">https://github.com/ringtailsoftware/uvm32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46249538\">https://news.ycombinator.com/item?id=46249538</a></p>\n<p>Points: 187</p>\n<p># Comments: 12</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ringtailsoftware/uvm32\nComments URL: https://news.ycombinator.com/item?id=46249538\nPoints: 187\n# Comments: 12",
+      "creator": "trj",
+      "summary": "Show HN: 介绍了一个用C语言编写的微型虚拟机沙箱项目uvm32，该沙箱支持运行用Rust、C和Zig语言编写的应用程序。该项目展示了如何在资源受限环境中实现虚拟化，并提供了一个轻量级的执行环境。项目已在GitHub上开源，并获得了社区关注。"
+    },
+    {
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "pubDate": "Fri, 12 Dec 2025 20:57:34 +0000",
+      "isoDate": "2025-12-12T20:57:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unifoundry.com/unifont/index.html\">https://unifoundry.com/unifont/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248859\">https://news.ycombinator.com/item?id=46248859</a></p>\n<p>Points: 323</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://unifoundry.com/unifont/index.html\nComments URL: https://news.ycombinator.com/item?id=46248859\nPoints: 323\n# Comments: 73",
+      "creator": "remywang",
+      "summary": "GNU Unifont是一款支持广泛字符集的通用字体，旨在为各种设备和系统提供统一的文本显示。该字体包含大量字符，适用于多种语言环境。更多信息可参考其官方网站和评论区。"
+    },
+    {
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "pubDate": "Fri, 12 Dec 2025 20:41:38 +0000",
+      "isoDate": "2025-12-12T20:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\">https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248644\">https://news.ycombinator.com/item?id=46248644</a></p>\n<p>Points: 515</p>\n<p># Comments: 270</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\nComments URL: https://news.ycombinator.com/item?id=46248644\nPoints: 515\n# Comments: 270",
+      "creator": "guiand",
+      "summary": "macOS 26.2版本新增支持通过Thunderbolt传输RDMA（远程直接内存访问）技术，以实现快速AI集群。该功能提升了数据传输效率，优化了AI计算性能。"
+    },
+    {
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "pubDate": "Fri, 12 Dec 2025 20:15:58 +0000",
+      "isoDate": "2025-12-12T20:15:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ratsplaydoom.com/\">https://ratsplaydoom.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248323\">https://news.ycombinator.com/item?id=46248323</a></p>\n<p>Points: 394</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://ratsplaydoom.com/\nComments URL: https://news.ycombinator.com/item?id=46248323\nPoints: 394\n# Comments: 146",
+      "creator": "ano-ther",
+      "summary": "标题：老鼠玩DOOM\n\n摘要：本文介绍了名为“Rats Play DOOM”的项目，该项目通过训练老鼠玩DOOM游戏，展示了人工智能在游戏领域的应用。该项目利用老鼠的大脑活动控制游戏角色，实现了机器学习与生物智能的结合。文章还提供了相关评论和讨论链接，并指出该项目获得了394个点赞和146条评论。"
+    },
+    {
+      "title": "Benn Jordan’s flock camera jammer will send you to jail in Florida now [video]",
+      "link": "https://www.youtube.com/watch?v=qEllWdK4l_A",
+      "pubDate": "Fri, 12 Dec 2025 18:58:43 +0000",
+      "isoDate": "2025-12-12T18:58:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qEllWdK4l_A\">https://www.youtube.com/watch?v=qEllWdK4l_A</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46247415\">https://news.ycombinator.com/item?id=46247415</a></p>\n<p>Points: 172</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=qEllWdK4l_A\nComments URL: https://news.ycombinator.com/item?id=46247415\nPoints: 172\n# Comments: 166",
+      "creator": "givemeethekeys",
+      "summary": "Benn Jordan的羊群相机干扰器在佛罗里达州将被视为非法设备，使用该设备可能面临监禁。该设备通过干扰相机信号，用于非法活动。视频和评论提供了更多细节。"
+    },
+    {
+      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+      "pubDate": "Fri, 12 Dec 2025 18:23:21 +0000",
+      "isoDate": "2025-12-12T18:23:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46247000\">https://news.ycombinator.com/item?id=46247000</a></p>\n<p>Points: 263</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\nComments URL: https://news.ycombinator.com/item?id=46247000\nPoints: 263\n# Comments: 153",
+      "creator": "kernelrocks",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Id Software devs form \"wall-to-wall\" union",
+      "link": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
+      "pubDate": "Fri, 12 Dec 2025 18:11:23 +0000",
+      "isoDate": "2025-12-12T18:11:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\">https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246845\">https://news.ycombinator.com/item?id=46246845</a></p>\n<p>Points: 324</p>\n<p># Comments: 354</p>\n",
+      "contentSnippet": "Article URL: https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\nComments URL: https://news.ycombinator.com/item?id=46246845\nPoints: 324\n# Comments: 354",
+      "creator": "simjue",
+      "summary": "Id Software的165名开发人员在Doom工作室成立了“全包围”工会，这是最新投票支持组建工会的案例。此前已有多个团队加入该工会。"
+    },
+    {
+      "title": "Google releases its new Google Sans Flex font as open source",
+      "link": "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu",
+      "pubDate": "Fri, 12 Dec 2025 18:07:57 +0000",
+      "isoDate": "2025-12-12T18:07:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\">https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246802\">https://news.ycombinator.com/item?id=46246802</a></p>\n<p>Points: 227</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\nComments URL: https://news.ycombinator.com/item?id=46246802\nPoints: 227\n# Comments: 109",
+      "creator": "CharlesW",
+      "summary": "谷歌发布了新的开源字体Google Sans Flex，该字体专为Ubuntu系统设计，旨在提供更灵活的字体样式选择。该字体已开放源代码，可供开发者自由使用和定制。"
+    },
+    {
+      "title": "Japan law opening phone app stores to go into effect",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/",
+      "pubDate": "Fri, 12 Dec 2025 16:59:04 +0000",
+      "isoDate": "2025-12-12T16:59:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/\">https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246006\">https://news.ycombinator.com/item?id=46246006</a></p>\n<p>Points: 169</p>\n<p># Comments: 33</p>\n",
+      "contentSnippet": "Article URL: https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/\nComments URL: https://news.ycombinator.com/item?id=46246006\nPoints: 169\n# Comments: 33",
+      "creator": "shlip",
+      "summary": "日本新法律将生效，允许手机应用商店开放竞争。此前，日本市场主要由苹果和谷歌主导。新规旨在促进市场竞争，为消费者提供更多选择。预计将影响应用分发和开发者生态。"
+    },
+    {
+      "title": "String theory inspires a brilliant, baffling new math proof",
+      "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+      "pubDate": "Fri, 12 Dec 2025 16:23:10 +0000",
+      "isoDate": "2025-12-12T16:23:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/\">https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245622\">https://news.ycombinator.com/item?id=46245622</a></p>\n<p>Points: 176</p>\n<p># Comments: 161</p>\n",
+      "contentSnippet": "Article URL: https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/\nComments URL: https://news.ycombinator.com/item?id=46245622\nPoints: 176\n# Comments: 161",
+      "creator": "ArmageddonIt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "pubDate": "Fri, 12 Dec 2025 16:04:16 +0000",
+      "isoDate": "2025-12-12T16:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\">https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245398\">https://news.ycombinator.com/item?id=46245398</a></p>\n<p>Points: 419</p>\n<p># Comments: 322</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\nComments URL: https://news.ycombinator.com/item?id=46245398\nPoints: 419\n# Comments: 322",
+      "creator": "nobody9999",
+      "summary": "Epic Games在iOS应用支付案中赢得上诉法院裁决，宣布“苹果税”结束。该裁决允许开发者选择第三方支付系统，而非仅使用Apple Pay，从而降低了对苹果的依赖。此举被视为对苹果长期主导iOS应用支付的挑战，为开发者提供了更多选择。"
+    },
+    {
+      "title": "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
+      "link": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
+      "pubDate": "Fri, 12 Dec 2025 15:58:10 +0000",
+      "isoDate": "2025-12-12T15:58:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/news/Framework-50p-DDR5-Memory\">https://www.phoronix.com/news/Framework-50p-DDR5-Memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245331\">https://news.ycombinator.com/item?id=46245331</a></p>\n<p>Points: 232</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://www.phoronix.com/news/Framework-50p-DDR5-Memory\nComments URL: https://news.ycombinator.com/item?id=46245331\nPoints: 232\n# Comments: 212",
+      "creator": "mikece",
+      "summary": "框架将DIY笔记本电脑DDR5内存价格提高50%。由于供应短缺和技术升级，DDR5内存成本显著上升，影响了个人电脑组装成本。"
+    },
+    {
+      "title": "CM0 – A new Raspberry Pi you can't buy",
+      "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+      "pubDate": "Fri, 12 Dec 2025 15:19:19 +0000",
+      "isoDate": "2025-12-12T15:19:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy\">https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46244922\">https://news.ycombinator.com/item?id=46244922</a></p>\n<p>Points: 203</p>\n<p># Comments: 56</p>\n",
+      "contentSnippet": "Article URL: https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy\nComments URL: https://news.ycombinator.com/item?id=46244922\nPoints: 203\n# Comments: 56",
+      "creator": "speckx",
+      "summary": "CM0是一款新的树莓派，但无法购买。该设备由Jeff Geerling设计，展示了树莓派的新形态，但并未投入市场。文章详细介绍了CM0的技术特点，如改进的连接性和更紧凑的设计，但强调了其原型性质，未提供购买渠道。"
+    },
+    {
+      "title": "SQLite JSON at full index speed using generated columns",
+      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+      "pubDate": "Fri, 12 Dec 2025 13:25:19 +0000",
+      "isoDate": "2025-12-12T13:25:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\">https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243904\">https://news.ycombinator.com/item?id=46243904</a></p>\n<p>Points: 362</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\nComments URL: https://news.ycombinator.com/item?id=46243904\nPoints: 362\n# Comments: 106",
+      "creator": "upmostly",
+      "summary": "标题：SQLite JSON全索引速度优化：使用生成列\n\n摘要：本文介绍了如何通过生成列优化SQLite的JSON数据索引速度。通过创建虚拟列，可以利用SQLite的原生索引功能，显著提升JSON查询效率。该方法无需修改现有表结构，适用于需要快速检索JSON数据的场景。"
+    },
+    {
+      "title": "Sick of smart TVs? Here are your best options",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "pubDate": "Fri, 12 Dec 2025 12:51:40 +0000",
+      "isoDate": "2025-12-12T12:51:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\">https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243655\">https://news.ycombinator.com/item?id=46243655</a></p>\n<p>Points: 565</p>\n<p># Comments: 467</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\nComments URL: https://news.ycombinator.com/item?id=46243655\nPoints: 565\n# Comments: 467",
+      "creator": "fleahunter",
+      "summary": "文章标题：厌倦智能电视？这些是你的最佳选择\n\n摘要：本文介绍了传统电视（“dumb TVs”）的替代方案，旨在为不希望智能电视内置系统功能的用户提供指南。文章可能探讨了不同品牌和型号的传统电视，并分析了它们在性能、价格和用户体验方面的优缺点，为消费者提供购买建议。"
+    },
+    {
+      "title": "The Tor Project is switching to Rust",
+      "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
+      "pubDate": "Fri, 12 Dec 2025 12:35:57 +0000",
+      "isoDate": "2025-12-12T12:35:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://itsfoss.com/news/tor-rust-rewrite-progress/\">https://itsfoss.com/news/tor-rust-rewrite-progress/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243543\">https://news.ycombinator.com/item?id=46243543</a></p>\n<p>Points: 344</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "Article URL: https://itsfoss.com/news/tor-rust-rewrite-progress/\nComments URL: https://news.ycombinator.com/item?id=46243543\nPoints: 344\n# Comments: 254",
+      "creator": "giuliomagnifico",
+      "summary": "标题：The Tor Project is switching to Rust\n\n摘要：The Tor Project宣布将项目核心部分从C语言迁移至Rust语言。此举旨在提升代码安全性、可维护性和性能，降低内存安全风险。Rust以其内存安全特性和并发处理能力著称，有助于增强Tor网络的稳定性和可靠性。项目已进入重写阶段，预计将逐步完成迁移。"
+    },
+    {
+      "title": "Koralm Railway",
+      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "pubDate": "Fri, 12 Dec 2025 10:50:22 +0000",
+      "isoDate": "2025-12-12T10:50:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\">https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46242871\">https://news.ycombinator.com/item?id=46242871</a></p>\n<p>Points: 311</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\nComments URL: https://news.ycombinator.com/item?id=46242871\nPoints: 311\n# Comments: 191",
+      "creator": "fzeindl",
+      "summary": "Koralm铁路是一条奥地利南部铁路线，连接维也纳和维拉赫。该项目旨在改善区域交通连接，提升运输效率。铁路采用现代化技术，包括隧道和桥梁建设。项目已获得广泛关注，相关讨论和评论超过190条。"
+    },
+    {
+      "title": "The tiniest yet real telescope I've built",
+      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
+      "pubDate": "Fri, 12 Dec 2025 07:35:49 +0000",
+      "isoDate": "2025-12-12T07:35:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucassifoni.info/blog/miniscope-tiny-telescope/\">https://lucassifoni.info/blog/miniscope-tiny-telescope/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241763\">https://news.ycombinator.com/item?id=46241763</a></p>\n<p>Points: 261</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://lucassifoni.info/blog/miniscope-tiny-telescope/\nComments URL: https://news.ycombinator.com/item?id=46241763\nPoints: 261\n# Comments: 68",
+      "creator": "chantepierre",
+      "summary": "文章标题：我建造的最小实望远镜\n\n摘要：作者分享了自己建造的一个微型望远镜，该望远镜虽小但功能真实。文章详细介绍了望远镜的构造、制作过程和实际观测效果，展示了业余爱好者如何通过简单材料和工具实现天文观测。该望远镜因其小巧便携和实用性强，吸引了众多关注和讨论。"
+    },
+    {
+      "title": "Google de-indexed Bear Blog and I don't know why",
+      "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
+      "pubDate": "Fri, 12 Dec 2025 01:20:05 +0000",
+      "isoDate": "2025-12-12T01:20:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/\">https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46239752\">https://news.ycombinator.com/item?id=46239752</a></p>\n<p>Points: 422</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/\nComments URL: https://news.ycombinator.com/item?id=46239752\nPoints: 422\n# Comments: 181",
+      "creator": "nafnlj",
+      "summary": "谷歌已将Bear Blog整个移出索引，作者对此不知原因。文章链接为https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/，评论区链接为https://news.ycombinator.com/item?id=46239752，共有181条评论。"
+    },
+    {
+      "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
+      "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
+      "pubDate": "Fri, 12 Dec 2025 00:59:46 +0000",
+      "isoDate": "2025-12-12T00:59:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607\">https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46239629\">https://news.ycombinator.com/item?id=46239629</a></p>\n<p>Points: 306</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607\nComments URL: https://news.ycombinator.com/item?id=46239629\nPoints: 306\n# Comments: 230",
+      "creator": "rguiscard",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2025-12-14T02:09:03.908Z"
+}
