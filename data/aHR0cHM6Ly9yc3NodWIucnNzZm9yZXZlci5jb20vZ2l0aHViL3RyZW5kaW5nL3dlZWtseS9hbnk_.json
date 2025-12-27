@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "exo-explore/exo",
+      "link": "https://github.com/exo-explore/exo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7f933ac25759d71340c2b535afb4a8b92df213593f68e84046ba85a595ce47dc/exo-explore/exo\" referrerpolicy=\"no-referrer\"><br>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ <br><br>Language: Python <br>Stars: 38544 <br>Forks: 2587",
+      "contentSnippet": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ \nLanguage: Python \nStars: 38544 \nForks: 2587",
+      "creator": "exo-explore",
+      "summary": "Exo-explore/exo项目允许用户利用日常设备在家搭建AI集群。该项目使用Python语言开发，目前拥有38544个星标和2587次分叉。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/21dd7d7200e99fb47e45ff075a45844f06be28d39eaf710624f3529a97712be7/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills <br><br>Language: Python <br>Stars: 27852 <br>Forks: 2546",
+      "contentSnippet": "Public repository for Agent Skills \nLanguage: Python \nStars: 27852 \nForks: 2546",
+      "creator": "anthropics",
+      "summary": "该标题指向一个名为“anthropics/skills”的公共代码库，使用Python语言开发，拥有27852个星标和2546次分叉。"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d7e9a2f231e98c84e403254b90272cfb1213b023fd07bba252ba67e621a73e9/davila7/claude-code-templates\" referrerpolicy=\"no-referrer\"><br>CLI tool for configuring and monitoring Claude Code <br><br>Language: Python <br>Stars: 13893 <br>Forks: 1206",
+      "contentSnippet": "CLI tool for configuring and monitoring Claude Code \nLanguage: Python \nStars: 13893 \nForks: 1206",
+      "creator": "davila7",
+      "summary": "标题：davila7/claude-code-templates\n\n摘要：这是一个用于配置和监控Claude Code的命令行工具，使用Python编写。该工具在GitHub上获得超过1.38万星标和1206次分叉。"
+    },
+    {
+      "title": "google/A2UI",
+      "link": "https://github.com/google/A2UI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9c2b988ded8cb1dce4558a2d62be1f47f2bf1914dbe168f59c781d89c37605fa/google/A2UI\" referrerpolicy=\"no-referrer\"><br>null <br><br>Language: TypeScript <br>Stars: 7746 <br>Forks: 508",
+      "contentSnippet": "null \nLanguage: TypeScript \nStars: 7746 \nForks: 508",
+      "creator": "google",
+      "summary": "标题：google/A2UI  \n摘要：该项目使用TypeScript开发，在GitHub上拥有7746个星标和508次分叉。由于内容为空，无法提供更多信息。"
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "link": "https://github.com/cocoindex-io/cocoindex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1895ed71a539110ad8a59968596503a839f39bb897f8a6be99f4eb3fbb240fae/cocoindex-io/cocoindex\" referrerpolicy=\"no-referrer\"><br>Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! <br><br>Language: Rust <br>Stars: 5317 <br>Forks: 398",
+      "contentSnippet": "Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! \nLanguage: Rust \nStars: 5317 \nForks: 398",
+      "creator": "cocoindex-io",
+      "summary": "cocoindex是一款基于Rust语言的AI数据转换框架，具有高性能和增量处理功能。该框架目前获得5317个星标和398次分叉。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7110a5738f9d8d3e5ff3658a8b29b91fce4c72542862da764d8c74ba091b126e/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. <br><br>Language: Shell <br>Stars: 49027 <br>Forks: 3464",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. \nLanguage: Shell \nStars: 49027 \nForks: 3464",
+      "creator": "anthropics",
+      "summary": "Claude Code是一款终端中的智能编码工具，通过自然语言指令理解代码库，执行常规任务、解释复杂代码及管理Git工作流，从而提升编码效率。该工具在GitHub上拥有49027颗星和3464次分叉。"
+    },
+    {
+      "title": "sgl-project/mini-sglang",
+      "link": "https://github.com/sgl-project/mini-sglang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cf798fca0cec6870d044045e3a09ebe3bf2b1dc9c2027cfa64cf4471788ab659/sgl-project/mini-sglang\" referrerpolicy=\"no-referrer\"><br>A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. <br><br>Language: Python <br>Stars: 2511 <br>Forks: 235",
+      "contentSnippet": "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. \nLanguage: Python \nStars: 2511 \nForks: 235",
+      "creator": "sgl-project",
+      "summary": "sgl-project/mini-sglang是一个紧凑型的SGLang实现，旨在简化现代大语言模型（LLM）服务系统的复杂性。该项目使用Python开发，在GitHub上拥有2511颗星和235次分叉，为开发者提供了一个易于理解和应用的LLM服务框架。"
+    },
+    {
+      "title": "resemble-ai/chatterbox",
+      "link": "https://github.com/resemble-ai/chatterbox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c2e9224bf043a9f99b73536218500bd6947e32d40569efdbf4d519bb28028559/resemble-ai/chatterbox\" referrerpolicy=\"no-referrer\"><br>SoTA open-source TTS <br><br>Language: Python <br>Stars: 18124 <br>Forks: 2404",
+      "contentSnippet": "SoTA open-source TTS \nLanguage: Python \nStars: 18124 \nForks: 2404",
+      "creator": "resemble-ai",
+      "summary": "\"resemble-ai/chatterbox\"是一个开源的Python端顶级的文本到语音（TTS）语言模型，在GitHub上拥有18124个星标和2404次分叉。该模型支持多种语言，并可用于开发语音合成应用。"
+    },
+    {
+      "title": "danielmiessler/Fabric",
+      "link": "https://github.com/danielmiessler/Fabric",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/738733003/5b35460c-2754-4e72-b14f-d8acb8cb7a5c\" referrerpolicy=\"no-referrer\"><br>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. <br><br>Language: Go <br>Stars: 36908 <br>Forks: 3698",
+      "contentSnippet": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. \nLanguage: Go \nStars: 36908 \nForks: 3698",
+      "creator": "danielmiessler",
+      "summary": "Fabric是一个开源框架，旨在通过AI增强人类能力。它提供了一种模块化系统，利用众包的AI提示解决特定问题，适用于任何场景。该框架使用Go语言编写，在GitHub上拥有36,908个星标和3,698个分支。"
+    },
+    {
+      "title": "google/langextract",
+      "link": "https://github.com/google/langextract",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/56b04a70f8d74c6bda9477bfd8a52a4c10ff4fc492e5aea4dce495f27c84ab44/google/langextract\" referrerpolicy=\"no-referrer\"><br>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. <br><br>Language: Python <br>Stars: 19488 <br>Forks: 1359",
+      "contentSnippet": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. \nLanguage: Python \nStars: 19488 \nForks: 1359",
+      "creator": "google",
+      "summary": "谷歌的Python库langextract利用大型语言模型从非结构化文本中提取结构化信息，具有精确的来源定位和交互式可视化功能。该库目前获得19488个星标和1359次分叉。"
+    },
+    {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1052845083/441e06a7-db51-4113-bc4e-10b463d42950\" referrerpolicy=\"no-referrer\"><br>Personal AI Infrastructure for upgrading humans. <br><br>Language: TypeScript <br>Stars: 2274 <br>Forks: 443",
+      "contentSnippet": "Personal AI Infrastructure for upgrading humans. \nLanguage: TypeScript \nStars: 2274 \nForks: 443",
+      "creator": "danielmiessler",
+      "summary": "标题：danielmiessler/Personal_AI_Infrastructure\n\n摘要：该项目名为“个人AI基础设施”，旨在通过TypeScript技术升级人类能力。项目在GitHub上获得2274个星标和443次分叉，展示了其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f154787de84602bd4da5933d7bea651a20a61d4e00a76dd446484067fe18f8c/AUTOMATIC1111/stable-diffusion-webui\" referrerpolicy=\"no-referrer\"><br>Stable Diffusion web UI <br><br>Language: Python <br>Stars: 159376 <br>Forks: 29644",
+      "contentSnippet": "Stable Diffusion web UI \nLanguage: Python \nStars: 159376 \nForks: 29644",
+      "creator": "AUTOMATIC1111",
+      "summary": "标题：AUTOMATIC1111/stable-diffusion-webui\n\n摘要：AUTOMATIC1111/stable-diffusion-webui是一个基于Python的Stable Diffusion web UI项目，拥有159376个星标和29644个分叉。该项目为用户提供了一个图形化界面，方便在网页上使用Stable Diffusion模型进行图像生成和编辑。"
+    },
+    {
+      "title": "swisskyrepo/PayloadsAllTheThings",
+      "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/71220757/c7175e80-dafd-11ea-8e0b-9c42c639ae35\" referrerpolicy=\"no-referrer\"><br>A list of useful payloads and bypass for Web Application Security and Pentest/CTF <br><br>Language: Python <br>Stars: 73921 <br>Forks: 16436",
+      "contentSnippet": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF \nLanguage: Python \nStars: 73921 \nForks: 16436",
+      "creator": "swisskyrepo",
+      "summary": "swisskyrepo/PayloadsAllTheThings是一个包含大量实用漏洞利用载荷和绕过技术的资源库，主要用于Web应用安全测试和CTF竞赛。该库使用Python编写，在GitHub上获得73921星和16436次分叉，为安全测试和渗透测试提供重要参考。"
+    },
+    {
+      "title": "sinelaw/fresh",
+      "link": "https://github.com/sinelaw/fresh",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/907990001/44bf7e88-629c-4a5d-b807-85e6d05fa7a5\" referrerpolicy=\"no-referrer\"><br>Text editor for your terminal: easy, powerful and fast <br><br>Language: Rust <br>Stars: 3450 <br>Forks: 110",
+      "contentSnippet": "Text editor for your terminal: easy, powerful and fast \nLanguage: Rust \nStars: 3450 \nForks: 110",
+      "creator": "sinelaw",
+      "summary": "文本编辑器sinelaw/fresh是一款适用于终端的编辑工具，使用Rust语言开发，具有易用、强大和快速的特点。该工具在GitHub上获得3450个星标和110次分叉。"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "link": "https://github.com/GeeeekExplorer/nano-vllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/999030842/e7651af2-b4c1-45f1-a83a-9d37d52ad5b1\" referrerpolicy=\"no-referrer\"><br>Nano vLLM <br><br>Language: Python <br>Stars: 10214 <br>Forks: 1280",
+      "contentSnippet": "Nano vLLM \nLanguage: Python \nStars: 10214 \nForks: 1280",
+      "creator": "GeeeekExplorer",
+      "summary": "GeeeekExplorer/nano-vllm是一个基于Python的开源项目，拥有10214个星标和1280次分叉。该项目旨在提供轻量级的语言模型解决方案，便于在资源受限的环境中部署和应用。"
+    }
+  ],
+  "lastUpdated": "2025-12-27T21:22:12.725Z"
+}
