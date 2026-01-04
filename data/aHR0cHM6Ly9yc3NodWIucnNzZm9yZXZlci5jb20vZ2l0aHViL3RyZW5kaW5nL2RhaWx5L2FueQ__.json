@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/323048702/4659bbdb-ae11-4f51-8a16-860fa9dfc551\" referrerpolicy=\"no-referrer\"><br>Financial data platform for analysts, quants and AI agents. <br><br>Language: Python <br>Stars: 56645 <br>Forks: 5509",
+      "contentSnippet": "Financial data platform for analysts, quants and AI agents. \nLanguage: Python \nStars: 56645 \nForks: 5509",
+      "creator": "OpenBB-finance",
+      "summary": "OpenBB-finance/OpenBB是一个面向分析师、量化交易员和AI代理的金融数据平台，使用Python开发。该平台目前获得56,645个星标和5,509次分叉。"
+    },
+    {
+      "title": "openai/openai-cookbook",
+      "link": "https://github.com/openai/openai-cookbook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b010ea03743ef3abed3d207ece3a154dcd9b0314e1d43fe3a1e38ede350cb806/openai/openai-cookbook\" referrerpolicy=\"no-referrer\"><br>Examples and guides for using the OpenAI API <br><br>Language: Jupyter Notebook <br>Stars: 70526 <br>Forks: 11835",
+      "contentSnippet": "Examples and guides for using the OpenAI API \nLanguage: Jupyter Notebook \nStars: 70526 \nForks: 11835",
+      "creator": "openai",
+      "summary": "本文档提供了使用OpenAI API的示例和指南，内容以Jupyter Notebook形式呈现。该资源在GitHub上获得70526颗星和11835次分叉，显示出其广泛的应用和受欢迎程度。"
+    },
+    {
+      "title": "nocodb/nocodb",
+      "link": "https://github.com/nocodb/nocodb",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/108761645/301727b7-d2d0-4513-b965-e937608ae26d\" referrerpolicy=\"no-referrer\"><br>🔥 🔥 🔥 Open Source Airtable Alternative <br><br>Language: TypeScript <br>Stars: 60450 <br>Forks: 4497",
+      "contentSnippet": "🔥 🔥 🔥 Open Source Airtable Alternative \nLanguage: TypeScript \nStars: 60450 \nForks: 4497",
+      "creator": "nocodb",
+      "summary": "Nocodb是一个开源的Airtable替代品，使用TypeScript编写。该项目在GitHub上拥有60450个星标和4497次分叉，显示出其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "HQarroum/docker-android",
+      "link": "https://github.com/HQarroum/docker-android",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a2e68cad0cb7866ee3c339d9aa1846cc130555026e030312ef89040fe0e8f73d/HQarroum/docker-android\" referrerpolicy=\"no-referrer\"><br>🤖 A minimal and customizable Docker image running the Android emulator as a service. <br><br>Language: Shell <br>Stars: 2347 <br>Forks: 140",
+      "contentSnippet": "🤖 A minimal and customizable Docker image running the Android emulator as a service. \nLanguage: Shell \nStars: 2347 \nForks: 140",
+      "creator": "HQarroum",
+      "summary": "HQarroum/docker-android是一个轻量级且可定制的Docker镜像，用于以服务形式运行Android模拟器。该镜像使用Shell语言构建，在GitHub上拥有2347个星标和140个分支。"
+    },
+    {
+      "title": "usememos/memos",
+      "link": "https://github.com/usememos/memos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/436297812/fb02ce35-e716-48bb-81fa-24da9ad90dfa\" referrerpolicy=\"no-referrer\"><br>An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. <br><br>Language: Go <br>Stars: 50985 <br>Forks: 3673",
+      "contentSnippet": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. \nLanguage: Go \nStars: 50985 \nForks: 3673",
+      "creator": "usememos",
+      "summary": "这是一个开源的、可自托管的笔记服务，用户可以掌控自己的数据和思想，无需担心追踪、广告或订阅费用。该服务使用Go语言开发，拥有50985个星标和3673个分叉。"
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a78d9a84cc5c5c84f4624062a2c00e4308d199b1a6114d3e1db5f32f513d861f/virattt/ai-hedge-fund\" referrerpolicy=\"no-referrer\"><br>An AI Hedge Fund Team <br><br>Language: Python <br>Stars: 44436 <br>Forks: 7844",
+      "contentSnippet": "An AI Hedge Fund Team \nLanguage: Python \nStars: 44436 \nForks: 7844",
+      "creator": "virattt",
+      "summary": "标题：virattt/ai-hedge-fund\n\n摘要：该项目是一个AI对冲基金团队，使用Python语言开发。在GitHub上，该项目拥有44436颗星和7844次分叉，显示出较高的社区关注度和活跃度。"
+    },
+    {
+      "title": "ourongxing/newsnow",
+      "link": "https://github.com/ourongxing/newsnow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bebf1800cd5e0b657237c9b912053b4dbef8392c51d007c6ae090c938bd0d141/ourongxing/newsnow\" referrerpolicy=\"no-referrer\"><br>Elegant reading of real-time and hottest news <br><br>Language: TypeScript <br>Stars: 16503 <br>Forks: 4795",
+      "contentSnippet": "Elegant reading of real-time and hottest news \nLanguage: TypeScript \nStars: 16503 \nForks: 4795",
+      "creator": "ourongxing",
+      "summary": "标题：ourongxing/newsnow\n\n摘要：该平台提供实时热点新闻的优雅阅读体验，使用TypeScript开发，在GitHub上拥有16503个星标和4795次分叉。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent. <br><br>Language: TypeScript <br>Stars: 47041 <br>Forks: 4043",
+      "contentSnippet": "The open source coding agent. \nLanguage: TypeScript \nStars: 47041 \nForks: 4043",
+      "creator": "anomalyco",
+      "summary": "开源编码代理项目anomalyco/opencode，使用TypeScript开发，获得47041星标和4043次分叉。"
+    },
+    {
+      "title": "5rahim/seanime",
+      "link": "https://github.com/5rahim/seanime",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/708618207/f8b0559a-dca6-4471-89e1-da836a14e92c\" referrerpolicy=\"no-referrer\"><br>Open-source media server with a web interface and desktop app for anime and manga. <br><br>Language: Go <br>Stars: 1901 <br>Forks: 131",
+      "contentSnippet": "Open-source media server with a web interface and desktop app for anime and manga. \nLanguage: Go \nStars: 1901 \nForks: 131",
+      "creator": "5rahim",
+      "summary": "5rahim/seanime是一个开源媒体服务器，提供网页界面和桌面应用程序，用于播放动漫和漫画。该服务器使用Go语言开发，拥有1901个星标和131个分支。"
+    },
+    {
+      "title": "python/cpython",
+      "link": "https://github.com/python/cpython",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/352b8d3574c6004abf6a59a49d7889e5a5a4a475d898896e4ca74181fcffce0e/python/cpython\" referrerpolicy=\"no-referrer\"><br>The Python programming language <br><br>Language: Python <br>Stars: 70619 <br>Forks: 33814",
+      "contentSnippet": "The Python programming language \nLanguage: Python \nStars: 70619 \nForks: 33814",
+      "creator": "python",
+      "summary": "标题：python/cpython\n\n摘要：Python编程语言在GitHub上拥有70619个星标和33814次分叉，表明其广泛的社区支持和流行度。"
+    }
+  ],
+  "lastUpdated": "2026-01-04T12:50:38.274Z"
+}

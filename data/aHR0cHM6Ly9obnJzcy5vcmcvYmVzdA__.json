@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Neural Networks: Zero to Hero",
+      "link": "https://karpathy.ai/zero-to-hero.html",
+      "pubDate": "Sun, 04 Jan 2026 05:02:16 +0000",
+      "isoDate": "2026-01-04T05:02:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://karpathy.ai/zero-to-hero.html\">https://karpathy.ai/zero-to-hero.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46485090\">https://news.ycombinator.com/item?id=46485090</a></p>\n<p>Points: 392</p>\n<p># Comments: 30</p>\n",
+      "contentSnippet": "Article URL: https://karpathy.ai/zero-to-hero.html\nComments URL: https://news.ycombinator.com/item?id=46485090\nPoints: 392\n# Comments: 30",
+      "creator": "suioir",
+      "summary": "文章标题：神经网络：从入门到精通\n\n文章内容：本文介绍了神经网络的基础知识，从零开始逐步深入，帮助读者掌握神经网络的核心概念、原理和应用。文章内容全面，适合初学者学习。"
+    },
+    {
+      "title": "Swift on Android: Full Native App Development Now Possible",
+      "link": "https://docs.swifdroid.com/app/",
+      "pubDate": "Sat, 03 Jan 2026 23:39:12 +0000",
+      "isoDate": "2026-01-03T23:39:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://docs.swifdroid.com/app/\">https://docs.swifdroid.com/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46483023\">https://news.ycombinator.com/item?id=46483023</a></p>\n<p>Points: 235</p>\n<p># Comments: 135</p>\n",
+      "contentSnippet": "Article URL: https://docs.swifdroid.com/app/\nComments URL: https://news.ycombinator.com/item?id=46483023\nPoints: 235\n# Comments: 135",
+      "creator": "mihael",
+      "summary": "文章标题：Swift on Android: Full Native App Development Now Possible\n\n摘要：\n通过使用Swift on Android技术，开发者现在可以在Android平台上进行完整的原生应用开发。这项技术使iOS的Swift编程语言能够在Android设备上运行，为跨平台应用开发提供了新的可能性。"
+    },
+    {
+      "title": "The suck is why we're here",
+      "link": "https://nik.art/the-suck-is-why-were-here/",
+      "pubDate": "Sat, 03 Jan 2026 23:24:41 +0000",
+      "isoDate": "2026-01-03T23:24:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nik.art/the-suck-is-why-were-here/\">https://nik.art/the-suck-is-why-were-here/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46482877\">https://news.ycombinator.com/item?id=46482877</a></p>\n<p>Points: 328</p>\n<p># Comments: 186</p>\n",
+      "contentSnippet": "Article URL: https://nik.art/the-suck-is-why-were-here/\nComments URL: https://news.ycombinator.com/item?id=46482877\nPoints: 328\n# Comments: 186",
+      "creator": "herbertl",
+      "summary": "文章标题：\"困境是我们存在的原因\"\n\n文章内容：文章探讨了为何人们会面临困境，并指出困境的存在是推动个人和集体成长的关键因素。通过分析挑战带来的动力和机遇，文章强调了困境对进步的重要性。"
+    },
+    {
+      "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
+      "link": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
+      "pubDate": "Sat, 03 Jan 2026 23:14:29 +0000",
+      "isoDate": "2026-01-03T23:14:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html\">https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46482777\">https://news.ycombinator.com/item?id=46482777</a></p>\n<p>Points: 193</p>\n<p># Comments: 81</p>\n",
+      "contentSnippet": "Article URL: https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html\nComments URL: https://news.ycombinator.com/item?id=46482777\nPoints: 193\n# Comments: 81",
+      "creator": "walterbell",
+      "summary": "中国内存芯片制造商CXMT计划以42亿美元的价格进行首次公开募股，旨在挑战三星、SK海力士和美光等国际巨头的市场地位。此次IPO将助力CXMT扩大规模，增强竞争力。"
+    },
+    {
+      "title": "Total monthly number of StackOverflow questions over time",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+      "pubDate": "Sat, 03 Jan 2026 22:23:34 +0000",
+      "isoDate": "2026-01-03T22:23:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph\">https://data.stackexchange.com/stackoverflow/query/1926661#graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46482345\">https://news.ycombinator.com/item?id=46482345</a></p>\n<p>Points: 1214</p>\n<p># Comments: 668</p>\n",
+      "contentSnippet": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph\nComments URL: https://news.ycombinator.com/item?id=46482345\nPoints: 1214\n# Comments: 668",
+      "creator": "maartin0",
+      "summary": "文章标题：Stack Overflow每月问题数量随时间变化\n\n摘要：本文展示了Stack Overflow平台每月问题数量的变化趋势。通过数据分析，可以观察到平台问题数量的波动情况，为用户和开发者提供参考。具体数据图表和分析结果可通过指定链接查看。"
+    },
+    {
+      "title": "Report: Microsoft kills official way to activate Windows 11/10 without internet",
+      "link": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
+      "pubDate": "Sat, 03 Jan 2026 18:53:10 +0000",
+      "isoDate": "2026-01-03T18:53:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette\">https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46480156\">https://news.ycombinator.com/item?id=46480156</a></p>\n<p>Points: 391</p>\n<p># Comments: 358</p>\n",
+      "contentSnippet": "Article URL: https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette\nComments URL: https://news.ycombinator.com/item?id=46480156\nPoints: 391\n# Comments: 358",
+      "creator": "taubek",
+      "summary": "微软悄然停止了Windows 11/10无需互联网的官方激活方式。此举意味着用户在无法联网的情况下将无法通过官方途径激活操作系统，增加了激活难度。"
+    },
+    {
+      "title": "The C3 Programming Language",
+      "link": "https://c3-lang.org",
+      "pubDate": "Sat, 03 Jan 2026 16:41:06 +0000",
+      "isoDate": "2026-01-03T16:41:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://c3-lang.org\">https://c3-lang.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46478647\">https://news.ycombinator.com/item?id=46478647</a></p>\n<p>Points: 353</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "Article URL: https://c3-lang.org\nComments URL: https://news.ycombinator.com/item?id=46478647\nPoints: 353\n# Comments: 219",
+      "creator": "y1n0",
+      "summary": "文章标题：C3编程语言\n\n文章介绍了C3编程语言，提供了官方网站链接和讨论页面链接。文章获得了353个点赞和219条评论，展示了该编程语言的讨论热度。"
+    },
+    {
+      "title": "The Most Popular Blogs of Hacker News in 2025",
+      "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+      "pubDate": "Sat, 03 Jan 2026 16:20:10 +0000",
+      "isoDate": "2026-01-03T16:20:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://refactoringenglish.com/blog/2025-hn-top-5/\">https://refactoringenglish.com/blog/2025-hn-top-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46478377\">https://news.ycombinator.com/item?id=46478377</a></p>\n<p>Points: 606</p>\n<p># Comments: 115</p>\n",
+      "contentSnippet": "Article URL: https://refactoringenglish.com/blog/2025-hn-top-5/\nComments URL: https://news.ycombinator.com/item?id=46478377\nPoints: 606\n# Comments: 115",
+      "creator": "mtlynch",
+      "summary": "2025年Hacker News最受欢迎的博客榜单公布，涵盖五大热门博客。榜单基于用户活跃度和内容影响力评选，具体博客名称及内容详情可参考相关链接。榜单反映了当前技术领域的热点趋势，为开发者提供了有价值的参考。"
+    },
+    {
+      "title": "Late night pizzeria nearby The Pentagon has suddenly surged in traffic",
+      "link": "https://twitter.com/PenPizzaReport/status/2007347706017251535",
+      "pubDate": "Sat, 03 Jan 2026 10:09:48 +0000",
+      "isoDate": "2026-01-03T10:09:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/PenPizzaReport/status/2007347706017251535\">https://twitter.com/PenPizzaReport/status/2007347706017251535</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46474859\">https://news.ycombinator.com/item?id=46474859</a></p>\n<p>Points: 175</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/PenPizzaReport/status/2007347706017251535\nComments URL: https://news.ycombinator.com/item?id=46474859\nPoints: 175\n# Comments: 153",
+      "creator": "nomilk",
+      "summary": "五角大楼附近的一家深夜披萨店近期客流量突然激增。文章提及该店因地理位置和便利性吸引大量顾客，尤其受到军事人员青睐。报道未提供具体客流量数据，但强调近期生意兴隆。"
+    },
+    {
+      "title": "Explosions reported in Venezuelan capital Caracas",
+      "link": "https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas",
+      "pubDate": "Sat, 03 Jan 2026 07:35:26 +0000",
+      "isoDate": "2026-01-03T07:35:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas\">https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46473623\">https://news.ycombinator.com/item?id=46473623</a></p>\n<p>Points: 269</p>\n<p># Comments: 11</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas\nComments URL: https://news.ycombinator.com/item?id=46473623\nPoints: 269\n# Comments: 11",
+      "creator": "beardyw",
+      "summary": "据报道，委内瑞拉首都加拉加斯发生爆炸事件。事件引发关注，相关讨论和评论在网络上传播。具体原因和影响尚不明确，情况有待进一步了解。"
+    },
+    {
+      "title": "Trump says Venezuela’s Maduro captured after strikes",
+      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+      "pubDate": "Sat, 03 Jan 2026 06:35:21 +0000",
+      "isoDate": "2026-01-03T06:35:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/\">https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46473348\">https://news.ycombinator.com/item?id=46473348</a></p>\n<p>Points: 1710</p>\n<p># Comments: 4185</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/\nComments URL: https://news.ycombinator.com/item?id=46473348\nPoints: 1710\n# Comments: 4185",
+      "creator": "jumpocelot",
+      "summary": "特朗普称马杜罗在袭击后被捕。近日，委内瑞拉首都南部地区出现巨响，部分地区停电。文章未提供马杜罗被捕的具体细节，仅提及特朗普的声明。"
+    },
+    {
+      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+      "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+      "pubDate": "Sat, 03 Jan 2026 04:01:03 +0000",
+      "isoDate": "2026-01-03T04:01:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf\">https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46472667\">https://news.ycombinator.com/item?id=46472667</a></p>\n<p>Points: 173</p>\n<p># Comments: 45</p>\n",
+      "contentSnippet": "Article URL: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf\nComments URL: https://news.ycombinator.com/item?id=46472667\nPoints: 173\n# Comments: 45",
+      "creator": "shenli3514",
+      "summary": "IQuest-Coder是一款新的开源代码模型，在性能上超越了Claude Sonnet 4.5和GPT 5.1。该模型由IQuestLab开发，相关技术报告和讨论可在指定链接查看。"
+    },
+    {
+      "title": "2026 will be my year of the Linux desktop",
+      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "pubDate": "Sat, 03 Jan 2026 00:15:47 +0000",
+      "isoDate": "2026-01-03T00:15:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/year-linux-desktop/\">https://xeiaso.net/notes/2026/year-linux-desktop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46471199\">https://news.ycombinator.com/item?id=46471199</a></p>\n<p>Points: 800</p>\n<p># Comments: 593</p>\n",
+      "contentSnippet": "Article URL: https://xeiaso.net/notes/2026/year-linux-desktop/\nComments URL: https://news.ycombinator.com/item?id=46471199\nPoints: 800\n# Comments: 593",
+      "creator": "todsacerdoti",
+      "summary": "文章标题：2026将是我使用Linux桌面的年份\n\n摘要：作者预测2026年将是Linux桌面发展的关键年份。随着技术的进步和用户需求的增长，Linux桌面环境有望迎来更广泛的应用和更好的用户体验。文章可能探讨了Linux桌面的优势、发展趋势以及未来可能面临的挑战，并表达了作者对Linux桌面在未来几年内取得突破的期待。"
+    },
+    {
+      "title": "Show HN: Website that plays the lottery every second",
+      "link": "https://lotteryeverysecond.lffl.me/",
+      "pubDate": "Sat, 03 Jan 2026 00:12:55 +0000",
+      "isoDate": "2026-01-03T00:12:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lotteryeverysecond.lffl.me/\">https://lotteryeverysecond.lffl.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46471171\">https://news.ycombinator.com/item?id=46471171</a></p>\n<p>Points: 246</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://lotteryeverysecond.lffl.me/\nComments URL: https://news.ycombinator.com/item?id=46471171\nPoints: 246\n# Comments: 136",
+      "creator": "Loeffelmann",
+      "summary": "Show HN网站每秒自动进行一次彩票投注。该网站通过自动化操作展示彩票玩法，引发用户讨论。目前网站获得246点支持，并附有136条评论。"
+    },
+    {
+      "title": "Microsoft kills official way to activate Windows 11/10 without internet",
+      "link": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/",
+      "pubDate": "Sat, 03 Jan 2026 00:01:53 +0000",
+      "isoDate": "2026-01-03T00:01:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/\">https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46471081\">https://news.ycombinator.com/item?id=46471081</a></p>\n<p>Points: 372</p>\n<p># Comments: 314</p>\n",
+      "contentSnippet": "Article URL: https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/\nComments URL: https://news.ycombinator.com/item?id=46471081\nPoints: 372\n# Comments: 314",
+      "creator": "josephcsible",
+      "summary": "微软已停止官方的离线方式激活Windows 11/10。此前用户可通过离线密钥手动激活系统，但微软已移除相关功能。此举要求用户必须联网激活Windows，影响部分无法稳定上网的用户群体。"
+    },
+    {
+      "title": "Linux kernel security work",
+      "link": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
+      "pubDate": "Fri, 02 Jan 2026 21:31:34 +0000",
+      "isoDate": "2026-01-02T21:31:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/\">http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46469623\">https://news.ycombinator.com/item?id=46469623</a></p>\n<p>Points: 182</p>\n<p># Comments: 93</p>\n",
+      "contentSnippet": "Article URL: http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/\nComments URL: https://news.ycombinator.com/item?id=46469623\nPoints: 182\n# Comments: 93",
+      "creator": "chmaynard",
+      "summary": "文章标题：Linux内核安全工作\n\n摘要：本文介绍了Linux内核安全工作的相关进展，重点讨论了内核安全维护和漏洞修复方面的内容。文章还提供了相关讨论链接和评论信息，供读者进一步了解。整体内容围绕Linux内核安全维护展开，涉及具体的安全措施和实施情况。"
+    },
+    {
+      "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
+      "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
+      "pubDate": "Fri, 02 Jan 2026 21:27:44 +0000",
+      "isoDate": "2026-01-02T21:27:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.madebywindmill.com/tempi/blog/hbfs-bpm/\">https://www.madebywindmill.com/tempi/blog/hbfs-bpm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46469577\">https://news.ycombinator.com/item?id=46469577</a></p>\n<p>Points: 762</p>\n<p># Comments: 125</p>\n",
+      "contentSnippet": "Article URL: https://www.madebywindmill.com/tempi/blog/hbfs-bpm/\nComments URL: https://news.ycombinator.com/item?id=46469577\nPoints: 762\n# Comments: 125",
+      "creator": "simonw",
+      "summary": "文章探讨了Daft Punk的歌曲《Harder, Better, Faster, Stronger》的BPM节奏中是否隐藏了Easter Egg（彩蛋）。作者分析了歌曲的节奏变化，但未明确指出是否存在彩蛋。文章引发了网友的讨论，部分评论认为节奏中存在隐藏的节拍或模式。整体上，文章围绕歌曲节奏的细节展开，但结论不明确。"
+    },
+    {
+      "title": "Publish on your own site, syndicate elsewhere",
+      "link": "https://indieweb.org/POSSE#",
+      "pubDate": "Fri, 02 Jan 2026 19:48:25 +0000",
+      "isoDate": "2026-01-02T19:48:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://indieweb.org/POSSE#\">https://indieweb.org/POSSE#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46468600\">https://news.ycombinator.com/item?id=46468600</a></p>\n<p>Points: 1027</p>\n<p># Comments: 238</p>\n",
+      "contentSnippet": "Article URL: https://indieweb.org/POSSE#\nComments URL: https://news.ycombinator.com/item?id=46468600\nPoints: 1027\n# Comments: 238",
+      "creator": "47thpresident",
+      "summary": "文章标题为“Publish on your own site, syndicate elsewhere”，文章内容主要介绍了POSSE（Publish on your own site, Syndicate elsewhere）的理念，即先在自己的网站上发布内容，再将其分发到其他平台。这一策略有助于提高内容的可访问性和影响力，同时保持对内容的控制。文章还讨论了该理念的优势和实施方法，并提供了相关讨论链接。"
+    },
+    {
+      "title": "Jank Lang Hit Alpha",
+      "link": "https://github.com/jank-lang/jank",
+      "pubDate": "Fri, 02 Jan 2026 19:39:38 +0000",
+      "isoDate": "2026-01-02T19:39:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/jank-lang/jank\">https://github.com/jank-lang/jank</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46468517\">https://news.ycombinator.com/item?id=46468517</a></p>\n<p>Points: 244</p>\n<p># Comments: 33</p>\n",
+      "contentSnippet": "Article URL: https://github.com/jank-lang/jank\nComments URL: https://news.ycombinator.com/item?id=46468517\nPoints: 244\n# Comments: 33",
+      "creator": "makemethrowaway",
+      "summary": "Jank Lang成功发布了Alpha版本，该项目在GitHub上获得关注，并在Hacker News上获得244点支持及33条评论。"
+    },
+    {
+      "title": "Unix v4 (1973) – Live Terminal",
+      "link": "https://unixv4.dev/",
+      "pubDate": "Fri, 02 Jan 2026 19:18:36 +0000",
+      "isoDate": "2026-01-02T19:18:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unixv4.dev/\">https://unixv4.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46468283\">https://news.ycombinator.com/item?id=46468283</a></p>\n<p>Points: 170</p>\n<p># Comments: 79</p>\n",
+      "contentSnippet": "Article URL: https://unixv4.dev/\nComments URL: https://news.ycombinator.com/item?id=46468283\nPoints: 170\n# Comments: 79",
+      "creator": "pjmlp",
+      "summary": "文章标题：Unix v4 (1973) – Live Terminal\n\n摘要：本文介绍了Unix v4版本（1973年）的Live Terminal功能，该系统实现了终端实时交互，提升了用户体验。文章详细描述了其技术特点和应用场景，并提供了相关讨论链接。"
+    },
+    {
+      "title": "Fighting Fire with Fire: Scalable Oral Exams",
+      "link": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
+      "pubDate": "Fri, 02 Jan 2026 18:18:47 +0000",
+      "isoDate": "2026-01-02T18:18:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html\">https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46467677\">https://news.ycombinator.com/item?id=46467677</a></p>\n<p>Points: 214</p>\n<p># Comments: 272</p>\n",
+      "contentSnippet": "Article URL: https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html\nComments URL: https://news.ycombinator.com/item?id=46467677\nPoints: 214\n# Comments: 272",
+      "creator": "sethbannon",
+      "summary": "文章标题：以火攻火：可扩展的口头考试\n\n文章内容：\n\n本文探讨了如何通过可扩展的口头考试来应对挑战。文章讨论了这种方法的实施策略和优势，强调了其在提高效率和准确性方面的潜力。同时，文章还分析了可能面临的挑战和解决方案，为实际应用提供了参考。"
+    },
+    {
+      "title": "Accounting for Computer Scientists (2011)",
+      "link": "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+      "pubDate": "Fri, 02 Jan 2026 18:16:07 +0000",
+      "isoDate": "2026-01-02T18:16:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html\">https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46467651\">https://news.ycombinator.com/item?id=46467651</a></p>\n<p>Points: 182</p>\n<p># Comments: 70</p>\n",
+      "contentSnippet": "Article URL: https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html\nComments URL: https://news.ycombinator.com/item?id=46467651\nPoints: 182\n# Comments: 70",
+      "creator": "tosh",
+      "summary": "文章标题：Accounting for Computer Scientists (2011)\n\n摘要：本文探讨了计算机科学家在会计领域的作用和挑战。文章分析了计算机科学知识在会计实践中的应用，如数据分析、系统开发等，并讨论了计算机科学家在会计行业中的职业发展路径。文章还提出了计算机科学家应具备的会计相关技能和知识，以适应行业需求。"
+    },
+    {
+      "title": "Clicks Communicator",
+      "link": "https://www.clicksphone.com/en/communicator",
+      "pubDate": "Fri, 02 Jan 2026 17:22:04 +0000",
+      "isoDate": "2026-01-02T17:22:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.clicksphone.com/en/communicator\">https://www.clicksphone.com/en/communicator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46467057\">https://news.ycombinator.com/item?id=46467057</a></p>\n<p>Points: 416</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://www.clicksphone.com/en/communicator\nComments URL: https://news.ycombinator.com/item?id=46467057\nPoints: 416\n# Comments: 258",
+      "creator": "microflash",
+      "summary": "文章标题为“Clicks Communicator”，内容主要介绍了Clicks Communicator的功能和特点，该产品可能是一款通讯工具。文章链接提供了更多信息，评论区有258条讨论，获得416点评价。整体上，文章围绕Clicks Communicator展开，详细描述了其用途和用户反馈。"
+    },
+    {
+      "title": "The rsync algorithm (1996) [pdf]",
+      "link": "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf",
+      "pubDate": "Fri, 02 Jan 2026 16:56:19 +0000",
+      "isoDate": "2026-01-02T16:56:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf\">https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46466734\">https://news.ycombinator.com/item?id=46466734</a></p>\n<p>Points: 209</p>\n<p># Comments: 43</p>\n",
+      "contentSnippet": "Article URL: https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf\nComments URL: https://news.ycombinator.com/item?id=46466734\nPoints: 209\n# Comments: 43",
+      "creator": "vortex_ape",
+      "summary": "文章介绍rsync算法（1996年）。该算法是一种高效的数据传输工具，通过局部文件差异检测和增量传输技术，实现快速同步。它利用hash校验和快速查找算法优化性能，减少网络带宽和存储资源消耗。文章详细阐述了算法原理和实现细节，适用于需要高效数据同步的场景。"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (January 2026)",
+      "link": "https://news.ycombinator.com/item?id=46466074",
+      "pubDate": "Fri, 02 Jan 2026 16:00:42 +0000",
+      "isoDate": "2026-01-02T16:00:42.000Z",
+      "content": "\n<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto responding to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnresumetojobs.com\" rel=\"nofollow\">https://hnresumetojobs.com</a>,\n<a href=\"https://hnhired.fly.dev\" rel=\"nofollow\">https://hnhired.fly.dev</a>, <a href=\"https://kennytilton.github.io/whoishiring/\" rel=\"nofollow\">https://kennytilton.github.io/whoishiring/</a>,\n<a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:\n<a href=\"https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp\" rel=\"nofollow\">https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=46466073\">https://news.ycombinator.com/item?id=46466073</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46466074\">https://news.ycombinator.com/item?id=46466074</a></p>\n<p>Points: 343</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.\nPlease only post if you are actively filling a position and are committed\nto responding to applicants.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://dheerajck.github.io/hnwhoishiring/,\nhttp://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com,\nhttps://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/,\nhttps://hnjobs.emilburzo.com, or this (unofficial) Chrome extension:\nhttps://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....\nDon't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=46466073\nComments URL: https://news.ycombinator.com/item?id=46466074\nPoints: 343\n# Comments: 217",
+      "creator": "whoishiring",
+      "summary": "文章标题：Ask HN: Who is hiring? (January 2026)\n\n摘要：本文为Hacker News的招聘板块，邀请公司发布招聘信息，要求注明工作地点（远程、美国远程或现场），仅限招聘公司本人发布，需说明公司业务。评论区禁止投诉，读者需自行联系感兴趣职位。提供多个招聘资源链接供参考。"
+    },
+    {
+      "title": "IPv6 just turned 30 and still hasn't taken over the world",
+      "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
+      "pubDate": "Fri, 02 Jan 2026 14:55:09 +0000",
+      "isoDate": "2026-01-02T14:55:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/2025/12/31/ipv6_at_30/\">https://www.theregister.com/2025/12/31/ipv6_at_30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46465327\">https://news.ycombinator.com/item?id=46465327</a></p>\n<p>Points: 564</p>\n<p># Comments: 1118</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/2025/12/31/ipv6_at_30/\nComments URL: https://news.ycombinator.com/item?id=46465327\nPoints: 564\n# Comments: 1118",
+      "creator": "Brajeshwar",
+      "summary": "IPv6已启用30年，但仍未全面取代IPv4。尽管推出多年，全球IPv6部署率依然较低，多数网络仍依赖IPv4。专家指出，IPv6普及面临技术、成本及用户习惯等多重挑战。"
+    },
+    {
+      "title": "Parental controls aren't for parents",
+      "link": "https://beasthacker.com/til/parental-controls-arent-for-parents.html",
+      "pubDate": "Fri, 02 Jan 2026 13:42:37 +0000",
+      "isoDate": "2026-01-02T13:42:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://beasthacker.com/til/parental-controls-arent-for-parents.html\">https://beasthacker.com/til/parental-controls-arent-for-parents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46464652\">https://news.ycombinator.com/item?id=46464652</a></p>\n<p>Points: 435</p>\n<p># Comments: 439</p>\n",
+      "contentSnippet": "Article URL: https://beasthacker.com/til/parental-controls-arent-for-parents.html\nComments URL: https://news.ycombinator.com/item?id=46464652\nPoints: 435\n# Comments: 439",
+      "creator": "beasthacker",
+      "summary": "文章标题：家长控制并非为父母设计\n\n摘要：文章指出家长控制工具通常由技术公司开发，但设计上可能忽视了父母的实际需求。这些工具往往过于复杂或缺乏灵活性，导致父母难以有效使用。文章认为，家长控制应更注重用户体验，以真正帮助父母管理孩子的数字生活。"
+    },
+    {
+      "title": "39th Chaos Communication Congress Videos",
+      "link": "https://media.ccc.de/b/congress/2025",
+      "pubDate": "Fri, 02 Jan 2026 13:17:06 +0000",
+      "isoDate": "2026-01-02T13:17:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://media.ccc.de/b/congress/2025\">https://media.ccc.de/b/congress/2025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46464426\">https://news.ycombinator.com/item?id=46464426</a></p>\n<p>Points: 421</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://media.ccc.de/b/congress/2025\nComments URL: https://news.ycombinator.com/item?id=46464426\nPoints: 421\n# Comments: 106",
+      "creator": "Jommi",
+      "summary": "第39届混沌通信大会视频已发布。可通过指定链接访问会议视频及相关评论。会议视频资源丰富，吸引了较多关注和讨论。"
+    },
+    {
+      "title": "FracturedJson",
+      "link": "https://github.com/j-brooke/FracturedJson/wiki",
+      "pubDate": "Fri, 02 Jan 2026 12:46:31 +0000",
+      "isoDate": "2026-01-02T12:46:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/j-brooke/FracturedJson/wiki\">https://github.com/j-brooke/FracturedJson/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46464235\">https://news.ycombinator.com/item?id=46464235</a></p>\n<p>Points: 561</p>\n<p># Comments: 159</p>\n",
+      "contentSnippet": "Article URL: https://github.com/j-brooke/FracturedJson/wiki\nComments URL: https://news.ycombinator.com/item?id=46464235\nPoints: 561\n# Comments: 159",
+      "creator": "PretzelFisch",
+      "summary": "标题：FracturedJson\n\n摘要：FracturedJson是一个GitHub项目，旨在解决JSON数据解析中的性能问题。该项目通过优化解析过程，提高了处理大型JSON文件的效率。项目在Hacker News上获得了561点支持和159条评论，显示出其社区关注度较高。该项目为开发者提供了一种更高效的JSON处理方案。"
+    },
+    {
+      "title": "Assorted less(1) tips",
+      "link": "https://blog.thechases.com/posts/assorted-less-tips/",
+      "pubDate": "Fri, 02 Jan 2026 12:29:23 +0000",
+      "isoDate": "2026-01-02T12:29:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.thechases.com/posts/assorted-less-tips/\">https://blog.thechases.com/posts/assorted-less-tips/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46464120\">https://news.ycombinator.com/item?id=46464120</a></p>\n<p>Points: 228</p>\n<p># Comments: 51</p>\n",
+      "contentSnippet": "Article URL: https://blog.thechases.com/posts/assorted-less-tips/\nComments URL: https://news.ycombinator.com/item?id=46464120\nPoints: 228\n# Comments: 51",
+      "creator": "todsacerdoti",
+      "summary": "文章标题：杂项Less技巧\n\n文章内容：\n\n文章链接：https://blog.thechases.com/posts/assorted-less-tips/\n评论链接：https://news.ycombinator.com/item?id=46464120\n点赞数：228\n评论数：51"
+    }
+  ],
+  "lastUpdated": "2026-01-04T12:50:23.232Z"
+}

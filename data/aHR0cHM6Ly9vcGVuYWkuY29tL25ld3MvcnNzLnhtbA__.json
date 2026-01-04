@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "link": "https://openai.com/index/openai-grove",
+      "pubDate": "Fri, 02 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-02T10:00:00.000Z",
+      "content": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "contentSnippet": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "creator": "",
+      "summary": "OpenAI宣布启动第二期Grove创始人项目，面向不同阶段的个人开放申请。该5周项目为参与者提供5万美元API额度、AI工具优先使用权，以及OpenAI团队的实践指导。"
+    },
+    {
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "link": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "pubDate": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-22T00:00:00.000Z",
+      "content": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+      "contentSnippet": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+      "creator": "",
+      "summary": "OpenAI正通过强化学习训练的自动化红队，持续强化ChatGPT Atlas以抵御提示注入攻击。这种主动的发现与修复循环有助于早期识别新漏洞，并随着AI更具自主性而加固浏览器代理的防御能力。"
+    },
+    {
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "link": "https://openai.com/index/one-in-a-million-customers",
+      "pubDate": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-22T00:00:00.000Z",
+      "content": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
+      "contentSnippet": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
+      "creator": "",
+      "summary": "全球已有超过一百万用户使用OpenAI，通过AI赋能团队并开启新机遇。本文介绍了PayPal、维珍航空、BBVA、思科、莫德纳和Canva等公司如何借助AI改变工作方式。"
+    },
+    {
+      "title": "Evaluating chain-of-thought monitorability",
+      "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "pubDate": "Thu, 18 Dec 2025 12:00:00 GMT",
+      "isoDate": "2025-12-18T12:00:00.000Z",
+      "content": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "contentSnippet": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "creator": "",
+      "summary": "OpenAI推出了一套新的框架和评估套件，用于评估思维链的可监控性，涵盖24个环境中的13项评估。研究发现，监控模型的内部推理比仅监控输出更有效，为可扩展控制AI系统提供了有前景的途径。"
+    },
+    {
+      "title": "Updating our Model Spec with teen protections",
+      "link": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "pubDate": "Thu, 18 Dec 2025 11:00:00 GMT",
+      "isoDate": "2025-12-18T11:00:00.000Z",
+      "content": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
+      "contentSnippet": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
+      "creator": "",
+      "summary": "OpenAI正更新其模型规范，新增针对未成年人的原则，旨在为ChatGPT用户提供基于发展科学的、安全且适龄的指导。此次更新强化了安全防护措施，明确了高风险情境下的模型行为预期，并持续推进ChatGPT的青少年安全改进工作。"
+    },
+    {
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "link": "https://openai.com/index/us-department-of-energy-collaboration",
+      "pubDate": "Thu, 18 Dec 2025 11:00:00 GMT",
+      "isoDate": "2025-12-18T11:00:00.000Z",
+      "content": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
+      "contentSnippet": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
+      "creator": "",
+      "summary": "OpenAI与美国能源部签署谅解备忘录，深化在人工智能和先进计算领域的合作，以支持科学发现。该协议基于与国家实验室的现有工作，为将AI应用于能源部生态系统中的高影响力研究建立框架。"
+    },
+    {
+      "title": "AI literacy resources for teens and parents",
+      "link": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "pubDate": "Thu, 18 Dec 2025 11:00:00 GMT",
+      "isoDate": "2025-12-18T11:00:00.000Z",
+      "content": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+      "contentSnippet": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+      "creator": "",
+      "summary": "OpenAI发布新的人工智能素养资源，旨在帮助青少年和家长在ChatGPT的使用中做到审慎、安全、自信。这些指南包含经专家审核的建议，涵盖负责任使用、批判性思维、健康界限以及支持青少年应对情感或敏感话题。"
+    },
+    {
+      "title": "Introducing GPT-5.2-Codex",
+      "link": "https://openai.com/index/gpt-5-2-codex",
+      "pubDate": "Thu, 18 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-18T00:00:00.000Z",
+      "content": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "contentSnippet": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "creator": "",
+      "summary": "GPT-5.2-Codex是OpenAI最新推出的先进编程模型，具备长时程推理、大规模代码转换和增强的网络安全功能。该模型在代码处理和安全性方面表现出色，为开发者提供了强大的技术支持。"
+    },
+    {
+      "title": "Introducing GPT-5.2-Codex",
+      "link": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "pubDate": "Thu, 18 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-18T00:00:00.000Z",
+      "content": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "contentSnippet": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "creator": "",
+      "summary": "GPT-5.2-Codex是OpenAI最新推出的先进编程模型，具备长时程推理能力、大规模代码转换功能，并提升了网络安全性能。该模型在代码处理和安全性方面表现出色，为开发者提供了更强大的技术支持。"
+    },
+    {
+      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "link": "https://openai.com/index/gpt-5-2-codex-system-card",
+      "pubDate": "Thu, 18 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-18T00:00:00.000Z",
+      "content": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+      "contentSnippet": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+      "creator": "",
+      "summary": "《GPT-5.2-Codex系统卡补充说明》概述了GPT-5.2-Codex实施的全面安全措施。文章详细介绍了模型层面的缓解措施，如针对有害任务和提示注入的专业安全训练，以及产品层面的缓解措施，包括代理沙盒化和可配置的网络访问权限。"
+    },
+    {
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "link": "https://openai.com/index/openai-academy-for-news-organizations",
+      "pubDate": "Wed, 17 Dec 2025 06:00:00 GMT",
+      "isoDate": "2025-12-17T06:00:00.000Z",
+      "content": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+      "contentSnippet": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+      "creator": "",
+      "summary": "OpenAI推出面向新闻组织的OpenAI Academy，与American Journalism Project和The Lenfest Institute合作建立。该学习中心旨在帮助新闻编辑部有效使用AI，提供培训、实践案例和负责任使用指南，支持记者、编辑和出版商在报道和运营中采用AI。"
+    },
+    {
+      "title": "Developers can now submit apps to ChatGPT",
+      "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "pubDate": "Wed, 17 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-17T00:00:00.000Z",
+      "content": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+      "contentSnippet": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+      "creator": "",
+      "summary": "开发者现在可以向ChatGPT提交应用程序进行审核和发布。通过新的工具、指南和应用程序SDK，开发者可以构建强大的原生聊天体验，将现实世界的操作引入ChatGPT。获批的应用将出现在产品内的全新目录中，便于用户发现。"
+    },
+    {
+      "title": "Evaluating AI’s ability to perform scientific research tasks",
+      "link": "https://openai.com/index/frontierscience",
+      "pubDate": "Tue, 16 Dec 2025 09:00:00 GMT",
+      "isoDate": "2025-12-16T09:00:00.000Z",
+      "content": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "contentSnippet": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "creator": "",
+      "summary": "OpenAI推出FrontierScience基准测试，用于评估AI在物理、化学和生物学领域的推理能力，以衡量其向实际科学研究迈进的程度。"
+    },
+    {
+      "title": "Measuring AI’s capability to accelerate biological research",
+      "link": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "isoDate": "2025-12-16T08:00:00.000Z",
+      "content": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+      "contentSnippet": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+      "creator": "",
+      "summary": "OpenAI推出评估框架，利用GPT-5优化分子克隆方案，衡量AI加速生物实验的能力。该研究探索了AI辅助实验的潜力和风险。"
+    },
+    {
+      "title": "The new ChatGPT Images is here",
+      "link": "https://openai.com/index/new-chatgpt-images-is-here",
+      "pubDate": "Tue, 16 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-16T00:00:00.000Z",
+      "content": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.",
+      "contentSnippet": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.",
+      "creator": "",
+      "summary": "新的ChatGPT图像功能已上线，由旗舰图像生成模型驱动，提供更精确的编辑、一致的细节和高达4倍的图像生成速度提升。该升级模型现已向所有ChatGPT用户推出，并作为GPT-Image-1.5版本提供API支持。"
+    },
+    {
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "link": "https://openai.com/index/bbva-collaboration-expansion",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "contentSnippet": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "creator": "",
+      "summary": "西班牙银行BBVA与OpenAI达成战略合作，启动为期多年的AI转型计划。双方将向12万名员工推广ChatGPT Enterprise，共同开发AI解决方案，旨在提升客户互动、优化运营，并构建AI原生银行体验。"
+    },
+    {
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "link": "https://openai.com/index/bny",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "contentSnippet": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "creator": "",
+      "summary": "花旗集团（BNY）利用OpenAI技术，通过其Eliza平台推动企业范围内的AI应用。目前已有超过2万名员工使用该平台创建AI代理，以提高工作效率并改善客户成果。"
+    },
+    {
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "link": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "contentSnippet": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "creator": "",
+      "summary": "OpenAI利用Codex在28天内成功推出Android版Sora。通过AI辅助的规划、翻译和并行编码工作流程，敏捷团队实现了快速可靠的开发。"
+    },
+    {
+      "title": "Advancing science and math with GPT-5.2",
+      "link": "https://openai.com/index/gpt-5-2-for-science-and-math",
+      "pubDate": "Thu, 11 Dec 2025 10:00:00 GMT",
+      "isoDate": "2025-12-11T10:00:00.000Z",
+      "content": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+      "contentSnippet": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+      "creator": "",
+      "summary": "GPT-5.2是OpenAI在数学和科学领域最强的模型，在GPQA Diamond和FrontierMath等基准测试中创下新纪录。该模型助力科研进展，解决了开放性理论问题并生成了可靠的数学证明，展现了其在科研领域的实际应用价值。"
+    },
+    {
+      "title": "Update to GPT-5 System Card: GPT-5.2",
+      "link": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+      "contentSnippet": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+      "creator": "",
+      "summary": "GPT-5.2是GPT-5系列的最新模型。其安全防护措施与GPT-5及GPT-5.1系统卡描述的方案基本一致。该模型与其他OpenAI模型类似，训练数据涵盖公开互联网信息、第三方合作数据以及用户、人类训练师和研究人员的贡献。"
+    },
+    {
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "link": "https://openai.com/index/disney-sora-agreement",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
+      "contentSnippet": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
+      "creator": "",
+      "summary": "华特迪士尼公司与OpenAI达成里程碑协议，将超过200个迪士尼、漫威、皮克斯和星球大战角色引入Sora平台，用于粉丝创作的短视频。协议强调娱乐领域的负责任AI使用，并涵盖迪士尼公司全面采用ChatGPT Enterprise和OpenAI API。"
+    },
+    {
+      "title": "Ten years",
+      "link": "https://openai.com/index/ten-years",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+      "contentSnippet": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+      "creator": "",
+      "summary": "OpenAI回顾了十年来的发展历程，从早期研究突破到广泛应用的人工智能系统重塑了可能性的边界。文章分享了十年的经验教训，并表达了对其构建造福全人类的通用人工智能（AGI）的乐观态度。"
+    },
+    {
+      "title": "Introducing GPT-5.2",
+      "link": "https://openai.com/index/introducing-gpt-5-2",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "contentSnippet": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "creator": "",
+      "summary": "GPT-5.2是OpenAI最新推出的专业工作用前沿模型，具备顶尖的推理、长文本理解、编程和视觉能力。该模型可通过ChatGPT和OpenAI API使用，以实现更快速、可靠的任务自动化流程。"
+    },
+    {
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "link": "https://openai.com/index/podium",
+      "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-11T00:00:00.000Z",
+      "content": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "contentSnippet": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "creator": "",
+      "summary": "Podium利用OpenAI的GPT-5开发了AI助手“Jerry”，帮助中小企业实现营收增长300%，并革新了实体店的服务模式。该AI成为企业的重要伙伴，显著提升了客户服务效率与质量。"
+    },
+    {
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "link": "https://openai.com/index/strengthening-cyber-resilience",
+      "pubDate": "Wed, 10 Dec 2025 12:00:00 GMT",
+      "isoDate": "2025-12-10T12:00:00.000Z",
+      "content": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+      "contentSnippet": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+      "creator": "",
+      "summary": "OpenAI正投资于更强的安全防护和防御能力，以应对AI模型在网络安全领域日益增强的威力。公司阐述了如何评估风险、限制滥用，并与安全社区合作提升网络韧性。"
+    },
+    {
+      "title": "How Scout24 is building the next generation of real-estate search with AI",
+      "link": "https://openai.com/index/scout24",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "contentSnippet": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "creator": "",
+      "summary": "Scout24利用GPT-5打造了房地产搜索的对话式助手，通过提问、总结和定制化房源推荐，创新搜索体验。该助手以澄清问题的方式引导用户，提升搜索效率和精准度。"
+    },
+    {
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "link": "https://openai.com/index/agentic-ai-foundation",
+      "pubDate": "Tue, 09 Dec 2025 09:00:00 GMT",
+      "isoDate": "2025-12-09T09:00:00.000Z",
+      "content": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "contentSnippet": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "creator": "",
+      "summary": "OpenAI联合创办了Linux Foundation旗下的Agentic AI Foundation，并捐赠了AGENTS.md文件，旨在支持安全、开放、可互操作的智能体AI标准。此举有助于推动该领域的技术发展。"
+    },
+    {
+      "title": "Launching our first OpenAI Certifications courses",
+      "link": "https://openai.com/index/openai-certificate-courses",
+      "pubDate": "Tue, 09 Dec 2025 06:00:00 GMT",
+      "isoDate": "2025-12-09T06:00:00.000Z",
+      "content": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "contentSnippet": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "creator": "",
+      "summary": "OpenAI推出首期认证课程，旨在帮助学员掌握实用AI技能，提升职业发展机会，并为未来工作做好准备。这些课程涵盖AI基础，助力个人在AI领域发展。"
+    },
+    {
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "link": "https://openai.com/index/openai-appoints-denise-dresser",
+      "pubDate": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-09T00:00:00.000Z",
+      "content": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+      "contentSnippet": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+      "creator": "",
+      "summary": "OpenAI任命Denise Dresser担任首席收入官，负责其全球收入战略，涵盖企业和客户成功领域。她将助力更多企业将AI应用于日常运营，随着OpenAI的持续扩张。"
+    },
+    {
+      "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+      "link": "https://openai.com/index/deutsche-telekom-collaboration",
+      "pubDate": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-09T00:00:00.000Z",
+      "content": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+      "contentSnippet": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+      "creator": "",
+      "summary": "OpenAI与德国电信合作，将在欧洲为民众提供先进的多元语言AI体验。同时，ChatGPT企业版将部署于德国电信内部，以提升员工工作效率和加速创新。此举旨在将强大AI技术推广至欧洲大众。"
+    }
+  ],
+  "lastUpdated": "2026-01-04T12:50:34.174Z"
+}

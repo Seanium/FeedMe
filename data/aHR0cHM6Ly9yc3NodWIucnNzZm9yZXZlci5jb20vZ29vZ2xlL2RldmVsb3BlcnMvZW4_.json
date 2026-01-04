@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Real-World Agent Examples with Gemini 3",
+      "link": "https://developers.googleblog.com/en/real-world-agent-examples-with-gemini-3/",
+      "pubDate": "Thu, 18 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-18T16:00:00.000Z",
+      "content": "Gemini 3 is powering the next generation of reliable, production-ready AI agents. This post highlights 6 open-source framework collaborations (ADK, Agno, Browser Use, Eigent, Letta, mem0), demonstrating practical agentic workflows for tasks like deep search, multi-agent systems, browser and enterprise automation, and stateful agents with advanced memory. Clone the examples and start building today.",
+      "contentSnippet": "Gemini 3 is powering the next generation of reliable, production-ready AI agents. This post highlights 6 open-source framework collaborations (ADK, Agno, Browser Use, Eigent, Letta, mem0), demonstrating practical agentic workflows for tasks like deep search, multi-agent systems, browser and enterprise automation, and stateful agents with advanced memory. Clone the examples and start building today.",
+      "creator": "Google",
+      "summary": "Gemini 3 正在推动可靠、可生产的大型 AI 代理的发展。本文介绍了与 ADK、Agno、Browser Use、Eigent、Letta 和 mem0 等 6 个开源框架的合作，展示了实际代理工作流程，涵盖深度搜索、多代理系统、浏览器和企业自动化以及具有高级记忆的状态代理。用户可克隆示例并开始构建。"
+    },
+    {
+      "title": "Conductor: Introducing context-driven development for Gemini CLI",
+      "link": "https://developers.googleblog.com/en/conductor-introducing-context-driven-development-for-gemini-cli/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Conductor is a new Gemini CLI extension that promotes context-driven development. It shifts project context from chat logs to persistent Markdown files for formal specs and plans, ensuring AI agents adhere to project goals, style, and tech stack. This structured workflow is great for \"brownfield\" projects and teams, allowing for safe iteration and consistent code contributions while keeping the human developer in control.",
+      "contentSnippet": "Conductor is a new Gemini CLI extension that promotes context-driven development. It shifts project context from chat logs to persistent Markdown files for formal specs and plans, ensuring AI agents adhere to project goals, style, and tech stack. This structured workflow is great for \"brownfield\" projects and teams, allowing for safe iteration and consistent code contributions while keeping the human developer in control.",
+      "creator": "Google",
+      "summary": "Conductor是Gemini CLI的新扩展，旨在推动基于上下文的开发。它将项目上下文从聊天记录转移到持久的Markdown文件中，用于正式的规范和计划，确保AI代理遵循项目目标、风格和技术栈。这种结构化的工作流程非常适合“遗留”项目和团队，支持安全的迭代和一致的代码贡献，同时保持人类开发者的控制权。"
+    },
+    {
+      "title": "Gemini 3 Flash is now available in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/gemini-3-flash-is-now-available-in-gemini-cli/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Gemini 3 Flash is now available in Gemini CLI. It delivers Pro-grade coding performance with low latency and a lower cost, matching Gemini 3 Pro's SWE-bench Verified score of 76%. It significantly outperforms 2.5 Pro, improving auto-routing and agentic coding. It's ideal for high-frequency development tasks, handling complex code generation, large context windows (like processing 1,000 comment pull requests), and generating load-testing scripts quickly and reliably.",
+      "contentSnippet": "Gemini 3 Flash is now available in Gemini CLI. It delivers Pro-grade coding performance with low latency and a lower cost, matching Gemini 3 Pro's SWE-bench Verified score of 76%. It significantly outperforms 2.5 Pro, improving auto-routing and agentic coding. It's ideal for high-frequency development tasks, handling complex code generation, large context windows (like processing 1,000 comment pull requests), and generating load-testing scripts quickly and reliably.",
+      "creator": "Google",
+      "summary": "Gemini 3 Flash 已在 Gemini CLI 中推出。它提供专业级的编码性能，低延迟且成本更低，与 Gemini 3 Pro 的 SWE-bench 验证分数（76%）相当。相比 2.5 Pro，它在自动路由和代理式编码方面表现更优。该模型适合高频开发任务，能高效处理复杂代码生成、大上下文窗口（如处理 1,000 条评论请求）及快速可靠地生成负载测试脚本。"
+    },
+    {
+      "title": "Introducing Agent Development Kit for TypeScript: Build AI Agents with the Power of a Code-First Approach",
+      "link": "https://developers.googleblog.com/en/introducing-agent-development-kit-for-typescript-build-ai-agents-with-the-power-of-a-code-first-approach/",
+      "pubDate": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-16T16:00:00.000Z",
+      "content": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
+      "contentSnippet": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
+      "creator": "Google",
+      "summary": "介绍TypeScript的智能体开发工具包（ADK），这是一个开源框架，支持以代码优先的方式构建复杂的、多智能体AI系统。开发者可使用TypeScript定义智能体逻辑，并应用传统软件开发最佳实践，如版本控制和测试。ADK提供全流程类型安全、模块化和部署无关功能，利用熟悉的TypeScript/JavaScript生态系统。"
+    },
+    {
+      "title": "Developer’s guide to multi-agent patterns in ADK",
+      "link": "https://developers.googleblog.com/en/developers-guide-to-multi-agent-patterns-in-adk/",
+      "pubDate": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-15T16:00:00.000Z",
+      "content": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "contentSnippet": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "creator": "Google",
+      "summary": "本文介绍了如何使用ADK构建模块化和可靠的智能体应用，阐述了8种有效的多智能体设计模式。通过这些模式，开发者可以优化智能体间的协作与交互，提升应用的性能和稳定性。"
+    },
+    {
+      "title": "Introducing A2UI: An open project for agent-driven interfaces",
+      "link": "https://developers.googleblog.com/en/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+      "pubDate": "Sun, 14 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-14T16:00:00.000Z",
+      "content": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
+      "contentSnippet": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
+      "creator": "Google",
+      "summary": "A2UI是一个开源项目，旨在实现基于代理的跨平台生成式界面。该项目提供了一种安全的声明式数据格式，允许代理从可信组件目录中组合定制界面，支持原生样式和增量更新。A2UI专为多代理网络（A2A）设计，提供了一种框架无关的解决方案，用于安全地渲染远程代理界面，并与AG UI、Flutter的GenUI SDK、Opal和Gemini Enterprise等集成。"
+    },
+    {
+      "title": "Building agents with the ADK and the new Interactions API",
+      "link": "https://developers.googleblog.com/en/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "pubDate": "Wed, 10 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-10T16:00:00.000Z",
+      "content": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "contentSnippet": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "creator": "Google",
+      "summary": "Gemini的新交互API支持状态化、多轮AI代理工作流，为原始模型和Gemini深度研究代理提供统一接口。该API可与现有ADK系统集成，作为更优的推理引擎简化状态管理，或通过InteractionsApiTransport作为透明远程A2A代理使用，实现多代理系统无缝扩展，最小化重构需求。"
+    },
+    {
+      "title": "Pick up exactly where you left off with Session Management in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/pick-up-exactly-where-you-left-off-with-session-management-in-gemini-cli/",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "contentSnippet": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "creator": "Google",
+      "summary": "Gemini CLI 新增自动会话管理功能（v0.20.0+），可保存对话历史、工具输出和推理过程，为项目提供特定上下文。用户可通过交互式会话浏览器 (`/resume`) 或命令行标志 (`--resume`) 轻松恢复会话。该功能确保工作状态不丢失，并记录提示、工具执行细节和使用统计。用户可在 `settings.json` 中自定义历史清理策略。"
+    },
+    {
+      "title": "Don't Trust, Verify: Building End-to-End Confidential Applications on Google Cloud",
+      "link": "https://developers.googleblog.com/en/dont-trust-verify-building-end-to-end-confidential-applications-on-google-cloud/",
+      "pubDate": "Mon, 08 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-08T16:00:00.000Z",
+      "content": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "contentSnippet": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "creator": "Google",
+      "summary": "谷歌云通过硬件隔离技术，在运行时保护敏感数据，支持端到端机密应用。该方案结合了机密空间（TEE/认证）、橡木函数（私有沙箱）和橡木会话（可认证端到端加密），确保用户信任开源组件。即使在不信任的反向代理后运行，也能为专有GenAI模型等敏感工作负载证明机密性。"
+    },
+    {
+      "title": "MediaTek NPU and LiteRT: Powering the next generation of on-device AI",
+      "link": "https://developers.googleblog.com/en/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "pubDate": "Sun, 07 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-07T16:00:00.000Z",
+      "content": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "contentSnippet": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "creator": "Google",
+      "summary": "LiteRT和MediaTek宣布推出新的LiteRT NeuroPilot加速器，这是TFLite NeuroPilot代理的全新升级。该加速器提供无缝部署体验、先进的LLM支持以及卓越性能，将服务于全球数百万设备，推动下一代设备端AI发展。"
+    }
+  ],
+  "lastUpdated": "2026-01-04T12:50:50.304Z"
+}

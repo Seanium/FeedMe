@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "BloopAI/vibe-kanban",
+      "link": "https://github.com/BloopAI/vibe-kanban",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/86f5c76fa4870f25420952dd7615daeb4ce35c519389c0dbe458744a27c17fa8/BloopAI/vibe-kanban\" referrerpolicy=\"no-referrer\"><br>Get 10X more out of Claude Code, Codex or any coding agent <br><br>Language: Rust <br>Stars: 12312 <br>Forks: 1137",
+      "contentSnippet": "Get 10X more out of Claude Code, Codex or any coding agent \nLanguage: Rust \nStars: 12312 \nForks: 1137",
+      "creator": "BloopAI",
+      "summary": "BloopAI/vibe-kanban是一个基于Rust开发的工具，旨在提升Claude Code、Codex等编程代理的效能，使其效率提升10倍。该工具在GitHub上获得12312颗星和1137次分叉。"
+    },
+    {
+      "title": "usememos/memos",
+      "link": "https://github.com/usememos/memos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/436297812/fb02ce35-e716-48bb-81fa-24da9ad90dfa\" referrerpolicy=\"no-referrer\"><br>An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. <br><br>Language: Go <br>Stars: 50985 <br>Forks: 3673",
+      "contentSnippet": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. \nLanguage: Go \nStars: 50985 \nForks: 3673",
+      "creator": "usememos",
+      "summary": "这是一个开源的、可自托管的笔记服务，用户可以完全掌控自己的数据和隐私。服务不追踪用户、不投放广告、不收取订阅费用。使用Go语言开发，目前拥有50985个星标和3673个分支。"
+    },
+    {
+      "title": "afkarxyz/SpotiFLAC",
+      "link": "https://github.com/afkarxyz/SpotiFLAC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0b6d175d47f5bb0fc9e4b870652c3302d639002306e31124fec59004394a0bc8/afkarxyz/SpotiFLAC\" referrerpolicy=\"no-referrer\"><br>Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. <br><br>Language: TypeScript <br>Stars: 2242 <br>Forks: 128",
+      "contentSnippet": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. \nLanguage: TypeScript \nStars: 2242 \nForks: 128",
+      "creator": "afkarxyz",
+      "summary": "afkarxyz/SpotiFLAC是一个项目，它可以从Tidal、Qobuz和Amazon Music获取Spotify曲目，并转换为无损的FLAC格式，无需账户。该项目使用TypeScript编写，拥有2242个星标和128个分支。"
+    },
+    {
+      "title": "harvard-edge/cs249r_book",
+      "link": "https://github.com/harvard-edge/cs249r_book",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/04f62877a69c35a3c73b63e42b691ba199105d0a31ee1e015b5a16e1f53eec88/harvard-edge/cs249r_book\" referrerpolicy=\"no-referrer\"><br>Introduction to Machine Learning Systems <br><br>Language: JavaScript <br>Stars: 15120 <br>Forks: 1720",
+      "contentSnippet": "Introduction to Machine Learning Systems \nLanguage: JavaScript \nStars: 15120 \nForks: 1720",
+      "creator": "harvard-edge",
+      "summary": "文章标题：harvard-edge/cs249r_book\n\n摘要：本文介绍了机器学习系统，使用JavaScript语言编写。该项目在GitHub上获得15120个星标和1720次分叉，显示出较高的社区关注度。内容主要围绕机器学习系统的开发和应用展开，适合对机器学习系统感兴趣的开发者学习和参考。"
+    },
+    {
+      "title": "resemble-ai/chatterbox",
+      "link": "https://github.com/resemble-ai/chatterbox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/21cc6908f6cc5be802f35753189528794fb648d21fdb475e473f1f1f3ad1e426/resemble-ai/chatterbox\" referrerpolicy=\"no-referrer\"><br>SoTA open-source TTS <br><br>Language: Python <br>Stars: 20521 <br>Forks: 2677",
+      "contentSnippet": "SoTA open-source TTS \nLanguage: Python \nStars: 20521 \nForks: 2677",
+      "creator": "resemble-ai",
+      "summary": "\"resemble-ai/chatterbox\"是一个开源的顶级文本到语音(TTS)语言模型，使用Python开发。该项目在GitHub上拥有20521个星标和2677次分叉，显示出其广泛的应用和影响力。"
+    },
+    {
+      "title": "antiwork/gumroad",
+      "link": "https://github.com/antiwork/gumroad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de20c2a031f9b6f329bd8fa43200609e80ecf50014dbcb20940c23587ffdb213/antiwork/gumroad\" referrerpolicy=\"no-referrer\"><br>Sell stuff and see what sticks <br><br>Language: Ruby <br>Stars: 8119 <br>Forks: 1564",
+      "contentSnippet": "Sell stuff and see what sticks \nLanguage: Ruby \nStars: 8119 \nForks: 1564",
+      "creator": "antiwork",
+      "summary": "标题：antiwork/gumroad\n\n摘要：该标题指向一个名为“antiwork/gumroad”的项目，主要功能为销售产品并观察哪些产品受欢迎。项目使用Ruby语言开发，获得8119个星标和1564次分叉。"
+    },
+    {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1052845083/441e06a7-db51-4113-bc4e-10b463d42950\" referrerpolicy=\"no-referrer\"><br>Personal AI Infrastructure for upgrading humans. <br><br>Language: TypeScript <br>Stars: 3197 <br>Forks: 573",
+      "contentSnippet": "Personal AI Infrastructure for upgrading humans. \nLanguage: TypeScript \nStars: 3197 \nForks: 573",
+      "creator": "danielmiessler",
+      "summary": "文章标题：danielmiessler/Personal_AI_Infrastructure\n\n摘要：该项目名为“个人AI基础设施”，旨在通过TypeScript技术升级人类。项目在GitHub上获得3197个星标和573次分叉，展示了其在个人AI领域的影响力。"
+    },
+    {
+      "title": "alexta69/metube",
+      "link": "https://github.com/alexta69/metube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/70eae08b26b62cc0169cc5f3e17976abbc451b2dea9d4afef16846ae207827a0/alexta69/metube\" referrerpolicy=\"no-referrer\"><br>Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) <br><br>Language: Python <br>Stars: 11955 <br>Forks: 810",
+      "contentSnippet": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) \nLanguage: Python \nStars: 11955 \nForks: 810",
+      "creator": "alexta69",
+      "summary": "alexta69/metube是一款基于Python的开源自托管YouTube下载器，提供网页界面，支持youtube-dl和yt-dlp。该项目在GitHub上拥有11955个星标和810次分叉，是一个受欢迎的下载工具。"
+    },
+    {
+      "title": "google-gemini/computer-use-preview",
+      "link": "https://github.com/google-gemini/computer-use-preview",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/110efac5dcec10efd1730d868ecfdb927bcb5619019ce496542492ea8cc2a9c6/google-gemini/computer-use-preview\" referrerpolicy=\"no-referrer\"><br>null <br><br>Language: Python <br>Stars: 2520 <br>Forks: 321",
+      "contentSnippet": "null \nLanguage: Python \nStars: 2520 \nForks: 321",
+      "creator": "google-gemini",
+      "summary": "文章标题：google-gemini/computer-use-preview\n\n摘要：该代码库使用Python语言开发，包含2520个星标和321次分叉。由于内容为空，无法提供具体功能或信息。"
+    }
+  ],
+  "lastUpdated": "2026-01-04T12:50:42.386Z"
+}
