@@ -34,19 +34,24 @@ export const config = {
       category: "科技资讯",
     },
     {
+      name: "Github 博客",
+      url: "https://github.blog/feed/",
+      category: "科技资讯",
+    },
+    {
       name: "Github 今日热门",
       url: "https://rsshub.rssforever.com/github/trending/daily/any",
-      category: "代码项目",
+      category: "开源项目",
     },
     {
       name: "Github 近一周热门",
       url: "https://rsshub.rssforever.com/github/trending/weekly/any",
-      category: "代码项目",
+      category: "开源项目",
     },
     {
       name: "Hugging Face 每日论文",
       url: "https://rsshub.rssforever.com/huggingface/daily-papers",
-      category: "科研论文",
+      category: "科研资讯",
     },
     {
       name: "Hugging Face 博客",
@@ -61,6 +66,11 @@ export const config = {
     {
       name: "Google 研究博客",
       url: "https://rsshub.rssforever.com/google/research",
+      category: "技术博客",
+    },
+    {
+      name: "Google DeepMind",
+      url: "https://deepmind.google/blog/rss.xml",
       category: "技术博客",
     },
     {
