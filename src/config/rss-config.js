@@ -29,6 +29,11 @@ export const config = {
       category: "科技资讯",
     },
     {
+      name: "Google 产品和技术新闻",
+      url: "https://blog.google/rss/",
+      category: "科技资讯",
+    },
+    {
       name: "Github 今日热门",
       url: "https://rsshub.rssforever.com/github/trending/daily/any",
       category: "代码项目",
