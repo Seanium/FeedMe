@@ -113,6 +113,11 @@ export const config = {
       url: "https://rsshub.rssforever.com/bangumi.tv/anime/followrank",
       category: "番剧资讯",
     },
+    {
+      name: "F1 News",
+      url: "https://www.formula1.com/content/fom-website/en/latest/all.xml",
+      category: "体育资讯",
+    }
   ],
   maxItemsPerFeed: 30,
   dataPath: "./public/data",
