@@ -79,6 +79,11 @@ export const config = {
       category: "技术博客",
     },
     {
+      name: "阮一峰的个人网站",
+      url :"http://www.ruanyifeng.com/blog/atom.xml",
+      category: "技术博客",
+    },
+    {
       name: "Microsoft Research",
       url: "https://www.microsoft.com/en-us/research/feed/",
       category: "技术博客",
