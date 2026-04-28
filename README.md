@@ -12,7 +12,7 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
 [![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%203h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
-[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://feedme.icu)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://seanium.github.io/FeedMe/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
 </div>
