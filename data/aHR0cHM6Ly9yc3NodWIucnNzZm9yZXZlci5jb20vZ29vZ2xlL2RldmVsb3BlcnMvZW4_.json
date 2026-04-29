@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Speeding Up AI: Bringing Google Colossus to PyTorch via GCSFS and Rapid Bucket",
+      "link": "https://developers.googleblog.com/en/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "pubDate": "Tue, 28 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-28T16:00:00.000Z",
+      "content": "Google Cloud has introduced a high-performance integration that connects Rapid Storage directly to PyTorch via the fsspec interface to eliminate AI training bottlenecks. By utilizing Google’s Colossus architecture and bidirectional gRPC streaming, the solution offers up to 15 TiB/s aggregate throughput and significant reductions in latency. These improvements allow developers to speed up total training time by 23% with zero code changes required beyond updating the storage bucket type.",
+      "contentSnippet": "Google Cloud has introduced a high-performance integration that connects Rapid Storage directly to PyTorch via the fsspec interface to eliminate AI training bottlenecks. By utilizing Google’s Colossus architecture and bidirectional gRPC streaming, the solution offers up to 15 TiB/s aggregate throughput and significant reductions in latency. These improvements allow developers to speed up total training time by 23% with zero code changes required beyond updating the storage bucket type.",
+      "creator": "Google",
+      "summary": "谷歌云推出高性能集成方案，通过GCSFS和Rapid Bucket技术将PyTorch直接连接到Rapid Storage，消除AI训练瓶颈。利用Colossus架构和双向gRPC流，该方案提供高达15 TiB/s的总吞吐量和显著降低的延迟，使开发者无需代码更改即可将总训练时间缩短23%。"
+    },
+    {
+      "title": "Building real-world on-device AI with LiteRT and NPU",
+      "link": "https://developers.googleblog.com/en/building-real-world-on-device-ai-with-litert-and-npu/",
+      "pubDate": "Wed, 22 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-22T16:00:00.000Z",
+      "content": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
+      "contentSnippet": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
+      "creator": "Google",
+      "summary": "LiteRT是一个面向移动开发者的生产级框架，旨在通过神经处理单元（NPU）突破传统CPU或GPU的性能和电池限制。它提供统一API抽象硬件复杂性，使Google Meet和Epic Games等业界领导者能高效部署实时视频、动画和语音识别等AI模型。该平台还支持开发者使用基准测试工具和跨平台兼容性，实现移动设备、AI PC和工业物联网硬件的无缝AI部署。"
+    },
+    {
+      "title": "Agents CLI in Agent Platform: create to production in one CLI",
+      "link": "https://developers.googleblog.com/en/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "pubDate": "Tue, 21 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-21T16:00:00.000Z",
+      "content": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "contentSnippet": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "creator": "Google",
+      "summary": "谷歌云推出 Agents CLI 工具，旨在简化 AI 代理从本地开发到生产部署的流程。该 CLI 为开发者提供机器可读的 Google Cloud 全栈访问，减少搭建过程中的上下文过载和 token 浪费。通过整合评估、基础设施配置和部署为单一程序框架，CLI 使开发者能在数小时内完成从概念到上线服务，显著缩短传统数周的部署周期。"
+    },
+    {
+      "title": "Production-Ready AI Agents: 5 Lessons from Refactoring a Monolith",
+      "link": "https://developers.googleblog.com/en/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith/",
+      "pubDate": "Mon, 20 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-20T16:00:00.000Z",
+      "content": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google’s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
+      "contentSnippet": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google’s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
+      "creator": "Google",
+      "summary": "文章介绍了如何将一个脆弱的销售研究原型重构为健壮的生产级AI代理，使用了Google的Agent Development Kit（ADK）。通过用编排的子代理和结构化的Pydantic输出替换单体脚本，开发人员消除了静默失败和易碎的解析问题。此外，文章强调动态RAG管道和OpenTelemetry可观察性对于确保AI代理在现实应用中的可扩展性、成本效益和透明度至关重要。"
+    },
+    {
+      "title": "A2UI v0.9: The New Standard for Portable, Framework-Agnostic Generative UI",
+      "link": "https://developers.googleblog.com/en/a2ui-v0-9-generative-ui/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "A2UI v0.9 introduces a framework-agnostic standard designed to help AI agents generate real-time, tailored UI widgets using a company’s existing design system. This update simplifies the developer experience with a new Agent SDK for Python, a shared web-core library, and official support for renderers like React, Flutter, and Angular. By decoupling UI intent from specific platforms, the release enables seamless, low-latency streaming of generative interfaces across web and mobile applications. Integrating with broader ecosystems like AG2 and Vercel, A2UI v0.9 aims to move generative UI from experimental demos to production-ready digital products.",
+      "contentSnippet": "A2UI v0.9 introduces a framework-agnostic standard designed to help AI agents generate real-time, tailored UI widgets using a company’s existing design system. This update simplifies the developer experience with a new Agent SDK for Python, a shared web-core library, and official support for renderers like React, Flutter, and Angular. By decoupling UI intent from specific platforms, the release enables seamless, low-latency streaming of generative interfaces across web and mobile applications. Integrating with broader ecosystems like AG2 and Vercel, A2UI v0.9 aims to move generative UI from experimental demos to production-ready digital products.",
+      "creator": "Google",
+      "summary": "A2UI v0.9发布，推出一套框架无关的生成式UI标准，旨在帮助AI代理实时生成定制化UI组件，并利用现有设计系统。该版本通过Python Agent SDK、共享Web核心库及对React、Flutter、Angular等渲染器的官方支持，简化开发者体验。通过解耦UI意图与特定平台，实现跨Web和移动应用的低延迟流式传输。A2UI v0.9与AG2、Vercel等生态系统整合，推动生成式UI从实验阶段转向生产级数字产品。"
+    },
+    {
+      "title": "MaxText Expands Post-Training Capabilities: Introducing SFT and RL on Single-Host TPUs",
+      "link": "https://developers.googleblog.com/en/maxtext-expands-post-training-capabilities-introducing-sft-and-rl-on-single-host-tpus/",
+      "pubDate": "Wed, 15 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-15T16:00:00.000Z",
+      "content": "MaxText has introduced new support for Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) on single-host TPU configurations, leveraging JAX and the Tunix library for high-performance model refinement. These features enable developers to easily adapt pre-trained models for specialized tasks and complex reasoning using efficient algorithms like GRPO and GSPO. This update streamlines the post-training workflow, offering a scalable path from single-host setups to larger multi-host configurations.",
+      "contentSnippet": "MaxText has introduced new support for Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) on single-host TPU configurations, leveraging JAX and the Tunix library for high-performance model refinement. These features enable developers to easily adapt pre-trained models for specialized tasks and complex reasoning using efficient algorithms like GRPO and GSPO. This update streamlines the post-training workflow, offering a scalable path from single-host setups to larger multi-host configurations.",
+      "creator": "Google",
+      "summary": "MaxText新增了对单主机TPU配置的监督微调（SFT）和强化学习（RL）支持，利用JAX和Tunix库实现高性能模型优化。这些功能使开发者能轻松适配预训练模型，用于特定任务和复杂推理，采用GRPO和GSPO等高效算法。更新简化了模型后训练流程，并支持从单主机扩展到多主机配置。"
+    },
+    {
+      "title": "New enhancements for merchant initiated transactions with the Google Pay API",
+      "link": "https://developers.googleblog.com/en/new-enhancements-for-merchant-initiated-transactions-with-the-google-pay-api/",
+      "pubDate": "Tue, 14 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-14T16:00:00.000Z",
+      "content": "Google has introduced enhancements to the Google Pay API to provide developers with greater flexibility and control over merchant-initiated transactions (MIT). The update includes new objects within the PaymentDataRequest to specifically handle recurring subscriptions, deferred payments like hotel bookings, and automatic account reloads. By allowing merchants to clearly define future payment terms, these changes improve transparency for users and help reduce transaction declines through better token management. Developers can now implement these features to create more seamless and secure long-term payment experiences.",
+      "contentSnippet": "Google has introduced enhancements to the Google Pay API to provide developers with greater flexibility and control over merchant-initiated transactions (MIT). The update includes new objects within the PaymentDataRequest to specifically handle recurring subscriptions, deferred payments like hotel bookings, and automatic account reloads. By allowing merchants to clearly define future payment terms, these changes improve transparency for users and help reduce transaction declines through better token management. Developers can now implement these features to create more seamless and secure long-term payment experiences.",
+      "creator": "Google",
+      "summary": "谷歌更新了Google Pay API，为开发者提供了对商家发起交易（MIT）的更大灵活性和控制权。新版本在PaymentDataRequest中引入了新对象，用于处理订阅、酒店预订延迟支付和自动账户充值等场景。商家可明确定义未来支付条款，提升用户透明度，通过更好的令牌管理减少交易失败。开发者可利用这些功能实现更流畅、安全的长期支付体验。"
+    },
+    {
+      "title": "Subagents have arrived in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/subagents-have-arrived-in-gemini-cli/",
+      "pubDate": "Tue, 14 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-14T16:00:00.000Z",
+      "content": "Gemini CLI has introduced subagents, specialized expert agents that handle complex or high-volume tasks in isolated context windows to keep the primary session fast and focused. These agents can be customized via Markdown files, run in parallel to boost productivity, and are easily invoked using the @agent syntax for targeted delegation. This architecture prevents \"context rot\" by consolidating intricate multi-step executions into concise summaries for the main orchestrator.",
+      "contentSnippet": "Gemini CLI has introduced subagents, specialized expert agents that handle complex or high-volume tasks in isolated context windows to keep the primary session fast and focused. These agents can be customized via Markdown files, run in parallel to boost productivity, and are easily invoked using the @agent syntax for targeted delegation. This architecture prevents \"context rot\" by consolidating intricate multi-step executions into concise summaries for the main orchestrator.",
+      "creator": "Google",
+      "summary": "Gemini CLI引入了子代理功能，这是一种专门处理复杂或高容量任务的专家代理。它们在隔离的上下文窗口中运行，以保持主会话的快速和专注。这些代理可以通过Markdown文件进行定制，可以并行运行以提高生产力，并使用@agent语法轻松调用以实现目标委托。这种架构通过将复杂的执行步骤汇总为简洁的摘要，防止了“上下文陈旧”问题。"
+    },
+    {
+      "title": "Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off",
+      "link": "https://developers.googleblog.com/en/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off/",
+      "pubDate": "Mon, 13 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-13T16:00:00.000Z",
+      "content": "The Google Cloud AI Agent Bake-Off highlights a shift from simple prompt engineering to rigorous agentic engineering, emphasizing that production-ready AI requires a modular, multi-agent architecture. The post outlines five key developer tips, including decomposing complex tasks into specialized sub-agents and using deterministic code for execution to prevent probabilistic errors. Furthermore, it advises developers to prioritize multimodality and open-source protocols like MCP to ensure agents are scalable, integrated, and future-proof against rapidly evolving model capabilities.",
+      "contentSnippet": "The Google Cloud AI Agent Bake-Off highlights a shift from simple prompt engineering to rigorous agentic engineering, emphasizing that production-ready AI requires a modular, multi-agent architecture. The post outlines five key developer tips, including decomposing complex tasks into specialized sub-agents and using deterministic code for execution to prevent probabilistic errors. Furthermore, it advises developers to prioritize multimodality and open-source protocols like MCP to ensure agents are scalable, integrated, and future-proof against rapidly evolving model capabilities.",
+      "creator": "Google",
+      "summary": "谷歌云AI代理烘焙赛强调从简单提示工程转向严格代理工程，指出生产级AI需采用模块化多代理架构。文章提出五点开发者建议：将复杂任务分解为专用子代理，使用确定性代码执行以避免概率性错误，优先考虑多模态和开源协议（如MCP），确保代理可扩展、集成，并能适应快速发展的模型能力。"
+    },
+    {
+      "title": "Get ready for Google I/O: Livestream schedule revealed",
+      "link": "https://developers.googleblog.com/en/get-ready-for-google-io-livestream-schedule-revealed/",
+      "pubDate": "Mon, 13 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-13T16:00:00.000Z",
+      "content": "Google I/O returns May 19–20 to showcase major updates in AI, Android, Chrome, and Cloud, beginning with a keynote on the \"agentic era\" of development. The event will focus on new tools designed to automate complex workflows and simplify the creation of high-quality, AI-ready applications. Attendees can register to access live sessions, technical demos, and professional development resources both live and on-demand.",
+      "contentSnippet": "Google I/O returns May 19–20 to showcase major updates in AI, Android, Chrome, and Cloud, beginning with a keynote on the \"agentic era\" of development. The event will focus on new tools designed to automate complex workflows and simplify the creation of high-quality, AI-ready applications. Attendees can register to access live sessions, technical demos, and professional development resources both live and on-demand.",
+      "creator": "Google",
+      "summary": "Google I/O大会将于5月19日至20日举行，重点展示AI、Android、Chrome和Cloud方面的重大更新，首场主题为“代理时代”的开发。大会将聚焦自动化复杂工作流程、简化高质量AI应用创建的新工具。参会者可注册获取直播、技术演示及专业资源。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:46:04.405Z"
+}

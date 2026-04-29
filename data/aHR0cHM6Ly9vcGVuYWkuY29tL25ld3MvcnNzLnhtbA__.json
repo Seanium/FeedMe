@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Cybersecurity in the Intelligence Age",
+      "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
+      "isoDate": "2026-04-29T04:00:00.000Z",
+      "content": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "contentSnippet": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "creator": "",
+      "summary": "文章标题：网络时代的安全保障\n\n摘要：OpenAI提出五部分行动计划，旨在加强网络时代的安全保障。计划重点在于普及人工智能驱动的网络防御，并保护关键系统。"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-28T00:00:00.000Z",
+      "content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "contentSnippet": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "creator": "",
+      "summary": "OpenAI通过模型安全防护、滥用检测、政策执行及与安全专家合作等方式，致力于保障ChatGPT社区安全。"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "link": "https://openai.com/index/openai-on-aws",
+      "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-28T00:00:00.000Z",
+      "content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "contentSnippet": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "creator": "",
+      "summary": "OpenAI的GPT模型、Codex和Managed Agents已登陆AWS平台，企业可在其AWS环境中构建安全AI应用。此举提升了企业利用云服务开发和管理AI能力的灵活性。"
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
+      "isoDate": "2026-04-27T14:00:00.000Z",
+      "content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "contentSnippet": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "creator": "",
+      "summary": "OpenAI的ChatGPT Enterprise和OpenAI API已获得FedRAMP Moderate认证，允许美国联邦机构安全地采用人工智能技术。"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "isoDate": "2026-04-27T06:00:00.000Z",
+      "content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "contentSnippet": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "creator": "",
+      "summary": "OpenAI与微软宣布修订合作协议，简化合作模式，增加长期稳定性，并支持大规模AI创新。新协议旨在推动双方在人工智能领域的持续合作与发展。"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "contentSnippet": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "creator": "",
+      "summary": "Symphony 是一个开源的 Codex 协调规范，通过将问题追踪器转变为持续运行的代理系统，提高了工程产出并减少了上下文切换。"
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "link": "https://openai.com/index/choco",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "contentSnippet": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "creator": "",
+      "summary": "Choco公司利用OpenAI API实现食品配送自动化，通过AI代理提升效率、增强生产力并促进业务增长。该案例深入展示了AI在现实世界中的实际应用效果。"
+    },
+    {
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles",
+      "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-26T16:00:00.000Z",
+      "content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "contentSnippet": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "creator": "",
+      "summary": "我们的使命是确保通用人工智能（AGI）惠及全人类。Sam Altman分享了指导我们工作的五项原则。"
+    },
+    {
+      "title": "GPT-5.5 System Card",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "isoDate": "2026-04-23T11:00:00.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summary": "文章标题：GPT-5.5 System Card\n\n摘要：本文介绍了GPT-5.5系统卡的相关信息。由于内容被限制，无法提供具体细节。摘要仅基于标题生成，未包含文章实际内容。"
+    },
+    {
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "isoDate": "2026-04-23T11:00:00.000Z",
+      "content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "contentSnippet": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "creator": "",
+      "summary": "介绍GPT-5.5，这是我们迄今最智能的模型，速度更快、能力更强，专为复杂任务设计，如编程、研究和跨工具的数据分析。"
+    },
+    {
+      "title": "Top 10 uses for Codex at work",
+      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "contentSnippet": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "creator": "",
+      "summary": "文章《Top 10 uses for Codex at work》介绍了Codex的10个实际应用场景，包括自动化任务、创建交付成果等。这些应用可帮助用户将真实输入转化为输出，覆盖工具、文件和工作流程，提升工作效率。"
+    },
+    {
+      "title": "How to get started with Codex",
+      "link": "https://openai.com/academy/codex-how-to-start",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "contentSnippet": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "creator": "",
+      "summary": "《如何开始使用Codex》介绍了通过设置项目、创建线程和逐步完成任务来入门Codex的方法，为用户提供了清晰的指导。"
+    },
+    {
+      "title": "What is Codex?",
+      "link": "https://openai.com/academy/what-is-codex",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "contentSnippet": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "creator": "",
+      "summary": "Codex是一款自动化工具，通过连接工具和生成文档、仪表盘等实际输出，帮助用户超越聊天功能，提高工作效率。"
+    },
+    {
+      "title": "Plugins and skills",
+      "link": "https://openai.com/academy/codex-plugins-and-skills",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "contentSnippet": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "creator": "",
+      "summary": "本文介绍了如何使用Codex插件和技能，通过连接工具、访问数据及遵循可重复的工作流程，实现任务自动化并提升结果。这些功能有助于提高工作效率和输出质量。"
+    },
+    {
+      "title": "Working with Codex",
+      "link": "https://openai.com/academy/working-with-codex",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "contentSnippet": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "creator": "",
+      "summary": "本文介绍了如何设置Codex工作空间，包括创建线程和项目、管理文件以及通过分步指导完成任务的流程。内容提供了详细的操作指南，帮助用户高效使用Codex平台进行工作管理。"
+    },
+    {
+      "title": "Codex settings",
+      "link": "https://openai.com/academy/codex-settings",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "contentSnippet": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "creator": "",
+      "summary": "本文介绍了如何配置Codex设置，包括个性化、详细程度和权限等，以顺畅运行任务并定制工作流程。"
+    },
+    {
+      "title": "Automations",
+      "link": "https://openai.com/academy/codex-automations",
+      "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-23T10:00:00.000Z",
+      "content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "contentSnippet": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "creator": "",
+      "summary": "文章介绍了如何在Codex中通过设置定时任务和触发器来自动化处理任务，以创建报告、摘要和周期性工作流程，从而无需手动操作。"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-23T00:00:00.000Z",
+      "content": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "contentSnippet": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "creator": "",
+      "summary": "GPT-5.5 Bio Bug Bounty是一项红队挑战活动，旨在寻找生物安全风险的通用越狱漏洞，奖金最高可达25,000美元。该活动专注于探索GPT-5.5在生物安全方面的潜在漏洞，鼓励参与者发现并报告可能被恶意利用的问题。"
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "pubDate": "Wed, 22 Apr 2026 15:00:00 GMT",
+      "isoDate": "2026-04-22T15:00:00.000Z",
+      "content": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "contentSnippet": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "creator": "",
+      "summary": "OpenAI将ChatGPT免费提供给已验证的美国医生、护士和药剂师，以支持临床护理、文档记录和研究。此举旨在提升医疗专业人士的工作效率。"
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-22T10:00:00.000Z",
+      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "creator": "",
+      "summary": "文章探讨了Codex代理循环中WebSocket和连接范围缓存的应用，分析了它们如何降低API开销并提升模型延迟，从而加速自主工作流程。"
+    },
+    {
+      "title": "Workspace agents",
+      "link": "https://openai.com/academy/workspace-agents",
+      "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-22T10:00:00.000Z",
+      "content": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "contentSnippet": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "creator": "",
+      "summary": "本文介绍了如何在ChatGPT中构建、使用和扩展工作区代理，以自动化重复性工作流程、连接工具并简化团队运营。"
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-22T10:00:00.000Z",
+      "content": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "contentSnippet": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "creator": "",
+      "summary": "ChatGPT中的工作空间代理是使用Codex技术驱动的代理，能够自动化复杂的工作流程，在云端运行，并帮助团队在工具间安全地扩展工作。这些代理提高了工作效率和协作能力。"
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter",
+      "pubDate": "Wed, 22 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-22T00:00:00.000Z",
+      "content": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "contentSnippet": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "creator": "",
+      "summary": "OpenAI隐私过滤器是一款开放权重模型，用于检测和屏蔽文本中的个人身份信息（PII），具有最先进的准确性。"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "pubDate": "Tue, 21 Apr 2026 12:00:00 GMT",
+      "isoDate": "2026-04-21T12:00:00.000Z",
+      "content": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+      "contentSnippet": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+      "creator": "",
+      "summary": "ChatGPT Images 2.0推出了一款先进的图像生成模型，提升了文本渲染能力，支持多语言，并具备更高级的视觉推理功能。"
+    },
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "pubDate": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-21T00:00:00.000Z",
+      "content": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "contentSnippet": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "creator": "",
+      "summary": "OpenAI推出Codex Labs，与Accenture、PwC、Infosys等企业合作，协助其在软件开发全周期中部署和扩展Codex，并实现400万Codex周活跃用户。"
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues ",
+      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-20T00:00:00.000Z",
+      "content": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "contentSnippet": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "creator": "",
+      "summary": "凯悦酒店集团在其全球员工中部署了ChatGPT Enterprise，采用GPT-5.4和Codex技术，旨在提升生产力、运营效率和客户体验。此举有助于推动人工智能在同事间的应用。"
+    },
+    {
+      "title": "Codex for (almost) everything",
+      "link": "https://openai.com/index/codex-for-almost-everything",
+      "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-16T10:00:00.000Z",
+      "content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "contentSnippet": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "creator": "",
+      "summary": "更新后的Codex应用为macOS和Windows平台增加了电脑使用、应用内浏览、图像生成、内存管理和插件等功能，旨在加速开发者工作流程。"
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "isoDate": "2026-04-16T01:00:00.000Z",
+      "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "contentSnippet": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "creator": "",
+      "summary": "OpenAI推出GPT-Rosalind，这是一种前沿推理模型，旨在加速药物发现、基因组分析、蛋白质推理及科学研究工作流程。该模型专为生命科学研究构建，将提升相关领域的效率和准确性。"
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-16T00:00:00.000Z",
+      "content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "contentSnippet": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "creator": "",
+      "summary": "顶尖安全企业与OpenAI合作，通过Trusted Access for Cyber计划使用GPT-5.4-Cyber技术，并获赠1000万美元API资金，以强化全球网络安全防御生态体系。此举旨在共同提升网络安全防护能力，保障整体安全。"
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-15T10:00:00.000Z",
+      "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "contentSnippet": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "creator": "",
+      "summary": "OpenAI更新了Agents SDK，引入了原生沙盒执行和模型原生适配器，使开发者能够构建跨文件和工具的安全、长时运行代理。新功能提升了SDK的执行效率和安全性，支持更复杂的智能体开发。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:44:52.444Z"
+}

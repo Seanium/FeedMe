@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "AutoAdapt: Automated domain adaptation for large language models",
+      "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+      "pubDate": "Wed, 22 Apr 2026 16:25:30 +0000",
+      "isoDate": "2026-04-22T16:25:30.000Z",
+      "content": "<p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The core challenge is domain adaptation, [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/\">AutoAdapt: Automated domain adaptation for large language models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The core challenge is domain adaptation, […]\nThe post AutoAdapt: Automated domain adaptation for large language models appeared first on Microsoft Research.",
+      "creator": "Sidharth Sinha, Anson Bastos, Xuchao Zhang, Akshay Nambi, Rujia Wang, Chetan Bansal",
+      "summary": "AutoAdapt是一种用于大型语言模型的自动化领域自适应技术。该技术旨在解决在实际高风险场景（如法律、医疗和云事件响应）中部署LLM时，因模型难以适应特定领域需求而导致性能和可靠性问题。通过自动化领域自适应过程，AutoAdapt提高了模型的适应性和可复现性，降低了部署难度。"
+    },
+    {
+      "title": "Can we AI our way to a more sustainable world?",
+      "link": "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+      "pubDate": "Mon, 20 Apr 2026 16:24:01 +0000",
+      "isoDate": "2026-04-20T16:24:01.000Z",
+      "content": "<p>Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/\">Can we AI our way to a more sustainable world?</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems.\nThe post Can we AI our way to a more sustainable world? appeared first on Microsoft Research.",
+      "creator": "Doug Burger, Amy Luers, Ishai Menache",
+      "summary": "文章探讨了数据中心运营、效率提升以及人工智能在电气化、材料、食品系统中的潜力对全球排放的影响。专家们分析了AI在推动可持续发展方面的作用，并评估了其可能带来的环境效益。"
+    },
+    {
+      "title": "New Future of Work: AI is driving rapid change, uneven benefits",
+      "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+      "pubDate": "Thu, 09 Apr 2026 16:11:44 +0000",
+      "isoDate": "2026-04-09T16:11:44.000Z",
+      "content": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/\">New Future of Work: AI is driving rapid change, uneven benefits</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI […]\nThe post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research.",
+      "creator": "Jaime Teevan, Sonia Jaffe, Rebecca Janssen, Nancy Baym, Siân Lindley, Bahar Sarrafzadeh, Brent Hecht, Jenna Butler, Jake Hofman, Sean Rintel",
+      "summary": "《未来工作新趋势：AI驱动快速变革，利益分配不均》报告显示，过去五年工作方式持续变化，今年变革尤为显著。报告曾关注技术自动化、加速沟通及信息获取提升生产力，并记录远程工作兴起。如今，生成式AI正加速这一进程，但利益分配不均问题凸显。"
+    },
+    {
+      "title": "Ideas: Steering AI toward the work future we want",
+      "link": "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+      "pubDate": "Thu, 09 Apr 2026 16:10:37 +0000",
+      "isoDate": "2026-04-09T16:10:37.000Z",
+      "content": "<p>Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/\">Ideas: Steering AI toward the work future we want</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.\nThe post Ideas: Steering AI toward the work future we want appeared first on Microsoft Research.",
+      "creator": "Jaime Teevan, Jenna Butler, Jake Hofman, Rebecca Janssen",
+      "summary": "微软首席科学家Jaime Teevan与研究员Jenna Butler、Jake Hofman、Rebecca Janssen共同解读《2025年未来工作报告》，探讨理想的人工智能驱动工作世界。文章探讨了AI是工具还是协作者的本质问题，并强调其重要性。"
+    },
+    {
+      "title": "ADeLe: Predicting and explaining AI performance across tasks",
+      "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+      "pubDate": "Wed, 01 Apr 2026 16:00:58 +0000",
+      "isoDate": "2026-04-01T16:00:58.000Z",
+      "content": "<p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failures or reliably predict outcomes on new tasks. To address this, Microsoft researchers in collaboration with Princeton University and&#160;Universitat&#160;Politècnica&#160;de València introduce ADeLe (opens in new tab) (AI [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/\">ADeLe: Predicting and explaining AI performance across tasks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failures or reliably predict outcomes on new tasks. To address this, Microsoft researchers in collaboration with Princeton University and Universitat Politècnica de València introduce ADeLe (opens in new tab) (AI […]\nThe post ADeLe: Predicting and explaining AI performance across tasks appeared first on Microsoft Research.",
+      "creator": "Lexin Zhou, Xing Xie",
+      "summary": "AI基准测试主要评估大语言模型在特定任务上的表现，但缺乏对其性能驱动能力的深入洞察，无法解释失败或可靠预测新任务的结果。为解决此问题，微软研究人员与普林斯顿大学及瓦伦西亚理工大学合作，推出ADeLe（AI可解释性学习），旨在预测和解释AI在不同任务中的表现，提供更全面的性能分析。"
+    },
+    {
+      "title": "AsgardBench: A benchmark for visually grounded interactive planning",
+      "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+      "pubDate": "Thu, 26 Mar 2026 19:02:53 +0000",
+      "isoDate": "2026-03-26T19:02:53.000Z",
+      "content": "<p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/\">AsgardBench: A benchmark for visually grounded interactive planning</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don’t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems […]\nThe post AsgardBench: A benchmark for visually grounded interactive planning appeared first on Microsoft Research.",
+      "creator": "Andrea Tupini, Lars Liden, Reuben Tan, Yu Wang, Jianfeng Gao",
+      "summary": "AsgardBench是一个用于视觉引导交互式规划的基准测试平台。它模拟机器人清洁厨房等场景，要求系统观察环境、决策行动，并根据意外情况（如任务物品已清洁或水槽堵塞）进行调整。该基准测试聚焦于具身人工智能领域，旨在评估系统在复杂环境中的动态适应能力。"
+    },
+    {
+      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+      "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+      "pubDate": "Thu, 26 Mar 2026 16:03:56 +0000",
+      "isoDate": "2026-03-26T16:03:56.000Z",
+      "content": "<p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/\">GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks […]\nThe post GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation appeared first on Microsoft Research.",
+      "creator": "Sehun Jung, HyunJee Song, Dong-Hee Kim, Reuben Tan, Jianfeng Gao, Yong Jae Lee, Donghyun Kim",
+      "summary": "GroundedPlanBench是一种用于机器人操作的空间定位长时程任务规划方法。该方法旨在解决现有视觉语言模型（VLMs）在决定行动方案和执行位置方面的不足。传统系统将决策分为两步：VLM生成自然语言计划，再由独立模型转换为可执行动作，但常导致方案中断。GroundedPlanBench通过空间定位技术优化这一流程，提高机器人操作的准确性和效率。"
+    },
+    {
+      "title": "Will machines ever be intelligent? ",
+      "link": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+      "pubDate": "Mon, 23 Mar 2026 15:00:21 +0000",
+      "isoDate": "2026-03-23T15:00:21.000Z",
+      "content": "<p>Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/\">Will machines ever be intelligent? </a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence.\nThe post Will machines ever be intelligent?  appeared first on Microsoft Research.",
+      "creator": "Doug Burger,  Subutai Ahmad, Nicolo Fusi",
+      "summary": "文章探讨了机器是否具备真正智能。微软研究院的Subutai Ahmad和Nicolò Fusi与Doug Burger比较了基于Transformer的AI与人类大脑，讨论了持续学习、效率及当前模型是否接近人类智能。"
+    },
+    {
+      "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+      "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+      "pubDate": "Thu, 12 Mar 2026 16:38:45 +0000",
+      "isoDate": "2026-03-12T16:38:45.000Z",
+      "content": "<p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/\">Systematic debugging for AI agents: Introducing the AgentRx framework</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]\nThe post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.",
+      "creator": "Shraddha Barke, Arnav Goyal, Alind Khare, Chetan Bansal",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-framework.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "AI代理从简单聊天机器人向自主系统发展，面临透明度挑战。人类错误易于追溯逻辑，但AI失败时，如幻觉工具输出，难以分析。为解决此问题，微软研究院推出AgentRx框架，通过系统化调试提升AI代理的透明度和可解释性，帮助识别和修复问题。"
+    },
+    {
+      "title": "PlugMem: Transforming raw agent interactions into reusable knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+      "pubDate": "Tue, 10 Mar 2026 16:00:41 +0000",
+      "isoDate": "2026-03-10T16:00:41.000Z",
+      "content": "<p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficult to use. More memory means that agents must search through larger volumes of past interactions to find information relevant to the current task. Without structure, these records mix [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/\">PlugMem: Transforming raw agent interactions into reusable knowledge</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficult to use. More memory means that agents must search through larger volumes of past interactions to find information relevant to the current task. Without structure, these records mix […]\nThe post PlugMem: Transforming raw agent interactions into reusable knowledge appeared first on Microsoft Research.",
+      "creator": "Ke Yang, Michel Galley, Chenglong Wang, Jianfeng Gao, Jiawei Han, ChengXiang Zhai",
+      "summary": "PlugMem旨在解决AI代理交互日志难以利用的问题。随着交互记录的积累，日志会变得庞大且充满无关内容，增加代理搜索相关信息难度。PlugMem通过将原始交互转化为可重用知识，帮助代理更高效地利用历史记录，避免因内存增大而降低效率。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:46:26.388Z"
+}

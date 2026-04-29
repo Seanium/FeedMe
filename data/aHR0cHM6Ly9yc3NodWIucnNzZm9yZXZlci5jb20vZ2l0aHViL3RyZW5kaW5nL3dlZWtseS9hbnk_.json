@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f58ac7af51e5397171e4c5b27158101a542de163f920e7d77fdad812bb009b35/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or discord like openclaw<br><br>Language: Python<br>Stars: 18337<br>Forks: 2605",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw\nLanguage: Python\nStars: 18337\nForks: 2605",
+      "creator": "Alishahryar1",
+      "summary": "标题：Alishahryar1/free-claude-code\n\n摘要：该资源提供免费使用claude-code的方式，支持在终端、VSCode扩展或Discord中使用。项目使用Python开发，在GitHub上获得18337星和2605次分叉。"
+    },
+    {
+      "title": "huggingface/ml-intern",
+      "link": "https://github.com/huggingface/ml-intern",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aece0e9ecf681bf4678a94896453ff3128991c4bb7774b2ae756d0446b3e9dcf/huggingface/ml-intern\" referrerpolicy=\"no-referrer\"><br>🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models<br><br>Language: Python<br>Stars: 7391<br>Forks: 710",
+      "contentSnippet": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models\nLanguage: Python\nStars: 7391\nForks: 710",
+      "creator": "huggingface",
+      "summary": "huggingface/ml-intern是一个开源的机器学习工程师工具，能够阅读论文、训练模型并部署机器学习模型。该工具使用Python开发，在GitHub上拥有7391个星标和710次分叉。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/04488720d591168ee3f54d40e6fe6e01fe7ecbfccb116f6710cfd2e78a0b8ea8/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 42629<br>Forks: 3353",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 42629\nForks: 3353",
+      "creator": "mattpocock",
+      "summary": "文章标题：mattpocock/skills\n\n摘要：该资源提供真实工程师所需技能，内容源自作者.mattpocock目录，使用Shell语言编写。该资源在GitHub上获得42629个星标和3353次分叉。"
+    },
+    {
+      "title": "Z4nzu/hackingtool",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/254832799/05316380-baf8-11ea-95d8-813b0e4100a3\" referrerpolicy=\"no-referrer\"><br>ALL IN ONE Hacking Tool For Hackers<br><br>Language: Python<br>Stars: 68473<br>Forks: 7691",
+      "contentSnippet": "ALL IN ONE Hacking Tool For Hackers\nLanguage: Python\nStars: 68473\nForks: 7691",
+      "creator": "Z4nzu",
+      "summary": "Z4nzu/hackingtool是一款面向黑客的综合性黑客工具，使用Python语言开发。该工具在GitHub上拥有68473个星标和7691次分叉，显示出其较高的受欢迎程度和社区认可度。"
+    },
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/111e35c1d04b51bf32a86d692506f9ea06d918f150d1565ff7954b83737d4e1f/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 99042<br>Forks: 9637",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 99042\nForks: 9637",
+      "creator": "forrestchang",
+      "summary": "该文件名为CLAUDE.md，旨在提升Claude代码行为，其内容源自Andrej Karpathy对大型语言模型（LLM）编码陷阱的观察。该文件在GitHub上获得近9.9万星标和9637次分叉。"
+    },
+    {
+      "title": "zilliztech/claude-context",
+      "link": "https://github.com/zilliztech/claude-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a1c449c66eeed4d8fd6727da07ad5361cee1c4b8eaeec3cf68e6b89c3c44b7b4/zilliztech/claude-context\" referrerpolicy=\"no-referrer\"><br>Code search MCP for Claude Code. Make entire codebase the context for any coding agent.<br><br>Language: TypeScript<br>Stars: 10234<br>Forks: 758",
+      "contentSnippet": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.\nLanguage: TypeScript\nStars: 10234\nForks: 758",
+      "creator": "zilliztech",
+      "summary": "标题：zilliztech/claude-context\n\n摘要：该项目为Claude代码搜索MCP，通过将整个代码库作为任何编码代理的上下文，实现代码搜索功能。使用TypeScript开发，项目在GitHub上获得10234个星标和758次分叉。"
+    },
+    {
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f58ac7af51e5397171e4c5b27158101a542de163f920e7d77fdad812bb009b35/Fincept-Corporation/FinceptTerminal\" referrerpolicy=\"no-referrer\"><br>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.<br><br>Language: Python<br>Stars: 17688<br>Forks: 2401",
+      "contentSnippet": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.\nLanguage: Python\nStars: 17688\nForks: 2401",
+      "creator": "Fincept-Corporation",
+      "summary": "FinceptTerminal是一款现代金融应用程序，提供先进的市况分析、投资研究和经济数据工具，支持用户在友好界面中进行交互式探索和数据驱动决策。该应用使用Python开发，拥有17688个星标和2401个分支。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4936a58a2185ea398945d8f513afce31e3f55a09290793d89f500481607469af/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.<br><br>Language: Go<br>Stars: 2640<br>Forks: 708",
+      "contentSnippet": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.\nLanguage: Go\nStars: 2640\nForks: 708",
+      "creator": "CJackHwang",
+      "summary": "Deepseek to API是一个轻量级、高性能的全栈中间件，用于将客户端协议转换为通用API。支持多账号轮换、编译二进制文件、Vercel Serverless和Docker，兼容Google、Claude和OpenAI API格式。使用Go语言开发，获得2640星和708次分叉。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1ce4950545a4326603206e1af11957c29db15fb15c69d24f35b4b959d5abd5cf/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 7680<br>Forks: 1240",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 7680\nForks: 1240",
+      "creator": "AIDC-AI",
+      "summary": "\"AIDC-AI/Pixelle-Video是一个基于Python开发的AI全自动短视频引擎，旨在实现短视频的自动化制作。该项目在GitHub上拥有7680颗星和1240个分支，显示出较高的社区认可度。\""
+    },
+    {
+      "title": "Anil-matcha/Open-Generative-AI",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8d4cb5cb1747888a758650be8751f997dc5a5870a105abf83ba34c96519d0b6/Anil-matcha/Open-Generative-AI\" referrerpolicy=\"no-referrer\"><br>Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.<br><br>Language: JavaScript<br>Stars: 10043<br>Forks: 1765",
+      "contentSnippet": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.\nLanguage: JavaScript\nStars: 10043\nForks: 1765",
+      "creator": "Anil-matcha",
+      "summary": "Anil-matcha/Open-Generative-AI是一个无限制、开源的AI图像和视频生成平台，替代Higgsfield AI、Freepik AI等工具。平台提供200多种模型（包括Flux、Midjourney等），无需内容过滤，支持自托管，采用MIT许可证。项目使用JavaScript开发，获得10043星和1765次分叉。"
+    },
+    {
+      "title": "trycua/cua",
+      "link": "https://github.com/trycua/cua",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba60571e2afff58c5d3316b72631552c49738de5cadc792979c465213d13c36a/trycua/cua\" referrerpolicy=\"no-referrer\"><br>Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).<br><br>Language: HTML<br>Stars: 15172<br>Forks: 947",
+      "contentSnippet": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).\nLanguage: HTML\nStars: 15172\nForks: 947",
+      "creator": "trycua",
+      "summary": "开源基础设施trycua/cua，提供沙盒、SDK和基准测试，用于训练和评估可控制完整桌面（macOS、Linux、Windows）的AI代理。该平台支持15172星标和947次分叉。"
+    },
+    {
+      "title": "lsdefine/GenericAgent",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f459dba1fd49b50d10da855c803ac77afc3d47842e1ff8e96e3371bc40280d41/lsdefine/GenericAgent\" referrerpolicy=\"no-referrer\"><br>Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption<br><br>Language: Python<br>Stars: 8186<br>Forks: 936",
+      "contentSnippet": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\nLanguage: Python\nStars: 8186\nForks: 936",
+      "creator": "lsdefine",
+      "summary": "开源项目lsdefine/GenericAgent实现了一种自进化智能体，通过从3.3K行代码种子扩展技能树，以6倍更低的token消耗实现全系统控制。该项目使用Python开发，获得8186星标和936次分叉。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4936a58a2185ea398945d8f513afce31e3f55a09290793d89f500481607469af/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms<br><br>Language: TypeScript<br>Stars: 11109<br>Forks: 764",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms\nLanguage: TypeScript\nStars: 11109\nForks: 764",
+      "creator": "mksglu",
+      "summary": "本文介绍了名为mksglu/context-mode的项目，该项目专注于AI编码代理的上下文窗口优化。通过沙盒工具输出，实现了98%的减少，支持14个平台。该项目使用TypeScript开发，获得11109个星标和764次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:45:24.280Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Zed is 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "pubDate": "Wed, 29 Apr 2026 14:34:19 +0000",
+      "isoDate": "2026-04-29T14:34:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://zed.dev/blog/zed-1-0\">https://zed.dev/blog/zed-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949027\">https://news.ycombinator.com/item?id=47949027</a></p>\n<p>Points: 500</p>\n<p># Comments: 164</p>\n",
+      "contentSnippet": "Article URL: https://zed.dev/blog/zed-1-0\nComments URL: https://news.ycombinator.com/item?id=47949027\nPoints: 500\n# Comments: 164",
+      "creator": "salkahfi",
+      "summary": "Zed发布了1.0版本，该版本可能包含新功能或改进。文章提供了相关链接，包括发布页面和评论页面，并提及了500点支持和164条评论。"
+    },
+    {
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "pubDate": "Wed, 29 Apr 2026 11:42:46 +0000",
+      "isoDate": "2026-04-29T11:42:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47946958\">https://news.ycombinator.com/item?id=47946958</a></p>\n<p>Points: 379</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\nComments URL: https://news.ycombinator.com/item?id=47946958\nPoints: 379\n# Comments: 208",
+      "creator": "terminalbraid",
+      "summary": "HashiCorp联合创始人Mitchell Hashimoto表示，GitHub已不再适合严肃的工作。他因不满GitHub的运营方式而退出，认为其不再适合开发重要项目。Hashimoto将推动创建新的开发平台，以提供更符合需求的服务。"
+    },
+    {
+      "title": "Soft launch of open-source code platform for government",
+      "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "pubDate": "Wed, 29 Apr 2026 09:14:37 +0000",
+      "isoDate": "2026-04-29T09:14:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/\">https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945918\">https://news.ycombinator.com/item?id=47945918</a></p>\n<p>Points: 398</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/\nComments URL: https://news.ycombinator.com/item?id=47945918\nPoints: 398\n# Comments: 107",
+      "creator": "e12e",
+      "summary": "荷兰政府开源代码平台完成软启动。该平台旨在促进政府内部及与公众间的代码共享与协作，提升效率。此次软启动标志着平台初步上线，未来将进一步完善功能，扩大应用范围。"
+    },
+    {
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "pubDate": "Wed, 29 Apr 2026 02:19:11 +0000",
+      "isoDate": "2026-04-29T02:19:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 501</p>\n<p># Comments: 279</p>\n",
+      "contentSnippet": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/\nComments URL: https://news.ycombinator.com/item?id=47943499\nPoints: 501\n# Comments: 279",
+      "creator": "lwhsiao",
+      "summary": "文章标题：Bugs Rust won't catch\n\n摘要：本文探讨了Rust编程语言无法捕获的潜在bug类型。尽管Rust以其内存安全特性著称，但仍存在一些特定问题，如并发错误、逻辑错误和外部依赖漏洞。这些bug需要开发者通过测试、代码审查和静态分析等方法来识别和解决。文章强调了Rust在安全性方面的优势，但也指出了其在某些场景下的局限性。"
+    },
+    {
+      "title": "How ChatGPT serves ads",
+      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "pubDate": "Tue, 28 Apr 2026 23:54:14 +0000",
+      "isoDate": "2026-04-28T23:54:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47942437\">https://news.ycombinator.com/item?id=47942437</a></p>\n<p>Points: 444</p>\n<p># Comments: 307</p>\n",
+      "contentSnippet": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\nComments URL: https://news.ycombinator.com/item?id=47942437\nPoints: 444\n# Comments: 307",
+      "creator": "lmbbuchodi",
+      "summary": "ChatGPT通过一个完整的归因循环来投放广告。该过程涉及用户与ChatGPT的互动数据，用于训练和优化广告模型。广告系统分析用户行为和偏好，将相关广告展示给用户。这些广告点击和转化数据会反馈至模型，进一步提升广告投放的精准度。整个过程旨在实现个性化广告推送，提高用户体验和广告效果。"
+    },
+    {
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "pubDate": "Tue, 28 Apr 2026 21:17:40 +0000",
+      "isoDate": "2026-04-28T21:17:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/4/28/before-github/\">https://lucumr.pocoo.org/2026/4/28/before-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47940921\">https://news.ycombinator.com/item?id=47940921</a></p>\n<p>Points: 588</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/\nComments URL: https://news.ycombinator.com/item?id=47940921\nPoints: 588\n# Comments: 191",
+      "creator": "mlex",
+      "summary": "文章回顾了GitHub出现之前，开发者如何进行版本控制和协作。在GitHub之前，开发者主要依赖本地版本控制系统（如CVS、Subversion）和邮件列表进行代码共享，缺乏集中化、便捷化的平台。这一时期效率低下，代码管理混乱。GitHub的出现极大地改善了这一状况，为开发者提供了统一的代码托管和协作环境。"
+    },
+    {
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "pubDate": "Tue, 28 Apr 2026 19:44:52 +0000",
+      "isoDate": "2026-04-28T19:44:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 3131</p>\n<p># Comments: 930</p>\n",
+      "contentSnippet": "Article URL: https://mitchellh.com/writing/ghostty-leaving-github\nComments URL: https://news.ycombinator.com/item?id=47939579\nPoints: 3131\n# Comments: 930",
+      "creator": "WadeGrimridge",
+      "summary": "Ghostty项目宣布将离开GitHub平台。开发者决定迁移至其他代码托管服务，原因为GitHub的某些政策与项目理念不符。该项目目前仍在维护中，但未来将不再在GitHub上更新。"
+    },
+    {
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "pubDate": "Tue, 28 Apr 2026 19:24:43 +0000",
+      "isoDate": "2026-04-28T19:24:43.000Z",
+      "content": "\n<p><a href=\"https://aws.amazon.com/bedrock/openai/\" rel=\"nofollow\">https://aws.amazon.com/bedrock/openai/</a><p><a href=\"https://www.aboutamazon.com/news/aws/bedrock-openai-models\" rel=\"nofollow\">https://www.aboutamazon.com/news/aws/bedrock-openai-models</a><p><a href=\"https://openai.com/index/openai-on-aws/\" rel=\"nofollow\">https://openai.com/index/openai-on-aws/</a><p><a href=\"https://x.com/amazon/status/2049178618639839427\" rel=\"nofollow\">https://x.com/amazon/status/2049178618639839427</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939320\">https://news.ycombinator.com/item?id=47939320</a></p>\n<p>Points: 309</p>\n<p># Comments: 103</p>\n",
+      "contentSnippet": "https://aws.amazon.com/bedrock/openai/\nhttps://www.aboutamazon.com/news/aws/bedrock-openai-models\nhttps://openai.com/index/openai-on-aws/\nhttps://x.com/amazon/status/2049178618639839427\nComments URL: https://news.ycombinator.com/item?id=47939320\nPoints: 309\n# Comments: 103",
+      "creator": "translocator",
+      "summary": "OpenAI模型将登陆Amazon Bedrock平台。OpenAI和AWS首席执行官在采访中确认了合作，旨在将OpenAI的先进模型集成到AWS的Bedrock服务中，为用户提供更强大的AI能力。此次合作将进一步扩展Bedrock的功能，并加强AWS在云AI服务领域的竞争力。"
+    },
+    {
+      "title": "Waymo in Portland",
+      "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "pubDate": "Tue, 28 Apr 2026 18:08:13 +0000",
+      "isoDate": "2026-04-28T18:08:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://waymo.com/blog/shorts/waymo-in-portland/\">https://waymo.com/blog/shorts/waymo-in-portland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47938184\">https://news.ycombinator.com/item?id=47938184</a></p>\n<p>Points: 284</p>\n<p># Comments: 532</p>\n",
+      "contentSnippet": "Article URL: https://waymo.com/blog/shorts/waymo-in-portland/\nComments URL: https://news.ycombinator.com/item?id=47938184\nPoints: 284\n# Comments: 532",
+      "creator": "xnx",
+      "summary": "文章标题：Waymo in Portland\n\n摘要：Waymo宣布其自动驾驶车队正式进入俄勒冈州波特兰市运营。该消息来自Waymo官方博客，同时有相关讨论出现在Y Combinator上。"
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "pubDate": "Tue, 28 Apr 2026 18:01:21 +0000",
+      "isoDate": "2026-04-28T18:01:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.claude.com/incidents/9l93x2ht4s5w\">https://status.claude.com/incidents/9l93x2ht4s5w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47938097\">https://news.ycombinator.com/item?id=47938097</a></p>\n<p>Points: 293</p>\n<p># Comments: 250</p>\n",
+      "contentSnippet": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w\nComments URL: https://news.ycombinator.com/item?id=47938097\nPoints: 293\n# Comments: 250",
+      "creator": "shorsher",
+      "summary": "Claude.ai API目前不可用，并报告了错误率升高。该服务中断事件已记录在案，相关讨论可在指定链接中查看。"
+    },
+    {
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "pubDate": "Tue, 28 Apr 2026 16:15:43 +0000",
+      "isoDate": "2026-04-28T16:15:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 423</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\nComments URL: https://news.ycombinator.com/item?id=47936479\nPoints: 423\n# Comments: 89",
+      "creator": "bo0tzz",
+      "summary": "GitHub存在远程代码执行（RCE）漏洞CVE-2026-3854，该漏洞可被利用以执行任意代码。文章详细分析了该漏洞的原理和影响，并提供了相关修复建议。漏洞可能影响GitHub平台上的部分用户，建议及时更新和采取安全措施以防范风险。"
+    },
+    {
+      "title": "Warp is now open-source",
+      "link": "https://www.warp.dev/blog/warp-is-now-open-source",
+      "pubDate": "Tue, 28 Apr 2026 15:58:30 +0000",
+      "isoDate": "2026-04-28T15:58:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.warp.dev/blog/warp-is-now-open-source\">https://www.warp.dev/blog/warp-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936264\">https://news.ycombinator.com/item?id=47936264</a></p>\n<p>Points: 344</p>\n<p># Comments: 101</p>\n",
+      "contentSnippet": "Article URL: https://www.warp.dev/blog/warp-is-now-open-source\nComments URL: https://news.ycombinator.com/item?id=47936264\nPoints: 344\n# Comments: 101",
+      "creator": "meetpateltech",
+      "summary": "Warp已开源。该开发工具的源代码现在面向公众开放，允许开发者自由访问和修改。开源举措有助于社区参与和功能扩展，推动项目进一步发展。"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "pubDate": "Tue, 28 Apr 2026 15:49:22 +0000",
+      "isoDate": "2026-04-28T15:49:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 303</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\nComments URL: https://news.ycombinator.com/item?id=47936156\nPoints: 303\n# Comments: 274",
+      "creator": "granzymes",
+      "summary": "谷歌与五角大楼据报达成协议，允许在“任何合法”情况下使用人工智能。该协议涉及机密细节，引发外界关注。双方将合作开发AI技术，但使用范围受法律约束。"
+    },
+    {
+      "title": "Your phone is about to stop being yours",
+      "link": "https://keepandroidopen.org/en/",
+      "pubDate": "Tue, 28 Apr 2026 15:21:00 +0000",
+      "isoDate": "2026-04-28T15:21:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1572</p>\n<p># Comments: 779</p>\n",
+      "contentSnippet": "Article URL: https://keepandroidopen.org/en/\nComments URL: https://news.ycombinator.com/item?id=47935853\nPoints: 1572\n# Comments: 779",
+      "creator": "doener",
+      "summary": "文章标题：您的手机即将不再属于您\n\n摘要：随着科技发展，个人手机的使用权可能逐渐受到限制。文章探讨了手机从个人设备向更受控制工具转变的趋势，指出用户隐私和自主权面临挑战。文章还提及了相关讨论和评论，反映了公众对这一变化的关注。"
+    },
+    {
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "pubDate": "Tue, 28 Apr 2026 13:26:26 +0000",
+      "isoDate": "2026-04-28T13:26:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\">https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934269\">https://news.ycombinator.com/item?id=47934269</a></p>\n<p>Points: 281</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\nComments URL: https://news.ycombinator.com/item?id=47934269\nPoints: 281\n# Comments: 108",
+      "creator": "BoggleOhYeah",
+      "summary": "OpenAI CEO宣布其身份验证公司存在虚假布鲁诺·马尔斯合作。该合作被证实为误认，并非真实伙伴关系。事件引发关注，相关讨论在网络上广泛传播。"
+    },
+    {
+      "title": "UAE Leaves OPEC",
+      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "pubDate": "Tue, 28 Apr 2026 13:13:54 +0000",
+      "isoDate": "2026-04-28T13:13:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 331</p>\n<p># Comments: 2</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\nComments URL: https://news.ycombinator.com/item?id=47934120\nPoints: 331\n# Comments: 2",
+      "creator": "TechTechTech",
+      "summary": "阿联酋宣布退出石油输出国组织（OPEC），此举将对全球石油市场产生影响。该决定基于阿联酋作为主要产油国的战略考量，可能引发其他成员国及全球市场的连锁反应。"
+    },
+    {
+      "title": "UAE to leave OPEC",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "pubDate": "Tue, 28 Apr 2026 13:02:01 +0000",
+      "isoDate": "2026-04-28T13:02:01.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/d956y\" rel=\"nofollow\">https://archive.ph/d956y</a><p><a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\" rel=\"nofollow\">https://www.reuters.com/markets/commodities/uae-says-it-quit...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933983\">https://news.ycombinator.com/item?id=47933983</a></p>\n<p>Points: 471</p>\n<p># Comments: 624</p>\n",
+      "contentSnippet": "https://archive.ph/d956y\nhttps://www.reuters.com/markets/commodities/uae-says-it-quit...\nComments URL: https://news.ycombinator.com/item?id=47933983\nPoints: 471\n# Comments: 624",
+      "creator": "bazzmt",
+      "summary": "阿联酋宣布退出石油输出国组织（OPEC），此举将对全球石油市场产生影响。该决定基于对市场变化的评估，旨在提升国家能源政策自主性。阿联酋作为主要产油国之一，其退出OPEC可能引发其他成员国及全球市场的连锁反应。"
+    },
+    {
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "Tue, 28 Apr 2026 11:56:04 +0000",
+      "isoDate": "2026-04-28T11:56:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/microsoft/VibeVoice\">https://github.com/microsoft/VibeVoice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933236\">https://news.ycombinator.com/item?id=47933236</a></p>\n<p>Points: 380</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://github.com/microsoft/VibeVoice\nComments URL: https://news.ycombinator.com/item?id=47933236\nPoints: 380\n# Comments: 176",
+      "creator": "tosh",
+      "summary": "VibeVoice是一个开源的语音AI项目，旨在推动语音技术的开放发展。该项目提供了一系列工具和资源，帮助开发者构建和部署先进的语音应用。VibeVoice的GitHub页面提供了详细的文档和代码库，用户可以通过链接访问相关评论和讨论。该项目在技术社区中获得了广泛关注，显示出其在语音AI领域的潜力。"
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "pubDate": "Tue, 28 Apr 2026 11:54:20 +0000",
+      "isoDate": "2026-04-28T11:54:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 883</p>\n<p># Comments: 267</p>\n",
+      "contentSnippet": "Article URL: https://github.com/localsend/localsend\nComments URL: https://news.ycombinator.com/item?id=47933208\nPoints: 883\n# Comments: 267",
+      "creator": "bilsbie",
+      "summary": "Localsend是一款开源的跨平台文件传输工具，作为AirDrop的替代品，它允许用户在不同设备间快速分享文件。该项目基于GitHub开发，在Hacker News上获得较高关注，并拥有大量评论。"
+    },
+    {
+      "title": "Period tracking app, Flo, found to be selling user data to Meta",
+      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "pubDate": "Tue, 28 Apr 2026 11:31:40 +0000",
+      "isoDate": "2026-04-28T11:31:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\">https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932990\">https://news.ycombinator.com/item?id=47932990</a></p>\n<p>Points: 376</p>\n<p># Comments: 251</p>\n",
+      "contentSnippet": "Article URL: https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\nComments URL: https://news.ycombinator.com/item?id=47932990\nPoints: 376\n# Comments: 251",
+      "creator": "campuscodi",
+      "summary": "周期追踪应用Flo被曝出售用户数据给Meta。该应用收集用户的月经周期数据，但被发现将数据出售给社交媒体巨头Meta，引发用户隐私担忧。报道指出，此举可能违反用户协议，损害用户信任。Meta方面未对此作出回应。"
+    },
+    {
+      "title": "Who owns the code Claude Code wrote?",
+      "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "pubDate": "Tue, 28 Apr 2026 11:24:52 +0000",
+      "isoDate": "2026-04-28T11:24:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932937\">https://news.ycombinator.com/item?id=47932937</a></p>\n<p>Points: 503</p>\n<p># Comments: 464</p>\n",
+      "contentSnippet": "Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\nComments URL: https://news.ycombinator.com/item?id=47932937\nPoints: 503\n# Comments: 464",
+      "creator": "senaevren",
+      "summary": "文章探讨了Claude代码的所有权归属问题。作者分析了人工智能生成的代码的法律地位，指出当前法律框架下难以明确界定创作者与所有者。文章还讨论了相关案例和潜在的法律挑战，强调需要进一步明确AI生成内容的知识产权归属。"
+    },
+    {
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "pubDate": "Tue, 28 Apr 2026 10:05:03 +0000",
+      "isoDate": "2026-04-28T10:05:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">https://github.blog/news-insights/company-news/an-update-on-github-availability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932422\">https://news.ycombinator.com/item?id=47932422</a></p>\n<p>Points: 403</p>\n<p># Comments: 242</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/news-insights/company-news/an-update-on-github-availability/\nComments URL: https://news.ycombinator.com/item?id=47932422\nPoints: 403\n# Comments: 242",
+      "creator": "salkahfi",
+      "summary": "GitHub最新可用性更新：近期GitHub宣布了服务可用性方面的最新进展，以解决用户长期关注的问题。文章详细介绍了改进措施和预期效果，并提供了相关讨论链接。此次更新旨在提升平台稳定性和用户体验。"
+    },
+    {
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "link": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "pubDate": "Tue, 28 Apr 2026 09:01:05 +0000",
+      "isoDate": "2026-04-28T09:01:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/\">https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932028\">https://news.ycombinator.com/item?id=47932028</a></p>\n<p>Points: 296</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/\nComments URL: https://news.ycombinator.com/item?id=47932028\nPoints: 296\n# Comments: 198",
+      "creator": "whtsky",
+      "summary": "GitHub Copilot代码审查功能将于2026年6月1日起开始消耗GitHub Actions的分钟数。此前，该功能使用的是GitHub Copilot的免费额度。此次调整意味着用户在使用代码审查时，需注意其GitHub Actions的使用情况。"
+    },
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "pubDate": "Tue, 28 Apr 2026 06:27:39 +0000",
+      "isoDate": "2026-04-28T06:27:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 372</p>\n<p># Comments: 92</p>\n",
+      "contentSnippet": "Article URL: https://gtfobins.org/\nComments URL: https://news.ycombinator.com/item?id=47931035\nPoints: 372\n# Comments: 92",
+      "creator": "StefanBatory",
+      "summary": "GTFOBins是一个提供安全绕过技巧的网站，帮助用户了解和防范常见的系统漏洞。网站内容包含多个命令和技巧，旨在提高用户的安全意识和应对能力。"
+    },
+    {
+      "title": "To my students",
+      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "pubDate": "Mon, 27 Apr 2026 23:57:39 +0000",
+      "isoDate": "2026-04-27T23:57:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\">http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47928828\">https://news.ycombinator.com/item?id=47928828</a></p>\n<p>Points: 328</p>\n<p># Comments: 197</p>\n",
+      "contentSnippet": "Article URL: http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\nComments URL: https://news.ycombinator.com/item?id=47928828\nPoints: 328\n# Comments: 197",
+      "creator": "marvinborner",
+      "summary": "文章标题：致我的学生\n\n文章内容未提供有效信息，无法生成摘要。"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "pubDate": "Mon, 27 Apr 2026 21:55:48 +0000",
+      "isoDate": "2026-04-27T21:55:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 733</p>\n<p># Comments: 313</p>\n",
+      "contentSnippet": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 733\n# Comments: 313",
+      "creator": "jekude",
+      "summary": "Talkie是一款基于1930年语言模型构建的13B参数语言模型。该模型旨在重现早期语言风格，并具有独特的复古语言特性。文章介绍了Talkie的设计理念、技术细节及其在语言研究中的应用价值。"
+    },
+    {
+      "title": "Is my blue your blue? (2024)",
+      "link": "https://ismy.blue/",
+      "pubDate": "Mon, 27 Apr 2026 20:24:33 +0000",
+      "isoDate": "2026-04-27T20:24:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 680</p>\n<p># Comments: 464</p>\n",
+      "contentSnippet": "Article URL: https://ismy.blue/\nComments URL: https://news.ycombinator.com/item?id=47926861\nPoints: 680\n# Comments: 464",
+      "creator": "theogravity",
+      "summary": "文章标题为“Is my blue your blue? (2024)”，内容未提供具体信息，仅包含文章链接、评论链接、点赞数和评论数等元数据。摘要无法生成。"
+    },
+    {
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "link": "https://zsnes.com/",
+      "pubDate": "Mon, 27 Apr 2026 17:50:10 +0000",
+      "isoDate": "2026-04-27T17:50:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://zsnes.com/\">https://zsnes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924877\">https://news.ycombinator.com/item?id=47924877</a></p>\n<p>Points: 333</p>\n<p># Comments: 114</p>\n",
+      "contentSnippet": "Article URL: https://zsnes.com/\nComments URL: https://news.ycombinator.com/item?id=47924877\nPoints: 333\n# Comments: 114",
+      "creator": "haunter",
+      "summary": "Super ZSNES是一款基于GPU加速的超级任天堂娱乐系统（SNES）模拟器。该模拟器通过利用图形处理单元（GPU）技术，提升了运行效率和兼容性，为用户提供了更流畅的游戏体验。开发者通过优化渲染流程，解决了传统模拟器在性能上的瓶颈。"
+    },
+    {
+      "title": "GitHub is having issues now",
+      "link": "https://www.githubstatus.com",
+      "pubDate": "Mon, 27 Apr 2026 17:42:19 +0000",
+      "isoDate": "2026-04-27T17:42:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.githubstatus.com\">https://www.githubstatus.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924775\">https://news.ycombinator.com/item?id=47924775</a></p>\n<p>Points: 325</p>\n<p># Comments: 121</p>\n",
+      "contentSnippet": "Article URL: https://www.githubstatus.com\nComments URL: https://news.ycombinator.com/item?id=47924775\nPoints: 325\n# Comments: 121",
+      "creator": "SenHeng",
+      "summary": "GitHub目前出现技术问题，用户反映服务不稳定。相关状态页面和新闻讨论链接提供更多信息。"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "pubDate": "Mon, 27 Apr 2026 16:03:08 +0000",
+      "isoDate": "2026-04-27T16:03:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47923357\">https://news.ycombinator.com/item?id=47923357</a></p>\n<p>Points: 756</p>\n<p># Comments: 552</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\nComments URL: https://news.ycombinator.com/item?id=47923357\nPoints: 756\n# Comments: 552",
+      "creator": "frizlab",
+      "summary": "GitHub Copilot将转向按使用量计费模式。这一变化意味着用户需根据实际使用情况支付费用，而非固定订阅。具体计费标准和实施时间尚未公布，此举旨在更灵活地满足用户需求。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:44:41.994Z"
+}

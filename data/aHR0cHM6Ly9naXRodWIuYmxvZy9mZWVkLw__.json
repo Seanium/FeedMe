@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "pubDate": "Tue, 28 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-28T18:00:00.000Z",
+      "content": "<p>Discover how to format and edit your comments and posts using Markdown.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/\">GitHub for Beginners: Getting started with Markdown</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Discover how to format and edit your comments and posts using Markdown.\nThe post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
+      "creator": "Kedasha Kerr",
+      "summary": "文章介绍了如何使用Markdown格式化并编辑GitHub上的评论和帖子。内容主要面向初学者，帮助读者掌握Markdown的基本操作，以便更好地在GitHub上发布内容。"
+    },
+    {
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "pubDate": "Tue, 28 Apr 2026 15:30:00 +0000",
+      "isoDate": "2026-04-28T15:30:00.000Z",
+      "content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.\nThe post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on The GitHub Blog.",
+      "creator": "Alexis Wales",
+      "summary": "文章标题：Securing the git push pipeline: Responding to a critical remote code execution vulnerability\n\n摘要：本文介绍了GitHub团队在不到两小时内验证、修复并调查一项关键远程代码执行漏洞的过程，并确认未发现实际利用情况。"
+    },
+    {
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "pubDate": "Tue, 28 Apr 2026 10:01:37 +0000",
+      "isoDate": "2026-04-28T10:01:37.000Z",
+      "content": "<p>Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">An update on GitHub availability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.\nThe post An update on GitHub availability appeared first on The GitHub Blog.",
+      "creator": "Vlad Fedorov",
+      "summary": "GitHub发布更新，介绍了为提升服务可用性和可靠性所采取的措施及后续计划。文章内容来自The GitHub Blog。"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "pubDate": "Mon, 27 Apr 2026 15:58:22 +0000",
+      "isoDate": "2026-04-27T15:58:22.000Z",
+      "content": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Starting June 1, your Copilot usage will consume GitHub AI Credits.\nThe post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
+      "creator": "Mario Rodriguez",
+      "summary": "GitHub Copilot将从6月1日起转向按使用量计费模式，用户的使用将消耗GitHub AI Credits。此变化已发布在GitHub博客上。"
+    },
+    {
+      "title": "Changes to GitHub Copilot Individual plans",
+      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "pubDate": "Mon, 20 Apr 2026 18:15:28 +0000",
+      "isoDate": "2026-04-20T18:15:28.000Z",
+      "content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We're making these changes to ensure a reliable and predictable experience for existing customers.\nThe post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
+      "creator": "Joe Binder",
+      "summary": "GitHub宣布对GitHub Copilot个人计划进行修改，旨在为现有用户提供稳定和可预测的使用体验。此次调整是为了确保服务的持续优化和客户满意度。"
+    },
+    {
+      "title": "Highlights from Git 2.54",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "pubDate": "Mon, 20 Apr 2026 16:43:57 +0000",
+      "isoDate": "2026-04-20T16:43:57.000Z",
+      "content": "<p>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.54 appeared first on The GitHub Blog.",
+      "creator": "Taylor Blau",
+      "summary": "Git 2.54开源项目最新版本发布，GitHub整理了该版本自上次更新引入的有趣功能和变更。"
+    },
+    {
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "pubDate": "Fri, 17 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-17T18:00:00.000Z",
+      "content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how we created an emoji list generator during the Rubber Duck Thursday stream.\nThe post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summary": "文章介绍了在GitHub Copilot CLI中创建表情符号列表生成器的过程，该内容通过Rubber Duck Thursday直播展示。文章来源于The GitHub Blog。"
+    },
+    {
+      "title": "Bringing more transparency to GitHub’s status page",
+      "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-17T16:00:00.000Z",
+      "content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.\nThe post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summary": "GitHub状态页将迎来更新，通过提供更具体的数据，用户将能更清晰地了解平台的整体健康状况。此次改动旨在提升透明度，确保用户获得更好的使用洞察。"
+    },
+    {
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. \nThe post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
+      "creator": "Lawrence Gripper",
+      "summary": "GitHub采用eBPF技术检测并防止其部署工具中的循环依赖，以提升部署安全性。该技术通过增强监控和预防机制，有效减少了部署过程中的潜在风险，保障了系统的稳定运行。"
+    },
+    {
+      "title": "Build a personal organization command center with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+      "pubDate": "Wed, 15 Apr 2026 17:00:00 +0000",
+      "isoDate": "2026-04-15T17:00:00.000Z",
+      "content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.\nThe post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summary": "文章介绍了GitHub一位工程师开发的生产力工具，以及AI如何辅助其开发过程。该工具旨在构建个人组织指挥中心，利用GitHub Copilot CLI实现高效管理。文章来源于The GitHub Blog。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:44:57.712Z"
+}

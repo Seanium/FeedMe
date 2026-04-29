@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "warpdotdev/warp",
+      "link": "https://github.com/warpdotdev/warp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/384219990/b575e759-fc36-4fd6-b41f-ece62db004fe\" referrerpolicy=\"no-referrer\"><br>Warp is an agentic development environment, born out of the terminal.<br><br>Language: Rust<br>Stars: 41639<br>Forks: 2402",
+      "contentSnippet": "Warp is an agentic development environment, born out of the terminal.\nLanguage: Rust\nStars: 41639\nForks: 2402",
+      "creator": "warpdotdev",
+      "summary": "Warp 是一个基于终端的智能开发环境，使用 Rust 语言开发。该工具在 GitHub 上拥有 41639 个星标和 2402 个分支。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5957f889f17f74835b8c98c679ee967dd492e532818d2af59b0122d844a3348c/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 42628<br>Forks: 3353",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 42628\nForks: 3353",
+      "creator": "mattpocock",
+      "summary": "文章标题：mattpocock/skills\n\n摘要：该资源提供真实工程师所需技能，内容源自作者.mattpocock目录，使用Shell语言编写。该资源在GitHub上获得42628个星标和3353次分叉，广受关注。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/03d08846a0d7b9894e7e9aca6e321762a9f9f46ee8acf90ad9a3a1ce1905a5f0/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 11355<br>Forks: 1560",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 11355\nForks: 1560",
+      "creator": "HunxByts",
+      "summary": "HunxByts/GhostTrack是一个用于追踪位置或手机号码的实用工具，使用Python开发。该工具在GitHub上获得11355个星标和1560次分叉。"
+    },
+    {
+      "title": "ComposioHQ/awesome-codex-skills",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/64fffbb8d32d69b715b4affbe863eb27485d591a25ece888bee0420428eeba31/ComposioHQ/awesome-codex-skills\" referrerpolicy=\"no-referrer\"><br>A curated list of practical Codex skills for automating workflows across the Codex CLI and API.<br><br>Language: Python<br>Stars: 4631<br>Forks: 290",
+      "contentSnippet": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nLanguage: Python\nStars: 4631\nForks: 290",
+      "creator": "ComposioHQ",
+      "summary": "ComposioHQ/awesome-codex-skills是一个精选的Codex技能列表，旨在通过Codex CLI和API自动化工作流程。该列表使用Python编写，包含4631个星标和290个分支。"
+    },
+    {
+      "title": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/62ac97948c25c4fa672777b7bbe24bda3201312bbce6b73fe34ec46216cfc5e9/1jehuang/jcode\" referrerpolicy=\"no-referrer\"><br>Coding Agent Harness<br><br>Language: Rust<br>Stars: 1188<br>Forks: 114",
+      "contentSnippet": "Coding Agent Harness\nLanguage: Rust\nStars: 1188\nForks: 114",
+      "creator": "1jehuang",
+      "summary": "标题：1jehuang/jcode\n\n摘要：项目“1jehuang/jcode”使用Rust语言开发，是一个代码库。该库在GitHub上拥有1188个星标和114次分叉。"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ac39760844ec8a0dab37013659846ffc988c70ab26da78d800180a144b4ed819/abhigyanpatwari/GitNexus\" referrerpolicy=\"no-referrer\"><br>GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration<br><br>Language: TypeScript<br>Stars: 33186<br>Forks: 3761",
+      "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration\nLanguage: TypeScript\nStars: 33186\nForks: 3761",
+      "creator": "abhigyanpatwari",
+      "summary": "GitNexus是一款浏览器端的代码智能引擎，通过在浏览器中运行，用户可上传GitHub仓库或ZIP文件，生成交互式知识图谱，并内置Graph RAG Agent，便于代码探索。该工具使用TypeScript开发，在GitHub上拥有33186星和3761个分支。"
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f459dba1fd49b50d10da855c803ac77afc3d47842e1ff8e96e3371bc40280d41/microsoft/VibeVoice\" referrerpolicy=\"no-referrer\"><br>Open-Source Frontier Voice AI<br><br>Language: Python<br>Stars: 45519<br>Forks: 5030",
+      "contentSnippet": "Open-Source Frontier Voice AI\nLanguage: Python\nStars: 45519\nForks: 5030",
+      "creator": "microsoft",
+      "summary": "Microsoft/VibeVoice是一个开源的Python语音AI语言模型，在GitHub上拥有45519个星标和5030个分支。该模型专注于语音领域的人工智能技术，为开发者提供了丰富的资源和工具。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4936a58a2185ea398945d8f513afce31e3f55a09290793d89f500481607469af/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.<br><br>Language: Go<br>Stars: 2640<br>Forks: 708",
+      "contentSnippet": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.\nLanguage: Go\nStars: 2640\nForks: 708",
+      "creator": "CJackHwang",
+      "summary": "Deepseek to API是一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账号轮换、编译二进制文件、Vercel Serverless和Docker，兼容Google、Claude和OpenAI API格式。使用Go语言开发，获得2640星和708次分叉。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/40dab22788f480047b31c5290ac97f26c314e3a08e0a4ade0d5b693ea7423abf/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 172797<br>Forks: 15246",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 172797\nForks: 15246",
+      "creator": "obra",
+      "summary": "该文章介绍了一种名为obra/superpowers的智能技能框架和软件开发方法论，适用于Shell环境。该框架和方法论在GitHub上拥有172,797颗星和15,246个分支，表明其受到广泛认可和使用。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.<br><br>Language: Python<br>Stars: 32592<br>Forks: 32874",
+      "contentSnippet": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.\nLanguage: Python\nStars: 32592\nForks: 32874",
+      "creator": "ZhuLinsen",
+      "summary": "该工具是一款基于LLM的A/H/美股智能分析器，整合多数据源行情、实时新闻及LLM决策仪表盘，支持多渠道推送，可零成本定时运行。语言为Python，在GitHub上拥有32592星和32874次分叉。"
+    },
+    {
+      "title": "lukilabs/craft-agents-oss",
+      "link": "https://github.com/lukilabs/craft-agents-oss",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b88e0a2b4ae2180252130af97ce5590cbfcdd5b2836393f27cf9ca4c7d850eac/lukilabs/craft-agents-oss\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 5254<br>Forks: 719",
+      "contentSnippet": "Language: TypeScript\nStars: 5254\nForks: 719",
+      "creator": "lukilabs",
+      "summary": "标题：lukilabs/craft-agents-oss  \n摘要：该项目使用TypeScript开发，GitHub上拥有5254个星标和719个分支。"
+    },
+    {
+      "title": "EbookFoundation/free-programming-books",
+      "link": "https://github.com/EbookFoundation/free-programming-books",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5486abbd810381318a9608f69e1ae83cb07235ade54404e613d62f5f4624b17c/EbookFoundation/free-programming-books\" referrerpolicy=\"no-referrer\"><br>:books: Freely available programming books<br><br>Language: Python<br>Stars: 387042<br>Forks: 66178",
+      "contentSnippet": ":books: Freely available programming books\nLanguage: Python\nStars: 387042\nForks: 66178",
+      "creator": "EbookFoundation",
+      "summary": "EbookFoundation/free-programming-books是一个提供免费编程书籍的GitHub项目，主要包含Python相关书籍。该项目拥有387,042个星标和66,178次分叉，受到广泛关注。"
+    },
+    {
+      "title": "soxoj/maigret",
+      "link": "https://github.com/soxoj/maigret",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/275386910/d6d7e536-6597-40dc-a204-391431ce57db\" referrerpolicy=\"no-referrer\"><br>🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites<br><br>Language: Python<br>Stars: 20022<br>Forks: 1411",
+      "contentSnippet": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\nLanguage: Python\nStars: 20022\nForks: 1411",
+      "creator": "soxoj",
+      "summary": "标题：soxoj/maigret\n\n摘要：该工具通过Python从3000多个网站收集用户资料，功能包括收集个人用户档案信息。项目在GitHub上获得20022个星标和1411次分叉。"
+    },
+    {
+      "title": "iv-org/invidious",
+      "link": "https://github.com/iv-org/invidious",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b96a1202d373c3f445aab7235aad8c2425feed549a5d0527bf726c3155d833d5/iv-org/invidious\" referrerpolicy=\"no-referrer\"><br>Invidious is an alternative front-end to YouTube<br><br>Language: Crystal<br>Stars: 19333<br>Forks: 2132",
+      "contentSnippet": "Invidious is an alternative front-end to YouTube\nLanguage: Crystal\nStars: 19333\nForks: 2132",
+      "creator": "iv-org",
+      "summary": "Invidious是一个YouTube的替代前端。"
+    },
+    {
+      "title": "gorhill/uBlock",
+      "link": "https://github.com/gorhill/uBlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de7861c68bcb4fd83d5931502101e500a376f990269d10d2d22d19dcfd389b07/gorhill/uBlock\" referrerpolicy=\"no-referrer\"><br>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.<br><br>Language: JavaScript<br>Stars: 63943<br>Forks: 4070",
+      "contentSnippet": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.\nLanguage: JavaScript\nStars: 63943\nForks: 4070",
+      "creator": "gorhill",
+      "summary": "uBlock Origin是一款高效的网络内容拦截器，适用于Chromium和Firefox浏览器。它以JavaScript语言开发，运行速度快且资源占用少。该项目在GitHub上拥有63,943个星标和4,070个分支。"
+    },
+    {
+      "title": "microsoft/PowerToys",
+      "link": "https://github.com/microsoft/PowerToys",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/184456251/6fa0e600-b17f-11ea-9360-1f79417d8a69\" referrerpolicy=\"no-referrer\"><br>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br><br>Language: C#<br>Stars: 132275<br>Forks: 7909",
+      "contentSnippet": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows\nLanguage: C#\nStars: 132275\nForks: 7909",
+      "creator": "microsoft",
+      "summary": "Microsoft PowerToys 是一套提升 Windows 产品力和定制性的实用工具集，旨在增强用户生产力。该项目使用 C# 开发，在 GitHub 上拥有 132,275 个星标和 7,909 次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:45:14.940Z"
+}

@@ -1,0 +1,433 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "A new way to create a digital wardrobe from your Google Photos",
+      "link": "https://blog.google/products-and-platforms/products/photos/google-photos-wardrobe-feature/",
+      "pubDate": "Wed, 29 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/A80_Google_Photos_wardrobe_0424.max-600x600.format-webp.webp\">A new Google Photos feature catalogs the clothes in your wardrobe from your library.",
+      "contentSnippet": "A new Google Photos feature catalogs the clothes in your wardrobe from your library.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tommy Meaney"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google Photos"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌相册新增功能可自动整理用户衣橱中的衣物，从相册库中分类记录。"
+    },
+    {
+      "title": "You can now easily generate files in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
+      "pubDate": "Wed, 29 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/You_can_now_easily_generate_fil.max-600x600.format-webp_8VXU63o.webp\">Move from a brainstorm to a polished document, sheet or PDF with a single prompt in Gemini.",
+      "contentSnippet": "Move from a brainstorm to a polished document, sheet or PDF with a single prompt in Gemini.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maryam Sanglaji"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemini现在可以轻松生成文件。通过一个提示，用户可以将创意构思快速转换为精美的文档、表格或PDF文件。"
+    },
+    {
+      "title": "Enjoy new ways to create, search and stream on Google TV",
+      "link": "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+      "pubDate": "Wed, 29 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-29T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_hero_image_-_dynamic_sl.max-600x600.format-webp.webp\">Google TV adds tools to create fun images and videos, fresh ways to showcase Google Photos — and soon a new row to stream short videos.",
+      "contentSnippet": "Google TV adds tools to create fun images and videos, fresh ways to showcase Google Photos — and soon a new row to stream short videos.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael DelGaudio"
+        ],
+        "title": [
+          "UX Manager & Design Lead"
+        ],
+        "department": [
+          "Google TV"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Google TV新增创意工具，支持制作图片和视频，优化Google Photos展示方式，并计划增加短视频流媒体专区，为用户带来更多创作、搜索和观看体验。"
+    },
+    {
+      "title": "Gemini launches new personalisation features in the UK",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/gemini-launches-new-personalisation-features-in-the-uk/",
+      "pubDate": "Wed, 29 Apr 2026 11:00:00 +0000",
+      "isoDate": "2026-04-29T11:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/8_fXJ2FWX.max-600x600.format-webp.webp\">Our vision for Gemini is to build an assistant that truly understands you—one that evolves with your needs rather than providing one-size-fits-all responses. Today, we’r…",
+      "contentSnippet": "Our vision for Gemini is to build an assistant that truly understands you—one that evolves with your needs rather than providing one-size-fits-all responses. Today, we’r…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maryam Sanglaji"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemini在英国推出新的个性化功能，旨在打造一个能真正理解用户的助手，使其随用户需求演变而非提供千篇一律的回答。"
+    },
+    {
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "pubDate": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-28T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "contentSnippet": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rose Yao"
+        ],
+        "title": [
+          "VP, Product, Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌为庆祝翻译官20周年，分享了20个趣味事实。从2006年的AI实验起步，如今支持近250种语言。文章还介绍了实用技巧和新增功能，回顾其发展历程。"
+    },
+    {
+      "title": "We're announcing the first West Memphis Energy Impact Fund recipients.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-memphis-energy-impact-fund-recipients/",
+      "pubDate": "Tue, 28 Apr 2026 15:30:00 +0000",
+      "isoDate": "2026-04-28T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/arkansas_energyimpact.max-600x600.format-webp.webp\">The West Memphis Energy Impact Fund announced its first grant recipients, kicking off a $25 million commitment to energy efficiency in Greater West Memphis and Crittende…",
+      "contentSnippet": "The West Memphis Energy Impact Fund announced its first grant recipients, kicking off a $25 million commitment to energy efficiency in Greater West Memphis and Crittende…",
+      "creator": "",
+      "summary": "西孟菲斯能源影响基金宣布首批资助对象，启动对大西孟菲斯和克里滕登地区的能源效率提升计划，承诺投入2500万美元。"
+    },
+    {
+      "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
+      "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-28T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/26009_Google_Agentic_Thumbnail0.max-600x600.format-webp.webp\">Google donates the Agent Payments Protocol (AP2) to the FIDO Alliance to help secure the evolution of AI-driven commerce.",
+      "contentSnippet": "Google donates the Agent Payments Protocol (AP2) to the FIDO Alliance to help secure the evolution of AI-driven commerce.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Stavan Parikh"
+        ],
+        "title": [
+          "VP/GM"
+        ],
+        "department": [
+          "Payments"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌向FIDO联盟捐赠了代理支付协议（AP2），以支持AI驱动商业的未来发展，并保障其安全演进。此举旨在推动安全、智能支付生态的进步，促进相关技术的标准化和开放合作。"
+    },
+    {
+      "title": "Expanding digital IDs in India and around the world",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/aadhaar-digital-id/",
+      "pubDate": "Tue, 28 Apr 2026 04:30:00 +0000",
+      "isoDate": "2026-04-28T04:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Aadhaar_hero_j1Hg0MB.max-600x600.format-webp.webp\">Consumers in India can now save their Aadhaar Verifiable Credentials in Google Wallet and digital IDs expand to more countries.",
+      "contentSnippet": "Consumers in India can now save their Aadhaar Verifiable Credentials in Google Wallet and digital IDs expand to more countries.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alan Stapelberg"
+        ],
+        "title": [
+          "Group Product Manager, Google Wallet"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "印度用户可将Aadhaar可验证凭证保存至Google钱包，数字身份系统扩展至更多国家。此举旨在提升数字身份应用的便捷性和安全性，促进跨境数据流通。"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "pubDate": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-27T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "contentSnippet": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anant Nawalgaria"
+        ],
+        "title": [
+          "Group Product Manager, Founder of GenAI Intensive"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌与Kaggle联合推出为期五天的AI Agents强化课程，现已开放报名。该课程旨在帮助学员深入了解AI代理技术，内容涵盖相关知识和实践应用。"
+    },
+    {
+      "title": "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite.",
+      "link": "https://blog.google/products/marketingplatform/360/albertsons-google-commerce-media-suite/",
+      "pubDate": "Mon, 27 Apr 2026 12:00:00 +0000",
+      "isoDate": "2026-04-27T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_social_share.max-600x600.format-webp.webp\">Supercharge performance across the shopper journey by connecting Albertsons data with Google’s AI and scale.",
+      "contentSnippet": "Supercharge performance across the shopper journey by connecting Albertsons data with Google’s AI and scale.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Marta Martinez"
+        ],
+        "title": [
+          "Managing Director"
+        ],
+        "department": [
+          "Google Marketing Platform"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Albertsons Media Collective通过将自身数据与Google的AI和规模相结合，利用Google的Commerce Media Suite将零售信号带到YouTube，旨在提升购物者旅程中的整体表现。"
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "pubDate": "Fri, 24 Apr 2026 19:00:00 +0000",
+      "isoDate": "2026-04-24T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "contentSnippet": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ivy Levine"
+        ],
+        "title": [
+          "Contributor, The Keyword"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "使用Gemini AI优化家居和数字空间。通过AI提供的清洁计划、收件箱整理、季节性任务等建议，有效组织生活空间。"
+    },
+    {
+      "title": "7 highlights from Google Cloud Next ‘26",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
+      "pubDate": "Fri, 24 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-24T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCNEXT2026_0422_085831-8501_ALI.max-600x600.format-webp.webp\">Catch up on our biggest updates from this year’s Cloud Next, including Gemini Enterprise Agent Platform and our newest TPUs.",
+      "contentSnippet": "Catch up on our biggest updates from this year’s Cloud Next, including Gemini Enterprise Agent Platform and our newest TPUs.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chris Talbott"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          "Google Cloud"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "文章介绍了Google Cloud Next '26大会的七项重要更新，包括Gemini Enterprise Agent Platform和最新推出的TPU。"
+    },
+    {
+      "title": "Find out what’s new in the Gemini app in April's Gemini Drop.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/",
+      "pubDate": "Fri, 24 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/00_Drops_10_Cover_Art_1920x1080.max-600x600.format-webp.webp\">Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "contentSnippet": "Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "creator": "",
+      "summary": "Gemini Drops是Gemini应用每月更新的内容，旨在提供使用该应用的最新信息。"
+    },
+    {
+      "title": "There's a new playbook for partnering with creators on marketing campaigns.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-creator-marketing/",
+      "pubDate": "Thu, 23 Apr 2026 19:00:00 +0000",
+      "isoDate": "2026-04-23T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Decoded_Podcast_-_Thumbnail_-_S.max-600x600.format-webp_0PzWtaK.webp\">How Google is building tools to make creator partnerships accessible and effective.",
+      "contentSnippet": "How Google is building tools to make creator partnerships accessible and effective.",
+      "creator": "",
+      "summary": "谷歌正开发工具，旨在使创作者营销合作更易实现和高效。此举旨在提升合作的可及性，确保营销活动效果。"
+    },
+    {
+      "title": "Fitbit's personal health coach is now even more personalized.",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/personal-health-coach-updates/",
+      "pubDate": "Thu, 23 Apr 2026 17:00:00 +0000",
+      "isoDate": "2026-04-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/personal_health_coach_more_cust.max-600x600.format-webp.webp\">With these updates, it’s even easier to chat with your Coach and tailor workouts to suit your specific health goals.",
+      "contentSnippet": "With these updates, it’s even easier to chat with your Coach and tailor workouts to suit your specific health goals.",
+      "creator": "",
+      "summary": "Fitbit的个人健康教练现已更加个性化。通过更新，用户可以更轻松地与教练沟通，并根据自身健康目标定制锻炼计划。"
+    },
+    {
+      "title": "3 easy ways to shop for spring with Google",
+      "link": "https://blog.google/products-and-platforms/products/search/spring-fashion-shopping-tips/",
+      "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/spring_shopping_hero.max-600x600.format-webp.webp\">Here are three Google Search and Shopping tools that can help you shop for spring fashion.",
+      "contentSnippet": "Here are three Google Search and Shopping tools that can help you shop for spring fashion.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "Keyword Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "文章介绍了三种谷歌搜索和购物工具，帮助用户选购春季时尚。这些工具可简化购物流程，提供便捷的搜索和比价功能，方便用户找到心仪的春季商品。"
+    },
+    {
+      "title": "Capris, bright makeup and more trending spring style searches",
+      "link": "https://blog.google/products-and-platforms/products/search/spring-2026-fashion-beauty-trends/",
+      "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SpringFashionTrends_Hero.max-600x600.format-webp.webp\">Take a look at Google’s trending fashion and beauty searches for spring 2026, including capris, blue mascara, French tips and more.",
+      "contentSnippet": "Take a look at Google’s trending fashion and beauty searches for spring 2026, including capris, blue mascara, French tips and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenny Lee"
+        ],
+        "title": [
+          "Lead Trends Analyst"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "根据谷歌2026年春季时尚和美妆搜索趋势，卡普里裤、亮色妆容、蓝眼线笔、法式指甲等成为热门。这些搜索反映了春季流行风格的偏好。"
+    },
+    {
+      "title": "Convert faster on YouTube with April’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-april-2026/",
+      "pubDate": "Thu, 23 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DG_Road_to_GML_Master-Header_zX.max-600x600.format-webp.webp\">Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.",
+      "contentSnippet": "Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.",
+      "creator": "",
+      "summary": "标题：用四月需求生成工具提升YouTube转化率。\n\n摘要：了解最新需求生成工具，掌握最大化需求生成活动表现的方法。"
+    },
+    {
+      "title": "3 creative tips from our Flow Sessions artists",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-sessions-artists-lessons/",
+      "pubDate": "Thu, 23 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-23T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_creative_tips_from_our_Flow_S.max-600x600.format-webp.webp\">Learn more about Google’s Flow Sessions, an artist cohort focusing on using AI in film while also using Google’s AI filmmaking tool, Flow.",
+      "contentSnippet": "Learn more about Google’s Flow Sessions, an artist cohort focusing on using AI in film while also using Google’s AI filmmaking tool, Flow.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Brianna Doyle"
+        ],
+        "title": [
+          "Head of Community, Google Labs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌Flow Sessions是一个艺术家群体项目，专注于利用AI进行电影创作，并使用谷歌的AI电影制作工具Flow。该项目为参与者提供创意技巧和经验分享，旨在推动AI在影视领域的应用。"
+    },
+    {
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "pubDate": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "isoDate": "2026-04-23T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "contentSnippet": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "creator": "",
+      "summary": "谷歌TPU通过新视频展示了其如何为日益增长的需求提供强大支持，助力AI工作负载。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:44:56.222Z"
+}

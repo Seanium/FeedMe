@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://deepmind.google/blog/rss.xml",
+  "title": "Google DeepMind News",
+  "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research.",
+  "link": "https://deepmind.google/blog/",
+  "items": [
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "isoDate": "2026-04-27T07:00:06.000Z",
+      "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "contentSnippet": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "creator": "",
+      "summary": "谷歌DeepMind与韩国合作，利用前沿AI模型加速科学突破。"
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "link": "https://deepmind.google/blog/decoupled-diloco/",
+      "pubDate": "Wed, 22 Apr 2026 10:20:03 +0000",
+      "isoDate": "2026-04-22T10:20:03.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summary": "文章标题：解耦分布式AI训练的新前沿：Decoupled DiLoCo\n\n摘要：Decoupled DiLoCo是一种创新的分布式AI训练框架，通过解耦通信和计算过程，显著提升了训练的弹性和效率。该框架优化了分布式系统中的资源分配和任务调度，增强了模型在复杂环境下的稳定性和性能表现，为大规模AI训练提供了新的解决方案。"
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
+      "isoDate": "2026-04-21T14:54:15.000Z",
+      "content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "contentSnippet": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "creator": "",
+      "summary": "谷歌DeepMind与全球咨询公司合作，将前沿AI技术带给全球组织，加速AI转型进程。"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "pubDate": "Wed, 15 Apr 2026 16:03:19 +0000",
+      "isoDate": "2026-04-15T16:03:19.000Z",
+      "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "contentSnippet": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "creator": "",
+      "summary": "Gemini 3.1 Flash TTS是新一代富有表现力的AI语音模型，通过引入精细音频标签，用户可精确控制AI语音生成，实现更具表现力的音频输出。"
+    },
+    {
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "pubDate": "Mon, 13 Apr 2026 15:52:13 +0000",
+      "isoDate": "2026-04-13T15:52:13.000Z",
+      "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "contentSnippet": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "creator": "",
+      "summary": "Gemini Robotics ER 1.6通过增强空间推理和多视角理解能力，提升了自主机器人在现实任务中的表现。该技术优化了机器人对环境的感知和决策能力，使其更适应复杂的应用场景。"
+    },
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "pubDate": "Thu, 02 Apr 2026 16:00:49 +0000",
+      "isoDate": "2026-04-02T16:00:49.000Z",
+      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "contentSnippet": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "creator": "",
+      "summary": "Gemma 4是迄今为止最智能的开源模型，专为高级推理和代理工作流程而设计。该模型在性能和功能上达到了新的高度，为用户提供了强大的开放模型解决方案。"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "pubDate": "Thu, 26 Mar 2026 15:23:35 +0000",
+      "isoDate": "2026-03-26T15:23:35.000Z",
+      "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "contentSnippet": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "creator": "",
+      "summary": "Gemini 3.1 Flash Live语音模型通过提升精度和降低延迟，使语音交互更加流畅、自然和精准，增强了音频AI的可靠性和自然度。"
+    },
+    {
+      "title": "Protecting people from harmful manipulation",
+      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "pubDate": "Wed, 25 Mar 2026 16:46:20 +0000",
+      "isoDate": "2026-03-25T16:46:20.000Z",
+      "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "contentSnippet": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "creator": "",
+      "summary": "谷歌DeepMind研究AI在金融、健康等领域可能带来的有害操纵风险，并据此推出新的安全措施以保护人们。"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "pubDate": "Wed, 25 Mar 2026 16:01:39 +0000",
+      "isoDate": "2026-03-25T16:01:39.000Z",
+      "content": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "contentSnippet": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "creator": "",
+      "summary": "Lyria 3 Pro是一款能够解锁更长轨道并具备结构感知功能的产品。同时，Lyria将扩展至更多Google产品和服务平台。"
+    },
+    {
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "pubDate": "Tue, 17 Mar 2026 16:03:47 +0000",
+      "isoDate": "2026-03-17T16:03:47.000Z",
+      "content": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "contentSnippet": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "creator": "",
+      "summary": "文章介绍了衡量通用人工智能（AGI）进展的认知框架，并启动了Kaggle黑客马拉松，旨在开发相关评估工具。该框架旨在系统化评估AGI发展水平，通过竞赛推动评估方法的创新与完善。"
+    },
+    {
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "link": "https://deepmind.google/blog/10-years-of-alphago/",
+      "pubDate": "Mon, 09 Mar 2026 13:52:36 +0000",
+      "isoDate": "2026-03-09T13:52:36.000Z",
+      "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "contentSnippet": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "creator": "",
+      "summary": "AlphaGo问世十年来，正推动科学发现并探索通用人工智能（AGI）的发展路径。"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "pubDate": "Tue, 03 Mar 2026 16:35:55 +0000",
+      "isoDate": "2026-03-03T16:35:55.000Z",
+      "content": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "contentSnippet": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "creator": "",
+      "summary": "Gemini 3.1 Flash-Lite是Gemini 3系列中速度最快、成本效益最高的模型。"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "pubDate": "Thu, 26 Feb 2026 16:01:50 +0000",
+      "isoDate": "2026-02-26T16:01:50.000Z",
+      "content": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "contentSnippet": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "creator": "",
+      "summary": "最新图像生成模型Nano Banana 2结合了专业级功能和闪电般的速度，提供先进的世界知识、生产级规格和主题一致性等特性，实现高速高效生成。"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "pubDate": "Thu, 19 Feb 2026 16:06:14 +0000",
+      "isoDate": "2026-02-19T16:06:14.000Z",
+      "content": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "contentSnippet": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "creator": "",
+      "summary": "Gemini 3.1 Pro 是一款专为复杂任务设计的智能模型，旨在提供超越简单答案的解决方案。"
+    },
+    {
+      "title": "A new way to express yourself: Gemini can now create music",
+      "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "pubDate": "Wed, 18 Feb 2026 16:01:38 +0000",
+      "isoDate": "2026-02-18T16:01:38.000Z",
+      "content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+      "contentSnippet": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+      "creator": "",
+      "summary": "Gemini应用新增先进音乐生成模型Lyria 3，用户可通过文本或图像创作30秒音乐片段，实现个性化音乐表达。"
+    },
+    {
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "pubDate": "Tue, 17 Feb 2026 13:42:20 +0000",
+      "isoDate": "2026-02-17T13:42:20.000Z",
+      "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "contentSnippet": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "creator": "",
+      "summary": "谷歌DeepMind将“国家AI合作伙伴计划”带到印度，通过AI加速科学与教育领域的发现。该计划旨在扩大AI的应用，推动印度在科研和教育方面的创新与发展。"
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "pubDate": "Thu, 12 Feb 2026 16:15:09 +0000",
+      "isoDate": "2026-02-12T16:15:09.000Z",
+      "content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "contentSnippet": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "creator": "",
+      "summary": "Gemini 3 Deep Think模式已更新，可应对现代科学、研究和工程领域的挑战。该模式专注于推理，提升了解决复杂问题的能力，推动相关领域的进步。"
+    },
+    {
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "pubDate": "Mon, 09 Feb 2026 16:12:06 +0000",
+      "isoDate": "2026-02-09T16:12:06.000Z",
+      "content": "Research papers point to the growing impact of Deep Think across fields",
+      "contentSnippet": "Research papers point to the growing impact of Deep Think across fields",
+      "creator": "",
+      "summary": "研究表明，Deep Think正对数学和科学领域产生日益显著的影响，加速了相关领域的发现进程。"
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "pubDate": "Thu, 29 Jan 2026 17:01:05 +0000",
+      "isoDate": "2026-01-29T17:01:05.000Z",
+      "content": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "contentSnippet": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "creator": "",
+      "summary": "谷歌为美国AI Ultra订阅用户推出实验性研究原型Project Genie，允许用户创建和探索无限交互世界。该项目旨在通过原型探索无限、可交互世界的可能性，为用户提供创新体验。"
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "pubDate": "Fri, 16 Jan 2026 10:39:00 +0000",
+      "isoDate": "2026-01-16T10:39:00.000Z",
+      "content": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "contentSnippet": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "creator": "",
+      "summary": "D4RT是一种统一的、高效的四维重建和跟踪技术，速度比现有方法快300倍。该技术实现了对四维世界的实时感知和处理，显著提升了AI在复杂环境中的视觉能力。"
+    },
+    {
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "pubDate": "Tue, 13 Jan 2026 17:00:18 +0000",
+      "isoDate": "2026-01-13T17:00:18.000Z",
+      "content": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+      "contentSnippet": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+      "creator": "",
+      "summary": "Veo 3.1更新提升了视频生成效果，制作出自然生动的动态片段，并支持竖屏视频。新版本增强了视频的一致性、创造力和控制力，为用户带来更优质的视频制作体验。"
+    },
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "pubDate": "Tue, 23 Dec 2025 17:01:02 +0000",
+      "isoDate": "2025-12-23T17:01:02.000Z",
+      "content": "Google 2025 recap: Research breakthroughs of the year",
+      "contentSnippet": "Google 2025 recap: Research breakthroughs of the year",
+      "creator": "",
+      "summary": "Google 2025年度回顾：在8个领域取得研究突破。"
+    },
+    {
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "pubDate": "Wed, 17 Dec 2025 11:58:17 +0000",
+      "isoDate": "2025-12-17T11:58:17.000Z",
+      "content": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "contentSnippet": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "creator": "",
+      "summary": "Gemini 3 Flash是一款为速度而设计的边缘智能，成本仅为传统解决方案的一小部分。它提供了高效且经济的前沿智能技术。"
+    },
+    {
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "pubDate": "Tue, 16 Dec 2025 10:14:24 +0000",
+      "isoDate": "2025-12-16T10:14:24.000Z",
+      "content": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+      "contentSnippet": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+      "creator": "",
+      "summary": "Gemma Scope 2发布，为Gemma 3系列语言模型提供全范围的开放可解释工具，帮助AI安全社区深入理解复杂语言模型行为。"
+    },
+    {
+      "title": "Improved Gemini audio models for powerful voice experiences",
+      "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+      "pubDate": "Fri, 12 Dec 2025 17:50:50 +0000",
+      "isoDate": "2025-12-12T17:50:50.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summary": "文章标题：改进的Gemini音频模型，打造强大的语音体验\n\n摘要：本文介绍了改进的Gemini音频模型，旨在提升语音体验。该模型通过优化算法和增强数据处理能力，显著提高了语音识别的准确性和响应速度。改进后的模型在多种场景下表现出色，为用户带来更流畅、自然的语音交互体验。"
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "link": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "pubDate": "Thu, 11 Dec 2025 00:06:40 +0000",
+      "isoDate": "2025-12-11T00:06:40.000Z",
+      "content": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+      "contentSnippet": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+      "creator": "",
+      "summary": "谷歌DeepMind与英国人工智能安全研究所（AISI）深化合作，共同推进关键人工智能安全与安全研究。"
+    },
+    {
+      "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+      "link": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+      "pubDate": "Wed, 10 Dec 2025 14:59:21 +0000",
+      "isoDate": "2025-12-10T14:59:21.000Z",
+      "content": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+      "contentSnippet": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+      "creator": "",
+      "summary": "深化与英国政府的合作，以支持人工智能时代的繁荣与安全。"
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "link": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "pubDate": "Tue, 09 Dec 2025 11:29:03 +0000",
+      "isoDate": "2025-12-09T11:29:03.000Z",
+      "content": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+      "contentSnippet": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+      "creator": "",
+      "summary": "《FACTS基准套件：系统评估大型语言模型的客观性》。该套件用于系统性地评估大型语言模型的客观性，确保其生成内容的准确性。通过标准化测试，可以有效衡量模型的真实性和可靠性，为提升大型语言模型的事实性提供评估工具。"
+    },
+    {
+      "title": "Engineering more resilient crops for a warming climate",
+      "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+      "pubDate": "Thu, 04 Dec 2025 16:23:24 +0000",
+      "isoDate": "2025-12-04T16:23:24.000Z",
+      "content": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+      "contentSnippet": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+      "creator": "",
+      "summary": "科学家正利用AlphaFold技术强化光合作用酶，以培育耐热、适应性强的作物，应对全球变暖带来的挑战。"
+    },
+    {
+      "title": "AlphaFold: Five years of impact",
+      "link": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "pubDate": "Tue, 25 Nov 2025 16:00:12 +0000",
+      "isoDate": "2025-11-25T16:00:12.000Z",
+      "content": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+      "contentSnippet": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+      "creator": "",
+      "summary": "AlphaFold在五年内推动了科学发展，激发了全球生物学领域的重大突破。该技术显著加速了生物研究进程，为生物学发现浪潮提供了强大动力。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T16:46:13.771Z"
+}
