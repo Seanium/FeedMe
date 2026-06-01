@@ -84,6 +84,11 @@ export const config = {
       category: "技术博客",
     },
     {
+      name: "Mario Zechner's Blog",
+      url: "https://mariozechner.at/rss.xml",
+      category: "技术博客",
+    },
+    {
       name: "阮一峰的个人网站",
       url: "http://www.ruanyifeng.com/blog/atom.xml",
       category: "技术博客",
