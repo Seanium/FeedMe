@@ -97,10 +97,11 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 #### Custom Deployment Configuration
 
 - **Customize RSS Sources**:
-  Edit the `src/config/rss-config.js` file to modify or add RSS sources. Each source should include:
-  - Name
-  - URL
-  - Category
+  Edit the `src/config/feedme.config.yaml` file to modify or add RSS sources. Category display order follows the `categories` list. Each source should include:
+  - `id`: stable unique identifier
+  - `name`: localized names
+  - `url`: RSS URL
+  - `category`: source category
 
 - **Modify Update Frequency**: Edit the cron expression in `.github/workflows/update-deploy.yml`
   ```yml
@@ -108,10 +109,10 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
   cron: '0 0 * * *'
   ```
 
-- **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `src/config/rss-config.js`
+- **Adjust Default Source and Retained Items**: Modify `settings.defaultSource` and `settings.maxItemsPerFeed` in `src/config/feedme.config.yaml`
 
 - **Customize Summary Generation**:
-  To change summary languages, update `SUMMARY_LOCALES`, for example `zh`, `en`, or `zh,en`. To add another language, add locale metadata in `src/config/i18n-config.js` and provide matching localized labels/messages.
+  Adjust the summary prompt, input truncation length, `temperature`, `maxTokens`, and fallback messages in the `summary` section of `src/config/feedme.config.yaml`. Summary output languages are still controlled by `SUMMARY_LOCALES`, for example `zh`, `en`, or `zh,en`. To add another language, add locale metadata in `src/config/i18n-config.js` and provide matching localized labels/messages.
 
 ### Method 2: Vercel Deployment
 

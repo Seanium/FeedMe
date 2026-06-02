@@ -97,10 +97,11 @@
 #### 自定义部署配置
 
 - **自定义 RSS 源**：
-  编辑 `src/config/rss-config.js` 文件以修改或添加 RSS 源。每个源需要包含：
-  - 名称
-  - URL
-  - 分类
+  编辑 `src/config/feedme.config.yaml` 文件以修改或添加 RSS 源。类目的展示顺序由 `categories` 列表顺序决定。每个源需要包含：
+  - `id`：稳定唯一标识
+  - `name`：多语言名称
+  - `url`：RSS 地址
+  - `category`：所属分类
 
 - **修改更新频率**: 编辑 `.github/workflows/update-deploy.yml` 中的 cron 表达式
   ```yml
@@ -108,10 +109,10 @@
   cron: '0 0 * * *'
   ```
 
-- **调整保留条目数**: 修改 `src/config/rss-config.js` 中的 `maxItemsPerFeed` 值
+- **调整默认源和保留条目数**: 修改 `src/config/feedme.config.yaml` 中的 `settings.defaultSource` 和 `settings.maxItemsPerFeed`
 
 - **自定义摘要生成**：
-  如需调整摘要语言，请修改 `SUMMARY_LOCALES`，例如 `zh`、`en` 或 `zh,en`。如需新增语言，请在 `src/config/i18n-config.js` 中增加 locale 元数据，并在相关本地化配置中补充该语言文案。
+  在 `src/config/feedme.config.yaml` 的 `summary` 中可以调整摘要提示词、输入截断长度、`temperature`、`maxTokens` 和摘要失败兜底文案。摘要生成语言仍通过 `SUMMARY_LOCALES` 控制，例如 `zh`、`en` 或 `zh,en`。如需新增语言，请在 `src/config/i18n-config.js` 中增加 locale 元数据，并在相关本地化配置中补充该语言文案。
 
 ### 方式二：Vercel 部署
 

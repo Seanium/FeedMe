@@ -23,7 +23,8 @@
     "react": "^19.1.2",
     "react-dom": "^19.1.2",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "yaml": "^2.9.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.2",

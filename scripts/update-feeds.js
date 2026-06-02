@@ -8,7 +8,7 @@ import Parser from 'rss-parser';
 import { OpenAI } from 'openai';
 
 // 从配置文件中导入RSS源配置
-import { config } from '../src/config/rss-config.js';
+import { parseFeedmeConfig } from '../src/config/feedme-config-loader.js';
 import { getSourceDataFilename } from '../src/lib/source-data-path.js';
 import {
   defaultLocale,
@@ -17,6 +17,9 @@ import {
   parseLocaleList,
   supportedLocales,
 } from '../src/config/i18n-config.js';
+
+const feedmeConfigPath = path.resolve(process.cwd(), 'src/config/feedme.config.yaml');
+const { config, summary: summaryConfig } = parseFeedmeConfig(fs.readFileSync(feedmeConfigPath, 'utf8'));
 
 const dotenvPath = path.resolve(process.cwd(), '.env');
 if (fs.existsSync(dotenvPath)) {
@@ -143,13 +146,8 @@ function loadFeedData(sourceUrl) {
   }
 }
 
-const summaryUnavailableMessages = {
-  zh: "无法生成摘要。",
-  en: "Unable to generate summary.",
-};
-
 function getSummaryUnavailableMessage(locale) {
-  return getLocalizedValue(summaryUnavailableMessages, locale);
+  return getLocalizedValue(summaryConfig.unavailableMessages, locale);
 }
 
 function normalizeSummaries(item = {}) {
@@ -206,22 +204,10 @@ function createSummaryPlan(mergedItems, newItemLinks) {
 function buildSummaryPrompt(title, content, locale) {
   const { summaryLanguage } = getLocaleMeta(locale);
 
-  return `
-You are a professional content summarizer. Generate a concise and accurate summary in ${summaryLanguage}.
-The summary should:
-1. Capture the main points and key information.
-2. Be clear, fluent, and natural in ${summaryLanguage}.
-3. Stay around 100 words or fewer.
-4. Remain objective and avoid adding opinions.
-5. If the content is empty or lacks useful information, do not invent details.
-6. If the source title or content is in another language, summarize the key information in ${summaryLanguage}.
-
-Article title:
-${title}
-
-Article content:
-${content.slice(0, 5000)}
-`;
+  return summaryConfig.prompt
+    .replaceAll("{{summaryLanguage}}", summaryLanguage)
+    .replaceAll("{{title}}", title)
+    .replaceAll("{{content}}", content.slice(0, summaryConfig.contentMaxChars));
 }
 
 // 生成摘要函数
@@ -243,8 +229,8 @@ async function generateSummary(title, content, locale) {
           content: prompt
         }
       ],
-      temperature: 0.3,
-      max_tokens: 500,
+      temperature: summaryConfig.temperature,
+      max_tokens: summaryConfig.maxTokens,
     });
 
     return completion.choices[0].message.content?.trim() || getSummaryUnavailableMessage(locale);
