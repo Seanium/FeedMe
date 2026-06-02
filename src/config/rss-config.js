@@ -133,6 +133,11 @@ export const config = {
       url: "https://www.formula1.com/content/fom-website/en/latest/all.xml",
       category: "体育资讯",
     },
+    {
+      name: "Lex Fridman Podcast",
+      url: "https://lexfridman.com/feed/podcast/",
+      category: "播客",
+    },
   ],
   maxItemsPerFeed: 30,
   dataPath: "./public/data",
