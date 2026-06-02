@@ -86,6 +86,10 @@ export async function mergeFeedItems(
       // 无论如何都更新Map，使用新条目（但保留旧摘要如果有的话）
       const serializedItem: FeedItem = {
         ...item,
+        summaries: {
+          ...item.summaries,
+          ...existingItem?.summaries,
+        },
         summary: existingItem?.summary || item.summary,
       }
       

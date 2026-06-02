@@ -3,8 +3,10 @@
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { ArrowUp } from "lucide-react"
+import { useI18n } from "@/i18n"
 
 export function ScrollToTop() {
+  const { t } = useI18n()
   const [isVisible, setIsVisible] = useState(false)
 
   // 监听滚动事件，决定按钮是否可见
@@ -39,7 +41,7 @@ export function ScrollToTop() {
           onClick={scrollToTop}
           className="fixed bottom-8 right-8 z-50 rounded-full p-3 shadow-lg transition-all duration-300 hover:shadow-xl"
           size="icon"
-          aria-label="返回顶部"
+          aria-label={t("scrollToTop.label")}
         >
           <ArrowUp className="h-5 w-5" />
         </Button>

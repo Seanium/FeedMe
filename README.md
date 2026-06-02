@@ -71,6 +71,7 @@
    - `LLM_API_KEY`: 用于 AI 摘要生成的 API 密钥
    - `LLM_API_BASE`: LLM 服务的 API 基础 URL
    - `LLM_NAME`: 使用的模型名称
+   - `SUMMARY_LOCALES`: 需要生成摘要的语言列表，默认 `zh,en`
 
 3. **启用 GitHub Pages**
    
@@ -110,7 +111,7 @@
 - **调整保留条目数**: 修改 `src/config/rss-config.js` 中的 `maxItemsPerFeed` 值
 
 - **自定义摘要生成**：
-  如果需要自定义摘要生成方法，比如遵循特定格式或切换摘要语言，请修改 `scripts/update-feeds.js` 中的 `prompt` 变量
+  如需调整摘要语言，请修改 `SUMMARY_LOCALES`，例如 `zh`、`en` 或 `zh,en`。如需新增语言，请在 `src/config/i18n-config.js` 中增加 locale 元数据，并在相关本地化配置中补充该语言文案。
 
 ### 方式二：Vercel 部署
 
@@ -192,6 +193,7 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
    LLM_API_KEY=你的 API 密钥
    LLM_API_BASE=LLM服务的 API 基础 URL（例如：https://api.siliconflow.cn/v1）
    LLM_NAME=使用的模型名称（例如：THUDM/GLM-4-9B-0414）
+   SUMMARY_LOCALES=摘要语言列表（例如：zh,en）
    ```
    这些环境变量用于配置文章摘要生成功能，需要从 LLM 服务提供商获取
 

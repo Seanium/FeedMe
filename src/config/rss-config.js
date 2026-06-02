@@ -1,159 +1,315 @@
-// RSS源接口
-// name: 信息源名称
-// url: RSS URL地址
-// category: 分类名称
+import { defaultLocale, getLocalizedValue } from "./i18n-config.js";
 
-/**
- * @typedef {object} RssSource
- * @property {string} name - 信息源名称
- * @property {string} url - RSS URL地址
- * @property {string} category - 分类名称
- */
+// RSS source schema:
+// id: stable source id
+// name: localized source names
+// url: RSS URL
+// category: stable category id
 
-// 默认配置
+export const categories = {
+  techNews: {
+    name: {
+      zh: "科技资讯",
+      en: "Tech News",
+    },
+  },
+  personalBlogs: {
+    name: {
+      zh: "个人博客",
+      en: "Personal Blogs",
+    },
+  },
+  companyBlogs: {
+    name: {
+      zh: "企业博客",
+      en: "Company Blogs",
+    },
+  },
+  openSource: {
+    name: {
+      zh: "开源项目",
+      en: "Open Source",
+    },
+  },
+  research: {
+    name: {
+      zh: "科研资讯",
+      en: "Research",
+    },
+  },
+  forums: {
+    name: {
+      zh: "论坛",
+      en: "Forums",
+    },
+  },
+  anime: {
+    name: {
+      zh: "番剧资讯",
+      en: "Anime",
+    },
+  },
+  sports: {
+    name: {
+      zh: "体育资讯",
+      en: "Sports",
+    },
+  },
+  podcasts: {
+    name: {
+      zh: "播客",
+      en: "Podcasts",
+    },
+  },
+};
+
 export const config = {
   sources: [
     {
-      name: "Hacker News 近期最佳",
+      id: "hacker-news-best",
+      name: {
+        zh: "Hacker News 近期最佳",
+        en: "Hacker News Best",
+      },
       url: "https://hnrss.org/best",
-      category: "科技资讯",
+      category: "techNews",
     },
     {
-      name: "Hacker News 历史每日前十",
+      id: "hacker-news-daily-top-10",
+      name: {
+        zh: "Hacker News 历史每日前十",
+        en: "Hacker News Daily Top 10",
+      },
       url: "https://rsshub.rssforever.com/github/issue/headllines/hackernews-daily",
-      category: "科技资讯",
+      category: "techNews",
     },
     {
-      name: "OpenAI News",
+      id: "openai-news",
+      name: {
+        zh: "OpenAI News",
+        en: "OpenAI News",
+      },
       url: "https://openai.com/news/rss.xml",
-      category: "科技资讯",
+      category: "techNews",
     },
     {
-      name: "Andrej Karpathy",
+      id: "andrej-karpathy",
+      name: {
+        zh: "Andrej Karpathy",
+        en: "Andrej Karpathy",
+      },
       url: "https://karpathy.bearblog.dev/feed/",
-      category: "个人博客",
+      category: "personalBlogs",
     },
     {
-      name: "Simon Willison's Weblog",
+      id: "simon-willison",
+      name: {
+        zh: "Simon Willison's Weblog",
+        en: "Simon Willison's Weblog",
+      },
       url: "https://simonwillison.net/atom/everything/",
-      category: "个人博客",
+      category: "personalBlogs",
     },
     {
-      name: "Mario Zechner's Blog",
+      id: "mario-zechner",
+      name: {
+        zh: "Mario Zechner's Blog",
+        en: "Mario Zechner's Blog",
+      },
       url: "https://mariozechner.at/rss.xml",
-      category: "个人博客",
+      category: "personalBlogs",
     },
     {
-      name: "阮一峰的个人网站",
+      id: "ruanyifeng",
+      name: {
+        zh: "阮一峰的个人网站",
+        en: "Ruanyifeng's Blog",
+      },
       url: "http://www.ruanyifeng.com/blog/atom.xml",
-      category: "个人博客",
+      category: "personalBlogs",
     },
     {
-      name: "Google 产品和技术新闻",
+      id: "google-product-news",
+      name: {
+        zh: "Google 产品和技术新闻",
+        en: "Google Product and Technology News",
+      },
       url: "https://blog.google/rss/",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Github 博客",
+      id: "github-blog",
+      name: {
+        zh: "Github 博客",
+        en: "GitHub Blog",
+      },
       url: "https://github.blog/feed/",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Hugging Face 博客",
+      id: "hugging-face-blog",
+      name: {
+        zh: "Hugging Face 博客",
+        en: "Hugging Face Blog",
+      },
       url: "https://rsshub.rssforever.com/huggingface/blog",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Google 开发者博客",
+      id: "google-developers-blog",
+      name: {
+        zh: "Google 开发者博客",
+        en: "Google Developers Blog",
+      },
       url: "https://rsshub.rssforever.com/google/developers/en",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Google 研究博客",
+      id: "google-research-blog",
+      name: {
+        zh: "Google 研究博客",
+        en: "Google Research Blog",
+      },
       url: "https://rsshub.rssforever.com/google/research",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Google DeepMind",
+      id: "google-deepmind",
+      name: {
+        zh: "Google DeepMind",
+        en: "Google DeepMind",
+      },
       url: "https://deepmind.google/blog/rss.xml",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Microsoft Research",
+      id: "microsoft-research",
+      name: {
+        zh: "Microsoft Research",
+        en: "Microsoft Research",
+      },
       url: "https://www.microsoft.com/en-us/research/feed/",
-      category: "企业博客",
+      category: "companyBlogs",
     },
     {
-      name: "Github 今日热门",
+      id: "github-trending-daily",
+      name: {
+        zh: "Github 今日热门",
+        en: "GitHub Trending Today",
+      },
       url: "https://rsshub.rssforever.com/github/trending/daily/any",
-      category: "开源项目",
+      category: "openSource",
     },
     {
-      name: "Github 近一周热门",
+      id: "github-trending-weekly",
+      name: {
+        zh: "Github 近一周热门",
+        en: "GitHub Trending This Week",
+      },
       url: "https://rsshub.rssforever.com/github/trending/weekly/any",
-      category: "开源项目",
+      category: "openSource",
     },
     {
-      name: "Hugging Face 每日论文",
+      id: "hugging-face-daily-papers",
+      name: {
+        zh: "Hugging Face 每日论文",
+        en: "Hugging Face Daily Papers",
+      },
       url: "https://rsshub.rssforever.com/huggingface/daily-papers",
-      category: "科研资讯",
+      category: "research",
     },
     {
-      name: "LINUX DO 今日热门",
+      id: "linux-do-daily-top",
+      name: {
+        zh: "LINUX DO 今日热门",
+        en: "LINUX DO Daily Top",
+      },
       url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
-      category: "论坛",
+      category: "forums",
     },
     {
-      name: "LINUX DO 近一周热门",
+      id: "linux-do-weekly-top",
+      name: {
+        zh: "LINUX DO 近一周热门",
+        en: "LINUX DO Weekly Top",
+      },
       url: "https://r4l.deno.dev/https://linux.do/top.rss?period=weekly",
-      category: "论坛",
+      category: "forums",
     },
     {
-      name: "LINUX DO 近一月热门",
+      id: "linux-do-monthly-top",
+      name: {
+        zh: "LINUX DO 近一月热门",
+        en: "LINUX DO Monthly Top",
+      },
       url: "https://r4l.deno.dev/https://linux.do/top.rss?period=monthly",
-      category: "论坛",
+      category: "forums",
     },
     {
-      name: "V2EX 今日热门",
+      id: "v2ex-hot",
+      name: {
+        zh: "V2EX 今日热门",
+        en: "V2EX Hot Today",
+      },
       url: "https://rsshub.rssforever.com/v2ex/topics/hot",
-      category: "论坛",
+      category: "forums",
     },
     {
-      name: "Bangumi 近一月热门",
+      id: "bangumi-monthly-popular",
+      name: {
+        zh: "Bangumi 近一月热门",
+        en: "Bangumi Monthly Popular",
+      },
       url: "https://rsshub.rssforever.com/bangumi.tv/anime/followrank",
-      category: "番剧资讯",
+      category: "anime",
     },
     {
-      name: "F1 News",
+      id: "f1-news",
+      name: {
+        zh: "F1 News",
+        en: "F1 News",
+      },
       url: "https://www.formula1.com/content/fom-website/en/latest/all.xml",
-      category: "体育资讯",
+      category: "sports",
     },
     {
-      name: "Lex Fridman Podcast",
+      id: "lex-fridman-podcast",
+      name: {
+        zh: "Lex Fridman Podcast",
+        en: "Lex Fridman Podcast",
+      },
       url: "https://lexfridman.com/feed/podcast/",
-      category: "播客",
+      category: "podcasts",
     },
   ],
   maxItemsPerFeed: 30,
   dataPath: "./public/data",
-}
+};
 
-export const defaultSource = config.sources[0]
+export const defaultSource = config.sources[0];
 
-/**
- * @param {string} url
- * @returns {RssSource | undefined}
- */
 export function findSourceByUrl(url) {
-  return config.sources.find((source) => source.url === url)
+  return config.sources.find((source) => source.url === url);
 }
 
-export function getSourcesByCategory() {
+export function getSourceName(source, locale = defaultLocale) {
+  return getLocalizedValue(source.name, locale);
+}
+
+export function getCategoryName(categoryId, locale = defaultLocale) {
+  return getLocalizedValue(categories[categoryId]?.name, locale) || categoryId;
+}
+
+export function getSourcesByCategory(locale = defaultLocale) {
   return config.sources.reduce((acc, source) => {
     if (!acc[source.category]) {
-      acc[source.category] = []
+      acc[source.category] = {
+        label: getCategoryName(source.category, locale),
+        sources: [],
+      };
     }
-    acc[source.category].push(source)
-    return acc
-  }, {})
+
+    acc[source.category].sources.push(source);
+    return acc;
+  }, {});
 }

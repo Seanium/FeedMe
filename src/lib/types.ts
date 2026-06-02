@@ -6,6 +6,7 @@ export interface FeedItem {
   content?: string
   contentSnippet?: string
   creator?: string
+  summaries?: Record<string, string>
   summary?: string
   enclosure?: {
     url: string

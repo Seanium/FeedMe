@@ -7,18 +7,27 @@ import { Button } from "@/components/ui/button"
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command"
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover"
 import { useState } from "react"
-import { getSourcesByCategory, findSourceByUrl, type RssSource } from "@/config/rss-config"
+import { getSourceName, getSourcesByCategory, findSourceByUrl } from "@/config/rss-config"
+import { useI18n } from "@/i18n"
+
+type RssSource = {
+  url: string
+  name: Record<string, string>
+  category: string
+}
 
 export function SourceSwitcher() {
   const router = useRouter()
   const searchParams = useSearchParams()
   const currentSource = searchParams.get("source")
+  const { locale, t } = useI18n()
 
   const [open, setOpen] = useState(false)
 
   const handleSelect = (source: RssSource) => {
     const params = new URLSearchParams(searchParams)
     params.set("source", source.url)
+    params.set("lang", locale)
     // 使用当前页面路径，保留 basePath
     const currentPath = window.location.pathname
     router.push(`${currentPath}?${params.toString()}`)
@@ -26,10 +35,11 @@ export function SourceSwitcher() {
   }
 
   // 按类别分组源
-  const groupedSources = getSourcesByCategory()
+  const groupedSources = getSourcesByCategory(locale)
 
   // 查找当前源名称
-  const currentSourceName = currentSource ? findSourceByUrl(currentSource)?.name || "选择信息源" : "选择信息源"
+  const currentSourceData = currentSource ? findSourceByUrl(currentSource) : undefined
+  const currentSourceName = currentSourceData ? getSourceName(currentSourceData, locale) : t("sourceSwitcher.select")
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
@@ -44,19 +54,22 @@ export function SourceSwitcher() {
         onOpenAutoFocus={(e) => e.preventDefault()}
       >
         <Command>
-          <CommandInput placeholder="搜索信息源..." autoFocus={false} />
+          <CommandInput placeholder={t("sourceSwitcher.search")} autoFocus={false} />
           <CommandList>
-            <CommandEmpty>未找到匹配的信息源</CommandEmpty>
-            {Object.entries(groupedSources).map(([category, categorySources]) => {
-              const sources = categorySources as RssSource[];
+            <CommandEmpty>{t("sourceSwitcher.empty")}</CommandEmpty>
+            {Object.entries(groupedSources).map(([category, group]) => {
+              const { label, sources } = group as { label: string; sources: RssSource[] };
               return (
-                <CommandGroup key={category} heading={category}>
-                  {sources.map((source: RssSource) => (
-                    <CommandItem key={source.url} value={source.name} onSelect={() => handleSelect(source)}>
-                      <Check className={cn("mr-2 h-4 w-4", currentSource === source.url ? "opacity-100" : "opacity-0")} />
-                      {source.name}
-                    </CommandItem>
-                  ))}
+                <CommandGroup key={category} heading={label}>
+                  {sources.map((source: RssSource) => {
+                    const sourceName = getSourceName(source, locale)
+                    return (
+                      <CommandItem key={source.url} value={sourceName} onSelect={() => handleSelect(source)}>
+                        <Check className={cn("mr-2 h-4 w-4", currentSource === source.url ? "opacity-100" : "opacity-0")} />
+                        {sourceName}
+                      </CommandItem>
+                    )
+                  })}
                 </CommandGroup>
               );
             })}

@@ -8,12 +8,14 @@ import { Badge } from "@/components/ui/badge"
 import { Skeleton } from "@/components/ui/skeleton"
 import { loadFeedData } from "@/lib/data-store"
 import type { FeedData } from "@/lib/types"
-import { findSourceByUrl } from "@/config/rss-config"
+import { findSourceByUrl, getCategoryName, getSourceName } from "@/config/rss-config"
+import { dateLocales, useI18n } from "@/i18n"
 import { ExternalLink } from "lucide-react"
 
 export function RssFeed({ defaultSource }: { defaultSource: string }) {
   const searchParams = useSearchParams()
   const sourceUrl = searchParams.get("source") || defaultSource
+  const { locale, t } = useI18n()
 
   const [feedData, setFeedData] = useState<FeedData | null>(null)
   const [loading, setLoading] = useState(true)
@@ -29,11 +31,11 @@ export function RssFeed({ defaultSource }: { defaultSource: string }) {
       if (cachedData) {
         setFeedData(cachedData)
       } else {
-        setError("数据为空，请检查数据源是否出错🫠")
+        setError(t("feed.emptyData"))
       }
     } catch (err) {
       console.error("Error fetching feed:", err)
-      setError("数据获取失败，请检查数据源是否出错🫠")
+      setError(t("feed.fetchError"))
     } finally {
       setLoading(false)
     }
@@ -41,10 +43,10 @@ export function RssFeed({ defaultSource }: { defaultSource: string }) {
 
   useEffect(() => {
     fetchFeed(sourceUrl)
-  }, [sourceUrl])
+  }, [sourceUrl, t])
 
   const source = findSourceByUrl(sourceUrl)
-  const displayTitle = source?.name || feedData?.title || "信息源"
+  const displayTitle = source ? getSourceName(source, locale) : feedData?.title || t("feed.sourceFallback")
 
   if (error) {
     return (
@@ -61,10 +63,10 @@ export function RssFeed({ defaultSource }: { defaultSource: string }) {
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <h2 className="text-2xl font-bold">{displayTitle}</h2>
-          {source && <Badge variant="outline">{source.category}</Badge>}
+          {source && <Badge variant="outline">{getCategoryName(source.category, locale)}</Badge>}
           {feedData?.lastUpdated && (
             <span className="text-xs text-muted-foreground">
-              更新于: {new Date(feedData.lastUpdated).toLocaleString("zh-CN")}
+              {t("feed.updatedAt")}: {new Date(feedData.lastUpdated).toLocaleString(dateLocales[locale])}
             </span>
           )}
         </div>
@@ -108,25 +110,27 @@ export function RssFeed({ defaultSource }: { defaultSource: string }) {
                   </a>
                 </CardTitle>
                 <CardDescription>
-                  {new Date(item.pubDate || item.isoDate || "").toLocaleString("zh-CN")}
+                  {new Date(item.pubDate || item.isoDate || "").toLocaleString(dateLocales[locale])}
                   {item.creator && ` · ${item.creator}`}
                 </CardDescription>
               </CardHeader>
               <CardContent>
                 <Tabs defaultValue="summary">
                   <TabsList className="mb-4">
-                    <TabsTrigger value="summary">AI 摘要</TabsTrigger>
-                    <TabsTrigger value="original">原文内容</TabsTrigger>
+                    <TabsTrigger value="summary">{t("feed.summary")}</TabsTrigger>
+                    <TabsTrigger value="original">{t("feed.original")}</TabsTrigger>
                   </TabsList>
                   <TabsContent value="summary" className="space-y-2">
-                    <div className="text-sm text-muted-foreground mb-2">由 AI 生成的摘要：</div>
-                    <div className="text-foreground whitespace-pre-line">{item.summary || "无法生成摘要。"}</div>
+                    <div className="text-sm text-muted-foreground mb-2">{t("feed.summaryGeneratedByAi")}</div>
+                    <div className="text-foreground whitespace-pre-line">
+                      {item.summaries?.[locale] || item.summary || t("feed.summaryUnavailable")}
+                    </div>
                   </TabsContent>
                   <TabsContent value="original">
                     <div
                       className="text-sm prose prose-sm max-w-none"
                       dangerouslySetInnerHTML={{
-                        __html: item.content || item.contentSnippet || "无内容",
+                        __html: item.content || item.contentSnippet || t("feed.noContent"),
                       }}
                     />
                   </TabsContent>

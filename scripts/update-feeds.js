@@ -10,6 +10,13 @@ import { OpenAI } from 'openai';
 
 // 从配置文件中导入RSS源配置
 import { config } from '../src/config/rss-config.js';
+import {
+  defaultLocale,
+  getLocaleMeta,
+  getLocalizedValue,
+  parseLocaleList,
+  supportedLocales,
+} from '../src/config/i18n-config.js';
 
 // 获取 __dirname 的 ES 模块等价物
 const __filename = fileURLToPath(import.meta.url);
@@ -67,6 +74,7 @@ const parser = new Parser({
 const OPENAI_API_KEY = process.env.LLM_API_KEY;
 const OPENAI_API_BASE = process.env.LLM_API_BASE;
 const OPENAI_MODEL_NAME = process.env.LLM_NAME;
+const SUMMARY_LOCALES = parseLocaleList(process.env.SUMMARY_LOCALES || process.env.SUMMARY_LANG, supportedLocales);
 
 // 验证必要的环境变量
 if (!OPENAI_API_KEY) {
@@ -137,8 +145,48 @@ function loadFeedData(sourceUrl) {
   }
 }
 
+const summaryUnavailableMessages = {
+  zh: "无法生成摘要。",
+  en: "Unable to generate summary.",
+};
+
+function getSummaryUnavailableMessage(locale) {
+  return getLocalizedValue(summaryUnavailableMessages, locale);
+}
+
+function normalizeSummaries(item = {}) {
+  const summaries = { ...(item.summaries || {}) };
+
+  if (item.summary && !summaries[defaultLocale]) {
+    summaries[defaultLocale] = item.summary;
+  }
+
+  return summaries;
+}
+
+function buildSummaryPrompt(title, content, locale) {
+  const { summaryLanguage } = getLocaleMeta(locale);
+
+  return `
+You are a professional content summarizer. Generate a concise and accurate summary in ${summaryLanguage}.
+The summary should:
+1. Capture the main points and key information.
+2. Be clear, fluent, and natural in ${summaryLanguage}.
+3. Stay around 100 words or fewer.
+4. Remain objective and avoid adding opinions.
+5. If the content is empty or lacks useful information, do not invent details.
+6. If the source title or content is in another language, summarize the key information in ${summaryLanguage}.
+
+Article title:
+${title}
+
+Article content:
+${content.slice(0, 5000)}
+`;
+}
+
 // 生成摘要函数
-async function generateSummary(title, content) {
+async function generateSummary(title, content, locale) {
   try {
     // 确保 content 不为空
     const contentToClean = content || "";
@@ -146,20 +194,7 @@ async function generateSummary(title, content) {
     const cleanContent = contentToClean.replace(/<[^>]*>?/gm, "");
 
     // 准备提示词
-    const prompt = `
-你是一个专业的内容摘要生成器。请根据以下文章标题和内容，生成一个简洁、准确的中文摘要。
-摘要应该：
-1. 捕捉文章的主要观点和关键信息
-2. 使用清晰、流畅的中文
-3. 长度控制在100字左右
-4. 保持客观，不添加个人观点
-5. 如果文章内容为空或不包含有效信息，不要生成文章标题或内容未提及的无关内容。对非中文的标题进行翻译，不需要翻译中文的标题
-
-文章标题：${title}
-
-文章内容：
-${cleanContent.slice(0, 5000)} // 限制内容长度以避免超出token限制
-`;
+    const prompt = buildSummaryPrompt(title, cleanContent, locale);
 
     const completion = await openai.chat.completions.create({
       model: OPENAI_MODEL_NAME,
@@ -173,10 +208,10 @@ ${cleanContent.slice(0, 5000)} // 限制内容长度以避免超出token限制
       max_tokens: 500,
     });
 
-    return completion.choices[0].message.content?.trim() || "无法生成摘要。";
+    return completion.choices[0].message.content?.trim() || getSummaryUnavailableMessage(locale);
   } catch (error) {
     console.error("生成摘要时出错:", error);
-    return "无法生成摘要。AI 模型暂时不可用。";
+    return getSummaryUnavailableMessage(locale);
   }
 }
 
@@ -259,10 +294,16 @@ function mergeFeedItems(oldItems = [], newItems = [], maxItems = config.maxItems
         item.summary = undefined; // 清除原始的 summary，避免与我们的生成摘要混淆
       }
 
+      const summaries = {
+        ...normalizeSummaries(item),
+        ...normalizeSummaries(existingItem),
+      };
+
       const serializedItem = {
         ...item,
         content: item.content || existingItem?.content || "",
-        summary: generatedSummary || item.summary, // 保留已生成的摘要
+        summaries,
+        summary: summaries[defaultLocale] || generatedSummary || item.summary, // 保留旧字段兼容
       };
 
       itemsMap.set(item.link, serializedItem);
@@ -302,20 +343,48 @@ async function updateFeed(sourceUrl) {
     // 为新条目生成摘要
     const itemsWithSummaries = await Promise.all(
       mergedItems.map(async (item) => {
+        const summaries = normalizeSummaries(item);
+
         // 如果是新条目且需要生成摘要
-        if (newItemsForSummary.some((newItem) => newItem.link === item.link) && !item.summary) {
+        if (newItemsForSummary.some((newItem) => newItem.link === item.link)) {
           try {
             // 确保使用任何可用的内容源 - content, item 本身的 summary 字段, 或 contentSnippet
             const contentForSummary = item.content || item.contentSnippet || "";
-            const summary = await generateSummary(item.title, contentForSummary);
-            return { ...item, summary };
+            const generatedSummaries = await Promise.all(
+              SUMMARY_LOCALES.map(async (locale) => {
+                if (summaries[locale]) {
+                  return [locale, summaries[locale]];
+                }
+
+                const summary = await generateSummary(item.title, contentForSummary, locale);
+                return [locale, summary];
+              }),
+            );
+
+            for (const [locale, summary] of generatedSummaries) {
+              summaries[locale] = summary;
+            }
+
+            return {
+              ...item,
+              summaries,
+              summary: summaries[defaultLocale] || summaries[SUMMARY_LOCALES[0]] || item.summary,
+            };
           } catch (err) {
             console.error(`为条目 ${item.title} 生成摘要时出错:`, err);
-            return { ...item, summary: "无法生成摘要。" };
+            return {
+              ...item,
+              summaries,
+              summary: summaries[defaultLocale] || getSummaryUnavailableMessage(defaultLocale),
+            };
           }
         }
         // 否则保持不变
-        return item;
+        return {
+          ...item,
+          summaries,
+          summary: summaries[defaultLocale] || item.summary,
+        };
       }),
     );
 

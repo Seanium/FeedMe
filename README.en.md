@@ -71,6 +71,7 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
    - `LLM_API_KEY`: API key for AI summary generation
    - `LLM_API_BASE`: API base URL for the LLM service
    - `LLM_NAME`: Name of the model to use
+   - `SUMMARY_LOCALES`: Comma-separated summary locales, defaults to `zh,en`
 
 3. **Enable GitHub Pages**
 
@@ -110,7 +111,7 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 - **Adjust Retained Items**: Modify the `maxItemsPerFeed` value in `src/config/rss-config.js`
 
 - **Customize Summary Generation**:
-  If you need to customize the summary generation method, such as following a specific format or switching the summary language, modify the `prompt` variable in `scripts/update-feeds.js`
+  To change summary languages, update `SUMMARY_LOCALES`, for example `zh`, `en`, or `zh,en`. To add another language, add locale metadata in `src/config/i18n-config.js` and provide matching localized labels/messages.
 
 ### Method 2: Vercel Deployment
 
@@ -192,6 +193,7 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    LLM_API_KEY=your_api_key
    LLM_API_BASE=LLM service API base URL (e.g., https://api.siliconflow.cn/v1)
    LLM_NAME=model name (e.g., THUDM/GLM-4-9B-0414)
+   SUMMARY_LOCALES=summary locales (e.g., zh,en)
    ```
    These environment variables are used to configure the article summary generation feature and need to be obtained from an LLM service provider
 
