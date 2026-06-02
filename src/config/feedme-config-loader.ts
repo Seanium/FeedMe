@@ -1,11 +1,53 @@
 import YAML from "yaml";
 
+export interface LocalizedName {
+  [locale: string]: string;
+}
+
+export interface RssSourceConfig {
+  id: string;
+  name: LocalizedName;
+  url: string;
+  category: string;
+}
+
+export interface RssCategoryConfig {
+  name: LocalizedName;
+}
+
+export interface RuntimeFeedmeConfig {
+  sources: RssSourceConfig[];
+  maxItemsPerFeed: number;
+  dataPath: string;
+}
+
+export interface SummaryConfig {
+  contentMaxChars: number;
+  temperature: number;
+  maxTokens: number;
+  unavailableMessages: LocalizedName;
+  prompt: string;
+}
+
+export interface ParsedFeedmeConfig {
+  categories: Record<string, RssCategoryConfig>;
+  categoryOrder: string[];
+  config: RuntimeFeedmeConfig;
+  defaultSource: RssSourceConfig;
+  summary: SummaryConfig;
+}
+
+export type ClientFeedmeConfig = Pick<
+  ParsedFeedmeConfig,
+  "categories" | "categoryOrder" | "config" | "defaultSource"
+>;
+
 const DEFAULT_MAX_ITEMS_PER_FEED = 30;
 const DEFAULT_DATA_PATH = "./public/data";
 const DEFAULT_SUMMARY_CONTENT_MAX_CHARS = 5000;
 const DEFAULT_SUMMARY_TEMPERATURE = 0.3;
 const DEFAULT_SUMMARY_MAX_TOKENS = 500;
-const DEFAULT_SUMMARY_UNAVAILABLE_MESSAGES = {
+const DEFAULT_SUMMARY_UNAVAILABLE_MESSAGES: LocalizedName = {
   zh: "无法生成摘要。",
   en: "Unable to generate summary.",
 };
@@ -25,12 +67,12 @@ Article content:
 {{content}}
 `;
 
-export function parseFeedmeConfig(configText) {
-  const parsed = YAML.parse(configText);
+export function parseFeedmeConfig(configText: string): ParsedFeedmeConfig {
+  const parsed: unknown = YAML.parse(configText);
   return normalizeFeedmeConfig(parsed);
 }
 
-function normalizeFeedmeConfig(parsedConfig) {
+function normalizeFeedmeConfig(parsedConfig: unknown): ParsedFeedmeConfig {
   assertPlainObject(parsedConfig, "config");
 
   const settings = isPlainObject(parsedConfig.settings) ? parsedConfig.settings : {};
@@ -38,9 +80,9 @@ function normalizeFeedmeConfig(parsedConfig) {
   const categoryList = assertArray(parsedConfig.categories, "categories");
   const sourceList = assertArray(parsedConfig.sources, "sources");
 
-  const categories = {};
-  const categoryOrder = [];
-  const categoryIds = new Set();
+  const categories: Record<string, RssCategoryConfig> = {};
+  const categoryOrder: string[] = [];
+  const categoryIds = new Set<string>();
 
   for (const [index, category] of categoryList.entries()) {
     const path = `categories[${index}]`;
@@ -58,9 +100,9 @@ function normalizeFeedmeConfig(parsedConfig) {
     };
   }
 
-  const sources = [];
-  const sourceIds = new Set();
-  const sourceUrls = new Set();
+  const sources: RssSourceConfig[] = [];
+  const sourceIds = new Set<string>();
+  const sourceUrls = new Set<string>();
 
   for (const [index, source] of sourceList.entries()) {
     const path = `sources[${index}]`;
@@ -95,7 +137,7 @@ function normalizeFeedmeConfig(parsedConfig) {
     throw new Error("sources must contain at least one source");
   }
 
-  const defaultSourceId = settings.defaultSource
+  const defaultSourceId = settings.defaultSource != null
     ? assertIdString(settings.defaultSource, "settings.defaultSource")
     : sources[0].id;
 
@@ -105,11 +147,15 @@ function normalizeFeedmeConfig(parsedConfig) {
   }
 
   const maxItemsPerFeed = settings.maxItemsPerFeed ?? DEFAULT_MAX_ITEMS_PER_FEED;
-  if (!Number.isInteger(maxItemsPerFeed) || maxItemsPerFeed <= 0) {
+  if (
+    typeof maxItemsPerFeed !== "number" ||
+    !Number.isInteger(maxItemsPerFeed) ||
+    maxItemsPerFeed <= 0
+  ) {
     throw new Error("settings.maxItemsPerFeed must be a positive integer");
   }
 
-  const dataPath = settings.dataPath
+  const dataPath = settings.dataPath != null
     ? assertNonEmptyString(settings.dataPath, "settings.dataPath")
     : DEFAULT_DATA_PATH;
 
@@ -126,27 +172,36 @@ function normalizeFeedmeConfig(parsedConfig) {
   };
 }
 
-function normalizeSummaryConfig(summaryConfig) {
+function normalizeSummaryConfig(summaryConfig: unknown): SummaryConfig {
   const summary = isPlainObject(summaryConfig) ? summaryConfig : {};
   const contentMaxChars = summary.contentMaxChars ?? DEFAULT_SUMMARY_CONTENT_MAX_CHARS;
   const temperature = summary.temperature ?? DEFAULT_SUMMARY_TEMPERATURE;
   const maxTokens = summary.maxTokens ?? DEFAULT_SUMMARY_MAX_TOKENS;
-  const unavailableMessages = summary.unavailableMessages
+  const unavailableMessages = summary.unavailableMessages != null
     ? assertLocalizedName(summary.unavailableMessages, "summary.unavailableMessages")
     : DEFAULT_SUMMARY_UNAVAILABLE_MESSAGES;
-  const prompt = summary.prompt
+  const prompt = summary.prompt != null
     ? assertNonEmptyString(summary.prompt, "summary.prompt")
     : DEFAULT_SUMMARY_PROMPT;
 
-  if (!Number.isInteger(contentMaxChars) || contentMaxChars <= 0) {
+  if (
+    typeof contentMaxChars !== "number" ||
+    !Number.isInteger(contentMaxChars) ||
+    contentMaxChars <= 0
+  ) {
     throw new Error("summary.contentMaxChars must be a positive integer");
   }
 
-  if (!Number.isFinite(temperature) || temperature < 0 || temperature > 2) {
+  if (
+    typeof temperature !== "number" ||
+    !Number.isFinite(temperature) ||
+    temperature < 0 ||
+    temperature > 2
+  ) {
     throw new Error("summary.temperature must be a number between 0 and 2");
   }
 
-  if (!Number.isInteger(maxTokens) || maxTokens <= 0) {
+  if (typeof maxTokens !== "number" || !Number.isInteger(maxTokens) || maxTokens <= 0) {
     throw new Error("summary.maxTokens must be a positive integer");
   }
 
@@ -165,7 +220,7 @@ function normalizeSummaryConfig(summaryConfig) {
   };
 }
 
-function assertArray(value, path) {
+function assertArray(value: unknown, path: string): unknown[] {
   if (!Array.isArray(value)) {
     throw new Error(`${path} must be an array`);
   }
@@ -173,13 +228,13 @@ function assertArray(value, path) {
   return value;
 }
 
-function assertPlainObject(value, path) {
+function assertPlainObject(value: unknown, path: string): asserts value is Record<string, unknown> {
   if (!isPlainObject(value)) {
     throw new Error(`${path} must be an object`);
   }
 }
 
-function assertNonEmptyString(value, path) {
+function assertNonEmptyString(value: unknown, path: string): string {
   if (typeof value !== "string" || value.trim() === "") {
     throw new Error(`${path} must be a non-empty string`);
   }
@@ -187,7 +242,7 @@ function assertNonEmptyString(value, path) {
   return value;
 }
 
-function assertIdString(value, path) {
+function assertIdString(value: unknown, path: string): string {
   const id = assertNonEmptyString(value, path);
   if (!/^[A-Za-z0-9_-]+$/.test(id)) {
     throw new Error(`${path} can only contain letters, numbers, underscores, and hyphens`);
@@ -196,7 +251,7 @@ function assertIdString(value, path) {
   return id;
 }
 
-function assertUrlString(value, path) {
+function assertUrlString(value: unknown, path: string): string {
   const url = assertNonEmptyString(value, path);
 
   try {
@@ -211,7 +266,7 @@ function assertUrlString(value, path) {
   return url;
 }
 
-function assertLocalizedName(value, path) {
+function assertLocalizedName(value: unknown, path: string): LocalizedName {
   assertPlainObject(value, path);
 
   const entries = Object.entries(value);
@@ -224,6 +279,6 @@ function assertLocalizedName(value, path) {
   );
 }
 
-function isPlainObject(value) {
+function isPlainObject(value: unknown): value is Record<string, unknown> {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
 }

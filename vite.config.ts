@@ -2,11 +2,20 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import fs from 'fs';
 import path from 'path';
-import { parseFeedmeConfig } from './src/config/feedme-config-loader.js';
+import {
+  parseFeedmeConfig,
+  type ClientFeedmeConfig,
+} from './src/config/feedme-config-loader.ts';
+
+const feedmeClientConfig = readFeedmeClientConfig();
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [feedmeConfigYaml(), react()],
+  plugins: [react()],
+
+  define: {
+    __FEEDME_CLIENT_CONFIG__: JSON.stringify(feedmeClientConfig),
+  },
 
   // ✅ 关键配置：使用相对路径，解决 basePath 问题
   base: './',
@@ -31,25 +40,14 @@ export default defineConfig({
   },
 });
 
-function feedmeConfigYaml() {
+function readFeedmeClientConfig(): ClientFeedmeConfig {
+  const configPath = path.resolve(__dirname, 'src/config/feedme.config.yaml');
+  const feedmeConfig = parseFeedmeConfig(fs.readFileSync(configPath, 'utf8'));
+
   return {
-    name: 'feedme-config-yaml',
-    enforce: 'pre' as const,
-    load(id: string) {
-      if (!id.replaceAll('\\', '/').endsWith('src/config/feedme.config.yaml')) {
-        return null;
-      }
-
-      const configText = fs.readFileSync(id, 'utf8');
-      const feedmeConfig = parseFeedmeConfig(configText);
-      const clientConfig = {
-        categories: feedmeConfig.categories,
-        categoryOrder: feedmeConfig.categoryOrder,
-        config: feedmeConfig.config,
-        defaultSource: feedmeConfig.defaultSource,
-      };
-
-      return `export default ${JSON.stringify(clientConfig)};`;
-    },
+    categories: feedmeConfig.categories,
+    categoryOrder: feedmeConfig.categoryOrder,
+    config: feedmeConfig.config,
+    defaultSource: feedmeConfig.defaultSource,
   };
 }

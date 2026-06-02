@@ -24,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - uses: pnpm/action-setup@v3
         with:
@@ -32,6 +32,9 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      - name: Type check
+        run: pnpm typecheck
 
       - name: Restore previous feed data
         run: |
@@ -52,7 +55,7 @@ jobs:
           fi
 
       - name: Update RSS feeds
-        run: node scripts/update-feeds.js
+        run: pnpm update-feeds
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_API_BASE: ${{ secrets.LLM_API_BASE }}

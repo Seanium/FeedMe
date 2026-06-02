@@ -46,8 +46,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^22.15.2
-    version: 22.15.2
+    specifier: ^24.12.4
+    version: 24.12.4
   '@types/react':
     specifier: ^19.1.2
     version: 19.1.2
@@ -77,7 +77,7 @@ devDependencies:
     version: 5.8.3
   vite:
     specifier: ^6.0.5
-    version: 6.0.5(@types/node@22.15.2)(yaml@2.9.0)
+    version: 6.0.5(@types/node@24.12.4)(yaml@2.9.0)
 
 packages:
 
@@ -1370,7 +1370,7 @@ packages:
   /@types/node-fetch@2.6.13:
     resolution: {integrity: sha512-QGpRVpzSaUs30JBSGPjOg4Uveu384erbHBoT1zeONvyCfwQxIkUshLAOqN/k9EjGviPRmWTTe6aH2qySWKTVSw==}
     dependencies:
-      '@types/node': 22.15.2
+      '@types/node': 24.12.4
       form-data: 4.0.5
     dev: true
 
@@ -1380,10 +1380,10 @@ packages:
       undici-types: 5.26.5
     dev: true
 
-  /@types/node@22.15.2:
-    resolution: {integrity: sha512-uKXqKN9beGoMdBfcaTY1ecwz6ctxuJAcUlwE55938g0ZJ8lRxwAZqRz2AJ4pzpt5dHdTPMB863UZ0ESiFUcP7A==}
+  /@types/node@24.12.4:
+    resolution: {integrity: sha512-GUUEShf+PBCGW2KaXwcIt3Yk+e3pkKwWKb9GSyM9WQVE+ep2jzmHdGsHzu4wgcZy5fN9FBdVzjpBQsYlpfpgLA==}
     dependencies:
-      undici-types: 6.21.0
+      undici-types: 7.16.0
     dev: true
 
   /@types/react-dom@19.1.2(@types/react@19.1.2):
@@ -1409,7 +1409,7 @@ packages:
       '@babel/plugin-transform-react-jsx-source': 7.27.1(@babel/core@7.28.5)
       '@types/babel__core': 7.20.5
       react-refresh: 0.14.2
-      vite: 6.0.5(@types/node@22.15.2)(yaml@2.9.0)
+      vite: 6.0.5(@types/node@24.12.4)(yaml@2.9.0)
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -2363,8 +2363,8 @@ packages:
     resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
     dev: true
 
-  /undici-types@6.21.0:
-    resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
+  /undici-types@7.16.0:
+    resolution: {integrity: sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==}
     dev: true
 
   /update-browserslist-db@1.2.2(browserslist@4.28.1):
@@ -2420,7 +2420,7 @@ packages:
   /util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
 
-  /vite@6.0.5(@types/node@22.15.2)(yaml@2.9.0):
+  /vite@6.0.5(@types/node@24.12.4)(yaml@2.9.0):
     resolution: {integrity: sha512-akD5IAH/ID5imgue2DYhzsEwCi0/4VKY31uhMLEYJwPP4TiUp8pL5PIK+Wo7H8qT8JY9i+pVfPydcFPYD1EL7g==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
@@ -2460,7 +2460,7 @@ packages:
       yaml:
         optional: true
     dependencies:
-      '@types/node': 22.15.2
+      '@types/node': 24.12.4
       esbuild: 0.24.0
       postcss: 8.5.3
       rollup: 4.53.3

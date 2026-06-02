@@ -112,7 +112,7 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 - **Adjust Default Source and Retained Items**: Modify `settings.defaultSource` and `settings.maxItemsPerFeed` in `src/config/feedme.config.yaml`
 
 - **Customize Summary Generation**:
-  Adjust the summary prompt, input truncation length, `temperature`, `maxTokens`, and fallback messages in the `summary` section of `src/config/feedme.config.yaml`. Summary output languages are still controlled by `SUMMARY_LOCALES`, for example `zh`, `en`, or `zh,en`. To add another language, add locale metadata in `src/config/i18n-config.js` and provide matching localized labels/messages.
+  Adjust the summary prompt, input truncation length, `temperature`, `maxTokens`, and fallback messages in the `summary` section of `src/config/feedme.config.yaml`. Summary output languages are still controlled by `SUMMARY_LOCALES`, for example `zh`, `en`, or `zh,en`. To add another language, add locale metadata in `src/config/i18n-config.ts` and provide matching localized labels/messages.
 
 ### Method 2: Vercel Deployment
 
@@ -171,6 +171,8 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
 
 ## 💻 Development
 
+This project uses Node.js 24 LTS. Use `.nvmrc` or `.node-version` to switch automatically.
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Seanium/feedme.git
@@ -204,7 +206,13 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
    ```
    This command fetches RSS sources and generates summaries, saving them to the `public/data` directory
 
-5. **Start the Development Server**
+5. **Type Check and Build**
+   ```bash
+   pnpm typecheck
+   pnpm build
+   ```
+
+6. **Start the Development Server**
    ```bash
    pnpm dev
    ```

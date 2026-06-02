@@ -1,25 +1,34 @@
-import feedmeConfig from "./feedme.config.yaml";
-import { defaultLocale, getLocalizedValue } from "./i18n-config.js";
+import feedmeConfig from "./feedme-config-client";
+import { defaultLocale, getLocalizedValue } from "./i18n-config";
+import type { RssCategoryConfig, RssSourceConfig } from "./feedme-config-loader";
+
+export type RssSource = RssSourceConfig;
+export type RssCategory = RssCategoryConfig;
+
+export interface SourceGroup {
+  label: string;
+  sources: RssSource[];
+}
 
 export const categories = feedmeConfig.categories;
 export const categoryOrder = feedmeConfig.categoryOrder;
 export const config = feedmeConfig.config;
 export const defaultSource = feedmeConfig.defaultSource;
 
-export function findSourceByUrl(url) {
+export function findSourceByUrl(url: string): RssSource | undefined {
   return config.sources.find((source) => source.url === url);
 }
 
-export function getSourceName(source, locale = defaultLocale) {
+export function getSourceName(source: RssSource, locale = defaultLocale): string {
   return getLocalizedValue(source.name, locale);
 }
 
-export function getCategoryName(categoryId, locale = defaultLocale) {
+export function getCategoryName(categoryId: string, locale = defaultLocale): string {
   return getLocalizedValue(categories[categoryId]?.name, locale) || categoryId;
 }
 
-export function getSourcesByCategory(locale = defaultLocale) {
-  const groupedSources = {};
+export function getSourcesByCategory(locale = defaultLocale): Record<string, SourceGroup> {
+  const groupedSources: Record<string, SourceGroup> = {};
 
   for (const categoryId of categoryOrder) {
     groupedSources[categoryId] = {

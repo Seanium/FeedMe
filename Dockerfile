@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:24-alpine
 
 # Update package list and install necessary packages
 # Use dcron for cron, bash for scripts, procps-ng for pkill
@@ -38,4 +38,4 @@ EXPOSE 3000
 ENTRYPOINT ["/app/scripts/entrypoint.sh"]
 
 # Remove the old CMD, as ENTRYPOINT handles the startup
-# CMD ["pnpm", "dev"] 
+# CMD ["pnpm", "dev"]

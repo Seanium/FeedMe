@@ -112,7 +112,7 @@
 - **调整默认源和保留条目数**: 修改 `src/config/feedme.config.yaml` 中的 `settings.defaultSource` 和 `settings.maxItemsPerFeed`
 
 - **自定义摘要生成**：
-  在 `src/config/feedme.config.yaml` 的 `summary` 中可以调整摘要提示词、输入截断长度、`temperature`、`maxTokens` 和摘要失败兜底文案。摘要生成语言仍通过 `SUMMARY_LOCALES` 控制，例如 `zh`、`en` 或 `zh,en`。如需新增语言，请在 `src/config/i18n-config.js` 中增加 locale 元数据，并在相关本地化配置中补充该语言文案。
+  在 `src/config/feedme.config.yaml` 的 `summary` 中可以调整摘要提示词、输入截断长度、`temperature`、`maxTokens` 和摘要失败兜底文案。摘要生成语言仍通过 `SUMMARY_LOCALES` 控制，例如 `zh`、`en` 或 `zh,en`。如需新增语言，请在 `src/config/i18n-config.ts` 中增加 locale 元数据，并在相关本地化配置中补充该语言文案。
 
 ### 方式二：Vercel 部署
 
@@ -171,6 +171,8 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
 
 ## 💻 开发
 
+本项目使用 Node.js 24 LTS。可通过 `.nvmrc` 或 `.node-version` 自动切换版本。
+
 1. **克隆仓库**
    ```bash
    git clone https://github.com/Seanium/feedme.git
@@ -204,7 +206,13 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
    ```
    此命令会抓取 RSS 源并生成摘要，保存到 `public/data` 目录
 
-5. **启动开发服务器**
+5. **类型检查与构建**
+   ```bash
+   pnpm typecheck
+   pnpm build
+   ```
+
+6. **启动开发服务器**
    ```bash
    pnpm dev
    ```

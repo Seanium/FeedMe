@@ -1,8 +1,8 @@
-export function getSourceDataFilename(sourceUrl) {
+export function getSourceDataFilename(sourceUrl: string): string {
   return `${encodeSourceUrl(sourceUrl).replace(/[/+=]/g, "_")}.json`;
 }
 
-function encodeSourceUrl(sourceUrl) {
+function encodeSourceUrl(sourceUrl: string): string {
   if (typeof Buffer !== "undefined") {
     return Buffer.from(sourceUrl, "utf-8").toString("base64");
   }
