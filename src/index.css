@@ -91,26 +91,27 @@ body {
     @apply border border-border bg-card shadow-sm hover:shadow-md transition-all duration-300 relative;
   }
 
-  .source-category-scroll {
+  .source-scroll {
+    scrollbar-gutter: stable;
     scrollbar-color: hsl(var(--muted-foreground) / 0.34) transparent;
     scrollbar-width: thin;
   }
 
-  .source-category-scroll::-webkit-scrollbar {
+  .source-scroll::-webkit-scrollbar {
     width: 4px;
     height: 4px;
   }
 
-  .source-category-scroll::-webkit-scrollbar-track {
+  .source-scroll::-webkit-scrollbar-track {
     background: transparent;
   }
 
-  .source-category-scroll::-webkit-scrollbar-thumb {
+  .source-scroll::-webkit-scrollbar-thumb {
     background: hsl(var(--muted-foreground) / 0.34);
     border-radius: 999px;
   }
 
-  .source-category-scroll::-webkit-scrollbar-thumb:hover {
+  .source-scroll::-webkit-scrollbar-thumb:hover {
     background: hsl(var(--muted-foreground) / 0.52);
   }
 

@@ -33,7 +33,7 @@ const translations = {
       current: "当前",
     },
     feed: {
-      emptyData: "数据为空，请检查数据源是否出错🫠",
+      emptyData: "数据为空，可能是由于该RSS源不稳定🫠",
       fetchError: "数据获取失败，请检查数据源是否出错🫠",
       sourceFallback: "信息源",
       updatedAt: "更新于",
@@ -70,7 +70,7 @@ const translations = {
       current: "Current",
     },
     feed: {
-      emptyData: "No data found. Please check whether the source is working 🫠",
+      emptyData: "No data found. This RSS source may be unstable 🫠",
       fetchError: "Failed to fetch data. Please check whether the source is working 🫠",
       sourceFallback: "Source",
       updatedAt: "Updated at",

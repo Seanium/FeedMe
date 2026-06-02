@@ -72,7 +72,7 @@ export function SourceSwitcher() {
             {t("sourceSwitcher.current")}: <span className="font-medium text-foreground">{currentSourceName}</span>
           </div>
           <div className="border-b px-2 py-2">
-            <div className="source-category-scroll flex max-h-24 flex-wrap gap-1 overflow-y-auto pb-2 md:max-h-none md:flex-nowrap md:overflow-x-auto md:overflow-y-hidden">
+            <div className="source-scroll flex max-h-24 flex-wrap gap-1 overflow-y-auto pb-2 md:max-h-none md:flex-nowrap md:overflow-x-auto md:overflow-y-hidden">
               <Button
                 type="button"
                 variant={activeCategory === "all" ? "secondary" : "ghost"}
@@ -96,7 +96,7 @@ export function SourceSwitcher() {
               ))}
             </div>
           </div>
-          <CommandList className="max-h-[40vh] md:max-h-[360px]">
+          <CommandList className="source-scroll max-h-[40vh] pr-1 md:max-h-[360px]">
             <CommandEmpty>{t("sourceSwitcher.empty")}</CommandEmpty>
             {visibleCategoryEntries.map(([category, group]) => {
               const { label, sources } = group
