@@ -29,14 +29,59 @@ export const config = {
       category: "科技资讯",
     },
     {
+      name: "Andrej Karpathy",
+      url: "https://karpathy.bearblog.dev/feed/",
+      category: "个人博客",
+    },
+    {
+      name: "Simon Willison's Weblog",
+      url: "https://simonwillison.net/atom/everything/",
+      category: "个人博客",
+    },
+    {
+      name: "Mario Zechner's Blog",
+      url: "https://mariozechner.at/rss.xml",
+      category: "个人博客",
+    },
+    {
+      name: "阮一峰的个人网站",
+      url: "http://www.ruanyifeng.com/blog/atom.xml",
+      category: "个人博客",
+    },
+    {
       name: "Google 产品和技术新闻",
       url: "https://blog.google/rss/",
-      category: "科技资讯",
+      category: "企业博客",
     },
     {
       name: "Github 博客",
       url: "https://github.blog/feed/",
-      category: "科技资讯",
+      category: "企业博客",
+    },
+    {
+      name: "Hugging Face 博客",
+      url: "https://rsshub.rssforever.com/huggingface/blog",
+      category: "企业博客",
+    },
+    {
+      name: "Google 开发者博客",
+      url: "https://rsshub.rssforever.com/google/developers/en",
+      category: "企业博客",
+    },
+    {
+      name: "Google 研究博客",
+      url: "https://rsshub.rssforever.com/google/research",
+      category: "企业博客",
+    },
+    {
+      name: "Google DeepMind",
+      url: "https://deepmind.google/blog/rss.xml",
+      category: "企业博客",
+    },
+    {
+      name: "Microsoft Research",
+      url: "https://www.microsoft.com/en-us/research/feed/",
+      category: "企业博客",
     },
     {
       name: "Github 今日热门",
@@ -53,56 +98,6 @@ export const config = {
       url: "https://rsshub.rssforever.com/huggingface/daily-papers",
       category: "科研资讯",
     },
-    {
-      name: "Hugging Face 博客",
-      url: "https://rsshub.rssforever.com/huggingface/blog",
-      category: "技术博客",
-    },
-    {
-      name: "Andrej Karpathy",
-      url: "https://karpathy.bearblog.dev/feed/",
-      category: "技术博客",
-    },
-    {
-      name: "Google 开发者博客",
-      url: "https://rsshub.rssforever.com/google/developers/en",
-      category: "技术博客",
-    },
-    {
-      name: "Google 研究博客",
-      url: "https://rsshub.rssforever.com/google/research",
-      category: "技术博客",
-    },
-    {
-      name: "Google DeepMind",
-      url: "https://deepmind.google/blog/rss.xml",
-      category: "技术博客",
-    },
-    {
-      name: "Simon Willison's Weblog",
-      url: "https://simonwillison.net/atom/everything/",
-      category: "技术博客",
-    },
-    {
-      name: "Mario Zechner's Blog",
-      url: "https://mariozechner.at/rss.xml",
-      category: "技术博客",
-    },
-    {
-      name: "阮一峰的个人网站",
-      url: "http://www.ruanyifeng.com/blog/atom.xml",
-      category: "技术博客",
-    },
-    {
-      name: "Microsoft Research",
-      url: "https://www.microsoft.com/en-us/research/feed/",
-      category: "技术博客",
-    },
-    // {
-    //   name: "Product Hunt 今日热门",
-    //   url: "https://rsshub.rssforever.com/producthunt/today",
-    //   category: "产品资讯",
-    // },
     {
       name: "LINUX DO 今日热门",
       url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
