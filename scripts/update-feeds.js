@@ -164,6 +164,47 @@ function normalizeSummaries(item = {}) {
   return summaries;
 }
 
+function createLocaleCounter() {
+  return Object.fromEntries(SUMMARY_LOCALES.map((locale) => [locale, 0]));
+}
+
+function formatLocaleCounts(counter) {
+  return SUMMARY_LOCALES.map((locale) => `${locale}:${counter[locale] || 0}`).join(", ");
+}
+
+function createSummaryPlan(mergedItems, newItemLinks) {
+  const plan = {
+    retainedNewItems: 0,
+    retainedExistingItems: 0,
+    generate: createLocaleCounter(),
+    reuse: createLocaleCounter(),
+    skippedMissingExisting: createLocaleCounter(),
+  };
+
+  for (const item of mergedItems) {
+    const summaries = normalizeSummaries(item);
+    const isRetainedNewItem = Boolean(item.link && newItemLinks.has(item.link));
+
+    if (isRetainedNewItem) {
+      plan.retainedNewItems += 1;
+    } else {
+      plan.retainedExistingItems += 1;
+    }
+
+    for (const locale of SUMMARY_LOCALES) {
+      if (summaries[locale]) {
+        plan.reuse[locale] += 1;
+      } else if (isRetainedNewItem) {
+        plan.generate[locale] += 1;
+      } else {
+        plan.skippedMissingExisting[locale] += 1;
+      }
+    }
+  }
+
+  return plan;
+}
+
 function buildSummaryPrompt(title, content, locale) {
   const { summaryLanguage } = getLocaleMeta(locale);
 
@@ -338,7 +379,19 @@ async function updateFeed(sourceUrl) {
       config.maxItemsPerFeed,
     );
 
-    console.log(`发现 ${newItemsForSummary.length} 条新条目，来自 ${sourceUrl}`);
+    const newItemLinks = new Set(newItemsForSummary.map((item) => item.link).filter(Boolean));
+    const summaryPlan = createSummaryPlan(mergedItems, newItemLinks);
+
+    console.log(
+      `源统计 ${sourceUrl}: RSS返回 ${newFeed.items.length} 条，保留 ${mergedItems.length}/${config.maxItemsPerFeed} 条；` +
+      `feed新链接 ${newItemsForSummary.length} 条，保留列表新条目 ${summaryPlan.retainedNewItems} 条，` +
+      `复用已有条目 ${summaryPlan.retainedExistingItems} 条`,
+    );
+    console.log(
+      `摘要计划 ${sourceUrl}: 将生成 ${formatLocaleCounts(summaryPlan.generate)}；` +
+      `已有/复用 ${formatLocaleCounts(summaryPlan.reuse)}；` +
+      `旧条目缺失但跳过 ${formatLocaleCounts(summaryPlan.skippedMissingExisting)}`,
+    );
 
     // 为新条目生成摘要
     const itemsWithSummaries = await Promise.all(
@@ -346,7 +399,7 @@ async function updateFeed(sourceUrl) {
         const summaries = normalizeSummaries(item);
 
         // 如果是新条目且需要生成摘要
-        if (newItemsForSummary.some((newItem) => newItem.link === item.link)) {
+        if (item.link && newItemLinks.has(item.link)) {
           try {
             // 确保使用任何可用的内容源 - content, item 本身的 summary 字段, 或 contentSnippet
             const contentForSummary = item.content || item.contentSnippet || "";

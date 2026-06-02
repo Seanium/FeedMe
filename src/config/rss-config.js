@@ -84,15 +84,6 @@ export const config = {
       category: "techNews",
     },
     {
-      id: "openai-news",
-      name: {
-        zh: "OpenAI News",
-        en: "OpenAI News",
-      },
-      url: "https://openai.com/news/rss.xml",
-      category: "techNews",
-    },
-    {
       id: "andrej-karpathy",
       name: {
         zh: "Andrej Karpathy",
@@ -127,6 +118,15 @@ export const config = {
       },
       url: "http://www.ruanyifeng.com/blog/atom.xml",
       category: "personalBlogs",
+    },
+    {
+      id: "openai-news",
+      name: {
+        zh: "OpenAI News",
+        en: "OpenAI News",
+      },
+      url: "https://openai.com/news/rss.xml",
+      category: "companyBlogs",
     },
     {
       id: "google-product-news",
