@@ -18,7 +18,9 @@ export const dateLocales = Object.fromEntries(
   supportedLocales.map((locale: Locale) => [locale, getLocaleMeta(locale).dateLocale]),
 )
 
-const translations = {
+type TranslationValue = string | { [key: string]: TranslationValue }
+
+const translations: Record<Locale, TranslationValue> = {
   zh: {
     app: {
       github: "GitHub 仓库",
@@ -101,26 +103,27 @@ function isLocale(value: string | null | undefined): value is Locale {
   return isSupportedLocale(value)
 }
 
-function getFromTranslations(locale: Locale, key: I18nKey): string {
-  const value = key.split(".").reduce<unknown>((acc, part) => {
-    if (acc && typeof acc === "object" && part in acc) {
-      return (acc as Record<string, unknown>)[part]
-    }
-    return undefined
-  }, translations[locale])
+function getNestedTranslation(root: TranslationValue | undefined, key: I18nKey): string | undefined {
+  let value = root
 
-  if (typeof value === "string") {
+  for (const part of key.split(".")) {
+    if (value && typeof value === "object" && part in value) {
+      value = value[part]
+    } else {
+      return undefined
+    }
+  }
+
+  return typeof value === "string" ? value : undefined
+}
+
+function getFromTranslations(locale: Locale, key: I18nKey): string {
+  const value = getNestedTranslation(translations[locale], key)
+  if (value !== undefined) {
     return value
   }
 
-  const fallbackValue = key.split(".").reduce<unknown>((acc, part) => {
-    if (acc && typeof acc === "object" && part in acc) {
-      return (acc as Record<string, unknown>)[part]
-    }
-    return undefined
-  }, translations[defaultLocale])
-
-  return typeof fallbackValue === "string" ? fallbackValue : key
+  return getNestedTranslation(translations[defaultLocale], key) || key
 }
 
 function readLocaleFromUrl(): Locale | null {

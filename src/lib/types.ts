@@ -14,13 +14,6 @@ export interface FeedItem {
   }
 }
 
-export interface Feed {
-  title: string
-  description: string
-  link: string
-  items: FeedItem[]
-}
-
 export interface FeedData {
   sourceUrl: string
   title: string

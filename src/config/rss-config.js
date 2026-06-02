@@ -63,6 +63,18 @@ export const categories = {
   },
 };
 
+export const categoryOrder = [
+  "techNews",
+  "personalBlogs",
+  "companyBlogs",
+  "openSource",
+  "research",
+  "forums",
+  "anime",
+  "sports",
+  "podcasts",
+];
+
 export const config = {
   sources: [
     {
@@ -301,15 +313,27 @@ export function getCategoryName(categoryId, locale = defaultLocale) {
 }
 
 export function getSourcesByCategory(locale = defaultLocale) {
-  return config.sources.reduce((acc, source) => {
-    if (!acc[source.category]) {
-      acc[source.category] = {
+  const groupedSources = {};
+
+  for (const categoryId of categoryOrder) {
+    groupedSources[categoryId] = {
+      label: getCategoryName(categoryId, locale),
+      sources: [],
+    };
+  }
+
+  for (const source of config.sources) {
+    if (!groupedSources[source.category]) {
+      groupedSources[source.category] = {
         label: getCategoryName(source.category, locale),
         sources: [],
       };
     }
 
-    acc[source.category].sources.push(source);
-    return acc;
-  }, {});
+    groupedSources[source.category].sources.push(source);
+  }
+
+  return Object.fromEntries(
+    Object.entries(groupedSources).filter(([, group]) => group.sources.length > 0),
+  );
 }

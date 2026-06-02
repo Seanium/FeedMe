@@ -4,12 +4,12 @@
 // 加载.env文件中的环境变量
 import path from 'path';
 import fs from 'fs';
-import { fileURLToPath } from 'url';
 import Parser from 'rss-parser';
 import { OpenAI } from 'openai';
 
 // 从配置文件中导入RSS源配置
 import { config } from '../src/config/rss-config.js';
+import { getSourceDataFilename } from '../src/lib/source-data-path.js';
 import {
   defaultLocale,
   getLocaleMeta,
@@ -17,10 +17,6 @@ import {
   parseLocaleList,
   supportedLocales,
 } from '../src/config/i18n-config.js';
-
-// 获取 __dirname 的 ES 模块等价物
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const dotenvPath = path.resolve(process.cwd(), '.env');
 if (fs.existsSync(dotenvPath)) {
@@ -100,7 +96,11 @@ const openai = new OpenAI({
 
 // 确保数据目录存在
 function ensureDataDir() {
-  const dataDir = path.join(process.cwd(), config.dataPath);
+  const configuredDataPath = process.env.DATA_DIR?.trim() || config.dataPath;
+  const dataDir = path.isAbsolute(configuredDataPath)
+    ? configuredDataPath
+    : path.join(process.cwd(), configuredDataPath);
+
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -110,9 +110,7 @@ function ensureDataDir() {
 // 获取源的文件路径
 function getSourceFilePath(sourceUrl) {
   const dataDir = ensureDataDir();
-  // 使用URL的Base64编码作为文件名，避免非法字符
-  const sourceHash = Buffer.from(sourceUrl).toString('base64').replace(/[/+=]/g, '_');
-  return path.join(dataDir, `${sourceHash}.json`);
+  return path.join(dataDir, getSourceDataFilename(sourceUrl));
 }
 
 // 保存源数据到文件
@@ -371,6 +369,13 @@ async function updateFeed(sourceUrl) {
 
     // 获取新数据
     const newFeed = await fetchRssFeed(sourceUrl);
+
+    if (newFeed.items.length === 0 && existingData?.items?.length > 0) {
+      console.warn(
+        `源统计 ${sourceUrl}: RSS返回 0 条，保留已有 ${existingData.items.length} 条数据，不覆盖旧文件`,
+      );
+      return existingData;
+    }
 
     // 合并数据，找出需要生成摘要的新条目
     const { mergedItems, newItemsForSummary } = mergeFeedItems(

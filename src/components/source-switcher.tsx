@@ -7,14 +7,8 @@ import { Button } from "@/components/ui/button"
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command"
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover"
 import { useState } from "react"
-import { defaultSource, getSourceName, getSourcesByCategory, findSourceByUrl } from "@/config/rss-config"
+import { defaultSource, findSourceByUrl, getSourceName, getSourcesByCategory, type RssSource } from "@/config/rss-config"
 import { useI18n } from "@/i18n"
-
-type RssSource = {
-  url: string
-  name: Record<string, string>
-  category: string
-}
 
 export function SourceSwitcher() {
   const router = useRouter()

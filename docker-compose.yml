@@ -6,6 +6,10 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./.env:/app/.env
+      - ./.env:/app/.env:ro
+      - feedme-data:/app/public/data
     container_name: feedme
-    restart: unless-stopped 
+    restart: unless-stopped
+
+volumes:
+  feedme-data:
