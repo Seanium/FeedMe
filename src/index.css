@@ -47,33 +47,33 @@ body {
   }
 
   .dark {
-    --background: 220 18% 12%;
-    --foreground: 210 40% 92%;
+    --background: 225 16% 9%;
+    --foreground: 215 28% 90%;
 
-    --card: 220 16% 16%;
-    --card-foreground: 210 40% 92%;
+    --card: 224 14% 14%;
+    --card-foreground: 215 28% 91%;
 
-    --popover: 220 16% 18%;
-    --popover-foreground: 210 40% 92%;
+    --popover: 224 14% 15.5%;
+    --popover-foreground: 215 28% 91%;
 
-    --primary: 213 72% 65%;
-    --primary-foreground: 214 100% 97%;
+    --primary: 210 78% 68%;
+    --primary-foreground: 222 47% 10%;
 
-    --secondary: 220 14% 22%;
-    --secondary-foreground: 210 30% 92%;
+    --secondary: 220 12% 18%;
+    --secondary-foreground: 215 24% 88%;
 
-    --muted: 220 15% 20%;
-    --muted-foreground: 215 20% 72%;
+    --muted: 220 12% 18%;
+    --muted-foreground: 216 14% 68%;
 
-    --accent: 205 48% 45%;
-    --accent-foreground: 210 100% 96%;
+    --accent: 178 34% 22%;
+    --accent-foreground: 180 38% 88%;
 
-    --destructive: 0 62% 55%;
+    --destructive: 0 68% 62%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 220 16% 24%;
-    --input: 220 16% 24%;
-    --ring: 213 72% 65%;
+    --border: 222 13% 22%;
+    --input: 222 13% 24%;
+    --ring: 210 78% 68%;
   }
 }
 
@@ -91,7 +91,41 @@ body {
     @apply border border-border bg-card shadow-sm hover:shadow-md transition-all duration-300 relative;
   }
 
+  .source-category-scroll {
+    scrollbar-color: hsl(var(--muted-foreground) / 0.34) transparent;
+    scrollbar-width: thin;
+  }
+
+  .source-category-scroll::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+
+  .source-category-scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .source-category-scroll::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted-foreground) / 0.34);
+    border-radius: 999px;
+  }
+
+  .source-category-scroll::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--muted-foreground) / 0.52);
+  }
+
   .dark .feed-card {
-    @apply bg-card border-border shadow-md hover:shadow-lg;
+    @apply bg-card border-border;
+    box-shadow:
+      0 1px 0 hsl(0 0% 100% / 0.03),
+      0 10px 28px hsl(225 35% 4% / 0.28);
+  }
+
+  .dark .feed-card:hover {
+    border-color: hsl(var(--primary) / 0.34);
+    box-shadow:
+      0 1px 0 hsl(0 0% 100% / 0.045),
+      0 18px 48px hsl(225 40% 3% / 0.48),
+      0 0 0 1px hsl(var(--primary) / 0.12);
   }
 }
