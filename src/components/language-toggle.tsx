@@ -21,6 +21,9 @@ export function LanguageToggle() {
       </DropdownMenuTrigger>
       <DropdownMenuContent
         align="end"
+        onPointerDownOutside={() => {
+          closeFromPointerRef.current = true
+        }}
         onCloseAutoFocus={(event) => {
           if (!closeFromPointerRef.current) {
             return

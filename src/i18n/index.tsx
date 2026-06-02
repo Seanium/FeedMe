@@ -33,6 +33,7 @@ const translations: Record<Locale, TranslationValue> = {
       empty: "未找到匹配的信息源",
       all: "全部",
       current: "当前",
+      scrollCategories: "滚动信息源类目",
     },
     feed: {
       emptyData: "数据为空，可能是由于该RSS源不稳定🫠",
@@ -70,6 +71,7 @@ const translations: Record<Locale, TranslationValue> = {
       empty: "No matching source found",
       all: "All",
       current: "Current",
+      scrollCategories: "Scroll source categories",
     },
     feed: {
       emptyData: "No data found. This RSS source may be unstable 🫠",

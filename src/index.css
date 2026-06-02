@@ -115,6 +115,44 @@ body {
     background: hsl(var(--muted-foreground) / 0.52);
   }
 
+  .source-category-scroll {
+    scrollbar-width: none;
+  }
+
+  .source-category-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .source-category-scrollbar {
+    @apply relative mt-2 h-2 w-full cursor-default rounded-full outline-none;
+    background: hsl(var(--muted) / 0.7);
+    opacity: 0;
+    transition: opacity 160ms ease;
+  }
+
+  .source-category-scrollbar[data-visible="true"],
+  .source-category-region:hover .source-category-scrollbar,
+  .source-category-region:focus-within .source-category-scrollbar,
+  .source-category-scrollbar[data-dragging="true"] {
+    opacity: 1;
+  }
+
+  .source-category-scrollbar:focus-visible {
+    box-shadow:
+      0 0 0 2px hsl(var(--popover)),
+      0 0 0 4px hsl(var(--ring) / 0.72);
+  }
+
+  .source-category-scrollbar-thumb {
+    @apply absolute top-1/2 h-1.5 -translate-y-1/2 rounded-full transition-colors;
+    background: hsl(var(--muted-foreground) / 0.46);
+  }
+
+  .source-category-scrollbar:hover .source-category-scrollbar-thumb,
+  .source-category-scrollbar:focus-visible .source-category-scrollbar-thumb {
+    background: hsl(var(--muted-foreground) / 0.64);
+  }
+
   .dark .feed-card {
     @apply bg-card border-border;
     box-shadow:
