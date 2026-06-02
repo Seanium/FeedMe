@@ -33,6 +33,24 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Restore previous feed data
+        run: |
+          mkdir -p public
+
+          if git ls-remote --exit-code --heads origin deploy >/dev/null 2>&1; then
+            git fetch origin deploy --depth=1
+
+            if git cat-file -e FETCH_HEAD:data 2>/dev/null; then
+              rm -rf public/data
+              git archive --format=tar FETCH_HEAD data | tar -x -C public
+              echo "Restored $(find public/data -type f | wc -l | tr -d ' ') feed data files from deploy branch"
+            else
+              echo "No data directory found on deploy branch"
+            fi
+          else
+            echo "No deploy branch found, skipping feed data restore"
+          fi
+
       - name: Update RSS feeds
         run: node scripts/update-feeds.js
         env:
