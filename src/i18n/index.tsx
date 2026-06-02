@@ -29,6 +29,8 @@ const translations = {
       select: "选择信息源",
       search: "搜索信息源...",
       empty: "未找到匹配的信息源",
+      all: "全部",
+      current: "当前",
     },
     feed: {
       emptyData: "数据为空，请检查数据源是否出错🫠",
@@ -64,6 +66,8 @@ const translations = {
       select: "Select source",
       search: "Search sources...",
       empty: "No matching source found",
+      all: "All",
+      current: "Current",
     },
     feed: {
       emptyData: "No data found. Please check whether the source is working 🫠",

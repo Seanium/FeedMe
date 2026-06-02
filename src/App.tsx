@@ -49,7 +49,7 @@ function AppContent() {
           <p className="text-muted-foreground mb-8">{t("app.tagline")}</p>
 
           <div className="mb-8">
-            <Suspense fallback={<div className="w-full md:w-[300px] h-10 bg-muted rounded-md animate-pulse" />}>
+            <Suspense fallback={<div className="w-full md:w-[340px] h-10 bg-muted rounded-md animate-pulse" />}>
               <SourceSwitcher />
             </Suspense>
           </div>
