@@ -34,6 +34,10 @@ categories:
     name:
       zh: 科技资讯
       en: Tech News
+  - id: financeNews
+    name:
+      zh: 财经资讯
+      en: Finance News
   - id: personalBlogs
     name:
       zh: 个人博客
@@ -80,6 +84,18 @@ sources:
       en: Hacker News Daily Top 10
     url: https://rsshub.rssforever.com/github/issue/headllines/hackernews-daily
     category: techNews
+  - id: bloomberg-markets
+    name:
+      zh: Bloomberg Markets
+      en: Bloomberg Markets
+    url: https://feeds.bloomberg.com/markets/news.rss
+    category: financeNews
+  - id: bloomberg-technology
+    name:
+      zh: Bloomberg Technology
+      en: Bloomberg Technology
+    url: https://feeds.bloomberg.com/technology/news.rss
+    category: financeNews
   - id: andrej-karpathy
     name:
       zh: Andrej Karpathy
