@@ -138,24 +138,6 @@ export const config = {
       category: "companyBlogs",
     },
     {
-      id: "github-blog",
-      name: {
-        zh: "Github 博客",
-        en: "GitHub Blog",
-      },
-      url: "https://github.blog/feed/",
-      category: "companyBlogs",
-    },
-    {
-      id: "hugging-face-blog",
-      name: {
-        zh: "Hugging Face 博客",
-        en: "Hugging Face Blog",
-      },
-      url: "https://rsshub.rssforever.com/huggingface/blog",
-      category: "companyBlogs",
-    },
-    {
       id: "google-developers-blog",
       name: {
         zh: "Google 开发者博客",
@@ -180,6 +162,24 @@ export const config = {
         en: "Google DeepMind",
       },
       url: "https://deepmind.google/blog/rss.xml",
+      category: "companyBlogs",
+    },
+    {
+      id: "github-blog",
+      name: {
+        zh: "Github 博客",
+        en: "GitHub Blog",
+      },
+      url: "https://github.blog/feed/",
+      category: "companyBlogs",
+    },
+    {
+      id: "hugging-face-blog",
+      name: {
+        zh: "Hugging Face 博客",
+        en: "Hugging Face Blog",
+      },
+      url: "https://rsshub.rssforever.com/huggingface/blog",
       category: "companyBlogs",
     },
     {
@@ -224,7 +224,7 @@ export const config = {
         zh: "LINUX DO 今日热门",
         en: "LINUX DO Daily Top",
       },
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
+      url: "https://linux.do/top.rss?period=daily",
       category: "forums",
     },
     {
@@ -233,7 +233,7 @@ export const config = {
         zh: "LINUX DO 近一周热门",
         en: "LINUX DO Weekly Top",
       },
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=weekly",
+      url: "https://linux.do/top.rss?period=weekly",
       category: "forums",
     },
     {
@@ -242,7 +242,7 @@ export const config = {
         zh: "LINUX DO 近一月热门",
         en: "LINUX DO Monthly Top",
       },
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=monthly",
+      url: "https://linux.do/top.rss?period=monthly",
       category: "forums",
     },
     {
