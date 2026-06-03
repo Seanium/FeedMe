@@ -11,7 +11,7 @@
 [![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=flat-square&labelColor=black&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
-[![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%203h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
+[![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%201h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
 [![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://seanium.github.io/FeedMe/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
@@ -85,7 +85,7 @@
 
 **更新数据并部署** (`update-deploy.yml`)：
 - 触发条件：
-  - 定时执行（每 3 小时一次）
+  - 定时执行（每小时一次）
   - 推送代码
   - 手动触发
 - 执行内容：
@@ -166,7 +166,7 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
     应用将在 [http://localhost:3000](http://localhost:3000) 上可用。
 
 5.  **自动更新**
-    容器将根据 `src/config/crontab-docker` 中的配置（默认为每 3 小时）自动执行 `pnpm update-feeds` 和 `pnpm build`，并重新启动服务。
+    容器将根据 `src/config/crontab-docker` 中的配置（默认为每小时）自动执行 `pnpm update-feeds` 和 `pnpm build`，并重新启动服务。
     如需修改更新频率，请编辑 `src/config/crontab-docker` 文件中的 cron 表达式（例如 `0 */6 * * *` 表示每 6 小时执行一次）。
 
 ## 💻 开发

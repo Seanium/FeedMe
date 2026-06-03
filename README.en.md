@@ -11,7 +11,7 @@
 [![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=flat-square&labelColor=black&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Seanium/feedme/update-deploy.yml?branch=main&style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/Seanium/feedme/actions)
-[![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%203h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
+[![RSS Update](https://img.shields.io/badge/RSS%20Update-Every%201h-orange?style=flat-square&labelColor=black&logo=rss&logoColor=white)](https://github.com/Seanium/feedme/blob/main/.github/workflows/update-deploy.yml)
 [![Live Demo](https://img.shields.io/badge/Demo-Online-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://seanium.github.io/FeedMe/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seanium/FeedMe)
 
@@ -85,7 +85,7 @@ This project uses GitHub Actions for automatic deployment to GitHub Pages, with 
 
 **Update Data and Deploy** (`update-deploy.yml`):
 - Trigger conditions:
-  - Scheduled execution (every 3 hours)
+  - Scheduled execution (every hour)
   - Push code
   - Manual trigger
 - Execution content:
@@ -166,7 +166,7 @@ This method uses Docker to run FeedMe locally or on a server. It utilizes an in-
     The application will be available at [http://localhost:3000](http://localhost:3000).
 
 5.  **Automatic Updates**
-    The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `src/config/crontab-docker` (defaults to every 3 hours).
+    The container will automatically run `pnpm update-feeds` and `pnpm build`, then restart the server based on the schedule in `src/config/crontab-docker` (defaults to every hour).
     To modify the update frequency, edit the cron expression in the `src/config/crontab-docker` file (e.g., `0 */6 * * *` for updates every 6 hours).
 
 ## 💻 Development
