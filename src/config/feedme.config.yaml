@@ -126,6 +126,54 @@ sources:
       en: OpenAI News
     url: https://openai.com/news/rss.xml
     category: companyBlogs
+  - id: openai-engineering
+    name:
+      zh: OpenAI Engineering
+      en: OpenAI Engineering
+    url: https://openai.com/news/engineering/rss.xml
+    category: companyBlogs
+  - id: openai-research
+    name:
+      zh: OpenAI Research
+      en: OpenAI Research
+    url: https://openai.com/blog/rss.xml
+    category: companyBlogs
+  - id: anthropic-engineering
+    name:
+      zh: Anthropic 工程博客
+      en: Anthropic Engineering
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
+    category: companyBlogs
+  - id: anthropic-frontier-red-team
+    name:
+      zh: Anthropic Frontier Red Team
+      en: Anthropic Frontier Red Team
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml
+    category: companyBlogs
+  - id: anthropic-news
+    name:
+      zh: Anthropic 新闻
+      en: Anthropic News
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+    category: companyBlogs
+  - id: anthropic-research
+    name:
+      zh: Anthropic 研究
+      en: Anthropic Research
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
+    category: companyBlogs
+  - id: claude-blog
+    name:
+      zh: Claude 博客
+      en: Claude Blog
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml
+    category: companyBlogs
+  - id: claude-code-changelog
+    name:
+      zh: Claude Code 更新日志
+      en: Claude Code Changelog
+    url: https://code.claude.com/docs/en/changelog/rss.xml
+    category: companyBlogs
   - id: google-product-news
     name:
       zh: Google 产品和技术新闻
