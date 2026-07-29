@@ -1,0 +1,21 @@
+src/config/feedme.config.yaml
+  s_f08da5c3d12249::t_ede7a801a227cd 123-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "706245ca1724f05306896b13680b1a2b219bbdcd",
+  "prompts": {},
+  "sessions": {
+    "s_f08da5c3d12249": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e76ed-964d-7271-9d88-9da9ba1c7427",
+        "model": "unknown"
+      },
+      "human_author": "guanxiao.233 <guanxiao.233@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
