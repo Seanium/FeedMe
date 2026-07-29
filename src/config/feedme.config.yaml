@@ -120,6 +120,12 @@ sources:
       en: Ruanyifeng's Blog
     url: http://www.ruanyifeng.com/blog/atom.xml
     category: personalBlogs
+  - id: sebastian-raschka
+    name:
+      zh: Sebastian Raschka
+      en: Sebastian Raschka
+    url: https://sebastianraschka.com/rss_feed.xml
+    category: personalBlogs
   - id: openai-news
     name:
       zh: OpenAI News
