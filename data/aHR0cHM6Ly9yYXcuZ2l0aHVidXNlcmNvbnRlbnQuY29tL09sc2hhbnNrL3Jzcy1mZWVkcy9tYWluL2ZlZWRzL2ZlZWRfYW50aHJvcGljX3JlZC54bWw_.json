@@ -1,0 +1,303 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml",
+  "title": "Anthropic Frontier Red Team Blog",
+  "description": "Evidence-based analysis about AI's implications for cybersecurity, biosecurity, and autonomous systems",
+  "link": "https://red.anthropic.com/",
+  "items": [
+    {
+      "title": "Measuring LLMs' Impact on N-day Exploits",
+      "link": "https://red.anthropic.com/2026/n-days/",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "In cybersecurity, a large fraction of real-world harm comes from N-days: vulnerabilities that have\n                    already been publicly disclosed, but only patched on some devices. In this post, we evaluate how\n                    much large language models can accelerate and automate the process of developing N-day exploits.",
+      "contentSnippet": "In cybersecurity, a large fraction of real-world harm comes from N-days: vulnerabilities that have\n                    already been publicly disclosed, but only patched on some devices. In this post, we evaluate how\n                    much large language models can accelerate and automate the process of developing N-day exploits.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：衡量大型语言模型对N天漏洞的影响\n\n文章内容摘要：在网络安全领域，大部分实际损害来自N天漏洞——即已公开披露但部分设备未修复的漏洞。本文评估了大型语言模型在加速和自动化N天漏洞开发过程中的作用。",
+        "en": "The article assesses how large language models (LLMs) impact the development of N-day exploits in cybersecurity. N-days refer to vulnerabilities publicly disclosed but patched on only some devices, causing significant real-world harm. The post evaluates the extent to which LLMs can accelerate and automate the creation of these exploits."
+      },
+      "summary": "文章标题：衡量大型语言模型对N天漏洞的影响\n\n文章内容摘要：在网络安全领域，大部分实际损害来自N天漏洞——即已公开披露但部分设备未修复的漏洞。本文评估了大型语言模型在加速和自动化N天漏洞开发过程中的作用。"
+    },
+    {
+      "title": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "link": "https://red.anthropic.com/2026/attack-navigator/",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "We’ve spent the past year investigating how threat actors are weaponizing AI to conduct cyber\n                        operations. Today, we’re sharing a new analysis that maps these real-world attacks onto the\n                        MITRE ATT&CK framework, a database of tactics and techniques used by cyberattackers. We\n                        partnered with Verizon to include some of these results in the 2026 Verizon Data Breach\n                        Investigation Report (DBIR), and are publishing this report to offer a longer-form analysis of\n                        trends we are seeing in AI-enabled cyber operations.",
+      "contentSnippet": "We’ve spent the past year investigating how threat actors are weaponizing AI to conduct cyber\n                        operations. Today, we’re sharing a new analysis that maps these real-world attacks onto the\n                        MITRE ATT&CK framework, a database of tactics and techniques used by cyberattackers. We\n                        partnered with Verizon to include some of these results in the 2026 Verizon Data Breach\n                        Investigation Report (DBIR), and are publishing this report to offer a longer-form analysis of\n                        trends we are seeing in AI-enabled cyber operations.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文分析了威胁行为者如何利用人工智能进行网络攻击，并将真实攻击案例映射到MITRE ATT&CK框架。研究团队与Verizon合作，部分结果被纳入2026年《Verizon数据泄露调查报告》，以深入探讨AI赋能网络攻击的趋势。",
+        "en": "The article presents a new analysis mapping AI-enabled cyber threats onto the MITRE ATT&CK framework. It highlights how threat actors are using AI in cyber operations, based on real-world attacks. The findings were also included in the 2026 Verizon DBIR. The report offers a detailed analysis of trends in AI-powered cyber threats."
+      },
+      "summary": "本文分析了威胁行为者如何利用人工智能进行网络攻击，并将真实攻击案例映射到MITRE ATT&CK框架。研究团队与Verizon合作，部分结果被纳入2026年《Verizon数据泄露调查报告》，以深入探讨AI赋能网络攻击的趋势。"
+    },
+    {
+      "title": "Measuring LLMs' Ability to Develop Exploits",
+      "link": "https://red.anthropic.com/2026/exploit-evals/",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "On two new, challenging academic benchmarks measuring AI models’ ability to develop exploits\n                        (ExploitBench and ExploitGym) and an updated version of the benchmark measuring smart contract\n                        exploitation (SCONE-bench), we have found that Mythos Preview consistently outperforms all other\n                        evaluated models. We believe this is further evidence that the knowledge and expertise required\n                        to develop exploits will drop significantly as Mythos-level capabilities become more widely\n                        available.",
+      "contentSnippet": "On two new, challenging academic benchmarks measuring AI models’ ability to develop exploits\n                        (ExploitBench and ExploitGym) and an updated version of the benchmark measuring smart contract\n                        exploitation (SCONE-bench), we have found that Mythos Preview consistently outperforms all other\n                        evaluated models. We believe this is further evidence that the knowledge and expertise required\n                        to develop exploits will drop significantly as Mythos-level capabilities become more widely\n                        available.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章介绍了两个新的学术基准（ExploitBench和ExploitGym）以及更新版的智能合约漏洞利用基准（SCONE-bench），用于评估AI模型开发漏洞的能力。研究发现，Mythos Preview在这些基准测试中表现优于其他模型。这表明，随着Mythos级能力的普及，开发漏洞所需的知识和技能将大幅降低。",
+        "en": "The study evaluates AI models using ExploitBench, ExploitGym, and SCONE-bench for exploit development. Mythos Preview outperforms all other models across these benchmarks. The findings suggest that as Mythos-level AI capabilities become more accessible, the expertise needed to create exploits will significantly decrease. The research highlights the growing potential for AI in developing exploits."
+      },
+      "summary": "文章介绍了两个新的学术基准（ExploitBench和ExploitGym）以及更新版的智能合约漏洞利用基准（SCONE-bench），用于评估AI模型开发漏洞的能力。研究发现，Mythos Preview在这些基准测试中表现优于其他模型。这表明，随着Mythos级能力的普及，开发漏洞所需的知识和技能将大幅降低。"
+    },
+    {
+      "title": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+      "link": "https://red.anthropic.com/2026/mythos-preview/",
+      "pubDate": "Tue, 07 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-07T00:00:00.000Z",
+      "content": "Claude Mythos Preview is a new general-purpose language model that is\n                        strikingly capable at computer security tasks. This post provides technical details for\n                        researchers\n                        and practitioners who want to understand exactly how we have been testing this model, and what\n                        we\n                        have found over the past month. We hope this will show why we view this as a watershed moment\n                        for\n                        security, and why we have chosen to begin a coordinated effort to reinforce the world’s cyber\n                        defenses.",
+      "contentSnippet": "Claude Mythos Preview is a new general-purpose language model that is\n                        strikingly capable at computer security tasks. This post provides technical details for\n                        researchers\n                        and practitioners who want to understand exactly how we have been testing this model, and what\n                        we\n                        have found over the past month. We hope this will show why we view this as a watershed moment\n                        for\n                        security, and why we have chosen to begin a coordinated effort to reinforce the world’s cyber\n                        defenses.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Mythos Preview是一款在计算机安全任务中表现出色的通用语言模型。本文为研究人员和从业者提供了技术细节，解释了测试该模型的过程及过去一个月的发现。文章强调，该模型标志着安全领域的转折点，并呼吁启动协调行动以加强全球网络安全防御。",
+        "en": "Claude Mythos Preview is a new general-purpose language model with strong computer security capabilities. The article provides technical details on testing methods and findings over the past month, highlighting its significance for cybersecurity. It aims to demonstrate why the model represents a pivotal moment for security and justifies efforts to enhance global cyber defenses."
+      },
+      "summary": "Claude Mythos Preview是一款在计算机安全任务中表现出色的通用语言模型。本文为研究人员和从业者提供了技术细节，解释了测试该模型的过程及过去一个月的发现。文章强调，该模型标志着安全领域的转折点，并呼吁启动协调行动以加强全球网络安全防御。"
+    },
+    {
+      "title": "Partnering with Mozilla to improve Firefox’s security",
+      "link": "https://red.anthropic.com/2026/firefox/",
+      "pubDate": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-06T00:00:00.000Z",
+      "content": "In a collaboration with researchers at Mozilla, Claude Opus\n                        4.6 discovered 22 Firefox vulnerabilities over the course of two weeks.",
+      "contentSnippet": "In a collaboration with researchers at Mozilla, Claude Opus\n                        4.6 discovered 22 Firefox vulnerabilities over the course of two weeks.",
+      "creator": "",
+      "summaries": {
+        "zh": "与Mozilla合作，Claude Opus 4.6在两周内发现了22个Firefox漏洞。",
+        "en": "Claude Opus 4.6 partnered with Mozilla researchers to identify 22 vulnerabilities in Firefox within two weeks. The collaboration aimed to enhance the browser's security."
+      },
+      "summary": "与Mozilla合作，Claude Opus 4.6在两周内发现了22个Firefox漏洞。"
+    },
+    {
+      "title": "Reverse engineering Claude's CVE-2026-2796 exploit",
+      "link": "https://red.anthropic.com/2026/exploit/",
+      "pubDate": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-06T00:00:00.000Z",
+      "content": "This post dives deep into how Claude wrote an exploit for one of the vulnerabilities it found in\n                        Firefox.",
+      "contentSnippet": "This post dives deep into how Claude wrote an exploit for one of the vulnerabilities it found in\n                        Firefox.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文深入探讨了Claude如何针对Firefox中发现的一项漏洞编写利用程序CVE-2026-2796。文章详细分析了漏洞的原理及利用方法，为安全研究人员提供了技术参考。",
+        "en": "The article explores Claude's development of an exploit for CVE-2026-2796, a vulnerability in Firefox. It details the process of reverse engineering to create the exploit, focusing on Claude's technical approach and findings. The content highlights Claude's ability to identify and address security flaws in software. (98 words)"
+      },
+      "summary": "本文深入探讨了Claude如何针对Firefox中发现的一项漏洞编写利用程序CVE-2026-2796。文章详细分析了漏洞的原理及利用方法，为安全研究人员提供了技术参考。"
+    },
+    {
+      "title": "LLM-discovered 0-days",
+      "link": "https://red.anthropic.com/2026/zero-days/",
+      "pubDate": "Thu, 05 Feb 2026 00:00:00 +0000",
+      "isoDate": "2026-02-05T00:00:00.000Z",
+      "content": "AI models can now find high-severity vulnerabilities at scale. This is a moment to empower\n                        defenders. We're now using Claude to find and help fix vulnerabilities in open source software.",
+      "contentSnippet": "AI models can now find high-severity vulnerabilities at scale. This is a moment to empower\n                        defenders. We're now using Claude to find and help fix vulnerabilities in open source software.",
+      "creator": "",
+      "summaries": {
+        "zh": "AI模型已能大规模发现高危漏洞。当前应赋能防御者。我们正使用Claude检测并协助修复开源软件中的漏洞。",
+        "en": "AI models like Claude can identify high-severity vulnerabilities in software at scale. This capability enables defenders to address security issues more effectively. Currently, Claude is being employed to detect and resolve vulnerabilities in open-source software, enhancing overall security."
+      },
+      "summary": "AI模型已能大规模发现高危漏洞。当前应赋能防御者。我们正使用Claude检测并协助修复开源软件中的漏洞。"
+    },
+    {
+      "title": "AI Models on Realistic Cyber Ranges",
+      "link": "https://red.anthropic.com/2026/cyber-toolkits-update/",
+      "pubDate": "Fri, 16 Jan 2026 00:00:00 +0000",
+      "isoDate": "2026-01-16T00:00:00.000Z",
+      "content": "In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed\n                        at multistage attacks on networks with dozens of hosts using only standard, open-source tools,\n                        instead of the custom tools needed by previous generations.",
+      "contentSnippet": "In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed\n                        at multistage attacks on networks with dozens of hosts using only standard, open-source tools,\n                        instead of the custom tools needed by previous generations.",
+      "creator": "",
+      "summaries": {
+        "zh": "近期评估显示，当前Claude AI模型在真实网络环境中展现出显著提升的攻防能力。它们仅需标准开源工具，即可成功实施多阶段网络攻击，而无需依赖以往所需的定制化工具。这一突破表明Claude模型在网络安全领域的应用潜力日益增强。",
+        "en": "Recent evaluations show that current Claude AI models can now perform multistage attacks on networks with dozens of hosts using only standard, open-source tools. This capability replaces the need for custom tools required by previous AI generations, indicating improved cyber capabilities in these models."
+      },
+      "summary": "近期评估显示，当前Claude AI模型在真实网络环境中展现出显著提升的攻防能力。它们仅需标准开源工具，即可成功实施多阶段网络攻击，而无需依赖以往所需的定制化工具。这一突破表明Claude模型在网络安全领域的应用潜力日益增强。"
+    },
+    {
+      "title": "Finding Bugs with Claude and Property-based Testing",
+      "link": "https://red.anthropic.com/2026/property-based-testing/",
+      "pubDate": "Wed, 14 Jan 2026 00:00:00 +0000",
+      "isoDate": "2026-01-14T00:00:00.000Z",
+      "content": "Ensuring that programs are bug-free is one of the most challenging aspects of software\n                        engineering. We developed an agent that can efficiently identify bugs in large software\n                        projects. Our agent infers general properties of code that should be true, and then applies\n                        property-based testing. After extensive manual validation, we are in the process of reporting\n                        bugs in top Python packages to their developers, several of which have already been patched.",
+      "contentSnippet": "Ensuring that programs are bug-free is one of the most challenging aspects of software\n                        engineering. We developed an agent that can efficiently identify bugs in large software\n                        projects. Our agent infers general properties of code that should be true, and then applies\n                        property-based testing. After extensive manual validation, we are in the process of reporting\n                        bugs in top Python packages to their developers, several of which have already been patched.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了一种利用Claude工具进行属性驱动测试的bug检测方法。该方法通过推断代码中应满足的通用属性，并应用属性驱动测试来高效识别大型软件项目中的bug。经过人工验证，该工具已在多个顶级Python包中发现并报告了部分bug，其中一些已被开发者修复。",
+        "en": "The article introduces an agent designed to identify bugs in large software projects. The agent infers general properties of code and applies property-based testing. After manual validation, it has successfully reported bugs in top Python packages to their developers, with some patches already implemented. The focus is on improving software reliability through automated bug detection."
+      },
+      "summary": "本文介绍了一种利用Claude工具进行属性驱动测试的bug检测方法。该方法通过推断代码中应满足的通用属性，并应用属性驱动测试来高效识别大型软件项目中的bug。经过人工验证，该工具已在多个顶级Python包中发现并报告了部分bug，其中一些已被开发者修复。"
+    },
+    {
+      "title": "Experimenting with AI to Defend Critical Infrastructure",
+      "link": "https://red.anthropic.com/2026/critical-infrastructure-defense/",
+      "pubDate": "Thu, 08 Jan 2026 00:00:00 +0000",
+      "isoDate": "2026-01-08T00:00:00.000Z",
+      "content": "AI could help defenders of critical infrastructure identify the vulnerabilities that attackers\n                    might\n                    exploit—and close them before they are exploited. Anthropic has partnered with Pacific Northwest\n                    National Laboratory (PNNL) to explore this defensive application of AI, demonstrating both the\n                    potential of AI-accelerated defense and the value of public-private partnerships in harnessing\n                    AI\n                    for national security.",
+      "contentSnippet": "AI could help defenders of critical infrastructure identify the vulnerabilities that attackers\n                    might\n                    exploit—and close them before they are exploited. Anthropic has partnered with Pacific Northwest\n                    National Laboratory (PNNL) to explore this defensive application of AI, demonstrating both the\n                    potential of AI-accelerated defense and the value of public-private partnerships in harnessing\n                    AI\n                    for national security.",
+      "creator": "",
+      "summaries": {
+        "zh": "人工智能可用于帮助关键基础设施防御者识别潜在漏洞并提前修复。Anthropic公司与太平洋西北国家实验室（PNNL）合作探索AI的防御应用，展示了AI加速防御的潜力及公私合作在利用AI保障国家安全方面的价值。",
+        "en": "AI can assist in identifying and mitigating vulnerabilities in critical infrastructure before they are exploited by attackers. Anthropic has partnered with the Pacific Northwest National Laboratory (PNNL) to explore this defensive use of AI, showcasing its potential for accelerated defense and the importance of public-private collaboration in leveraging AI for national security."
+      },
+      "summary": "人工智能可用于帮助关键基础设施防御者识别潜在漏洞并提前修复。Anthropic公司与太平洋西北国家实验室（PNNL）合作探索AI的防御应用，展示了AI加速防御的潜力及公私合作在利用AI保障国家安全方面的价值。"
+    },
+    {
+      "title": "Project Vend: Phase Two",
+      "link": "https://red.anthropic.com/2025/project-vend-2/",
+      "pubDate": "Thu, 18 Dec 2025 00:00:00 +0000",
+      "isoDate": "2025-12-18T00:00:00.000Z",
+      "content": "In June, we revealed that we'd set up a small shop in our San Francisco office run by an AI\n                    shopkeeper. It did not do particularly well. We made some adjustments for phase two of Project Vend.\n                    The idea of an AI running a business doesn't seem as far-fetched as it once did. But the gap between\n                    'capable' and 'completely robust' remains wide.",
+      "contentSnippet": "In June, we revealed that we'd set up a small shop in our San Francisco office run by an AI\n                    shopkeeper. It did not do particularly well. We made some adjustments for phase two of Project Vend.\n                    The idea of an AI running a business doesn't seem as far-fetched as it once did. But the gap between\n                    'capable' and 'completely robust' remains wide.",
+      "creator": "",
+      "summaries": {
+        "zh": "项目“Vend”第二阶段：人工智能商店表现不佳，团队进行调整。此前在旧金山办公室设立的由AI店员运营的小店效果不理想。尽管AI经营企业的想法不再遥远，但其在“能力”与“完全可靠”之间仍有差距。",
+        "en": "Project Vend's Phase Two involves adjustments to an AI-run shopkeeper in San Francisco after Phase One underperformed. While the concept of AI in business is becoming more feasible, significant gaps in capability remain."
+      },
+      "summary": "项目“Vend”第二阶段：人工智能商店表现不佳，团队进行调整。此前在旧金山办公室设立的由AI店员运营的小店效果不理想。尽管AI经营企业的想法不再遥远，但其在“能力”与“完全可靠”之间仍有差距。"
+    },
+    {
+      "title": "AI Agents Find Smart Contract Exploits",
+      "link": "https://red.anthropic.com/2025/smart-contracts/",
+      "pubDate": "Mon, 01 Dec 2025 00:00:00 +0000",
+      "isoDate": "2025-12-01T00:00:00.000Z",
+      "content": "We evaluated AI agents' ability to exploit smart contracts using a new benchmark comprising\n                    contracts that were actually exploited. On contracts exploited after the latest knowledge cutoffs,\n                    Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 found vulnerabilities worth a combined $4.6 million, a\n                    finding that underscores the need for proactive adoption of AI for defense.",
+      "contentSnippet": "We evaluated AI agents' ability to exploit smart contracts using a new benchmark comprising\n                    contracts that were actually exploited. On contracts exploited after the latest knowledge cutoffs,\n                    Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 found vulnerabilities worth a combined $4.6 million, a\n                    finding that underscores the need for proactive adoption of AI for defense.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文评估了AI代理利用智能合约的能力，使用了一个包含实际被利用合约的新基准。在最新知识截止日期后被利用的合约中，Claude Opus 4.5、Claude Sonnet 4.5和GPT-5发现了总价值460万美元的漏洞，这一发现强调了主动采用AI进行防御的必要性。",
+        "en": "AI agents successfully identified vulnerabilities in exploited smart contracts, uncovering flaws worth $4.6 million. The evaluation used real-world exploited contracts post-knowledge cutoffs. Results showed Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 detected these issues. The findings highlight the importance of using AI for proactive smart contract security."
+      },
+      "summary": "本文评估了AI代理利用智能合约的能力，使用了一个包含实际被利用合约的新基准。在最新知识截止日期后被利用的合约中，Claude Opus 4.5、Claude Sonnet 4.5和GPT-5发现了总价值460万美元的漏洞，这一发现强调了主动采用AI进行防御的必要性。"
+    },
+    {
+      "title": "Project Fetch",
+      "link": "https://red.anthropic.com/2025/project-fetch/",
+      "pubDate": "Wed, 12 Nov 2025 00:00:00 +0000",
+      "isoDate": "2025-11-12T00:00:00.000Z",
+      "content": "How could frontier AI models like Claude reach beyond computers and affect the physical world? One\n                    path is through robots. We ran an experiment to see how much Claude helped Anthropic staff perform\n                    complex tasks with a robot dog.",
+      "contentSnippet": "How could frontier AI models like Claude reach beyond computers and affect the physical world? One\n                    path is through robots. We ran an experiment to see how much Claude helped Anthropic staff perform\n                    complex tasks with a robot dog.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Project Fetch》探讨了前沿AI模型Claude如何通过机器人影响物理世界。实验显示，Claude显著提升了Anthropic团队使用机器人狗完成复杂任务的能力。",
+        "en": "\"Project Fetch explores how AI model Claude can extend its capabilities beyond computers by assisting with physical tasks through robots. An experiment was conducted to assess Claude's effectiveness in helping Anthropic staff operate a robot dog for complex tasks. The study evaluates the integration of AI in robotics to bridge the gap between digital and physical interactions.\""
+      },
+      "summary": "《Project Fetch》探讨了前沿AI模型Claude如何通过机器人影响物理世界。实验显示，Claude显著提升了Anthropic团队使用机器人狗完成复杂任务的能力。"
+    },
+    {
+      "title": "Building AI for Cyber Defenders",
+      "link": "https://red.anthropic.com/2025/ai-for-cyber-defenders/",
+      "pubDate": "Mon, 29 Sep 2025 00:00:00 +0000",
+      "isoDate": "2025-09-29T00:00:00.000Z",
+      "content": "We invested in improving Claude's ability to help defenders detect, analyze, and remediate\n                        vulnerabilities in code and deployed systems. This work allowed Claude Sonnet 4.5 to match\n                        or\n                        eclipse Opus 4.1 in discovering code vulnerabilities and other cyber skills. Adopting and\n                        experimenting with AI will be key for defenders to keep pace.",
+      "contentSnippet": "We invested in improving Claude's ability to help defenders detect, analyze, and remediate\n                        vulnerabilities in code and deployed systems. This work allowed Claude Sonnet 4.5 to match\n                        or\n                        eclipse Opus 4.1 in discovering code vulnerabilities and other cyber skills. Adopting and\n                        experimenting with AI will be key for defenders to keep pace.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们投资提升了Claude在帮助防御者检测、分析和修复代码及系统漏洞方面的能力。Claude Sonnet 4.5在发现代码漏洞和其他网络安全技能方面与Opus 4.1相当甚至超越。采用和实验AI将是防御者保持竞争力的关键。",
+        "en": "The article highlights investments in enhancing Claude's capabilities to assist cyber defenders in detecting, analyzing, and remediating vulnerabilities in code and deployed systems. Claude Sonnet 4.5 was developed to match or surpass Opus 4.1 in identifying code vulnerabilities and other cyber skills. The article emphasizes that adopting and experimenting with AI is crucial for defenders to stay competitive in cybersecurity."
+      },
+      "summary": "我们投资提升了Claude在帮助防御者检测、分析和修复代码及系统漏洞方面的能力。Claude Sonnet 4.5在发现代码漏洞和其他网络安全技能方面与Opus 4.1相当甚至超越。采用和实验AI将是防御者保持竞争力的关键。"
+    },
+    {
+      "title": "LLMs and Biorisk",
+      "link": "https://red.anthropic.com/2025/biorisk/",
+      "pubDate": "Fri, 05 Sep 2025 00:00:00 +0000",
+      "isoDate": "2025-09-05T00:00:00.000Z",
+      "content": "Our work at Anthropic is animated by the potential for AI to advance scientific\n                    discovery—especially\n                    in biology and medicine. At the same time, AI is fundamentally a dual-use technology. This\n                    article\n                    explains why we believe that evaluating biorisk and safeguarding against it is a critical\n                    element\n                    of responsible AI development.",
+      "contentSnippet": "Our work at Anthropic is animated by the potential for AI to advance scientific\n                    discovery—especially\n                    in biology and medicine. At the same time, AI is fundamentally a dual-use technology. This\n                    article\n                    explains why we believe that evaluating biorisk and safeguarding against it is a critical\n                    element\n                    of responsible AI development.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司致力于利用AI推动生物和医学领域的科学发现。但AI作为一项具有双重用途的技术，其潜在风险不容忽视。公司认为，评估生物风险并采取防护措施，是负责任AI发展的关键环节。",
+        "en": "Anthropic believes AI, particularly large language models (LLMs), can advance biological and medical discovery. However, AI is a dual-use technology, raising concerns about biorisk. The company emphasizes evaluating and safeguarding against biorisk as a key aspect of responsible AI development."
+      },
+      "summary": "Anthropic公司致力于利用AI推动生物和医学领域的科学发现。但AI作为一项具有双重用途的技术，其潜在风险不容忽视。公司认为，评估生物风险并采取防护措施，是负责任AI发展的关键环节。"
+    },
+    {
+      "title": "Developing Nuclear Safeguards for AI",
+      "link": "https://red.anthropic.com/2025/nuclear-safeguards/",
+      "pubDate": "Thu, 21 Aug 2025 00:00:00 +0000",
+      "isoDate": "2025-08-21T00:00:00.000Z",
+      "content": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an\n                        AI\n                        system\n                        that automatically categorizes content—that distinguishes between concerning and benign\n                        nuclear-related conversations with high accuracy in preliminary testing.",
+      "contentSnippet": "Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an\n                        AI\n                        system\n                        that automatically categorizes content—that distinguishes between concerning and benign\n                        nuclear-related conversations with high accuracy in preliminary testing.",
+      "creator": "",
+      "summaries": {
+        "zh": "与NNSA和能源部国家实验室合作，我们共同开发了一种分类器——一种自动对内容进行分类的人工智能系统。该系统能以高精度初步测试结果区分出有关和良性的核相关对话。",
+        "en": "The article discusses the co-development of an AI classifier by the author, the NNSA, and DOE national laboratories. This system automatically categorizes nuclear-related conversations, distinguishing between concerning and benign discussions with high accuracy in preliminary testing. The focus is on enhancing nuclear safeguards through AI technology."
+      },
+      "summary": "与NNSA和能源部国家实验室合作，我们共同开发了一种分类器——一种自动对内容进行分类的人工智能系统。该系统能以高精度初步测试结果区分出有关和良性的核相关对话。"
+    },
+    {
+      "title": "Claude Does Cyber Competitions",
+      "link": "https://red.anthropic.com/2025/cyber-competitions/",
+      "pubDate": "Sat, 09 Aug 2025 00:00:00 +0000",
+      "isoDate": "2025-08-09T00:00:00.000Z",
+      "content": "Throughout 2025, we have been quietly entering Claude in cybersecurity competitions designed\n                    primarily for humans. In many of these competitions Claude did pretty well, often placing in the\n                    top\n                    25% of competitors. However, it lagged behind the best human teams at the toughest challenges.",
+      "contentSnippet": "Throughout 2025, we have been quietly entering Claude in cybersecurity competitions designed\n                    primarily for humans. In many of these competitions Claude did pretty well, often placing in the\n                    top\n                    25% of competitors. However, it lagged behind the best human teams at the toughest challenges.",
+      "creator": "",
+      "summaries": {
+        "zh": "2025年，Claude参加了多项主要面向人类的安全竞赛。在多数比赛中，Claude表现优异，常位列前25%。但在最严峻的挑战中，其表现仍落后于顶尖人类团队。",
+        "en": "Claude participated in cybersecurity competitions in 2025, designed for humans. It performed well, frequently ranking in the top 25% of competitors. However, it fell short of the best human teams in the most challenging events."
+      },
+      "summary": "2025年，Claude参加了多项主要面向人类的安全竞赛。在多数比赛中，Claude表现优异，常位列前25%。但在最严峻的挑战中，其表现仍落后于顶尖人类团队。"
+    },
+    {
+      "title": "Cyber Evaluations of Claude 4",
+      "link": "https://red.anthropic.com/2025/claude-4-cyber/",
+      "pubDate": "Tue, 15 Jul 2025 00:00:00 +0000",
+      "isoDate": "2025-07-15T00:00:00.000Z",
+      "content": "We partnered with Pattern Labs on a range of cybersecurity evaluations of Claude Opus 4 and\n                    Claude\n                    Sonnet 4, with Opus demonstrating especially notable improvement over previous models.",
+      "contentSnippet": "We partnered with Pattern Labs on a range of cybersecurity evaluations of Claude Opus 4 and\n                    Claude\n                    Sonnet 4, with Opus demonstrating especially notable improvement over previous models.",
+      "creator": "",
+      "summaries": {
+        "zh": "与Pattern Labs合作，我们对Claude Opus 4和Claude Sonnet 4进行了多项网络安全评估。结果显示，Claude Opus 4在性能上较以往模型有显著提升。",
+        "en": "The article discusses cybersecurity evaluations of Claude Opus 4 and Sonnet 4, conducted in collaboration with Pattern Labs. The results highlight significant improvements in Claude Opus 4 compared to previous models. The study focuses on assessing the security performance of these AI models."
+      },
+      "summary": "与Pattern Labs合作，我们对Claude Opus 4和Claude Sonnet 4进行了多项网络安全评估。结果显示，Claude Opus 4在性能上较以往模型有显著提升。"
+    },
+    {
+      "title": "Project Vend",
+      "link": "https://red.anthropic.com/2025/project-vend/index.html",
+      "pubDate": "Fri, 27 Jun 2025 00:00:00 +0000",
+      "isoDate": "2025-06-27T00:00:00.000Z",
+      "content": "We let Claude manage an automated store in our office as a small business for about a month. We\n                    learned a lot about the plausible, strange, not-too-distant future in which AI models are\n                    autonomously running things in the real economy.",
+      "contentSnippet": "We let Claude manage an automated store in our office as a small business for about a month. We\n                    learned a lot about the plausible, strange, not-too-distant future in which AI models are\n                    autonomously running things in the real economy.",
+      "creator": "",
+      "summaries": {
+        "zh": "《项目vend》报道，团队让AI模型Claude在办公室管理自动化商店一个月，通过实践深入了解了AI自主运行真实经济场景的未来。实验揭示了AI在商业运营中的可行性、奇特现象及未来趋势，为AI在现实经济中的应用提供了重要参考。",
+        "en": "Project Vend involved deploying an AI model, Claude, to manage an automated store in an office for a month. The experiment provided insights into a potential future where AI autonomously operates real-world economic activities."
+      },
+      "summary": "《项目vend》报道，团队让AI模型Claude在办公室管理自动化商店一个月，通过实践深入了解了AI自主运行真实经济场景的未来。实验揭示了AI在商业运营中的可行性、奇特现象及未来趋势，为AI在现实经济中的应用提供了重要参考。"
+    },
+    {
+      "title": "Cyber Toolkits for LLMs",
+      "link": "https://red.anthropic.com/2025/cyber-toolkits/index.html",
+      "pubDate": "Fri, 13 Jun 2025 00:00:00 +0000",
+      "isoDate": "2025-06-13T00:00:00.000Z",
+      "content": "Large Language Models (LLMs) that are not fine-tuned for cybersecurity can succeed in multistage\n                    attacks on networks with dozens of hosts when equipped with a novel toolkit.",
+      "contentSnippet": "Large Language Models (LLMs) that are not fine-tuned for cybersecurity can succeed in multistage\n                    attacks on networks with dozens of hosts when equipped with a novel toolkit.",
+      "creator": "",
+      "summaries": {
+        "zh": "大型语言模型（LLMs）若未针对网络安全进行微调，通过配备一种新型工具包，也能在包含数十台主机的网络中成功实施多阶段攻击。该工具包显著提升了LLMs在网络安全领域的攻击能力。",
+        "en": "Large Language Models (LLMs) not fine-tuned for cybersecurity can successfully execute multistage attacks on networks with dozens of hosts when equipped with a novel toolkit. The toolkit enhances their capabilities for such tasks."
+      },
+      "summary": "大型语言模型（LLMs）若未针对网络安全进行微调，通过配备一种新型工具包，也能在包含数十台主机的网络中成功实施多阶段攻击。该工具包显著提升了LLMs在网络安全领域的攻击能力。"
+    },
+    {
+      "title": "Coordinated Vulnerability Disclosure Dashboard",
+      "link": "https://red.anthropic.com/2026/cvd/",
+      "pubDate": "Sun, 31 Mar 2024 00:00:00 +0000",
+      "isoDate": "2024-03-31T00:00:00.000Z",
+      "content": "A regularly updated record of vulnerabilities found by Anthropic and reported to maintainers\n                        with cryptographic commitments to each finding at the time of disclosure.",
+      "contentSnippet": "A regularly updated record of vulnerabilities found by Anthropic and reported to maintainers\n                        with cryptographic commitments to each finding at the time of disclosure.",
+      "creator": "",
+      "summaries": {
+        "zh": "\"协同漏洞披露仪表盘\"是一个定期更新的记录，记录了Anthropic发现的漏洞，并已向维护者报告。每个发现漏洞时都会附带加密承诺。",
+        "en": "The \"Coordinated Vulnerability Disclosure Dashboard\" is a regularly updated record of vulnerabilities identified by Anthropic and reported to maintainers. Each finding is accompanied by cryptographic commitments at the time of disclosure. The dashboard provides transparency and accountability in the process of vulnerability reporting."
+      },
+      "summary": "\"协同漏洞披露仪表盘\"是一个定期更新的记录，记录了Anthropic发现的漏洞，并已向维护者报告。每个发现漏洞时都会附带加密承诺。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:09.740Z"
+}

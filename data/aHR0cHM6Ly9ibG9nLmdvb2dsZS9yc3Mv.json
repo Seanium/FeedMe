@@ -1,0 +1,513 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "See what 5 builders are making with Gemini Omni",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "isoDate": "2026-08-07T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_hero.max-600x600.format-webp.webp\">Gemini Omni makes creating videos as easy as having a conversation. Here’s how five people use it to edit videos and visualize ideas.",
+      "contentSnippet": "Gemini Omni makes creating videos as easy as having a conversation. Here’s how five people use it to edit videos and visualize ideas.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lindsey Lanquist"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "标题：See what 5 builders are making with Gemini Omni\n\n摘要：Gemini Omni可让视频创作像对话一样简单。文章介绍了五个人如何使用它编辑视频和可视化想法。",
+        "en": "Gemini Omni simplifies video creation through conversational interaction. The article showcases five builders utilizing the tool to edit videos and visualize concepts."
+      },
+      "summary": "标题：See what 5 builders are making with Gemini Omni\n\n摘要：Gemini Omni可让视频创作像对话一样简单。文章介绍了五个人如何使用它编辑视频和可视化想法。"
+    },
+    {
+      "title": "How Gemini plans such detailed vacation itineraries for you",
+      "link": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
+      "pubDate": "Thu, 06 Aug 2026 18:00:00 +0000",
+      "isoDate": "2026-08-06T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_vacation_itineraries.max-600x600.format-webp.webp\">Learn how Gemini provides personalized recommendations and creates custom travel itineraries when you ask it to plan a trip.",
+      "contentSnippet": "Learn how Gemini provides personalized recommendations and creates custom travel itineraries when you ask it to plan a trip.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah Armstrong"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章介绍了Gemini如何根据用户需求提供个性化旅行建议，并定制详细的旅行行程。它通过分析用户偏好和旅行信息，生成包含景点、交通、住宿等内容的定制化行程方案。",
+        "en": "Gemini offers personalized travel recommendations and customizes vacation itineraries based on user requests. The service generates detailed plans tailored to individual preferences, simplifying trip planning."
+      },
+      "summary": "文章介绍了Gemini如何根据用户需求提供个性化旅行建议，并定制详细的旅行行程。它通过分析用户偏好和旅行信息，生成包含景点、交通、住宿等内容的定制化行程方案。"
+    },
+    {
+      "title": "Parents can now send money to their kids on Google Wallet.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/send-kids-money-google-wallet/",
+      "pubDate": "Thu, 06 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-06T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Wallet_for_kids_-_superv.max-600x600.format-webp.webp\">U.S. parents can set up a secure digital balance on Google Wallet for their kids to tap and pay using Android and Wear OS devices.",
+      "contentSnippet": "U.S. parents can set up a secure digital balance on Google Wallet for their kids to tap and pay using Android and Wear OS devices.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Yokoyama"
+        ],
+        "title": [
+          "Director, Product Management"
+        ],
+        "department": [
+          "Google Pay"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "家长现在可以通过Google Wallet为子女设置安全的数字余额，子女可使用Android和Wear OS设备进行支付。",
+        "en": "U.S. parents can now use Google Wallet to send money to their kids. They can set up a secure digital balance for children to use on Android and Wear OS devices. This allows kids to make payments directly from their gadgets."
+      },
+      "summary": "家长现在可以通过Google Wallet为子女设置安全的数字余额，子女可使用Android和Wear OS设备进行支付。"
+    },
+    {
+      "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 14:00:00 +0000",
+      "isoDate": "2026-08-06T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp\">Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
+      "contentSnippet": "Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind的WeatherNext 2模型在飓风预测方面取得重大突破，展现出最先进的准确性。该模型显著提升了预测能力，为气象预报领域带来重要进展。",
+        "en": "Google DeepMind's WeatherNext 2 AI model achieves state-of-the-art accuracy in cyclone prediction, marking a significant advancement in weather forecasting. The model demonstrates a substantial leap forward in predicting cyclones, showcasing improved capabilities in this domain."
+      },
+      "summary": "谷歌DeepMind的WeatherNext 2模型在飓风预测方面取得重大突破，展现出最先进的准确性。该模型显著提升了预测能力，为气象预报领域带来重要进展。"
+    },
+    {
+      "title": "Step into the world of tango on Google Arts & Culture",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/",
+      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "isoDate": "2026-08-06T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp\">Discover the rich history, passionate dancers and enduring legacy of Argentinian tango through a new Google Arts & Culture collection.",
+      "contentSnippet": "Discover the rich history, passionate dancers and enduring legacy of Argentinian tango through a new Google Arts & Culture collection.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Juan Vallejo"
+        ],
+        "title": [
+          "Country Director"
+        ],
+        "department": [
+          "Google Argentina"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌艺术与文化推出新专题，带您探索阿根廷探戈的丰富历史、热情舞者及其深远影响。该系列展示了探戈的文化传承与艺术魅力。",
+        "en": "Explore the vibrant history, skilled dancers, and lasting impact of Argentinian tango via Google Arts & Culture's new collection."
+      },
+      "summary": "谷歌艺术与文化推出新专题，带您探索阿根廷探戈的丰富历史、热情舞者及其深远影响。该系列展示了探戈的文化传承与艺术魅力。"
+    },
+    {
+      "title": "Ask Maps gets more helpful with food ordering and more",
+      "link": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
+      "pubDate": "Thu, 06 Aug 2026 12:30:00 +0000",
+      "isoDate": "2026-08-06T12:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero.max-600x600.format-webp.webp\">From agentic capabilities and real-time information to personalized recommendations, Ask Maps makes it easier than ever to get more done.",
+      "contentSnippet": "From agentic capabilities and real-time information to personalized recommendations, Ask Maps makes it easier than ever to get more done.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Miriam Daniel"
+        ],
+        "title": [
+          "VP & GM, Google Maps"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Ask Maps通过智能功能、实时信息及个性化推荐，提升了食品订购等任务的便捷性，使用户能更高效完成工作。",
+        "en": "Ask Maps enhances its utility with improved food ordering and additional features. It leverages agentic capabilities, real-time data, and personalized recommendations to streamline tasks, making it more efficient for users."
+      },
+      "summary": "Ask Maps通过智能功能、实时信息及个性化推荐，提升了食品订购等任务的便捷性，使用户能更高效完成工作。"
+    },
+    {
+      "title": "The next chapter of our AI momentum",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "pubDate": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-05T16:00:00.000Z",
+      "content": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
+      "contentSnippet": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sundar Pichai"
+        ],
+        "title": [
+          "CEO of Google and Alphabet"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌CEO Sundar Pichai今日向谷歌DeepMind团队宣布了部分调整。",
+        "en": "Google CEO Sundar Pichai announced changes to the Google DeepMind teams, signaling a new phase in the company's AI development efforts. The update reflects ongoing adjustments within the AI sector at Google and Alphabet."
+      },
+      "summary": "谷歌CEO Sundar Pichai今日向谷歌DeepMind团队宣布了部分调整。"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "isoDate": "2026-08-04T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from July 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from July 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年7月，谷歌发布了最新的AI更新。",
+        "en": "Google announced its latest AI updates in July 2026. The updates focus on enhancing AI capabilities, improving performance, and introducing new features. The details of the specific updates were not provided in the excerpt."
+      },
+      "summary": "2026年7月，谷歌发布了最新的AI更新。"
+    },
+    {
+      "title": "Welcome to Sail Tower, our newest Austin office",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Austin_mural_thumbnail.max-600x600.format-webp.webp\">Our new Austin office, Sail Tower, features flexible workspace for Googlers and a Google.org nonprofit venue for community members.",
+      "contentSnippet": "Our new Austin office, Sail Tower, features flexible workspace for Googlers and a Google.org nonprofit venue for community members.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Scott Foster"
+        ],
+        "title": [
+          "Vice President"
+        ],
+        "department": [
+          "Real Estate & Workplace Services"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "欢迎来到我们的新奥斯汀办公室——赛尔塔。该办公室设有灵活的工作空间，供谷歌员工使用，并为社区成员提供谷歌公益组织的场地。",
+        "en": "Sail Tower is Google's newest Austin office, offering flexible workspace for employees and a Google.org venue for community members."
+      },
+      "summary": "欢迎来到我们的新奥斯汀办公室——赛尔塔。该办公室设有灵活的工作空间，供谷歌员工使用，并为社区成员提供谷歌公益组织的场地。"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "pubDate": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "isoDate": "2026-08-03T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\">Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "contentSnippet": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anant Nawalgaria"
+        ],
+        "title": [
+          "Group AI Product Manager, Founder of GenAI intensive"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Kaggle与谷歌联合推出的353,000人AI Agents沉浸式课程，是一项免费项目，旨在帮助学员构建和部署AI技术的前沿应用。课程聚焦于AI领域，为参与者提供实践机会。",
+        "en": "Kaggle’s AI Agents Intensive with Google is a no-cost, 353,000-participant course focused on building and deploying advanced AI agents. The program aims to advance the field by bringing learners together for hands-on training in developing the next generation of AI technology."
+      },
+      "summary": "Kaggle与谷歌联合推出的353,000人AI Agents沉浸式课程，是一项免费项目，旨在帮助学员构建和部署AI技术的前沿应用。课程聚焦于AI领域，为参与者提供实践机会。"
+    },
+    {
+      "title": "Simplify your morning with this vibe-coded schedule app.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
+      "pubDate": "Fri, 31 Jul 2026 19:00:00 +0000",
+      "isoDate": "2026-07-31T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Glanceboard_socialshare.max-600x600.format-webp.webp\">Tired of starting your morning staring at bright screens and stressful notifications? Raph, a creative technologist at Google, built a custom app called Glanceboard with…",
+      "contentSnippet": "Tired of starting your morning staring at bright screens and stressful notifications? Raph, a creative technologist at Google, built a custom app called Glanceboard with…",
+      "creator": "",
+      "summaries": {
+        "zh": "这款名为Glanceboard的日程应用由谷歌创意技术专家Raph开发，旨在简化早晨流程。用户可通过该应用避免早晨面对亮屏和压力通知，提升早晨效率。",
+        "en": "Glanceboard is a vibe-coded schedule app created by Raph, a Google technologist, designed to simplify mornings by reducing screen glare and stress from notifications. The app helps users organize their day visually, promoting a more relaxed start. It focuses on minimalistic design and personalized scheduling, offering an alternative to bright screens and constant alerts."
+      },
+      "summary": "这款名为Glanceboard的日程应用由谷歌创意技术专家Raph开发，旨在简化早晨流程。用户可通过该应用避免早晨面对亮屏和压力通知，提升早晨效率。"
+    },
+    {
+      "title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
+      "pubDate": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-31T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Drops_Social.max-600x600.format-webp.webp\">Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "contentSnippet": "Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Gemini Drop》是Gemini应用的月度更新，介绍如何充分利用该应用。本月更新内容将在“Gemini Drop”中揭晓。",
+        "en": "The Gemini Drop is a monthly update providing insights on enhancing the Gemini app's functionality. It offers tips and information to help users maximize their experience with the app."
+      },
+      "summary": "《Gemini Drop》是Gemini应用的月度更新，介绍如何充分利用该应用。本月更新内容将在“Gemini Drop”中揭晓。"
+    },
+    {
+      "title": "Experience the magic of Kosovo from anywhere with Street View",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
+      "pubDate": "Fri, 31 Jul 2026 08:00:00 +0000",
+      "isoDate": "2026-07-31T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kosovo_Hero_image.max-600x600.format-webp.webp\">Google Maps brings Street View to Kosovo, offering a virtual tour of its vibrant cities, UNESCO World Heritage site, and natural beauty.",
+      "contentSnippet": "Google Maps brings Street View to Kosovo, offering a virtual tour of its vibrant cities, UNESCO World Heritage site, and natural beauty.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Songran Jang"
+        ],
+        "title": [
+          "Senior Program Manager, Google Street View"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌地图将街景技术引入科索沃，用户可在线体验该国充满活力的城市、联合国教科文组织世界遗产地及自然风光。",
+        "en": "Google Maps has launched Street View in Kosovo, allowing users to take virtual tours of the country's cities, including the UNESCO World Heritage site, and explore its natural beauty from anywhere."
+      },
+      "summary": "谷歌地图将街景技术引入科索沃，用户可在线体验该国充满活力的城市、联合国教科文组织世界遗产地及自然风光。"
+    },
+    {
+      "title": "Gemini Spark now integrates with Chrome",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00 +0000",
+      "isoDate": "2026-07-30T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp\">An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.",
+      "contentSnippet": "An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Adam Coimbra"
+        ],
+        "title": [
+          "Director, Product Management"
+        ],
+        "department": [
+          "Gemini app"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Spark最新更新已与Chrome集成，新增了Chrome网络浏览功能。此次升级提升了用户体验，增强了浏览器性能。",
+        "en": "Gemini Spark has been updated to integrate with Chrome, enhancing its web browsing capabilities. The integration allows users to leverage Gemini Spark's features directly within the Chrome browser, improving efficiency and user experience. The update focuses on seamless connectivity and functionality, ensuring smoother interactions for Chrome users."
+      },
+      "summary": "Gemini Spark最新更新已与Chrome集成，新增了Chrome网络浏览功能。此次升级提升了用户体验，增强了浏览器性能。"
+    },
+    {
+      "title": "Introducing Gemini Robotics ER 2",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp\">Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "contentSnippet": "Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Steven Hansen"
+        ],
+        "title": [
+          "Senior Staff Software Engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Robotics ER 2是一款在视频理解、工具协调和多机器人协作方面取得重大突破的机器人应用。该技术显著提升了机器人性能，为相关领域带来了革命性进步。",
+        "en": "The Gemini Robotics ER 2 represents a significant advancement in robotic technology, enhancing video understanding, tool orchestration, and multi-robot collaboration for various applications. Its capabilities mark a notable improvement in the field."
+      },
+      "summary": "Gemini Robotics ER 2是一款在视频理解、工具协调和多机器人协作方面取得重大突破的机器人应用。该技术显著提升了机器人性能，为相关领域带来了革命性进步。"
+    },
+    {
+      "title": "Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp\">We’re sharing a look at the short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "contentSnippet": "We’re sharing a look at the short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Flow Sessions项目最新一批艺术家创作的短片作品发布。该项目展示了一系列由艺术家创作的短片，供公众欣赏。",
+        "en": "Google’s Flow Sessions program showcases short films created by its latest group of artists. The article highlights these creative works, offering a glimpse into the participants' talents. The focus is on sharing these films with an audience, emphasizing the program's contribution to artistic expression. The content is a simple announcement of the films' availability, with no additional context provided."
+      },
+      "summary": "谷歌Flow Sessions项目最新一批艺术家创作的短片作品发布。该项目展示了一系列由艺术家创作的短片，供公众欣赏。"
+    },
+    {
+      "title": "Transform any place with Nano Banana in Google Earth",
+      "link": "https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/",
+      "pubDate": "Thu, 30 Jul 2026 12:30:00 +0000",
+      "isoDate": "2026-07-30T12:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp\">Custom images — generated from Google Earth satellite, aerial, and 3D imagery — help you redesign any location.",
+      "contentSnippet": "Custom images — generated from Google Earth satellite, aerial, and 3D imagery — help you redesign any location.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bryan Horowitz"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Earth"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌地球的Nano Banana功能允许用户使用从谷歌地球卫星、航空和3D图像生成的自定义图像，重新设计任何地点。该功能通过提供高精度地理数据，帮助用户轻松改变场景外观。",
+        "en": "Nano Banana in Google Earth allows users to customize locations using custom images generated from Google Earth's satellite, aerial, and 3D imagery. This feature enables users to redesign any place by applying these images. The tool leverages Google Earth's extensive visual data to create realistic and detailed modifications."
+      },
+      "summary": "谷歌地球的Nano Banana功能允许用户使用从谷歌地球卫星、航空和3D图像生成的自定义图像，重新设计任何地点。该功能通过提供高精度地理数据，帮助用户轻松改变场景外观。"
+    },
+    {
+      "title": "How the Head of YouTube Health handles screen time with his kids",
+      "link": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp\">Hear from Dr. Garth Graham on how he sets rules in his own home and helpful approaches for communicating about screen time.",
+      "contentSnippet": "Hear from Dr. Garth Graham on how he sets rules in his own home and helpful approaches for communicating about screen time.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Joel Meares"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "标题：《YouTube健康负责人如何管理孩子屏幕时间》\n\n内容摘要：YouTube健康负责人Garth Graham分享了他在家中设定屏幕时间规则的方法，并介绍了与孩子沟通屏幕时间的实用策略。他强调了制定明确规则和有效沟通的重要性。",
+        "en": "Dr. Garth Graham discusses his strategies for managing screen time with his children. He emphasizes setting clear rules and effective communication as key approaches. The article provides insights into how the head of YouTube Health handles this issue in his own family."
+      },
+      "summary": "标题：《YouTube健康负责人如何管理孩子屏幕时间》\n\n内容摘要：YouTube健康负责人Garth Graham分享了他在家中设定屏幕时间规则的方法，并介绍了与孩子沟通屏幕时间的实用策略。他强调了制定明确规则和有效沟通的重要性。"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp\">Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…",
+      "contentSnippet": "Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Flow音乐推出全新音乐生成模型Lyria 3.5，在音乐性、歌词和音质方面取得显著进步，增强创作控制力，助力用户制作更丰富的音乐作品。新模型全面优化，提升艺术表现力与创意自由度。",
+        "en": "Lyria 3.5, a new music generation model, is launching in Google Flow Music. It offers enhanced musicality, lyrics, and vocal quality, enabling users to create more sophisticated tracks. The update also improves creative control. The model aims to provide richer, more refined musical outputs."
+      },
+      "summary": "谷歌Flow音乐推出全新音乐生成模型Lyria 3.5，在音乐性、歌词和音质方面取得显著进步，增强创作控制力，助力用户制作更丰富的音乐作品。新模型全面优化，提升艺术表现力与创意自由度。"
+    },
+    {
+      "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
+      "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
+      "isoDate": "2026-07-29T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drops_July.max-600x600.format-webp.webp\">Prepare for the holiday season with upgraded tROAS bidding, Checkout Links, and more from YouTube’s July Demand Gen Drop.",
+      "contentSnippet": "Prepare for the holiday season with upgraded tROAS bidding, Checkout Links, and more from YouTube’s July Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "7月YouTube需求生成工具更新，助力假日季。升级tROAS竞价、结账链接等功能，提升营销效果。",
+        "en": "YouTube's July Demand Gen Drop offers tools to prepare for the holiday season, including upgraded tROAS bidding and Checkout Links. The update aims to enhance holiday marketing efforts."
+      },
+      "summary": "7月YouTube需求生成工具更新，助力假日季。升级tROAS竞价、结账链接等功能，提升营销效果。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:13.542Z"
+}

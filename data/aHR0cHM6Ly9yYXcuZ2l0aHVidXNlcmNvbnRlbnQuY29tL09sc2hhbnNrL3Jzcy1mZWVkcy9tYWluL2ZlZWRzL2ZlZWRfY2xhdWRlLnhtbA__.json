@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Latest updates from Claude Blog",
+  "link": "https://claude.com/blog",
+  "items": [
+    {
+      "title": "Running auto mode in production",
+      "link": "https://claude.com/blog/auto-mode-in-production",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Running auto mode in production",
+      "contentSnippet": "Running auto mode in production",
+      "creator": "",
+      "summaries": {
+        "zh": "在生产中运行自动模式  \n该流程涉及在生产环境中启用自动模式。主要操作包括设置参数、监控运行状态，并确保系统稳定。自动模式下，设备根据预设程序自主运行，减少人工干预。需定期检查日志，处理异常情况。此模式提高了生产效率和一致性，但需严格测试以避免错误。",
+        "en": "Running auto mode in production involves activating a system's automated settings for operational efficiency. This mode typically adjusts processes based on predefined parameters or real-time data, reducing manual intervention. Key benefits include increased productivity, reduced errors, and optimized resource allocation. However, it requires proper configuration and monitoring to ensure reliability. Auto mode is often used in manufacturing, data processing, and other industries where consistency and speed are critical. Proper training and backup protocols are essential to handle unexpected issues."
+      },
+      "summary": "在生产中运行自动模式  \n该流程涉及在生产环境中启用自动模式。主要操作包括设置参数、监控运行状态，并确保系统稳定。自动模式下，设备根据预设程序自主运行，减少人工干预。需定期检查日志，处理异常情况。此模式提高了生产效率和一致性，但需严格测试以避免错误。"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "contentSnippet": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code的Pro、Max和Team计划现默认开启自动模式。该功能已更新，用户无需额外设置即可使用。",
+        "en": "Auto mode has become the default setting for Claude Code on Pro, Max, and Team plans. This change ensures users experience enhanced performance and efficiency with the system's automated features. The update simplifies the user interface by prioritizing auto mode, which streamlines coding tasks. The adjustment applies to all relevant subscription levels, requiring no further action from users. The new default setting is designed to improve overall usability and productivity."
+      },
+      "summary": "Claude Code的Pro、Max和Team计划现默认开启自动模式。该功能已更新，用户无需额外设置即可使用。"
+    },
+    {
+      "title": "Run Claude Code sessions on your own compute",
+      "link": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-06T00:00:00.000Z",
+      "content": "Run Claude Code sessions on your own compute",
+      "contentSnippet": "Run Claude Code sessions on your own compute",
+      "creator": "",
+      "summaries": {
+        "zh": "在本地计算机上运行Claude代码会话。",
+        "en": "Running Claude Code sessions on your own compute allows users to utilize the service locally without relying on external platforms. This setup involves setting up Claude Code on personal hardware, enabling direct control over the environment and data. Key steps include ensuring compatible hardware, installing necessary software, and configuring the system. Users benefit from reduced latency and enhanced privacy compared to cloud-based solutions. The process is designed to be accessible for those with basic technical skills, though specific requirements may vary. This approach is ideal for developers and researchers needing customized or secure coding environments."
+      },
+      "summary": "在本地计算机上运行Claude代码会话。"
+    },
+    {
+      "title": "Millennium and Anthropic are building a digital risk analyst with Claude ",
+      "link": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-06T00:00:00.000Z",
+      "content": "Millennium and Anthropic are building a digital risk analyst with Claude ",
+      "contentSnippet": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "千年和Anthropic公司正在合作开发一款名为Claude的数字风险分析师。该系统旨在利用先进技术识别和评估潜在风险，以提升企业安全防护能力。项目结合了双方在人工智能和数据分析领域的专长，预计将推出一系列创新功能，帮助用户更有效地管理数字风险。",
+        "en": "Millennium and Anthropic are collaborating to develop a digital risk analyst using Claude, an AI model. The project aims to leverage Claude's capabilities to analyze and mitigate digital risks. The partnership combines Millennium's expertise in risk management with Anthropic's AI advancements. The goal is to create a tool that enhances cybersecurity and data protection. The development is part of a broader effort to integrate AI into risk assessment and management processes."
+      },
+      "summary": "千年和Anthropic公司正在合作开发一款名为Claude的数字风险分析师。该系统旨在利用先进技术识别和评估潜在风险，以提升企业安全防护能力。项目结合了双方在人工智能和数据分析领域的专长，预计将推出一系列创新功能，帮助用户更有效地管理数字风险。"
+    },
+    {
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "link": "https://claude.com/blog/claude-enterprise-inference-hooks",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-05T00:00:00.000Z",
+      "content": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "contentSnippet": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：推理钩子：Claude Enterprise的嵌入式数据防泄漏功能  \n\n简介：推理钩子是Claude Enterprise提供的一项嵌入式数据防泄漏技术，用于实时监控和拦截敏感信息输出，确保数据安全。该功能通过在推理过程中嵌入钩子代码，实现对数据泄露的即时防护，适用于企业级应用场景。",
+        "en": "\"Inference hooks provide inline data loss prevention for Claude Enterprise. They enable users to customize data handling during model inference, ensuring sensitive information is protected. This feature integrates seamlessly into the Claude Enterprise platform, allowing businesses to maintain compliance while leveraging AI capabilities. Inference hooks help prevent accidental data leaks by filtering or masking data before it is processed by the model. The solution is designed to enhance security without compromising performance, making it a valuable tool for enterprises requiring robust data governance.\""
+      },
+      "summary": "标题：推理钩子：Claude Enterprise的嵌入式数据防泄漏功能  \n\n简介：推理钩子是Claude Enterprise提供的一项嵌入式数据防泄漏技术，用于实时监控和拦截敏感信息输出，确保数据安全。该功能通过在推理过程中嵌入钩子代码，实现对数据泄露的即时防护，适用于企业级应用场景。"
+    },
+    {
+      "title": "A guide to cost visibility and control in Claude",
+      "link": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-04T00:00:00.000Z",
+      "content": "A guide to cost visibility and control in Claude",
+      "contentSnippet": "A guide to cost visibility and control in Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude成本可见性与控制指南》介绍了如何在Claude中实现成本透明和控制。文章重点阐述了通过数据分析、预算管理和实时监控等手段，帮助企业有效追踪和优化成本。指南还提供了具体操作步骤和实用工具，旨在提升成本管理效率。",
+        "en": "This guide provides insights into cost visibility and control within the Claude system. It outlines methods for monitoring expenses, analyzing usage patterns, and implementing strategies to manage costs effectively. Key features include detailed reporting tools, customizable alerts, and optimization tips to ensure efficient resource allocation. The guide aims to help users understand their spending and make informed decisions to maintain budgetary control."
+      },
+      "summary": "《Claude成本可见性与控制指南》介绍了如何在Claude中实现成本透明和控制。文章重点阐述了通过数据分析、预算管理和实时监控等手段，帮助企业有效追踪和优化成本。指南还提供了具体操作步骤和实用工具，旨在提升成本管理效率。"
+    },
+    {
+      "title": "Bringing MCP 2026-07-28 to Claude",
+      "link": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Bringing MCP 2026-07-28 to Claude",
+      "contentSnippet": "Bringing MCP 2026-07-28 to Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "将MCP 2026-07-28版本引入Claude系统。",
+        "en": "The article announces the integration of MCP 2026-07-28 into Claude, a platform or system. The content focuses on the update, highlighting its implementation and potential impact. No further details are provided about specific features or benefits. The summary remains objective and concise, adhering to the given constraints."
+      },
+      "summary": "将MCP 2026-07-28版本引入Claude系统。"
+    },
+    {
+      "title": "Claude models explained: choosing the best model for your use case",
+      "link": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Claude models explained: choosing the best model for your use case",
+      "contentSnippet": "Claude models explained: choosing the best model for your use case",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude模型详解：如何为你的应用选择最佳模型》一文介绍了Claude系列模型的特点和适用场景。文章重点分析了不同模型的性能差异，并提供了选择建议。通过对比各模型的参数和功能，文章帮助读者根据具体需求挑选最合适的Claude模型。总结来说，该文旨在指导用户根据实际用途，科学选择Claude模型，以实现最佳应用效果。",
+        "en": "The article \"Claude models explained: choosing the best model for your use case\" provides an overview of different Claude models and guidance on selecting the most suitable one for specific use cases. It discusses the features, capabilities, and limitations of each model, helping users make informed decisions based on their needs. The article emphasizes factors like performance, cost, and specific use-case requirements to ensure optimal model selection."
+      },
+      "summary": "《Claude模型详解：如何为你的应用选择最佳模型》一文介绍了Claude系列模型的特点和适用场景。文章重点分析了不同模型的性能差异，并提供了选择建议。通过对比各模型的参数和功能，文章帮助读者根据具体需求挑选最合适的Claude模型。总结来说，该文旨在指导用户根据实际用途，科学选择Claude模型，以实现最佳应用效果。"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models ",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "The new rules of context engineering for Claude 5 generation models ",
+      "contentSnippet": "The new rules of context engineering for Claude 5 generation models",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude 5代生成模型的新上下文工程规则发布。新规则优化了信息处理和交互效率，强调更精准的指令和动态上下文管理。规则包括增强的输入解析、实时反馈机制和更灵活的上下文切换。旨在提升模型响应的准确性和连贯性，适应复杂任务需求。",
+        "en": "The article outlines updated rules for context engineering in Claude 5 generation models. It emphasizes optimizing input prompts and managing context length to improve output quality. Key points include structuring prompts clearly, balancing detail and conciseness, and leveraging system-level instructions. The guidelines aim to enhance model performance by ensuring efficient use of context windows. The article provides actionable advice for developers and users to adapt to the new framework."
+      },
+      "summary": "Claude 5代生成模型的新上下文工程规则发布。新规则优化了信息处理和交互效率，强调更精准的指令和动态上下文管理。规则包括增强的输入解析、实时反馈机制和更灵活的上下文切换。旨在提升模型响应的准确性和连贯性，适应复杂任务需求。"
+    },
+    {
+      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "link": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "contentSnippet": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "creator": "",
+      "summaries": {
+        "zh": "产品设计师如何利用Claude Design在构建前探索创意。该设计师通过该工具进行概念构思、草图绘制和用户测试，以验证想法的可行性。Claude Design提供了丰富的交互功能和可视化工具，帮助设计师快速迭代和优化方案。通过这种方式，设计师能够更高效地推进项目，确保最终产品符合用户需求。",
+        "en": "The article discusses how the product designer behind Claude Design utilizes the tool to explore and refine ideas before development. It highlights the designer's workflow, emphasizing Claude Design's role in brainstorming, prototyping, and validating concepts efficiently. The piece illustrates the tool's practical applications in the design process, showcasing its value for early-stage exploration."
+      },
+      "summary": "产品设计师如何利用Claude Design在构建前探索创意。该设计师通过该工具进行概念构思、草图绘制和用户测试，以验证想法的可行性。Claude Design提供了丰富的交互功能和可视化工具，帮助设计师快速迭代和优化方案。通过这种方式，设计师能够更高效地推进项目，确保最终产品符合用户需求。"
+    },
+    {
+      "title": "Think through hard problems in voice mode",
+      "link": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-23T00:00:00.000Z",
+      "content": "Think through hard problems in voice mode",
+      "contentSnippet": "Think through hard problems in voice mode",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨在语音模式下解决复杂问题的方法。通过语音交互，用户可以更自然地表达思路，提高思考效率。文章介绍了语音输入、语音识别和语音反馈等技术，强调其在解决难题时的优势。语音模式有助于减少认知负担，促进创意生成。同时，文章也指出了语音模式的局限性，如准确性问题和隐私顾虑。总体而言，语音模式为解决复杂问题提供了新途径，但需结合实际场景优化应用。",
+        "en": "The article discusses solving complex problems using voice mode. It emphasizes the benefits of verbalizing thoughts to clarify challenges and improve problem-solving efficiency. The content likely explores how voice interaction aids in breaking down issues, enhancing creativity, and facilitating better decision-making. The article suggests that speaking aloud can help organize thoughts and identify solutions more effectively."
+      },
+      "summary": "本文探讨在语音模式下解决复杂问题的方法。通过语音交互，用户可以更自然地表达思路，提高思考效率。文章介绍了语音输入、语音识别和语音反馈等技术，强调其在解决难题时的优势。语音模式有助于减少认知负担，促进创意生成。同时，文章也指出了语音模式的局限性，如准确性问题和隐私顾虑。总体而言，语音模式为解决复杂问题提供了新途径，但需结合实际场景优化应用。"
+    },
+    {
+      "title": "Four role-based certifications for the people who put Claude to work for customers",
+      "link": "https://claude.com/blog/four-role-based-claude-certifications",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-23T00:00:00.000Z",
+      "content": "Four role-based certifications for the people who put Claude to work for customers",
+      "contentSnippet": "Four role-based certifications for the people who put Claude to work for customers",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了针对使用Claude为客户服务的四项基于角色的认证。这些认证旨在帮助专业人士掌握Claude的相关技能，更好地为客户提供服务。认证内容涵盖不同角色的工作要求和技能标准，确保服务质量和效率。",
+        "en": "Four role-based certifications are introduced for individuals using Claude to assist customers. These certifications aim to enhance expertise and ensure effective application of Claude's capabilities in customer service roles. The programs are designed to validate skills and provide structured training for professionals working with the technology. The certifications cover key competencies, including interaction management, problem-solving, and integration with customer workflows. By obtaining these credentials, users can demonstrate proficiency and improve service quality when leveraging Claude for client interactions. The initiative supports workforce development in utilizing AI tools efficiently."
+      },
+      "summary": "本文介绍了针对使用Claude为客户服务的四项基于角色的认证。这些认证旨在帮助专业人士掌握Claude的相关技能，更好地为客户提供服务。认证内容涵盖不同角色的工作要求和技能标准，确保服务质量和效率。"
+    },
+    {
+      "title": "How Outtake built a cyber investigator on Claude",
+      "link": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "How Outtake built a cyber investigator on Claude",
+      "contentSnippet": "How Outtake built a cyber investigator on Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "Outtake利用Claude技术平台开发了一款网络安全调查工具。该工具通过Claude的智能分析能力，帮助用户高效进行网络威胁调查和数据分析。总结来说，Outtake成功将Claude技术应用于网络安全领域，提升了调查效率。",
+        "en": "Outtake developed a cyber investigator using Claude, an AI platform. The tool automates cybersecurity investigations by analyzing data and identifying threats. It leverages Claude's capabilities to process large datasets efficiently, enhancing threat detection and response. The system aims to streamline cyber analysis, reducing manual effort and improving accuracy. Outtake's solution demonstrates AI's potential in modern cybersecurity operations."
+      },
+      "summary": "Outtake利用Claude技术平台开发了一款网络安全调查工具。该工具通过Claude的智能分析能力，帮助用户高效进行网络威胁调查和数据分析。总结来说，Outtake成功将Claude技术应用于网络安全领域，提升了调查效率。"
+    },
+    {
+      "title": "Building verification loops in Claude Code with skills",
+      "link": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "Building verification loops in Claude Code with skills",
+      "contentSnippet": "Building verification loops in Claude Code with skills",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了在Claude Code中通过技能构建验证循环的方法。主要内容包括技能的定义、实现步骤以及应用场景。通过技能，开发者可以设计自动化验证流程，提高代码质量和效率。验证循环确保代码在特定条件下正确运行，减少错误。文章还提及了技能的配置和调试技巧，帮助开发者更好地应用该方法。整体而言，本文为Claude Code中的技能验证提供了实用指导。",
+        "en": "The article discusses creating verification loops in Claude Code using skills. It explains how to implement these loops to validate user inputs and ensure code accuracy. The content covers key steps, such as defining conditions, handling errors, and integrating skills for automated verification. The focus is on practical implementation for robust coding practices. (98 words)"
+      },
+      "summary": "本文介绍了在Claude Code中通过技能构建验证循环的方法。主要内容包括技能的定义、实现步骤以及应用场景。通过技能，开发者可以设计自动化验证流程，提高代码质量和效率。验证循环确保代码在特定条件下正确运行，减少错误。文章还提及了技能的配置和调试技巧，帮助开发者更好地应用该方法。整体而言，本文为Claude Code中的技能验证提供了实用指导。"
+    },
+    {
+      "title": "How Datadog built a “universal machine tool” for Claude Code",
+      "link": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "How Datadog built a “universal machine tool” for Claude Code",
+      "contentSnippet": "How Datadog built a “universal machine tool” for Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Datadog为Claude Code开发了一种“通用机器工具”，旨在提升代码分析和监控效率。该工具整合了多种技术，支持大规模数据处理和实时性能监控，帮助开发人员优化代码质量。通过自动化流程和增强数据分析能力，该工具显著简化了Claude Code的运维工作。Datadog的解决方案为代码管理提供了强大的技术支持，推动了Claude Code平台的持续发展。",
+        "en": "Datadog has developed a \"universal machine tool\" for Claude Code, enhancing its capabilities. The tool integrates Claude Code with Datadog's monitoring and analytics platform, enabling developers to streamline workflows and improve performance tracking. By leveraging this solution, Claude Code users can optimize machine learning operations, debug issues more efficiently, and gain deeper insights into their applications. The collaboration aims to provide a comprehensive platform for modern software development, combining AI-driven coding with robust data observability. This advancement supports the growing need for scalable and efficient tools in the tech industry."
+      },
+      "summary": "Datadog为Claude Code开发了一种“通用机器工具”，旨在提升代码分析和监控效率。该工具整合了多种技术，支持大规模数据处理和实时性能监控，帮助开发人员优化代码质量。通过自动化流程和增强数据分析能力，该工具显著简化了Claude Code的运维工作。Datadog的解决方案为代码管理提供了强大的技术支持，推动了Claude Code平台的持续发展。"
+    },
+    {
+      "title": "How Anthropic secures its AI-native software development lifecycle",
+      "link": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "How Anthropic secures its AI-native software development lifecycle",
+      "contentSnippet": "How Anthropic secures its AI-native software development lifecycle",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic采用AI原生软件开发生命周期，通过自动化工具和严格的安全测试来保障AI系统的可靠性和安全性。其流程包括代码审查、漏洞扫描和持续监控，确保AI模型在开发、部署和运行过程中符合高标准。此外，Anthropic还注重隐私保护，采用加密技术和数据隔离措施，防止敏感信息泄露。通过这些措施，Anthropic致力于打造安全、高效的AI原生软件。",
+        "en": "Anthropic secures its AI-native software development lifecycle through a structured approach focused on safety, transparency, and reliability. The process involves rigorous testing, continuous monitoring, and adherence to ethical guidelines to minimize risks. Key measures include automated validation, vulnerability assessments, and compliance with industry standards. By integrating security into every stage of development, Anthropic ensures its AI systems meet high performance and trustworthiness benchmarks. The company also emphasizes collaboration with stakeholders to maintain robust safeguards. This comprehensive strategy aims to deliver secure, dependable AI solutions while addressing potential challenges proactively."
+      },
+      "summary": "Anthropic采用AI原生软件开发生命周期，通过自动化工具和严格的安全测试来保障AI系统的可靠性和安全性。其流程包括代码审查、漏洞扫描和持续监控，确保AI模型在开发、部署和运行过程中符合高标准。此外，Anthropic还注重隐私保护，采用加密技术和数据隔离措施，防止敏感信息泄露。通过这些措施，Anthropic致力于打造安全、高效的AI原生软件。"
+    },
+    {
+      "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "link": "https://claude.com/blog/working-at-the-frontier-rakuten",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-20T00:00:00.000Z",
+      "content": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "contentSnippet": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+      "creator": "",
+      "summaries": {
+        "zh": "《在技术前沿：乐天如何借助Claude Fable 5快速构建智能代理》\n\n乐天通过Claude Fable 5技术，实现了智能代理的快速开发。该技术支持高效构建和部署，大幅缩短了开发周期。乐天利用此工具在短时间内完成代理构建，展示了其在AI领域的创新能力。Claude Fable 5的自动化和智能化特性，为乐天提供了强大的技术支持，使其在竞争激烈的市场中保持领先。",
+        "en": "Rakuten leverages Claude Fable 5 to rapidly develop AI agents overnight. The technology enables quick prototyping and deployment, significantly reducing development time. By utilizing Claude Fable 5's advanced capabilities, Rakuten streamlines the agent-building process, allowing for efficient scaling and innovation. The approach highlights the potential of AI in accelerating digital transformation across industries."
+      },
+      "summary": "《在技术前沿：乐天如何借助Claude Fable 5快速构建智能代理》\n\n乐天通过Claude Fable 5技术，实现了智能代理的快速开发。该技术支持高效构建和部署，大幅缩短了开发周期。乐天利用此工具在短时间内完成代理构建，展示了其在AI领域的创新能力。Claude Fable 5的自动化和智能化特性，为乐天提供了强大的技术支持，使其在竞争激烈的市场中保持领先。"
+    },
+    {
+      "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "link": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-17T00:00:00.000Z",
+      "content": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "contentSnippet": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "creator": "",
+      "summaries": {
+        "zh": "首席信息安全官（CISO）指南：主动式AI风险管理。文章指出，零风险并非CISO的目标，主动式AI技术能提升安全防护能力。CISO需掌握AI技术，制定策略以应对潜在威胁，确保企业数据安全。主动式AI通过智能分析、自动化响应，增强安全防护，但需平衡效率与风险。CISO应重视AI培训，优化安全体系，适应技术发展。",
+        "en": "The article \"Zero risk isn't the job: a CISO's guide to agentic AI\" discusses the evolving role of Chief Information Security Officers (CISOs) in managing agentic AI systems. It emphasizes that traditional zero-risk approaches are outdated, as agentic AI introduces new complexities. The guide advises CISOs to adapt by focusing on risk assessment, governance, and ethical frameworks to ensure responsible AI deployment. The content highlights the need for proactive strategies to address emerging threats while leveraging AI's potential."
+      },
+      "summary": "首席信息安全官（CISO）指南：主动式AI风险管理。文章指出，零风险并非CISO的目标，主动式AI技术能提升安全防护能力。CISO需掌握AI技术，制定策略以应对潜在威胁，确保企业数据安全。主动式AI通过智能分析、自动化响应，增强安全防护，但需平衡效率与风险。CISO应重视AI培训，优化安全体系，适应技术发展。"
+    },
+    {
+      "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "link": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "pubDate": "Fri, 17 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-17T00:00:00.000Z",
+      "content": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "contentSnippet": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《前沿工作：Cursor如何判断Claude Fable 5已准备好应对最困难的1%问题》\n\nCursor通过严格测试和评估，确认Claude Fable 5已准备好处理高难度问题。团队在技术前沿进行验证，确保其性能满足极端需求。Claude Fable 5的优化使其能应对复杂挑战，为用户提供可靠解决方案。",
+        "en": "Cursor, a technology company, evaluated Claude Fable 5 to determine its readiness for solving the most complex 1% of problems. The assessment focused on performance, reliability, and scalability under extreme conditions. Through rigorous testing and analysis, Cursor confirmed Claude Fable 5’s capability to handle demanding tasks, ensuring it meets the needs of advanced users. The article highlights the importance of such evaluations in advancing AI solutions for specialized applications."
+      },
+      "summary": "文章标题：《前沿工作：Cursor如何判断Claude Fable 5已准备好应对最困难的1%问题》\n\nCursor通过严格测试和评估，确认Claude Fable 5已准备好处理高难度问题。团队在技术前沿进行验证，确保其性能满足极端需求。Claude Fable 5的优化使其能应对复杂挑战，为用户提供可靠解决方案。"
+    },
+    {
+      "title": "Working with Claude Fable 5 in Claude Cowork",
+      "link": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-16T00:00:00.000Z",
+      "content": "Working with Claude Fable 5 in Claude Cowork",
+      "contentSnippet": "Working with Claude Fable 5 in Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "在使用Claude Cowork中，与Claude Fable 5合作。",
+        "en": "The article discusses using the Claude Fable 5 device within the Claude Cowork platform. It likely covers integration features, setup procedures, and collaboration capabilities when incorporating the Fable 5 into the Cowork system. The focus is on how the device functions within this specific software environment, emphasizing compatibility and workflow efficiency. For detailed technical aspects, the full article would be necessary."
+      },
+      "summary": "在使用Claude Cowork中，与Claude Fable 5合作。"
+    },
+    {
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "link": "https://claude.com/blog/ai-code-migration",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-16T00:00:00.000Z",
+      "content": "How Anthropic runs large-scale code migrations with Claude Code",
+      "contentSnippet": "How Anthropic runs large-scale code migrations with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 使用 Claude Code 进行大规模代码迁移。该过程涉及系统化迁移代码库，确保平稳过渡和兼容性。通过 Claude Code 的支持，Anthropic 有效管理了代码迁移的复杂性，提高了效率。",
+        "en": "Anthropic utilizes Claude Code to manage large-scale code migrations. The process involves leveraging Claude Code's capabilities to streamline and automate migration tasks, ensuring efficiency and accuracy. The article details the methodologies and tools used, highlighting how Anthropic addresses challenges in transitioning complex codebases. By integrating Claude Code, Anthropic achieves a systematic approach to migration, minimizing disruptions and optimizing performance. The focus is on scalability, reliability, and maintaining code integrity throughout the process."
+      },
+      "summary": "Anthropic 使用 Claude Code 进行大规模代码迁移。该过程涉及系统化迁移代码库，确保平稳过渡和兼容性。通过 Claude Code 的支持，Anthropic 有效管理了代码迁移的复杂性，提高了效率。"
+    },
+    {
+      "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "link": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+      "pubDate": "Wed, 15 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-15T00:00:00.000Z",
+      "content": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "contentSnippet": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+      "creator": "",
+      "summaries": {
+        "zh": "Base44选择Claude Fable 5处理其最具挑战性的工程任务，因其前沿技术能力。Claude Fable 5凭借卓越性能，助力Base44攻克难题。双方合作体现了技术创新价值，推动工程领域发展。",
+        "en": "Base44, a company specializing in advanced engineering projects, has entrusted Claude Fable 5 with their most challenging work. This decision highlights Base44's confidence in Claude Fable 5's capabilities and expertise. The collaboration focuses on cutting-edge engineering tasks, demonstrating Base44's commitment to innovation and high standards. By partnering with Claude Fable 5, Base44 aims to tackle complex problems and push the boundaries of engineering. The choice underscores the importance of specialized skills in addressing advanced technological challenges."
+      },
+      "summary": "Base44选择Claude Fable 5处理其最具挑战性的工程任务，因其前沿技术能力。Claude Fable 5凭借卓越性能，助力Base44攻克难题。双方合作体现了技术创新价值，推动工程领域发展。"
+    },
+    {
+      "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "link": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-13T00:00:00.000Z",
+      "content": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "contentSnippet": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "creator": "",
+      "summaries": {
+        "zh": "Hebbia公司致力于开发用于金融尽职调查的AI技术，强调其系统能够精准捕捉细节，确保无遗漏。公司专注于AI前沿，通过先进技术提升金融尽职调查的效率和准确性。其AI解决方案旨在帮助金融机构更全面地评估风险，优化决策流程。",
+        "en": "Hebbia develops AI for financial diligence, focusing on precision and detail. The technology aims to enhance due diligence processes by ensuring comprehensive analysis without missing critical information. The company operates at the cutting edge of AI, integrating advanced algorithms to support financial decision-making. Their solution is designed to improve efficiency and accuracy in assessing risks and opportunities in financial contexts."
+      },
+      "summary": "Hebbia公司致力于开发用于金融尽职调查的AI技术，强调其系统能够精准捕捉细节，确保无遗漏。公司专注于AI前沿，通过先进技术提升金融尽职调查的效率和准确性。其AI解决方案旨在帮助金融机构更全面地评估风险，优化决策流程。"
+    },
+    {
+      "title": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
+      "link": "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-10T00:00:00.000Z",
+      "content": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
+      "contentSnippet": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
+      "creator": "",
+      "summaries": {
+        "zh": "Cognition公司依靠Claude Fable 5服务器实现全天候工作。Claude Fable 5凭借其高性能和稳定性，保障了公司业务的连续运行。该设备在处理复杂任务时表现出色，有效支持了Cognition在技术前沿的持续研发。",
+        "en": "Cognition leverages the Claude Fable 5 to operate continuously through the night, ensuring uninterrupted performance. The system relies on Claude Fable 5's advanced capabilities to handle complex tasks efficiently. By utilizing this technology, Cognition maintains high productivity and reliability, demonstrating trust in the device's performance. The focus is on seamless operation and continuous workflow, highlighting the importance of robust technology in modern work environments."
+      },
+      "summary": "Cognition公司依靠Claude Fable 5服务器实现全天候工作。Claude Fable 5凭借其高性能和稳定性，保障了公司业务的连续运行。该设备在处理复杂任务时表现出色，有效支持了Cognition在技术前沿的持续研发。"
+    },
+    {
+      "title": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
+      "link": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
+      "contentSnippet": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的营销运营团队利用Claude Cowork自动化报告和活动构建。该工具通过智能自动化简化了数据分析和活动管理流程，提高了工作效率。团队借助Claude Cowork的功能，实现了报告生成的自动化，并优化了营销活动的搭建过程，从而节省了时间和资源。",
+        "en": "Anthropic's marketing operations team utilizes Claude Cowork to automate reporting and campaign builds. The tool streamlines workflows, enabling efficient data analysis and task execution. By integrating Claude Cowork, the team enhances productivity, reduces manual effort, and ensures timely delivery of marketing reports and campaigns. The system supports scalable operations, allowing for consistent performance across projects. This automation approach optimizes resource allocation and improves overall operational efficiency within the marketing department."
+      },
+      "summary": "Anthropic的营销运营团队利用Claude Cowork自动化报告和活动构建。该工具通过智能自动化简化了数据分析和活动管理流程，提高了工作效率。团队借助Claude Cowork的功能，实现了报告生成的自动化，并优化了营销活动的搭建过程，从而节省了时间和资源。"
+    },
+    {
+      "title": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
+      "link": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
+      "contentSnippet": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《在前沿领域工作：汤森路透如何为高风险专业工作构建AI》\n\n文章内容概述：\n汤森路透致力于开发面向高风险专业领域的AI技术。公司专注于利用AI提升法律、金融等行业的决策效率和准确性。通过结合前沿技术和实际业务需求，汤森路透旨在为专业人士提供更智能、可靠的工作工具，助力其在复杂环境中做出更精准判断。",
+        "en": "Thomson Reuters is developing AI for high-stakes professional work, focusing on the cutting edge of technology. The company emphasizes precision and reliability in AI applications to meet the demands of critical industries like finance and legal services. Their approach involves integrating advanced machine learning and natural language processing to enhance decision-making and efficiency. By prioritizing accuracy and scalability, Thomson Reuters aims to provide tools that support complex, data-intensive tasks. The company's work highlights the importance of AI in transforming professional workflows."
+      },
+      "summary": "文章标题：《在前沿领域工作：汤森路透如何为高风险专业工作构建AI》\n\n文章内容概述：\n汤森路透致力于开发面向高风险专业领域的AI技术。公司专注于利用AI提升法律、金融等行业的决策效率和准确性。通过结合前沿技术和实际业务需求，汤森路透旨在为专业人士提供更智能、可靠的工作工具，助力其在复杂环境中做出更精准判断。"
+    },
+    {
+      "title": "How people are using Claude Cowork",
+      "link": "https://claude.com/blog/how-people-are-using-claude-cowork",
+      "pubDate": "Tue, 07 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-07T00:00:00.000Z",
+      "content": "How people are using Claude Cowork",
+      "contentSnippet": "How people are using Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Cowork是一款协作工具，用户正通过它进行团队沟通、文件共享和项目管理。该工具支持实时编辑、任务分配和进度跟踪，提升了工作效率。用户利用其集成功能简化工作流程，促进团队协作。",
+        "en": "Claude Cowork is being utilized by individuals for various collaborative tasks. Users leverage its features to streamline teamwork, enhance productivity, and facilitate communication within teams. The platform supports document sharing, real-time editing, and task management, making it a valuable tool for remote and in-person collaboration. Its integration with other productivity tools further extends its utility. Users find it particularly useful for project planning, brainstorming sessions, and maintaining organized workflows. The platform's versatility and user-friendly interface contribute to its growing adoption among professionals seeking efficient collaboration solutions."
+      },
+      "summary": "Claude Cowork是一款协作工具，用户正通过它进行团队沟通、文件共享和项目管理。该工具支持实时编辑、任务分配和进度跟踪，提升了工作效率。用户利用其集成功能简化工作流程，促进团队协作。"
+    },
+    {
+      "title": "Claude Cowork is coming to mobile and web",
+      "link": "https://claude.com/blog/cowork-web-mobile",
+      "pubDate": "Tue, 07 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-07T00:00:00.000Z",
+      "content": "Claude Cowork is coming to mobile and web",
+      "contentSnippet": "Claude Cowork is coming to mobile and web",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Cowork将登陆移动端和网页端。该平台即将推出移动和网页版本，为用户提供更多便捷的协作工具。此次更新旨在提升用户体验，方便用户随时随地开展工作。具体功能及上线时间尚未公布。",
+        "en": "Claude Cowork is expanding its availability to mobile and web platforms. The update aims to provide users with seamless access to collaborative tools across devices. The mobile version will offer on-the-go productivity, while the web version ensures flexibility for desktop users. The integration is designed to enhance user experience by maintaining consistent functionality across platforms. No further details on specific features or release dates were provided."
+      },
+      "summary": "Claude Cowork将登陆移动端和网页端。该平台即将推出移动和网页版本，为用户提供更多便捷的协作工具。此次更新旨在提升用户体验，方便用户随时随地开展工作。具体功能及上线时间尚未公布。"
+    },
+    {
+      "title": "Choosing a Claude model and effort level in Claude Code",
+      "link": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
+      "pubDate": "Tue, 07 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-07T00:00:00.000Z",
+      "content": "Choosing a Claude model and effort level in Claude Code",
+      "contentSnippet": "Choosing a Claude model and effort level in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "在Claude Code中，选择合适的Claude模型和调整努力程度（effort level）是关键。用户需根据任务需求，从不同Claude模型中挑选最匹配的版本，如基础版或高级版。同时，通过调整努力程度，可以平衡响应速度和准确性。合理配置有助于优化代码生成和问题解决效率，确保输出结果符合预期。",
+        "en": "The article discusses selecting a Claude model and adjusting effort levels in Claude Code. It covers key considerations for users to optimize performance based on their needs. The content emphasizes understanding model capabilities and effort settings to achieve desired results efficiently."
+      },
+      "summary": "在Claude Code中，选择合适的Claude模型和调整努力程度（effort level）是关键。用户需根据任务需求，从不同Claude模型中挑选最匹配的版本，如基础版或高级版。同时，通过调整努力程度，可以平衡响应速度和准确性。合理配置有助于优化代码生成和问题解决效率，确保输出结果符合预期。"
+    },
+    {
+      "title": "Bringing Claude Code and Claude Cowork to government",
+      "link": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+      "pubDate": "Tue, 07 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-07T00:00:00.000Z",
+      "content": "Bringing Claude Code and Claude Cowork to government",
+      "contentSnippet": "Bringing Claude Code and Claude Cowork to government",
+      "creator": "",
+      "summaries": {
+        "zh": "政府将引入Claude Code和Claude Cowork技术。Claude Code是一款编程辅助工具，旨在提高政府部门的开发效率；Claude Cowork是一款协作平台，用于促进团队沟通与项目管理。此举旨在优化政府IT系统，提升工作效率。",
+        "en": "The article discusses the integration of Claude Code and Claude Cowork into government systems. It highlights the benefits of these tools for enhancing productivity and collaboration in public administration. The content emphasizes seamless integration, user-friendly interfaces, and improved efficiency for government employees. The article also mentions potential security features and compliance with government standards. Overall, it presents these tools as valuable assets for modernizing government operations."
+      },
+      "summary": "政府将引入Claude Code和Claude Cowork技术。Claude Code是一款编程辅助工具，旨在提高政府部门的开发效率；Claude Cowork是一款协作平台，用于促进团队沟通与项目管理。此举旨在优化政府IT系统，提升工作效率。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:09.846Z"
+}

@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "zhaoxuya520/reverse-skill",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/73e62bd735cbe1185ce046d08cc25000f532e2c7eaf12752d03022ae739bccf6/zhaoxuya520/reverse-skill\" referrerpolicy=\"no-referrer\"><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端<br><br>Language: PowerShell<br>Stars: 21092<br>Forks: 2906",
+      "contentSnippet": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端\nLanguage: PowerShell\nStars: 21092\nForks: 2906",
+      "creator": "zhaoxuya520",
+      "summaries": {
+        "zh": "\"zhaoxuya520/reverse-skill\"是一个逆向工程/授权渗透测试/安全研究技能路由包，采用AI自动路由、按需自举工具链和自动进化知识库。支持Claude Code、Kiro、Cursor、Cline等代码AI客户端。该工具在GitHub上获得14860星和2189次分叉。",
+        "en": "The \"Reverse Skill\" pack is a security tool for reverse engineering, authorized penetration testing, and security research. It features AI-powered routing, on-demand toolchain bootstrapping, and a self-evolving knowledge base. The tool supports AI coding clients like Claude Code, Kiro, Cursor, and Cline. It has 14,860 stars and 2,189 forks on GitHub."
+      },
+      "summary": "\"zhaoxuya520/reverse-skill\"是一个逆向工程/授权渗透测试/安全研究技能路由包，采用AI自动路由、按需自举工具链和自动进化知识库。支持Claude Code、Kiro、Cursor、Cline等代码AI客户端。该工具在GitHub上获得14860星和2189次分叉。"
+    },
+    {
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d15f9a374ec55e777e9f1db844ebdcf91ad2b9cac5b77ff6f96567642ddf3772/TencentCloud/TencentDB-Agent-Memory\" referrerpolicy=\"no-referrer\"><br>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.<br><br>Language: TypeScript<br>Stars: 18145<br>Forks: 1625",
+      "contentSnippet": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.\nLanguage: TypeScript\nStars: 18145\nForks: 1625",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "腾讯云TencentDB-Agent-Memory是一个面向AI Agent的团队级内存中心，将对话、文档和代码转化为四种可复用的内存资产（聊天记忆、技能、LLM-Wiki、代码图）。这些资产可在不同Agent和框架间进行管理、共享和配置。项目使用TypeScript开发，在GitHub上获得12783个星标和1211次分叉。",
+        "en": "TencentDB Agent Memory is a team-level memory hub for AI Agents. It transforms conversations, documents, and code into four reusable memory assets: Chat Memory, Skill, LLM-Wiki, and Code-Graph. These assets are governed, shared, and utilized across agents and frameworks. The project is written in TypeScript and has 12,783 stars and 1,211 forks on its repository."
+      },
+      "summary": "腾讯云TencentDB-Agent-Memory是一个面向AI Agent的团队级内存中心，将对话、文档和代码转化为四种可复用的内存资产（聊天记忆、技能、LLM-Wiki、代码图）。这些资产可在不同Agent和框架间进行管理、共享和配置。项目使用TypeScript开发，在GitHub上获得12783个星标和1211次分叉。"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e511979a43cfb9f5a05844dbf9ed42cec44d4cf138dbcdbf341b7faf59ea78ef/lyogavin/airllm\" referrerpolicy=\"no-referrer\"><br>AirLLM 70B inference with single 4GB GPU<br><br>Language: Jupyter Notebook<br>Stars: 30115<br>Forks: 3203",
+      "contentSnippet": "AirLLM 70B inference with single 4GB GPU\nLanguage: Jupyter Notebook\nStars: 30115\nForks: 3203",
+      "creator": "lyogavin",
+      "summaries": {
+        "zh": "AirLLM 70B推理模型使用单个4GB GPU，基于Jupyter Notebook开发。该项目在GitHub上获得26246个星标和2917次分叉，显示出较高的社区关注度。",
+        "en": "AirLLM 70B inference runs on a single 4GB GPU using a Jupyter Notebook. The project has 26,246 stars and 2,917 forks on GitHub."
+      },
+      "summary": "AirLLM 70B推理模型使用单个4GB GPU，基于Jupyter Notebook开发。该项目在GitHub上获得26246个星标和2917次分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "microsoft/AI-For-Beginners",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4\" referrerpolicy=\"no-referrer\"><br>12 Weeks, 24 Lessons, AI for All!<br><br>Language: Jupyter Notebook<br>Stars: 63544<br>Forks: 12307",
+      "contentSnippet": "12 Weeks, 24 Lessons, AI for All!\nLanguage: Jupyter Notebook\nStars: 63544\nForks: 12307",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "微软推出的《AI入门》项目，为期12周，包含24个课程，面向所有人。内容以Jupyter Notebook形式呈现，获得55726个星标和11200次分叉。该项目旨在帮助初学者系统学习人工智能基础知识。",
+        "en": "The article \"microsoft/AI-For-Beginners\" is a 12-week course with 24 lessons, designed for beginners. It includes Jupyter Notebook content and has 55,726 stars and 11,200 forks on its repository. The course aims to make AI accessible to all."
+      },
+      "summary": "微软推出的《AI入门》项目，为期12周，包含24个课程，面向所有人。内容以Jupyter Notebook形式呈现，获得55726个星标和11200次分叉。该项目旨在帮助初学者系统学习人工智能基础知识。"
+    },
+    {
+      "title": "esengine/DeepSeek-Reasonix",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1216785679/7d891983-5b92-40d4-81e3-7ebc365ce645\" referrerpolicy=\"no-referrer\"><br>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.<br><br>Language: Go<br>Stars: 33116<br>Forks: 2139",
+      "contentSnippet": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.\nLanguage: Go\nStars: 33116\nForks: 2139",
+      "creator": "esengine",
+      "summaries": {
+        "zh": "DeepSeek-Reasonix是一款基于Go语言开发的本地AI编码代理工具，专为终端使用设计。该工具采用前缀缓存稳定性技术，可长时间稳定运行。目前拥有31218个星标和2004次分叉。",
+        "en": "The article introduces DeepSeek-Reasonix, a native AI coding agent designed for terminal use. It emphasizes prefix-cache stability, allowing the agent to run continuously. Developed in Go, DeepSeek-Reasonix has 31,218 stars and 2,004 forks on its repository. The focus is on its technical stability and efficiency for coding tasks."
+      },
+      "summary": "DeepSeek-Reasonix是一款基于Go语言开发的本地AI编码代理工具，专为终端使用设计。该工具采用前缀缓存稳定性技术，可长时间稳定运行。目前拥有31218个星标和2004次分叉。"
+    },
+    {
+      "title": "usekaneo/kaneo",
+      "link": "https://github.com/usekaneo/kaneo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/910422636/b462a171-cdec-46fb-8b48-40e4f5a5f4b2\" referrerpolicy=\"no-referrer\"><br>🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.<br><br>Language: TypeScript<br>Stars: 7712<br>Forks: 618",
+      "contentSnippet": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.\nLanguage: TypeScript\nStars: 7712\nForks: 618",
+      "creator": "usekaneo",
+      "summaries": {
+        "zh": "这是一个开源项目管理工具，使用TypeScript开发。该工具旨在提供高效、简洁的项目管理体验，符合用户需求。目前，该项目在GitHub上有7556个星标和606个分支。",
+        "en": "The article introduces \"usekaneo/kaneo,\" an open-source project management tool built with TypeScript. It emphasizes simplicity and user-centric design, stating that it provides everything needed without unnecessary features. The project has gained significant popularity, boasting 7,556 stars and 606 forks on its repository."
+      },
+      "summary": "这是一个开源项目管理工具，使用TypeScript开发。该工具旨在提供高效、简洁的项目管理体验，符合用户需求。目前，该项目在GitHub上有7556个星标和606个分支。"
+    },
+    {
+      "title": "virgiliojr94/book-to-skill",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d29336eafaac070f11b2b6efe1676216cd369c7b2ccc844988ae010eff80b1a/virgiliojr94/book-to-skill\" referrerpolicy=\"no-referrer\"><br>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.<br><br>Language: Python<br>Stars: 18819<br>Forks: 2025",
+      "contentSnippet": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.\nLanguage: Python\nStars: 18819\nForks: 2025",
+      "creator": "virgiliojr94",
+      "summaries": {
+        "zh": "\"virgiliojr94/book-to-skill\" 是一个 Python 项目，可将技术书籍 PDF 转换为 Claude Code 技能，方便学习、参考和工作使用。该项目获得 13436 星和 1459 个分支。",
+        "en": "The tool \"virgiliojr94/book-to-skill\" converts technical book PDFs into Claude Code skills, enabling users to study, reference, and apply content while working. Written in Python, it has 13,436 stars and 1,459 forks on GitHub. The tool facilitates efficient knowledge extraction from books for practical use."
+      },
+      "summary": "\"virgiliojr94/book-to-skill\" 是一个 Python 项目，可将技术书籍 PDF 转换为 Claude Code 技能，方便学习、参考和工作使用。该项目获得 13436 星和 1459 个分支。"
+    },
+    {
+      "title": "iv-org/invidious",
+      "link": "https://github.com/iv-org/invidious",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/afc12a5272390ef17f1a8e48dd8c11fd40efe58f4d623d90320d936eb3e7fcde/iv-org/invidious\" referrerpolicy=\"no-referrer\"><br>Invidious is an alternative front-end to YouTube<br><br>Language: Crystal<br>Stars: 22467<br>Forks: 2509",
+      "contentSnippet": "Invidious is an alternative front-end to YouTube\nLanguage: Crystal\nStars: 22467\nForks: 2509",
+      "creator": "iv-org",
+      "summaries": {
+        "zh": "Invidious是一个替代YouTube的前端界面，拥有22449个CrystalStars和2506个Forks。",
+        "en": "Invidious is an alternative front-end for YouTube, providing a decentralized platform for accessing YouTube content. It features 22,449 crystal stars and 2,506 forks, indicating its community engagement and development activity. The platform offers a user-friendly interface while maintaining content accessibility."
+      },
+      "summary": "Invidious是一个替代YouTube的前端界面，拥有22449个CrystalStars和2506个Forks。"
+    },
+    {
+      "title": "different-ai/openwork",
+      "link": "https://github.com/different-ai/openwork",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/75b8bfbe766ad0aeb64853c674c7833b6c014f13ced9115b7a77fbb8ff47020f/different-ai/openwork\" referrerpolicy=\"no-referrer\"><br>The open-source alternative to Claude Cowork (powered by opencode)<br><br>Language: TypeScript<br>Stars: 21568<br>Forks: 2113",
+      "contentSnippet": "The open-source alternative to Claude Cowork (powered by opencode)\nLanguage: TypeScript\nStars: 21568\nForks: 2113",
+      "creator": "different-ai",
+      "summaries": {
+        "zh": "开源协作工具“不同AI/openwork”是Claude Cowork的替代品，基于opencode开发，使用TypeScript语言编写。该项目在GitHub上获得19804个星标和2053次分叉，显示出一定的社区认可度。",
+        "en": "The open-source project \"different-ai/openwork\" is an alternative to Claude Cowork, powered by open-source technology. Developed in TypeScript, it has garnered significant community interest, with 19,804 stars and 2,053 forks on platforms like GitHub. The project aims to provide a collaborative AI tool similar to Claude Cowork but with open-source flexibility. Its popularity reflects growing demand for accessible AI solutions."
+      },
+      "summary": "开源协作工具“不同AI/openwork”是Claude Cowork的替代品，基于opencode开发，使用TypeScript语言编写。该项目在GitHub上获得19804个星标和2053次分叉，显示出一定的社区认可度。"
+    },
+    {
+      "title": "unclebob/swarm-forge",
+      "link": "https://github.com/unclebob/swarm-forge",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/88f3cb88141f06d59644a3a61d08d56984dd394e28a7f80c3230a49779015ab8/unclebob/swarm-forge\" referrerpolicy=\"no-referrer\"><br>A simple tool for coordinating several AI agents.<br><br>Language: Clojure<br>Stars: 1965<br>Forks: 209",
+      "contentSnippet": "A simple tool for coordinating several AI agents.\nLanguage: Clojure\nStars: 1965\nForks: 209",
+      "creator": "unclebob",
+      "summaries": {
+        "zh": "\"Unclebob/swarm-forge\"是一个用于协调多个AI代理的简单工具，使用Clojure语言开发。该工具在GitHub上获得1698个星标和190个分支。",
+        "en": "**Summary:**  \n\"Unclebob/Swarm-Forge\" is a simple tool for coordinating multiple AI agents. It is written in Clojure, has 1,698 stars and 190 forks on platforms like GitHub. The tool facilitates the management and interaction of AI agents, making it easier to deploy and scale complex AI systems. Its open-source nature and active community contribute to its popularity."
+      },
+      "summary": "\"Unclebob/swarm-forge\"是一个用于协调多个AI代理的简单工具，使用Clojure语言开发。该工具在GitHub上获得1698个星标和190个分支。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c4152333298790700dd989bd12e13f9a3cf13699b2e950334d5dcd0f5d16f0f/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 16631<br>Forks: 1324",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 16631\nForks: 1324",
+      "creator": "google",
+      "summaries": {
+        "zh": "该文章介绍Google产品和技术所需的代理技能，使用Python语言。项目在GitHub上拥有16482个星标和1304次分叉，显示出较高的关注度。",
+        "en": "The article discusses \"Agent Skills for Google products and technologies,\" focusing on Python. It has 16,482 stars and 1,304 forks, indicating popularity and community engagement. The content likely covers programming skills related to Google's tools and platforms, with Python being a key language. The high star and fork counts suggest active development and interest in these Google technologies."
+      },
+      "summary": "该文章介绍Google产品和技术所需的代理技能，使用Python语言。项目在GitHub上拥有16482个星标和1304次分叉，显示出较高的关注度。"
+    },
+    {
+      "title": "antirez/ds4",
+      "link": "https://github.com/antirez/ds4",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/70d8b00526c2236abf834e16d4e4c5760baf32c4435a116d9eb7dc5e9255c25b/antirez/ds4\" referrerpolicy=\"no-referrer\"><br>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm<br><br>Language: C<br>Stars: 20964<br>Forks: 1878",
+      "contentSnippet": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm\nLanguage: C\nStars: 20964\nForks: 1878",
+      "creator": "antirez",
+      "summaries": {
+        "zh": "DeepSeek 4 Flash和PRO本地推理引擎支持Metal、CUDA和ROCm平台，使用C语言开发。该引擎在GitHub上获得20733星标和1849次分叉，显示出较高的社区认可度。",
+        "en": "The article discusses the DeepSeek 4 Flash and PRO local inference engines, which support Metal, CUDA, and ROCm. It is written in C and has 20,733 stars and 1,849 forks."
+      },
+      "summary": "DeepSeek 4 Flash和PRO本地推理引擎支持Metal、CUDA和ROCm平台，使用C语言开发。该引擎在GitHub上获得20733星标和1849次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b\" referrerpolicy=\"no-referrer\"><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.<br><br>Language: Python<br>Stars: 124861<br>Forks: 14798",
+      "contentSnippet": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.\nLanguage: Python\nStars: 124861\nForks: 14798",
+      "creator": "Comfy-Org",
+      "summaries": {
+        "zh": "Comfy-Org/ComfyUI是一个强大的模块化扩散模型GUI、API和后端，采用图形/节点界面。该工具使用Python开发，目前获得124,776个星标和14,788次分叉。",
+        "en": "Comfy-Org/ComfyUI is a powerful and modular diffusion model GUI, API, and backend featuring a graph/nodes interface. It is written in Python and has garnered 124,776 stars and 14,788 forks on its repository. The system provides a user-friendly interface for diffusion models, along with flexible backend support and modular components."
+      },
+      "summary": "Comfy-Org/ComfyUI是一个强大的模块化扩散模型GUI、API和后端，采用图形/节点界面。该工具使用Python开发，目前获得124,776个星标和14,788次分叉。"
+    },
+    {
+      "title": "DataExpert-io/data-engineer-handbook",
+      "link": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9a2c5a735647b5a5e50c85e9cabfe35e86e874e39ab3e5ddf69f07de0ae3c14e/DataExpert-io/data-engineer-handbook\" referrerpolicy=\"no-referrer\"><br>This is a repo with links to everything you'd ever want to learn about data engineering<br><br>Language: Jupyter Notebook<br>Stars: 43455<br>Forks: 9005",
+      "contentSnippet": "This is a repo with links to everything you'd ever want to learn about data engineering\nLanguage: Jupyter Notebook\nStars: 43455\nForks: 9005",
+      "creator": "DataExpert-io",
+      "summaries": {
+        "zh": "这是一个包含数据工程学习资源的代码库，链接涵盖相关知识和技能。该仓库使用Jupyter Notebook，拥有43033个星标和8725个分支。",
+        "en": "The repository \"DataExpert-io/data-engineer-handbook\" provides links to comprehensive resources for data engineering. It includes Jupyter Notebook materials and has garnered significant popularity, with 43,033 stars and 8,725 forks. The content aims to cover essential topics for data engineers."
+      },
+      "summary": "这是一个包含数据工程学习资源的代码库，链接涵盖相关知识和技能。该仓库使用Jupyter Notebook，拥有43033个星标和8725个分支。"
+    },
+    {
+      "title": "donnemartin/system-design-primer",
+      "link": "https://github.com/donnemartin/system-design-primer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ae371c4e7d2d1537c3ed1aa428d30fe2ba1e55c083599b6d1966e14d6bc7f443/donnemartin/system-design-primer\" referrerpolicy=\"no-referrer\"><br>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.<br><br>Language: Python<br>Stars: 362432<br>Forks: 57719",
+      "contentSnippet": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.\nLanguage: Python\nStars: 362432\nForks: 57719",
+      "creator": "donnemartin",
+      "summaries": {
+        "zh": "本文介绍了如何设计大型系统，并帮助准备系统设计面试。内容包含Anki闪卡，使用Python语言开发，获得362361个星标和57719次分叉。",
+        "en": "The article \"donnemartin/system-design-primer\" teaches large-scale system design and prepares readers for system design interviews. It includes Anki flashcards and is written in Python. The resource has 362,361 stars and 57,719 forks on its platform."
+      },
+      "summary": "本文介绍了如何设计大型系统，并帮助准备系统设计面试。内容包含Anki闪卡，使用Python语言开发，获得362361个星标和57719次分叉。"
+    },
+    {
+      "title": "embabel/embabel-agent",
+      "link": "https://github.com/embabel/embabel-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/79874255c12744672e7c5a142948c7ffe3ba0095c9bc0c83f5e59fa91533c394/embabel/embabel-agent\" referrerpolicy=\"no-referrer\"><br>Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/<br><br>Language: Kotlin<br>Stars: 4033<br>Forks: 400",
+      "contentSnippet": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/\nLanguage: Kotlin\nStars: 4033\nForks: 400",
+      "creator": "embabel",
+      "summaries": {
+        "zh": "embabel/embabel-agent 是一个基于 JVM 的代理框架，使用 Kotlin 语言开发。该框架目前获得 3976 个星标和 398 个分支。",
+        "en": "Embabel is a JVM agent framework written in Kotlin. It is pronounced \"Em-BAY-bel\" and has 3,976 stars and 3,98 forks on its repository. The framework provides tools for developing agents within the Java Virtual Machine environment."
+      },
+      "summary": "embabel/embabel-agent 是一个基于 JVM 的代理框架，使用 Kotlin 语言开发。该框架目前获得 3976 个星标和 398 个分支。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:25.542Z"
+}

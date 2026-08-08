@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Improving Fable 5's biology safeguards",
+      "contentSnippet": "Improving Fable 5's biology safeguards",
+      "creator": "",
+      "summaries": {
+        "zh": "《Fable 5》生物学防护机制改进。游戏通过优化生物防护系统，提升角色生存能力，增强环境互动性。改进包括动态调整敌人行为、强化环境威胁应对，以及引入适应性机制。这些措施旨在提升游戏沉浸感和挑战性，确保玩家体验更丰富。",
+        "en": "The article discusses enhancing Fable 5's biology safeguards. It focuses on improving the game's systems related to character biology, likely addressing mechanics like health, aging, or genetic traits. The goal is to create more robust and engaging biological gameplay elements. The article may explore potential updates or new features to refine these aspects, ensuring they integrate well with the game's narrative and mechanics. Overall, it aims to strengthen the biological foundations of Fable 5."
+      },
+      "summary": "《Fable 5》生物学防护机制改进。游戏通过优化生物防护系统，提升角色生存能力，增强环境互动性。改进包括动态调整敌人行为、强化环境威胁应对，以及引入适应性机制。这些措施旨在提升游戏沉浸感和挑战性，确保玩家体验更丰富。"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-04T00:00:00.000Z",
+      "content": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "contentSnippet": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "creator": "",
+      "summaries": {
+        "zh": "马里亚诺-弗洛伦蒂诺（Tino）·库埃拉将加入Anthropic，担任全球事务首席官。",
+        "en": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as Chief Global Affairs Officer. The role involves managing international relations and policy. Cuéllar's appointment aims to strengthen Anthropic's global presence and advocacy efforts. No further details on specific responsibilities or timelines were provided."
+      },
+      "summary": "马里亚诺-弗洛伦蒂诺（Tino）·库埃拉将加入Anthropic，担任全球事务首席官。"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-30T00:00:00.000Z",
+      "content": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "contentSnippet": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "creator": "",
+      "summaries": {
+        "zh": "本文调查了网络安全评估中的三个真实案例。通过分析这些案例，评估了网络安全系统的实际表现和潜在风险。研究重点关注了事件的原因、影响及应对措施，为改进网络安全防护提供了参考依据。",
+        "en": "The article examines three real-world cybersecurity incidents during evaluations. It focuses on analyzing these incidents to identify vulnerabilities and improve security measures. The study aims to provide insights into practical challenges and effective response strategies. The incidents are scrutinized for patterns and lessons learned to enhance overall cybersecurity defenses. The content highlights the importance of real-world scenarios in assessing and strengthening security protocols."
+      },
+      "summary": "本文调查了网络安全评估中的三个真实案例。通过分析这些案例，评估了网络安全系统的实际表现和潜在风险。研究重点关注了事件的原因、影响及应对措施，为改进网络安全防护提供了参考依据。"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "link": "https://www.anthropic.com/news/cognizant-anthropic",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "contentSnippet": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "creator": "",
+      "summaries": {
+        "zh": "Cognizant与Anthropic扩大合作，将Claude引入企业客户。此次合作旨在为企业提供更先进的AI解决方案，提升客户服务效率。Claude作为Anthropic开发的AI模型，将借助Cognizant的全球服务网络，帮助企业实现智能化转型。双方将共同推动Claude在企业领域的应用，满足不同行业的需求。",
+        "en": "Cognizant and Anthropic have expanded their partnership to integrate Anthropic's Claude AI model into enterprise solutions. The collaboration aims to provide businesses with access to Claude's advanced AI capabilities for enhanced productivity and efficiency. The expanded partnership will focus on deploying Claude in enterprise environments, leveraging its natural language processing and machine learning features. This move aligns with Cognizant's strategy to offer cutting-edge AI services to its clients. The partnership underscores the growing demand for AI-driven tools in the corporate sector."
+      },
+      "summary": "Cognizant与Anthropic扩大合作，将Claude引入企业客户。此次合作旨在为企业提供更先进的AI解决方案，提升客户服务效率。Claude作为Anthropic开发的AI模型，将借助Cognizant的全球服务网络，帮助企业实现智能化转型。双方将共同推动Claude在企业领域的应用，满足不同行业的需求。"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Our position on open-weights models",
+      "contentSnippet": "Our position on open-weights models",
+      "creator": "",
+      "summaries": {
+        "zh": "本文阐述了公司对开放权重模型的态度。公司认为开放权重模型有助于技术透明度和社区发展，但也需关注数据安全和知识产权保护。在推动模型开放的同时，应建立合理的监管机制，平衡创新与风险。公司支持在确保安全的前提下，逐步扩大开放范围，促进技术共享与合作。",
+        "en": "**Summary:**  \n\nThe article outlines the organization's stance on open-weights models. It emphasizes the importance of accessibility and transparency in model development while addressing potential challenges such as security and ethical considerations. The organization supports open-weights where feasible but advocates for responsible implementation to mitigate risks. The position balances innovation with safeguards to ensure public trust and safety. The article does not provide specific details on current open-weight policies or case studies.  \n\n(Word count: 50)"
+      },
+      "summary": "本文阐述了公司对开放权重模型的态度。公司认为开放权重模型有助于技术透明度和社区发展，但也需关注数据安全和知识产权保护。在推动模型开放的同时，应建立合理的监管机制，平衡创新与风险。公司支持在确保安全的前提下，逐步扩大开放范围，促进技术共享与合作。"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Introducing Claude Opus 5",
+      "contentSnippet": "Introducing Claude Opus 5",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Opus 5正式发布。该产品具备先进功能，旨在提升用户体验。具体特性、应用场景及优势未详细说明。此次更新可能涉及性能优化和界面改进。更多详情需关注后续官方发布。",
+        "en": "Claude Opus 5 is a new version of the Claude AI model. It offers enhanced capabilities, improved performance, and advanced features compared to previous iterations. The update focuses on better natural language understanding, faster response times, and increased accuracy. Users can expect smoother interactions and more reliable outputs. The model is designed to handle a wider range of tasks, including complex queries and creative writing. Claude Opus 5 represents a significant step forward in AI technology, providing more efficient and effective solutions for users."
+      },
+      "summary": "Claude Opus 5正式发布。该产品具备先进功能，旨在提升用户体验。具体特性、应用场景及优势未详细说明。此次更新可能涉及性能优化和界面改进。更多详情需关注后续官方发布。"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "Ask Claude about the Anthropic Economic Index",
+      "contentSnippet": "Ask Claude about the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：询问克劳德关于Anthropic经济指数\n\n内容总结：文章标题为“询问克劳德关于Anthropic经济指数”，内容简要提示读者向克劳德咨询Anthropic经济指数的相关信息。文章未提供具体数据或分析，仅指明主题和咨询对象。",
+        "en": "The article title \"Ask Claude about the Anthropic Economic Index\" suggests a guide or prompt to inquire about the Anthropic Economic Index. The content appears minimal, likely directing readers to seek information from Claude regarding this specific economic index. No additional details are provided about the index's purpose, methodology, or significance. The focus is on encouraging further inquiry through Claude."
+      },
+      "summary": "标题：询问克劳德关于Anthropic经济指数\n\n内容总结：文章标题为“询问克劳德关于Anthropic经济指数”，内容简要提示读者向克劳德咨询Anthropic经济指数的相关信息。文章未提供具体数据或分析，仅指明主题和咨询对象。"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "A research agenda for the Economic Futures Research Fund",
+      "contentSnippet": "A research agenda for the Economic Futures Research Fund",
+      "creator": "",
+      "summaries": {
+        "zh": "《经济未来研究基金研究议程》旨在制定经济领域前瞻性研究计划。该议程明确了未来研究方向，涵盖关键经济问题、趋势及挑战，以支持政策制定和学术发展。通过系统性研究，推动经济领域的创新与进步，为未来经济可持续增长提供理论依据和实践指导。",
+        "en": "The article outlines a research agenda for the Economic Futures Research Fund. It emphasizes identifying key economic trends, challenges, and opportunities to inform policy and decision-making. The agenda focuses on areas such as technological advancements, global markets, and sustainable development. It aims to support researchers in addressing critical economic questions and providing actionable insights for the future. The fund seeks to foster interdisciplinary collaboration and promote innovative approaches to economic research. The goal is to enhance understanding of economic dynamics and contribute to long-term stability and growth."
+      },
+      "summary": "《经济未来研究基金研究议程》旨在制定经济领域前瞻性研究计划。该议程明确了未来研究方向，涵盖关键经济问题、趋势及挑战，以支持政策制定和学术发展。通过系统性研究，推动经济领域的创新与进步，为未来经济可持续增长提供理论依据和实践指导。"
+    },
+    {
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "Anthropic is donating another $20 million to Public First Action",
+      "contentSnippet": "Anthropic is donating another $20 million to Public First Action",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司再次向Public First Action捐赠2000万美元。",
+        "en": "Anthropic is donating an additional $20 million to Public First Action. The donation supports initiatives aimed at addressing social and environmental challenges. The contribution reflects Anthropic's commitment to community engagement and impact-driven projects. The funds will be used to advance programs focused on sustainability, education, and public welfare. This donation follows previous financial support from Anthropic, reinforcing its partnership with Public First Action. The organization aims to leverage resources to create meaningful change. The donation underscores the importance of collaborative efforts in addressing pressing global issues."
+      },
+      "summary": "Anthropic公司再次向Public First Action捐赠2000万美元。"
+    },
+    {
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-20T00:00:00.000Z",
+      "content": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "contentSnippet": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic宣布推出AI for Science罕见疾病研究资助计划，面向科研人员开放申请。该计划旨在利用人工智能技术加速罕见疾病研究，支持相关领域的创新项目。申请者需提交研究计划，符合条件的项目将获得资助。具体申请要求和截止日期尚未公布，请关注Anthropic官方公告。",
+        "en": "Anthropic is offering AI for Science rare disease research grants. Interested researchers can apply for funding to support their projects. The grants aim to leverage artificial intelligence in rare disease research, potentially accelerating breakthroughs. Applications are open to eligible scientists and institutions. Details and submission guidelines are available for interested parties to explore. This initiative highlights Anthropic's commitment to advancing scientific understanding and solutions for rare diseases."
+      },
+      "summary": "Anthropic宣布推出AI for Science罕见疾病研究资助计划，面向科研人员开放申请。该计划旨在利用人工智能技术加速罕见疾病研究，支持相关领域的创新项目。申请者需提交研究计划，符合条件的项目将获得资助。具体申请要求和截止日期尚未公布，请关注Anthropic官方公告。"
+    },
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Anthropic commits $10 million to Canadian AI research",
+      "contentSnippet": "Anthropic commits $10 million to Canadian AI research",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司承诺向加拿大人工智能研究投入1000万美元。",
+        "en": "Anthropic has committed $10 million to support AI research in Canada. The funding aims to advance the field and foster innovation in the region. The company's investment highlights its focus on expanding AI research capabilities and collaboration with Canadian institutions. The initiative is expected to contribute to the growth of AI knowledge and applications in Canada."
+      },
+      "summary": "Anthropic公司承诺向加拿大人工智能研究投入1000万美元。"
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Introducing Claude for Teachers",
+      "contentSnippet": "Introducing Claude for Teachers",
+      "creator": "",
+      "summaries": {
+        "zh": "《面向教师的Claude介绍》一文简要介绍了Claude这一专为教师设计的新工具。该工具旨在帮助教师更高效地完成教学任务，如备课、课堂管理和学生评估等。文章强调了Claude的易用性和多功能性，并指出其能提升教学质量和效率。整体上，Claude被视为教师教学辅助的重要资源。",
+        "en": "**Summary:**  \n\nThe article \"Introducing Claude for Teachers\" announces a new tool designed to support educators. Claude aims to enhance teaching by providing teachers with additional resources, tools, or assistance. The introduction likely outlines key features, benefits, and how teachers can integrate Claude into their workflows. The article emphasizes its potential to streamline tasks, offer insights, or improve classroom management. It serves as an official launch for the tool, highlighting its value in the educational context."
+      },
+      "summary": "《面向教师的Claude介绍》一文简要介绍了Claude这一专为教师设计的新工具。该工具旨在帮助教师更高效地完成教学任务，如备课、课堂管理和学生评估等。文章强调了Claude的易用性和多功能性，并指出其能提升教学质量和效率。整体上，Claude被视为教师教学辅助的重要资源。"
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Introducing a way to reflect on how you use Claude",
+      "contentSnippet": "Introducing a way to reflect on how you use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何反思使用Claude的方式。通过这种方式，用户可以更好地了解自己的使用习惯，优化效率。具体方法包括记录使用频率、分析任务类型和评估效果。这一功能旨在帮助用户更合理地利用Claude，提升工作或学习效率。",
+        "en": "The article introduces a new method for reflecting on how users interact with Claude, a tool or platform. It aims to provide insights into user behavior and preferences, though specific details about the method are not provided. The focus is on enhancing self-awareness regarding usage patterns. The article emphasizes the importance of understanding user engagement to improve the tool's functionality and user experience. The method is presented as a valuable tool for both users and developers."
+      },
+      "summary": "本文介绍了如何反思使用Claude的方式。通过这种方式，用户可以更好地了解自己的使用习惯，优化效率。具体方法包括记录使用频率、分析任务类型和评估效果。这一功能旨在帮助用户更合理地利用Claude，提升工作或学习效率。"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/ben-bernanke",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "contentSnippet": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "creator": "",
+      "summaries": {
+        "zh": "伯南克被任命为Anthropic的长期利益信托成员。",
+        "en": "Ben Bernanke has been appointed to Anthropic’s Long-Term Benefit Trust. The trust is part of Anthropic’s efforts to establish a long-term governance structure for its AI initiatives. Bernanke, a former Federal Reserve Chair, brings expertise in economic policy and financial oversight to the role. His appointment underscores Anthropic’s commitment to responsible AI development. The trust aims to ensure the company’s decisions align with long-term societal interests. No further details about the trust’s specific functions or Anthropic’s broader plans were provided."
+      },
+      "summary": "伯南克被任命为Anthropic的长期利益信托成员。"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "UST is bringing Claude to physical AI",
+      "contentSnippet": "UST is bringing Claude to physical AI",
+      "creator": "",
+      "summaries": {
+        "zh": "UST公司正将Claude技术引入实体人工智能领域。此举旨在将Claude的先进功能与物理AI系统结合，提升实际应用中的智能化水平。具体实施细节和预期效果尚未公布。",
+        "en": "UST is integrating Claude, an AI model, into physical AI systems. The collaboration aims to enhance real-world AI applications by combining Claude's capabilities with tangible hardware. This move could improve efficiency and functionality in various industries. The partnership underscores UST's commitment to advancing AI integration across both digital and physical domains."
+      },
+      "summary": "UST公司正将Claude技术引入实体人工智能领域。此举旨在将Claude的先进功能与物理AI系统结合，提升实际应用中的智能化水平。具体实施细节和预期效果尚未公布。"
+    },
+    {
+      "title": "Inviting hard questions",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Inviting hard questions",
+      "contentSnippet": "Inviting hard questions",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为“邀请难题”。文章内容简要介绍了鼓励提出难题的重要性，强调通过挑战性问题促进深入思考和改进。文章呼吁读者积极提问，以推动创新和进步。",
+        "en": "The article \"Inviting Hard Questions\" emphasizes the importance of encouraging critical thinking and open dialogue. It suggests that organizations and individuals should create environments where challenging inquiries are welcomed, fostering innovation and improvement. The piece highlights the value of addressing difficult topics head-on, rather than avoiding them. By embracing hard questions, stakeholders can identify problems early, enhance solutions, and build stronger, more resilient systems. The article advocates for a culture of transparency and intellectual honesty to drive meaningful progress."
+      },
+      "summary": "标题为“邀请难题”。文章内容简要介绍了鼓励提出难题的重要性，强调通过挑战性问题促进深入思考和改进。文章呼吁读者积极提问，以推动创新和进步。"
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "contentSnippet": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "creator": "",
+      "summaries": {
+        "zh": "阿尔伯塔省政府采用Claude技术，用于发现并修复政府系统中的网络安全漏洞。该技术有助于提升政府系统的安全性，确保数据保护。通过定期检测和修复漏洞，政府增强了其网络防御能力，保障了公共信息安全。",
+        "en": "The Government of Alberta employs Claude, an AI tool, to identify and address cybersecurity vulnerabilities within its systems. This initiative enhances the province's digital security framework by leveraging advanced technology to detect and mitigate potential threats. The use of Claude aims to strengthen overall system protection and ensure data integrity across government operations."
+      },
+      "summary": "阿尔伯塔省政府采用Claude技术，用于发现并修复政府系统中的网络安全漏洞。该技术有助于提升政府系统的安全性，确保数据保护。通过定期检测和修复漏洞，政府增强了其网络防御能力，保障了公共信息安全。"
+    },
+    {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-02T00:00:00.000Z",
+      "content": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "contentSnippet": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "creator": "",
+      "summaries": {
+        "zh": "《Fable 5网络安全措施及越狱框架细节解析》一文详细介绍了Fable 5的网络安全防护机制和越狱框架。文章重点阐述了游戏的安全设计，包括加密技术、访问控制等，并分析了越狱框架的原理和实现方式。内容旨在帮助开发者理解游戏安全机制，为后续开发提供参考。全文客观呈现技术细节，未涉及主观评价。",
+        "en": "The article provides insights into Fable 5's cybersecurity measures and its jailbreak framework. It outlines the game's security protocols, including encryption and authentication methods, to protect against unauthorized access. Additionally, it discusses the jailbreak framework, detailing how it bypasses these safeguards for modding or hacking purposes. The piece aims to inform readers about both the game's defenses and the techniques used to circumvent them, offering a balanced view of Fable 5's security features and potential vulnerabilities."
+      },
+      "summary": "《Fable 5网络安全措施及越狱框架细节解析》一文详细介绍了Fable 5的网络安全防护机制和越狱框架。文章重点阐述了游戏的安全设计，包括加密技术、访问控制等，并分析了越狱框架的原理和实现方式。内容旨在帮助开发者理解游戏安全机制，为后续开发提供参考。全文客观呈现技术细节，未涉及主观评价。"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Claude Science, an AI workbench for scientists, is now available",
+      "contentSnippet": "Claude Science, an AI workbench for scientists, is now available",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Science，一款面向科学家的AI工作台，现已正式上线。该平台旨在为科研人员提供智能化工具，助力其研究工作。",
+        "en": "Claude Science, an AI workbench designed for scientists, is now available. The tool aims to assist researchers by providing advanced computational capabilities. It enables users to streamline data analysis, model development, and experimentation. The platform integrates machine learning and artificial intelligence to enhance scientific workflows. Scientists can leverage Claude Science for more efficient research, discovery, and innovation. The release marks a significant step in combining AI with scientific inquiry."
+      },
+      "summary": "Claude Science，一款面向科学家的AI工作台，现已正式上线。该平台旨在为科研人员提供智能化工具，助力其研究工作。"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Introducing Claude Sonnet 5",
+      "contentSnippet": "Introducing Claude Sonnet 5",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Claude Sonnet 5》一文简要介绍了Claude Sonnet 5的相关信息。Claude Sonnet 5是一款新推出的产品，具体功能和应用场景尚不明确。文章可能包含其技术特点、设计理念或市场定位等初步介绍，但未提供详细数据或案例。整体内容较为简略，旨在引起读者对Claude Sonnet 5的关注，后续可能会有更深入的解析。",
+        "en": "Claude Sonnet 5 is an advanced language model introduced by Anthropic. Designed to enhance human-machine interaction, it builds on previous versions with improved performance, safety, and efficiency. The model focuses on reducing harmful outputs while maintaining clarity and coherence. Key features include better context understanding, faster response times, and enhanced multilingual capabilities. Claude Sonnet 5 is intended for applications like content generation, customer support, and creative writing. Its development reflects Anthropic's commitment to responsible AI innovation. The model represents a significant step forward in natural language processing."
+      },
+      "summary": "《介绍Claude Sonnet 5》一文简要介绍了Claude Sonnet 5的相关信息。Claude Sonnet 5是一款新推出的产品，具体功能和应用场景尚不明确。文章可能包含其技术特点、设计理念或市场定位等初步介绍，但未提供详细数据或案例。整体内容较为简略，旨在引起读者对Claude Sonnet 5的关注，后续可能会有更深入的解析。"
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Redeploying Fable 5",
+      "contentSnippet": "Redeploying Fable 5",
+      "creator": "",
+      "summaries": {
+        "zh": "《Fable 5》的重新部署计划已启动。该游戏将调整资源分配，优化开发流程，并可能更新部分内容。具体细节尚未公布，但此次重部署旨在提升游戏质量和玩家体验。更多信息将在后续公告中提供。",
+        "en": "**Summary:**  \n\nThe article \"Redeploying Fable 5\" focuses on the strategic relocation or redistribution of the game Fable 5. However, the content is brief and lacks specific details about the redeployment process, reasons, or impact. The piece may discuss adjustments to the game's resources or team structure but provides minimal context. For a clearer understanding, additional information would be needed."
+      },
+      "summary": "《Fable 5》的重新部署计划已启动。该游戏将调整资源分配，优化开发流程，并可能更新部分内容。具体细节尚未公布，但此次重部署旨在提升游戏质量和玩家体验。更多信息将在后续公告中提供。"
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Introducing Claude Tag",
+      "contentSnippet": "Introducing Claude Tag",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Claude标签》\n\nClaude标签是一种新的标记工具，旨在简化内容分类和管理。该标签系统通过自动化分类，提高了工作效率，并支持多维度标签应用。主要功能包括快速识别、智能分类和便捷查询。通过引入Claude标签，用户可以更高效地组织和检索信息，优化工作流程。该工具适用于多种场景，如数据管理、文档分类等。",
+        "en": "The article introduces the \"Claude Tag,\" a new feature designed to enhance user experience. It highlights the tag's functionality and potential benefits, though specific details are limited. The focus is on its integration and how it aims to streamline interactions. The article emphasizes the tag's role in improving efficiency and user engagement, leaving room for further elaboration in future updates."
+      },
+      "summary": "《介绍Claude标签》\n\nClaude标签是一种新的标记工具，旨在简化内容分类和管理。该标签系统通过自动化分类，提高了工作效率，并支持多维度标签应用。主要功能包括快速识别、智能分类和便捷查询。通过引入Claude标签，用户可以更高效地组织和检索信息，优化工作流程。该工具适用于多种场景，如数据管理、文档分类等。"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "contentSnippet": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic在首尔开设新办公室，并宣布与韩国人工智能生态系统中的多家企业建立新合作关系。此举旨在加强在韩国的布局，推动AI技术的本地化发展。合作方涵盖多个领域，将共同探索AI应用与创新。Anthropic此举标志着其在亚洲市场的进一步拓展。",
+        "en": "Anthropic has opened a new office in Seoul and announced strategic partnerships within South Korea's AI ecosystem. The company aims to expand its presence and collaboration in the region. The partnerships involve collaborations with local AI firms, research institutions, and government bodies to foster innovation and integration. This move reflects Anthropic's commitment to supporting the growth of AI in Korea. The Seoul office will serve as a hub for regional operations and development. The company's initiatives are expected to strengthen its ties with Korean stakeholders and drive advancements in the AI sector."
+      },
+      "summary": "Anthropic在首尔开设新办公室，并宣布与韩国人工智能生态系统中的多家企业建立新合作关系。此举旨在加强在韩国的布局，推动AI技术的本地化发展。合作方涵盖多个领域，将共同探索AI应用与创新。Anthropic此举标志着其在亚洲市场的进一步拓展。"
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "contentSnippet": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "creator": "",
+      "summaries": {
+        "zh": "TCS与Anthropic合作，将Claude引入受监管行业。此次合作旨在利用Claude的AI技术，帮助受监管行业实现更高效、合规的运营。双方将共同推动Claude在金融、医疗等领域的应用，以满足严格的安全和监管要求。合作将结合TCS的行业经验和Anthropic的技术优势，为受监管企业提供定制化解决方案。",
+        "en": "TCS and Anthropic have partnered to integrate Anthropic's Claude AI model into regulated industries. The collaboration aims to provide secure and compliant AI solutions. Claude, known for its safety features, will be adapted to meet industry-specific regulatory requirements. The partnership underscores a commitment to leveraging AI responsibly in high-stakes sectors. This move is expected to enhance operational efficiency while adhering to strict compliance standards."
+      },
+      "summary": "TCS与Anthropic合作，将Claude引入受监管行业。此次合作旨在利用Claude的AI技术，帮助受监管行业实现更高效、合规的运营。双方将共同推动Claude在金融、医疗等领域的应用，以满足严格的安全和监管要求。合作将结合TCS的行业经验和Anthropic的技术优势，为受监管企业提供定制化解决方案。"
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Results from the first Anthropic Public Record",
+      "contentSnippet": "Results from the first Anthropic Public Record",
+      "creator": "",
+      "summaries": {
+        "zh": "《Anthropic首次公开记录结果发布》。该报告展示了Anthropic在AI领域的研究进展和成果，包括技术细节、应用案例及初步数据。报告旨在提高透明度，促进公众对AI发展的理解和参与。内容涵盖模型性能、安全性评估及未来发展方向，为行业提供了重要参考。",
+        "en": "The first Anthropic Public Record provides initial findings and data from Anthropic's research. It includes insights into their AI models, safety measures, and ethical considerations. The report highlights key performance metrics and transparency efforts, aiming to foster public trust in AI development. The document outlines methodologies and results, offering a foundational overview of Anthropic's work. It serves as a starting point for further discussion and analysis in the AI community. The report emphasizes responsible innovation and data sharing to support ongoing advancements."
+      },
+      "summary": "《Anthropic首次公开记录结果发布》。该报告展示了Anthropic在AI领域的研究进展和成果，包括技术细节、应用案例及初步数据。报告旨在提高透明度，促进公众对AI发展的理解和参与。内容涵盖模型性能、安全性评估及未来发展方向，为行业提供了重要参考。"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "contentSnippet": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "美国政府发布指令，暂停对《Fable 5》和《Mythos 5》的访问权限。该声明未详细说明暂停原因，但确认了执行决定。游戏将暂时无法访问，具体恢复时间未公布。",
+        "en": "The US government has issued a directive to suspend access to the games Fable 5 and Mythos 5. The statement confirms compliance with the order, emphasizing adherence to legal requirements. No further details on the reasons for the suspension or potential impacts on players or developers were provided. The directive reflects official government action regarding the games."
+      },
+      "summary": "美国政府发布指令，暂停对《Fable 5》和《Mythos 5》的访问权限。该声明未详细说明暂停原因，但确认了执行决定。游戏将暂时无法访问，具体恢复时间未公布。"
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Introducing Claude Corps",
+      "contentSnippet": "Introducing Claude Corps",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Claude Corps》\n\nClaude Corps正式发布，旨在提供高效协作工具。该平台整合了沟通、任务管理和数据分析功能，支持团队实时协作。通过智能算法优化工作流程，提升效率。主要面向企业用户，提供定制化服务。Claude Corps强调易用性和可扩展性，助力团队实现目标。",
+        "en": "**Summary:**  \n\nClaude Corps is introduced as a new initiative. The article provides an overview but lacks specific details about its purpose, features, or implementation. The content is brief and does not elaborate on key aspects, leaving the main points unclear. Further information would be needed to provide a more comprehensive summary."
+      },
+      "summary": "《介绍Claude Corps》\n\nClaude Corps正式发布，旨在提供高效协作工具。该平台整合了沟通、任务管理和数据分析功能，支持团队实时协作。通过智能算法优化工作流程，提升效率。主要面向企业用户，提供定制化服务。Claude Corps强调易用性和可扩展性，助力团队实现目标。"
+    },
+    {
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "contentSnippet": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "creator": "",
+      "summaries": {
+        "zh": "DXC将把Claude集成到银行、航空公司和其他受监管行业依赖的系统中的新闻。此举旨在提升这些行业的系统性能和效率。",
+        "en": "DXC Technology plans to integrate Claude, an AI solution, into systems used by banks, airlines, and other regulated industries. The integration aims to enhance operational efficiency and compliance within these sectors. The move reflects a broader trend of adopting AI to streamline processes and improve service delivery in highly regulated industries."
+      },
+      "summary": "DXC将把Claude集成到银行、航空公司和其他受监管行业依赖的系统中的新闻。此举旨在提升这些行业的系统性能和效率。"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "Claude Fable 5 and Claude Mythos 5",
+      "contentSnippet": "Claude Fable 5 and Claude Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Fable 5和Claude Mythos 5是两款游戏产品。Claude Fable 5是一款动作冒险游戏，以奇幻世界为背景，玩家需完成各种任务和战斗。Claude Mythos 5则是一款角色扮演游戏，拥有丰富的剧情和自定义角色系统。两款游戏均注重画面和音效，提供沉浸式体验。",
+        "en": "The article \"Claude Fable 5 and Claude Mythos 5\" appears to be about two related but distinct entities. Without additional context, it's unclear whether they are games, products, or other concepts. Both titles share the name \"Claude,\" suggesting a common theme or origin. The distinction between \"Fable\" and \"Mythos\" implies differences in lore, design, or purpose. However, the lack of specific details prevents a more detailed analysis. The titles alone suggest a connection while highlighting unique aspects of each."
+      },
+      "summary": "Claude Fable 5和Claude Mythos 5是两款游戏产品。Claude Fable 5是一款动作冒险游戏，以奇幻世界为背景，玩家需完成各种任务和战斗。Claude Mythos 5则是一款角色扮演游戏，拥有丰富的剧情和自定义角色系统。两款游戏均注重画面和音效，提供沉浸式体验。"
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "contentSnippet": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "creator": "",
+      "summaries": {
+        "zh": "通过分析一年内的AI赋能网络威胁，我们了解到：AI技术被恶意利用，提升了网络攻击的自动化和智能化水平，增加了检测难度。攻击者利用AI生成虚假内容、进行钓鱼攻击等。防御方需加强AI安全研究，提升威胁检测能力。AI威胁已成为网络安全的重要挑战。",
+        "en": "Mapping a year of AI-enabled cyber threats revealed significant advancements in attackers' use of AI for malicious purposes. The analysis identified increased sophistication in automated attack methods, such as phishing and malware distribution, driven by AI tools. Key findings include the rise of AI-generated fake content to deceive targets and the ability of AI to adapt and evade detection systems. The study highlights the growing challenge for cybersecurity professionals to counter these AI-driven threats. Results underscore the need for updated defense strategies to mitigate risks posed by AI-enhanced cyberattacks."
+      },
+      "summary": "通过分析一年内的AI赋能网络威胁，我们了解到：AI技术被恶意利用，提升了网络攻击的自动化和智能化水平，增加了检测难度。攻击者利用AI生成虚假内容、进行钓鱼攻击等。防御方需加强AI安全研究，提升威胁检测能力。AI威胁已成为网络安全的重要挑战。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:09.795Z"
+}

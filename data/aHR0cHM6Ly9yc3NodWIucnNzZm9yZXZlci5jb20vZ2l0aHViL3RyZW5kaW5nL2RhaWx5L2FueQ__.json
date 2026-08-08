@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "PrimeIntellect-ai/prime-agent",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f25a6972ba1b2cdcf68e203443e1deed17b016c4b63cf18eaef1a0b116d7e591/PrimeIntellect-ai/prime-agent\" referrerpolicy=\"no-referrer\"><br>A self-improving RLM agent for coding workflows and long-running autonomous tasks.<br><br>Language: TypeScript<br>Stars: 8501<br>Forks: 747",
+      "contentSnippet": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.\nLanguage: TypeScript\nStars: 8501\nForks: 747",
+      "creator": "PrimeIntellect-ai",
+      "summaries": {
+        "zh": "PrimeIntellect-ai/prime-agent 是一款用于编码工作流程和长期自主任务的自我改进型 RLM 代理，使用 TypeScript 开发。该项目在 GitHub 上获得 5067 次星标和 405 次分叉。",
+        "en": "PrimeIntellect-ai/prime-agent is a self-improving Reinforcement Learning Model (RLM) agent designed for coding workflows and long-running autonomous tasks. It is implemented in TypeScript and has gained significant popularity with 5,067 stars and 405 forks on platforms like GitHub. The agent focuses on enhancing efficiency in coding environments and managing complex, ongoing operations autonomously. Its open-source nature and active community contribute to its utility in various technical applications."
+      },
+      "summary": "PrimeIntellect-ai/prime-agent 是一款用于编码工作流程和长期自主任务的自我改进型 RLM 代理，使用 TypeScript 开发。该项目在 GitHub 上获得 5067 次星标和 405 次分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ddf38b85177b020733c5e420f8a2ae079e2eb49e26c3c96cbdc637a42f6947b3/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 84425<br>Forks: 9032",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 84425\nForks: 9032",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上获得81766个星标和8807次分叉，显示了其受欢迎程度和实用性。",
+        "en": "The repository \"addyosmani/agent-skills\" provides production-ready engineering skills for AI coding agents, primarily using JavaScript. It has garnered significant popularity with 81,766 stars and 8,807 forks on its hosting platform. The content focuses on developing robust and efficient AI agents for coding tasks."
+      },
+      "summary": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上获得81766个星标和8807次分叉，显示了其受欢迎程度和实用性。"
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/39240ad6f4cce5e85b993c6c27de619b3e27b458e69e51be9336fd80a14b2a8e/TapXWorld/ChinaTextbook\" referrerpolicy=\"no-referrer\"><br>所有小初高、大学PDF教材。<br><br>Language: Roff<br>Stars: 77844<br>Forks: 17587",
+      "contentSnippet": "所有小初高、大学PDF教材。\nLanguage: Roff\nStars: 77844\nForks: 17587",
+      "creator": "TapXWorld",
+      "summaries": {
+        "zh": "该资源提供涵盖小学、初中、高中及大学的PDF教材，涵盖所有学科。用户可通过TapXWorld/ChinaTextbook平台获取。该资源评分77702，获得17549次分叉。",
+        "en": "TapXWorld/ChinaTextbook offers a comprehensive collection of PDF textbooks for all levels, including primary, middle, high school, and university. The resource has a high rating with 77,702 followers and 17,549 forks."
+      },
+      "summary": "该资源提供涵盖小学、初中、高中及大学的PDF教材，涵盖所有学科。用户可通过TapXWorld/ChinaTextbook平台获取。该资源评分77702，获得17549次分叉。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c4152333298790700dd989bd12e13f9a3cf13699b2e950334d5dcd0f5d16f0f/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 16631<br>Forks: 1324",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 16631\nForks: 1324",
+      "creator": "google",
+      "summaries": {
+        "zh": "该文章介绍Google产品和技术所需的代理技能，使用Python语言开发，获得15976个星标和1271次分叉。内容聚焦于相关技能要点，未提供具体技术细节。",
+        "en": "The article discusses \"Agent Skills for Google products and technologies,\" focusing on Python. It highlights a repository with 15,976 stars and 1,271 forks, indicating significant community interest and contribution. The content likely covers programming skills related to Google's tools and platforms, with Python being a key language. The article emphasizes practical applications and technical expertise in the Google ecosystem."
+      },
+      "summary": "该文章介绍Google产品和技术所需的代理技能，使用Python语言开发，获得15976个星标和1271次分叉。内容聚焦于相关技能要点，未提供具体技术细节。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/979252594dfe336eeb2224088069638fca35f83967d558ff30918533c57d337b/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 209831<br>Forks: 18134",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 209831\nForks: 18134",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真实工程师所需技能”的Shell脚本目录，来自作者的个人仓库。该目录语言为Shell，拥有205,989个星标和17,788次分叉。",
+        "en": "The article \"mattpocock/skills\" highlights essential engineering skills directly from the author's `.agents` directory. It is a Shell-based resource with 205,989 stars and 17,788 forks, indicating its popularity and utility in the engineering community. The content focuses on practical, real-world skills for engineers, presented in a straightforward manner."
+      },
+      "summary": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真实工程师所需技能”的Shell脚本目录，来自作者的个人仓库。该目录语言为Shell，拥有205,989个星标和17,788次分叉。"
+    },
+    {
+      "title": "goauthentik/authentik",
+      "link": "https://github.com/goauthentik/authentik",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/230885748/2f5e6cb2-20cd-4f6f-8f6f-08c7d02f7ffb\" referrerpolicy=\"no-referrer\"><br>The authentication glue you need.<br><br>Language: Python<br>Stars: 23920<br>Forks: 1830",
+      "contentSnippet": "The authentication glue you need.\nLanguage: Python\nStars: 23920\nForks: 1830",
+      "creator": "goauthentik",
+      "summaries": {
+        "zh": "goauthentik/authentik 是一款基于 Python 的身份验证工具，用于简化应用程序的身份验证流程。该工具拥有 22812 个星标和 1756 个分支，受到广泛使用。",
+        "en": "GoAuthentik (Authentik) is an open-source authentication solution written in Python. It serves as an \"authentication glue\" to integrate various identity providers and protocols. The project has 22,812 stars and 1,756 forks on its repository, indicating significant community interest and adoption. It provides a flexible framework for managing user authentication and authorization across different systems."
+      },
+      "summary": "goauthentik/authentik 是一款基于 Python 的身份验证工具，用于简化应用程序的身份验证流程。该工具拥有 22812 个星标和 1756 个分支，受到广泛使用。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 96358<br>Forks: 18640",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 96358\nForks: 18640",
+      "creator": "TauricResearch",
+      "summaries": {
+        "zh": "TauricResearch/TradingAgents是一个基于Python的多智能体LLM金融交易框架。该框架支持多智能体协作进行金融交易，目前获得96164个星标和18619次分叉，显示出较高的社区认可度。",
+        "en": "The article introduces \"TradingAgents,\" a multi-agent Large Language Model (LLM) framework for financial trading, developed in Python. It is designed to facilitate automated trading strategies using advanced AI. The project has gained significant popularity, with 96,164 stars and 18,619 forks on its repository. The framework leverages LLMs to optimize trading decisions and interactions."
+      },
+      "summary": "TauricResearch/TradingAgents是一个基于Python的多智能体LLM金融交易框架。该框架支持多智能体协作进行金融交易，目前获得96164个星标和18619次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "google/guava",
+      "link": "https://github.com/google/guava",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a20cc040f9d2c1ca2c54ae8a5163086bb3e75df57f8124a9b16c0a41626f781/google/guava\" referrerpolicy=\"no-referrer\"><br>Google core libraries for Java<br><br>Language: Java<br>Stars: 51832<br>Forks: 11179",
+      "contentSnippet": "Google core libraries for Java\nLanguage: Java\nStars: 51832\nForks: 11179",
+      "creator": "google",
+      "summaries": {
+        "zh": "谷歌核心Java库，包括Google Guava，提供丰富功能。该库在Java社区中广受欢迎，拥有51555颗星和11155个分支。",
+        "en": "The article discusses Google's core libraries for Java, including Google Guava. It highlights the library's popularity, with 51,555 stars and 11,155 forks on platforms like GitHub. The content focuses on the utility and functionality of these libraries for Java developers."
+      },
+      "summary": "谷歌核心Java库，包括Google Guava，提供丰富功能。该库在Java社区中广受欢迎，拥有51555颗星和11155个分支。"
+    },
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "link": "https://github.com/LadybirdBrowser/ladybird",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f29ad0a019bf0007096b3d59f73e2b4640334a36b006d39f74c78a91870c920c/LadybirdBrowser/ladybird\" referrerpolicy=\"no-referrer\"><br>Truly independent web browser<br><br>Language: C++<br>Stars: 64940<br>Forks: 3103",
+      "contentSnippet": "Truly independent web browser\nLanguage: C++\nStars: 64940\nForks: 3103",
+      "creator": "LadybirdBrowser",
+      "summaries": {
+        "zh": "LadybirdBrowser/ladybird是一款用C++编写的独立网页浏览器。该项目拥有64,869个星标和3,098次分叉，显示出一定的社区活跃度。",
+        "en": "LadybirdBrowser/ladybird is a truly independent web browser developed in C++. It has gained significant popularity, boasting 64,869 stars and 3,098 forks on its repository. The browser is designed as a standalone project, emphasizing autonomy and potentially offering unique features or performance optimizations compared to mainstream browsers. Its open-source nature and active community contribute to its growing adoption. The C++ implementation suggests a focus on efficiency and resource management."
+      },
+      "summary": "LadybirdBrowser/ladybird是一款用C++编写的独立网页浏览器。该项目拥有64,869个星标和3,098次分叉，显示出一定的社区活跃度。"
+    },
+    {
+      "title": "denoland/celld",
+      "link": "https://github.com/denoland/celld",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c2e6573a6848378f3ecb4dbf618f1f8335a3e86f2c48710f25b3ba9ad7ca213c/denoland/celld\" referrerpolicy=\"no-referrer\"><br>self-hosted, distributed Durable Objects<br><br>Language: Rust<br>Stars: 2497<br>Forks: 70",
+      "contentSnippet": "self-hosted, distributed Durable Objects\nLanguage: Rust\nStars: 2497\nForks: 70",
+      "creator": "denoland",
+      "summaries": {
+        "zh": "denoland/celld是一个自托管、分布式的持久对象语言，使用Rust编写。该项目目前有1927个星标和52个分支。",
+        "en": "The \"denoland/celld\" project is a self-hosted, distributed system for Durable Objects, written in Rust. It has 1,927 stars and 52 forks on its repository. The platform enables scalable, fault-tolerant storage and computation across distributed environments."
+      },
+      "summary": "denoland/celld是一个自托管、分布式的持久对象语言，使用Rust编写。该项目目前有1927个星标和52个分支。"
+    },
+    {
+      "title": "litu54/DevOps-Interview-Guide",
+      "link": "https://github.com/litu54/DevOps-Interview-Guide",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/549bb95eed45ad6e5210d914294860650cebe851a97ccd313cfd6cee3985c3c6/litu54/DevOps-Interview-Guide\" referrerpolicy=\"no-referrer\"><br> DevOps Interview Guide<br><br>Language: Unknown<br>Stars: 668<br>Forks: 875",
+      "contentSnippet": "DevOps Interview Guide\nLanguage: Unknown\nStars: 668\nForks: 875",
+      "creator": "litu54",
+      "summaries": {
+        "zh": "本文为DevOps面试指南，包含593个星标和853个分支，旨在帮助求职者准备DevOps相关面试。内容涵盖关键技能、常见问题及解决方案，但具体内容未提供。该指南为开发者提供了实用参考，有助于提升面试竞争力。",
+        "en": "The article \"litu54/DevOps-Interview-Guide\" is a DevOps interview guide. It has 593 stars and 853 forks on its repository. The guide likely covers key DevOps concepts, interview questions, and best practices to help candidates prepare for DevOps roles. The content is designed to be practical and informative for those seeking employment in the field."
+      },
+      "summary": "本文为DevOps面试指南，包含593个星标和853个分支，旨在帮助求职者准备DevOps相关面试。内容涵盖关键技能、常见问题及解决方案，但具体内容未提供。该指南为开发者提供了实用参考，有助于提升面试竞争力。"
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/895d16b4af05c495d45843da0d0b7e1e73803854269186e69b6b17e24acbc1a4/bannedbook/fanqiang\" referrerpolicy=\"no-referrer\"><br>翻墙-科学上网<br><br>Language: Kotlin<br>Stars: 49845<br>Forks: 8252",
+      "contentSnippet": "翻墙-科学上网\nLanguage: Kotlin\nStars: 49845\nForks: 8252",
+      "creator": "bannedbook",
+      "summaries": {
+        "zh": "文章标题为“翻墙-科学上网”，使用Kotlin语言开发，获得49709个星标和8235次分叉。该工具主要用于突破网络限制，实现科学上网功能。",
+        "en": "The article discusses \"翻墙\" (bannedbook/fanqiang), a tool for scientific internet access. It is written in Kotlin and has 49,709 stars and 8,235 forks on its repository. The content focuses on its functionality and popularity within the developer community."
+      },
+      "summary": "文章标题为“翻墙-科学上网”，使用Kotlin语言开发，获得49709个星标和8235次分叉。该工具主要用于突破网络限制，实现科学上网功能。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:21.981Z"
+}

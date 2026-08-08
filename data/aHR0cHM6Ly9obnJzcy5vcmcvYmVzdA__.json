@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "A domain can now say it is for sale, in DNS",
+      "link": "https://specification.website/spec/foundations/for-sale-dns/",
+      "pubDate": "Sat, 08 Aug 2026 13:26:51 +0000",
+      "isoDate": "2026-08-08T13:26:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://specification.website/spec/foundations/for-sale-dns/\">https://specification.website/spec/foundations/for-sale-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221668\">https://news.ycombinator.com/item?id=49221668</a></p>\n<p>Points: 228</p>\n<p># Comments: 101</p>\n",
+      "contentSnippet": "Article URL: https://specification.website/spec/foundations/for-sale-dns/\nComments URL: https://news.ycombinator.com/item?id=49221668\nPoints: 228\n# Comments: 101",
+      "creator": "shaunpud",
+      "summaries": {
+        "zh": "域名系统（DNS）现支持显示“出售”状态。新规范允许域名在DNS记录中添加特定标记，表明该域名正在出售。此举旨在提高域名交易透明度，方便买家和卖家直接在DNS查询中识别待售域名。该功能已获业界支持，并可通过标准DNS查询实现。",
+        "en": "A new standard allows domain names to indicate they are for sale directly in the Domain Name System (DNS) using a specific record type. This method provides a transparent way for buyers to identify available domains without relying on external websites or platforms. The change enhances market efficiency by integrating sale signals into the core DNS infrastructure. The specification is designed to be implemented across domain registrars and registries."
+      },
+      "summary": "域名系统（DNS）现支持显示“出售”状态。新规范允许域名在DNS记录中添加特定标记，表明该域名正在出售。此举旨在提高域名交易透明度，方便买家和卖家直接在DNS查询中识别待售域名。该功能已获业界支持，并可通过标准DNS查询实现。"
+    },
+    {
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "pubDate": "Sat, 08 Aug 2026 10:57:44 +0000",
+      "isoDate": "2026-08-08T10:57:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220609\">https://news.ycombinator.com/item?id=49220609</a></p>\n<p>Points: 214</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 214\n# Comments: 230",
+      "creator": "882542F3884314B",
+      "summaries": {
+        "zh": "文章《OpenAI意外攻击Hugging Face的时间线》记录了OpenAI与Hugging Face之间的一次意外冲突。事件起因于OpenAI的API调用被Hugging Face误判为恶意行为，导致Hugging Face的服务器被封锁。OpenAI随后承认错误并迅速修复，但冲突引发了关于API安全性和责任归属的讨论。双方最终达成和解，事件得到解决。",
+        "en": "The article details an accidental attack by OpenAI on Hugging Face, outlining a timeline of events. It begins with OpenAI's API error causing unintended data breaches, followed by Hugging Face's detection and response. The timeline includes OpenAI's acknowledgment, efforts to fix the issue, and communication with affected parties. The article highlights the technical causes and the steps taken to mitigate the impact, referencing discussions on platforms like Hacker News. (Word count: 100)"
+      },
+      "summary": "文章《OpenAI意外攻击Hugging Face的时间线》记录了OpenAI与Hugging Face之间的一次意外冲突。事件起因于OpenAI的API调用被Hugging Face误判为恶意行为，导致Hugging Face的服务器被封锁。OpenAI随后承认错误并迅速修复，但冲突引发了关于API安全性和责任归属的讨论。双方最终达成和解，事件得到解决。"
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Sat, 08 Aug 2026 09:18:50 +0000",
+      "isoDate": "2026-08-08T09:18:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\">https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220126\">https://news.ycombinator.com/item?id=49220126</a></p>\n<p>Points: 298</p>\n<p># Comments: 96</p>\n",
+      "contentSnippet": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49220126\nPoints: 298\n# Comments: 96",
+      "creator": "bhavansig",
+      "summaries": {
+        "zh": "DeepMind的WeatherNext模型在飓风预测方面取得突破。该模型利用AI技术显著提升了飓风路径和强度的预测精度，为气象预报提供了新的解决方案。",
+        "en": "DeepMind's WeatherNext model achieves breakthrough in cyclone forecasting using advanced AI. The model leverages large-scale weather data to predict cyclone paths and intensities with higher accuracy. By processing vast datasets, WeatherNext outperforms traditional methods, offering more precise forecasts. The breakthrough highlights AI's potential in improving weather prediction for better preparedness and safety. The model's success builds on DeepMind's expertise in machine learning and climate science."
+      },
+      "summary": "DeepMind的WeatherNext模型在飓风预测方面取得突破。该模型利用AI技术显著提升了飓风路径和强度的预测精度，为气象预报提供了新的解决方案。"
+    },
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "pubDate": "Sat, 08 Aug 2026 07:04:51 +0000",
+      "isoDate": "2026-08-08T07:04:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/rosenbridge\">https://github.com/xoreaxeaxeax/rosenbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49219508\">https://news.ycombinator.com/item?id=49219508</a></p>\n<p>Points: 283</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 283\n# Comments: 87",
+      "creator": "epestr",
+      "summaries": {
+        "zh": "某些x86 CPU存在硬件后门。该问题涉及硬件安全漏洞，可能被恶意利用。相关研究已公开，并引发关注。讨论帖位于Hacker News，有60条评论。",
+        "en": "Some x86 CPUs have been found to contain hardware backdoors, raising concerns about security vulnerabilities. The issue was identified through research and documented in a GitHub repository titled \"rosenbridge.\" The discovery sparked discussions on platforms like Hacker News, where 60 comments were generated regarding the potential risks and implications. The findings highlight the need for further investigation into hardware security and potential mitigation strategies."
+      },
+      "summary": "某些x86 CPU存在硬件后门。该问题涉及硬件安全漏洞，可能被恶意利用。相关研究已公开，并引发关注。讨论帖位于Hacker News，有60条评论。"
+    },
+    {
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "pubDate": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "isoDate": "2026-08-08T01:49:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218179\">https://news.ycombinator.com/item?id=49218179</a></p>\n<p>Points: 335</p>\n<p># Comments: 76</p>\n",
+      "contentSnippet": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 335\n# Comments: 76",
+      "creator": "wglb",
+      "summaries": {
+        "zh": "美国宇航局（NASA）成功研发新方法，使年迈的“旅行者2号”探测器再运行一年。该探测器已飞行48年，新方案延长其寿命，继续执行探索任务。",
+        "en": "NASA has developed a solution to extend the operational life of its 48-year-old Voyager 2 probe by another year. The agency addressed technical challenges to ensure the spacecraft can continue its mission. Voyager 2, already the most distant human-made object, is still collecting data despite its age. The update will help maintain its communication and scientific instruments. The breakthrough ensures the probe remains functional for further exploration. No additional details were provided about the specific technical modifications."
+      },
+      "summary": "美国宇航局（NASA）成功研发新方法，使年迈的“旅行者2号”探测器再运行一年。该探测器已飞行48年，新方案延长其寿命，继续执行探索任务。"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "pubDate": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "isoDate": "2026-08-08T01:12:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 367</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 367\n# Comments: 191",
+      "creator": "Meleagris",
+      "summaries": {
+        "zh": "《Nixpkgs核心团队解散》一文报道，Nixpkgs核心团队已解散。该消息在NixOS论坛和Hacker News上引发讨论，总浏览量229，评论99条。具体原因未详细说明。",
+        "en": "The Nixpkgs core team has disbanded, as announced on the NixOS Discourse forum. The decision was made due to internal disagreements and a lack of consensus on project direction. The team's disbandment marks a significant shift for the NixOS project, which relies on Nixpkgs for its package management system. The news has generated discussions online, with 99 comments and 229 points on platforms like Hacker News. The future of Nixpkgs remains uncertain as the community seeks a new leadership structure."
+      },
+      "summary": "《Nixpkgs核心团队解散》一文报道，Nixpkgs核心团队已解散。该消息在NixOS论坛和Hacker News上引发讨论，总浏览量229，评论99条。具体原因未详细说明。"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "pubDate": "Fri, 07 Aug 2026 22:24:27 +0000",
+      "isoDate": "2026-08-07T22:24:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 324</p>\n<p># Comments: 134</p>\n",
+      "contentSnippet": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 324\n# Comments: 134",
+      "creator": "moelf",
+      "summaries": {
+        "zh": "美国能源部启动“Genesis开源模型计划”，旨在推动能源领域的人工智能模型开放合作。该项目提供模型训练资源和平台，促进技术创新。官网为https://genesisopenmodels.anl.gov/，评论区位于https://news.ycombinator.com/item?id=49216946，目前有194个点赞和66条评论。",
+        "en": "The U.S. Department of Energy has launched the Genesis Open Models Initiative, an open-source platform for high-performance computing and data science. The initiative aims to accelerate scientific discovery by providing researchers with access to advanced computational resources and tools. It includes a user-friendly interface, community-driven development, and support for diverse research projects. The platform is designed to foster collaboration and innovation across various scientific fields. For more details, visit https://genesisopenmodels.anl.gov/. (66 comments)"
+      },
+      "summary": "美国能源部启动“Genesis开源模型计划”，旨在推动能源领域的人工智能模型开放合作。该项目提供模型训练资源和平台，促进技术创新。官网为https://genesisopenmodels.anl.gov/，评论区位于https://news.ycombinator.com/item?id=49216946，目前有194个点赞和66条评论。"
+    },
+    {
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "pubDate": "Fri, 07 Aug 2026 21:19:57 +0000",
+      "isoDate": "2026-08-07T21:19:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 234</p>\n<p># Comments: 150</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 234\n# Comments: 150",
+      "creator": "Bender",
+      "summaries": {
+        "zh": "前国安局负责人表示，水务系统控制器不应接入互联网，称此举或因伊朗涉嫌网络攻击。他认为，此类关键基础设施设备的安全风险过高，易受网络攻击。该观点引发关注，相关讨论活跃。",
+        "en": "An ex-NSA chief warns that water system controllers should not be connected to the internet due to security risks, following suspected Iranian attacks targeting such systems. The statement highlights the vulnerability of critical infrastructure to cyber threats. The article discusses the potential consequences of such breaches and the need for better cybersecurity measures for industrial control systems. (99 words)"
+      },
+      "summary": "前国安局负责人表示，水务系统控制器不应接入互联网，称此举或因伊朗涉嫌网络攻击。他认为，此类关键基础设施设备的安全风险过高，易受网络攻击。该观点引发关注，相关讨论活跃。"
+    },
+    {
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "pubDate": "Fri, 07 Aug 2026 18:59:08 +0000",
+      "isoDate": "2026-08-07T18:59:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214863\">https://news.ycombinator.com/item?id=49214863</a></p>\n<p>Points: 333</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 333\n# Comments: 212",
+      "creator": "_da_",
+      "summaries": {
+        "zh": "《App Store本周拒绝应用：Dark Hours》。该应用因违反商店规定被拒。具体原因未公布，引发开发者讨论。相关讨论在Hacker News上获得关注，评论数达102条。",
+        "en": "The App Store rejected \"Dark Hours,\" an app described as a \"simple, dark-themed clock app.\" The rejection cited issues with the app's design, labeling it as \"too dark\" and potentially confusing users. The developer argued the theme was intentional and not meant to mislead, but Apple maintained the decision. The rejection sparked discussion online, with users and developers weighing in on Apple's guidelines. The case highlights ongoing debates about design flexibility and store policies. (98 words)"
+      },
+      "summary": "《App Store本周拒绝应用：Dark Hours》。该应用因违反商店规定被拒。具体原因未公布，引发开发者讨论。相关讨论在Hacker News上获得关注，评论数达102条。"
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "pubDate": "Fri, 07 Aug 2026 18:51:14 +0000",
+      "isoDate": "2026-08-07T18:51:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=49214770</a></p>\n<p>Points: 244</p>\n<p># Comments: 77</p>\n",
+      "contentSnippet": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 244\n# Comments: 77",
+      "creator": "aagha",
+      "summaries": {
+        "zh": "《古代图书馆》网站收录了1060份希腊/拉丁文献，用户可通过点击任意文字进行解析。网站提供丰富的古典文献资源，便于学术研究和文本分析。评论区有65条讨论，总点赞数206。",
+        "en": "The Ancient Library website offers 1,060 Greek and Latin texts, allowing users to click on any word for parsing. The site provides access to classical literature and is linked to a discussion on Hacker News with 206 points and 65 comments."
+      },
+      "summary": "《古代图书馆》网站收录了1060份希腊/拉丁文献，用户可通过点击任意文字进行解析。网站提供丰富的古典文献资源，便于学术研究和文本分析。评论区有65条讨论，总点赞数206。"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "pubDate": "Fri, 07 Aug 2026 18:25:17 +0000",
+      "isoDate": "2026-08-07T18:25:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.databricks.com/blog/managing-ai-coding-costs-scale\">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214468\">https://news.ycombinator.com/item?id=49214468</a></p>\n<p>Points: 290</p>\n<p># Comments: 248</p>\n",
+      "contentSnippet": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 290\n# Comments: 248",
+      "creator": "moonikakiss",
+      "summaries": {
+        "zh": "本文探讨了如何在规模化管理AI编码成本。文章建议通过优化资源分配、采用自动化工具和精细化管理策略来降低成本。同时，强调了监控和调整预算的重要性，以确保高效利用资金。整体上，文章提供了实用的成本控制方法，帮助企业在AI项目中实现经济效益。",
+        "en": "The article \"Managing AI Coding Costs at Scale\" discusses strategies for controlling expenses related to AI development. It emphasizes optimizing resource usage, automating processes, and leveraging cloud-native tools to reduce costs without compromising efficiency. The piece highlights the importance of scalable solutions for managing growing AI projects."
+      },
+      "summary": "本文探讨了如何在规模化管理AI编码成本。文章建议通过优化资源分配、采用自动化工具和精细化管理策略来降低成本。同时，强调了监控和调整预算的重要性，以确保高效利用资金。整体上，文章提供了实用的成本控制方法，帮助企业在AI项目中实现经济效益。"
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "pubDate": "Fri, 07 Aug 2026 18:01:30 +0000",
+      "isoDate": "2026-08-07T18:01:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 397</p>\n<p># Comments: 97</p>\n",
+      "contentSnippet": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 397\n# Comments: 97",
+      "creator": "piotrgrabowski",
+      "summaries": {
+        "zh": "标题为《耻辱大厅》的汇编内容，是一个收集不良软件或代码的公开项目。该项目在Hacker News上获得188点支持，并附有42条评论。具体链接可在GitHub和Hacker News上查看。",
+        "en": "The \"Assembly Hall of Shame\" is a GitHub repository featuring examples of poorly written Assembly code. The project aims to highlight common mistakes and poor practices in Assembly programming. It includes 188 points and 42 comments, indicating community engagement and interest in improving Assembly code quality. The repository serves as a resource for developers to learn from errors and enhance their Assembly coding skills."
+      },
+      "summary": "标题为《耻辱大厅》的汇编内容，是一个收集不良软件或代码的公开项目。该项目在Hacker News上获得188点支持，并附有42条评论。具体链接可在GitHub和Hacker News上查看。"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "pubDate": "Fri, 07 Aug 2026 17:56:20 +0000",
+      "isoDate": "2026-08-07T17:56:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arcprize.org/results/deepseek-v4-flash-0731\">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214008\">https://news.ycombinator.com/item?id=49214008</a></p>\n<p>Points: 730</p>\n<p># Comments: 441</p>\n",
+      "contentSnippet": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 730\n# Comments: 441",
+      "creator": "tosh",
+      "summaries": {
+        "zh": "DeepSeek V4 Flash 0731在ARC Prize中取得优异成绩，获得233点评分，并引发149条评论讨论。该模型表现突出，受到广泛关注。具体详情可参考相关链接。",
+        "en": "The article discusses DeepSeek V4 Flash 0731, a model from the ARC Prize, with 233 points and 149 comments. The content focuses on its performance and features. For more details, see the [article](https://arcprize.org/results/deepseek-v4-flash-0731) and [comments](https://news.ycombinator.com/item?id=49214008)."
+      },
+      "summary": "DeepSeek V4 Flash 0731在ARC Prize中取得优异成绩，获得233点评分，并引发149条评论讨论。该模型表现突出，受到广泛关注。具体详情可参考相关链接。"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "pubDate": "Fri, 07 Aug 2026 17:36:30 +0000",
+      "isoDate": "2026-08-07T17:36:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 506</p>\n<p># Comments: 368</p>\n",
+      "contentSnippet": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 506\n# Comments: 368",
+      "creator": "delduca",
+      "summaries": {
+        "zh": "甲骨文公司宣布禁止在OpenJDK项目中使用AI生成的代码，尽管CEO埃里森声称甲骨文并未自行编写代码。此举旨在维护代码质量和原创性，但引发行业讨论。相关新闻和评论可见链接。",
+        "en": "Oracle has banned AI-generated code from OpenJDK, its open-source Java development platform, despite CEO Larry Ellison's claim that the company isn't writing its own code. The decision aims to maintain code quality and originality. The ban follows concerns about the use of AI tools in open-source projects. The news has sparked discussion in tech communities, with 150 comments on platforms like Hacker News. The article highlights Oracle's stance on AI-generated contributions to OpenJDK."
+      },
+      "summary": "甲骨文公司宣布禁止在OpenJDK项目中使用AI生成的代码，尽管CEO埃里森声称甲骨文并未自行编写代码。此举旨在维护代码质量和原创性，但引发行业讨论。相关新闻和评论可见链接。"
+    },
+    {
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "link": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+      "pubDate": "Fri, 07 Aug 2026 14:55:08 +0000",
+      "isoDate": "2026-08-07T14:55:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=UufMqwyO7pY\">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211438\">https://news.ycombinator.com/item?id=49211438</a></p>\n<p>Points: 207</p>\n<p># Comments: 61</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=UufMqwyO7pY\nComments URL: https://news.ycombinator.com/item?id=49211438\nPoints: 207\n# Comments: 61",
+      "creator": "Bender",
+      "summaries": {
+        "zh": "2026年7月25日，格陵兰伊卢利萨特地区发生冰山坍塌并翻转事件，视频记录了该过程。相关讨论及视频链接见YouTube和Hacker News，评论区有60条留言。",
+        "en": "An iceberg collapses and flips over in Ilulissat, Greenland, on July 25, 2026. The event was captured on video. The incident is part of ongoing glacial activity in the region. Comments and discussions about the footage are available on YouTube and Hacker News."
+      },
+      "summary": "2026年7月25日，格陵兰伊卢利萨特地区发生冰山坍塌并翻转事件，视频记录了该过程。相关讨论及视频链接见YouTube和Hacker News，评论区有60条留言。"
+    },
+    {
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "pubDate": "Fri, 07 Aug 2026 14:51:57 +0000",
+      "isoDate": "2026-08-07T14:51:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 436</p>\n<p># Comments: 407</p>\n",
+      "contentSnippet": "Article URL: https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\nComments URL: https://news.ycombinator.com/item?id=49211386\nPoints: 436\n# Comments: 407",
+      "creator": "petercooper",
+      "summaries": {
+        "zh": "标题为《我的网站流量有99%是机器人》。文章指出，作者发现其网站流量中99%来自机器人，而非真实用户。这一发现引发了对网站流量真实性的讨论。评论区有249条留言，讨论了机器人流量来源及应对方法。",
+        "en": "The article discusses a website owner's discovery that 99% of their traffic consists of bots. The owner attributes this high bot traffic to potential scraping activities, noting that the bots are not engaging with the content. The article highlights the challenge of distinguishing between genuine user traffic and automated bots, emphasizing the need for better monitoring and mitigation strategies. The discussion also touches on the impact of bot traffic on website analytics and performance. (99 words)"
+      },
+      "summary": "标题为《我的网站流量有99%是机器人》。文章指出，作者发现其网站流量中99%来自机器人，而非真实用户。这一发现引发了对网站流量真实性的讨论。评论区有249条留言，讨论了机器人流量来源及应对方法。"
+    },
+    {
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "pubDate": "Fri, 07 Aug 2026 12:42:58 +0000",
+      "isoDate": "2026-08-07T12:42:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138\">https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209546\">https://news.ycombinator.com/item?id=49209546</a></p>\n<p>Points: 349</p>\n<p># Comments: 349</p>\n",
+      "contentSnippet": "Article URL: https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138\nComments URL: https://news.ycombinator.com/item?id=49209546\nPoints: 349\n# Comments: 349",
+      "creator": "ceejayoz",
+      "summaries": {
+        "zh": "7月份美国经济突然失业23000人，出现意外逆转。",
+        "en": "The U.S. economy lost 23,000 jobs in July, marking a sudden reversal from previous growth trends. The report highlights a unexpected decline in employment, raising concerns about economic momentum. The data reflects broader challenges in the labor market, though the reasons for the drop remain under analysis. The report was published by NBC News, with additional discussion on platforms like Hacker News."
+      },
+      "summary": "7月份美国经济突然失业23000人，出现意外逆转。"
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "pubDate": "Fri, 07 Aug 2026 12:42:27 +0000",
+      "isoDate": "2026-08-07T12:42:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\">https://www.noemamag.com/why-is-everyone-in-tech-so-sad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209539\">https://news.ycombinator.com/item?id=49209539</a></p>\n<p>Points: 900</p>\n<p># Comments: 1066</p>\n",
+      "contentSnippet": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\nComments URL: https://news.ycombinator.com/item?id=49209539\nPoints: 900\n# Comments: 1066",
+      "creator": "RickJWagner",
+      "summaries": {
+        "zh": "文章探讨了整个职场群体对职业失去信心可能带来的后果。内容指出，当员工普遍对工作感到失望时，可能导致生产力下降、人才流失，甚至引发行业动荡。文章还分析了科技行业员工普遍情绪低落的原因，如工作压力、缺乏意义等。",
+        "en": "The article explores the consequences of a tech worker class losing faith in their careers, discussing burnout, disillusionment, and the potential impact on innovation. It highlights rising mental health issues and the search for meaningful work. The piece suggests systemic problems in the tech industry contribute to this decline, with employees questioning their long-term value. The article also touches on broader societal trends affecting job satisfaction in high-pressure industries. (98 words)"
+      },
+      "summary": "文章探讨了整个职场群体对职业失去信心可能带来的后果。内容指出，当员工普遍对工作感到失望时，可能导致生产力下降、人才流失，甚至引发行业动荡。文章还分析了科技行业员工普遍情绪低落的原因，如工作压力、缺乏意义等。"
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "link": "https://github.com/Wyzer-Lang/wyzer",
+      "pubDate": "Fri, 07 Aug 2026 12:28:55 +0000",
+      "isoDate": "2026-08-07T12:28:55.000Z",
+      "content": "\n<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209385\">https://news.ycombinator.com/item?id=49209385</a></p>\n<p>Points: 210</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well\nafter 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!\nComments URL: https://news.ycombinator.com/item?id=49209385\nPoints: 210\n# Comments: 109",
+      "creator": "v0id_isgood",
+      "summaries": {
+        "zh": "Wyzer是一种静态类型、编译型、面向资源的编程语言，通过编舞式编程和Perceus内存模型实现分布式安全。该项目旨在弥补Rust在分布式死锁、跨服务正确性和协议不匹配等方面的安全缺陷。Wyzer采用线性/仿射类型和Perceus引用计数，简化了内存管理。作者计划在5个月研究和几周开发后发布0.1.0版本，欢迎社区贡献。",
+        "en": "Wyzer is a statically typed, compiled, resource-oriented programming language designed to address distributed safety issues like deadlocks and protocol mismatches, which Rust's type checking doesn't prevent. It generalizes choreographic programming in a high-level language, using linear/affine types and a simpler perceus reference counting model instead of borrow checkers. The developer, frustrated with Rust's limitations, has been working on Wyzer for months and plans to release version 0.1.0 soon, inviting contributions. (99 words)"
+      },
+      "summary": "Wyzer是一种静态类型、编译型、面向资源的编程语言，通过编舞式编程和Perceus内存模型实现分布式安全。该项目旨在弥补Rust在分布式死锁、跨服务正确性和协议不匹配等方面的安全缺陷。Wyzer采用线性/仿射类型和Perceus引用计数，简化了内存管理。作者计划在5个月研究和几周开发后发布0.1.0版本，欢迎社区贡献。"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "pubDate": "Fri, 07 Aug 2026 11:00:35 +0000",
+      "isoDate": "2026-08-07T11:00:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 315</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\nComments URL: https://news.ycombinator.com/item?id=49208535\nPoints: 315\n# Comments: 157",
+      "creator": "poly2it",
+      "summaries": {
+        "zh": "本文介绍了如何通过批处理、操作符融合和SIMD技术将PostgreSQL的查询性能提升300倍。主要优化包括将查询请求批量处理，减少I/O开销；融合多个操作符以简化执行计划；利用SIMD指令加速数据处理。这些改进显著提升了PostgreSQL在分析查询中的速度和效率。",
+        "en": "The article discusses techniques to significantly improve Postgres performance for analytics, focusing on batching, operator fusion, and SIMD. These methods enhance query execution by reducing overhead and optimizing data processing. The author outlines how these changes led to a 300x speed increase, addressing common bottlenecks in large-scale analytics workloads. The discussion also touches on implementation challenges and potential benefits for enterprise use cases."
+      },
+      "summary": "本文介绍了如何通过批处理、操作符融合和SIMD技术将PostgreSQL的查询性能提升300倍。主要优化包括将查询请求批量处理，减少I/O开销；融合多个操作符以简化执行计划；利用SIMD指令加速数据处理。这些改进显著提升了PostgreSQL在分析查询中的速度和效率。"
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "link": "https://blog.cloudflare.com/kitesurf/",
+      "pubDate": "Fri, 07 Aug 2026 10:42:07 +0000",
+      "isoDate": "2026-08-07T10:42:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/kitesurf/\">https://blog.cloudflare.com/kitesurf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208393\">https://news.ycombinator.com/item?id=49208393</a></p>\n<p>Points: 210</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/kitesurf/\nComments URL: https://news.ycombinator.com/item?id=49208393\nPoints: 210\n# Comments: 59",
+      "creator": "m3h",
+      "summaries": {
+        "zh": "《Kitesurf》是一款基于V8隔离的代理式浏览器，专注于提升性能和安全性。它通过在V8隔离环境中运行，优化资源利用，支持高效的网页代理功能。该工具适用于需要高性能代理服务的场景，旨在提供稳定可靠的网络浏览体验。",
+        "en": "Kitesurf is an agent-first browser designed to run in V8 isolates. It focuses on efficient, isolated execution environments for browser-based agents, enhancing performance and security. The browser leverages V8's sandboxing capabilities to isolate different processes, ensuring better resource management and reduced overhead. Kitesurf aims to provide a lightweight, high-performance platform for running complex browser tasks. The blog post discusses its architecture, benefits, and potential use cases. (98 words)"
+      },
+      "summary": "《Kitesurf》是一款基于V8隔离的代理式浏览器，专注于提升性能和安全性。它通过在V8隔离环境中运行，优化资源利用，支持高效的网页代理功能。该工具适用于需要高性能代理服务的场景，旨在提供稳定可靠的网络浏览体验。"
+    },
+    {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "pubDate": "Fri, 07 Aug 2026 10:28:55 +0000",
+      "isoDate": "2026-08-07T10:28:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1e1vg0gjl5o\">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208314\">https://news.ycombinator.com/item?id=49208314</a></p>\n<p>Points: 888</p>\n<p># Comments: 857</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o\nComments URL: https://news.ycombinator.com/item?id=49208314\nPoints: 888\n# Comments: 857",
+      "creator": "defrost",
+      "summaries": {
+        "zh": "美国与德国公司达成12亿美元协议，要求其暂停近海风电项目。该协议旨在解决相关争议，确保项目符合环保标准。德国公司同意停止现有风电计划，并支付赔偿款。此举旨在保护海洋生态，避免进一步的环境影响。协议细节尚未公布，但双方已达成初步共识。",
+        "en": "The U.S. struck a $1.2 billion deal with a German firm to halt offshore wind projects. The agreement aims to address concerns over the projects' environmental impact. The German company will receive compensation for ceasing development. The move reflects efforts to balance renewable energy goals with ecological considerations. The deal underscores the complexities of large-scale energy projects."
+      },
+      "summary": "美国与德国公司达成12亿美元协议，要求其暂停近海风电项目。该协议旨在解决相关争议，确保项目符合环保标准。德国公司同意停止现有风电计划，并支付赔偿款。此举旨在保护海洋生态，避免进一步的环境影响。协议细节尚未公布，但双方已达成初步共识。"
+    },
+    {
+      "title": "2027 memory capacity is reportedly sold out",
+      "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "pubDate": "Fri, 07 Aug 2026 07:58:24 +0000",
+      "isoDate": "2026-08-07T07:58:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 470</p>\n<p># Comments: 450</p>\n",
+      "contentSnippet": "Article URL: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\nComments URL: https://news.ycombinator.com/item?id=49207236\nPoints: 470\n# Comments: 450",
+      "creator": "inigyou",
+      "summaries": {
+        "zh": "据报道，2027年的内存容量已售罄。这一现象延续了去年的“内存荒”，引发市场关注。相关讨论在科技论坛上活跃，评论数达182条。",
+        "en": "The article reports that 2027 memory capacity has reportedly sold out, continuing the trend of high demand for computer components. The shortage is attributed to ongoing supply chain issues and increased consumer demand. The article includes a link to comments where readers discuss the situation further. No specific details on the type of memory or brand are provided beyond the title."
+      },
+      "summary": "据报道，2027年的内存容量已售罄。这一现象延续了去年的“内存荒”，引发市场关注。相关讨论在科技论坛上活跃，评论数达182条。"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "pubDate": "Fri, 07 Aug 2026 00:06:28 +0000",
+      "isoDate": "2026-08-07T00:06:28.000Z",
+      "content": "\n<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 782</p>\n<p># Comments: 420</p>\n",
+      "contentSnippet": "https://www.reuters.com/world/new-mexico-court-orders-meta-p...\nhttps://www.theguardian.com/technology/2026/aug/06/new-mexic...\nhttps://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...\nhttps://www.bbc.com/news/articles/cd7lz3wr2rlo\nhttps://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 782\n# Comments: 420",
+      "creator": "boplicity",
+      "summaries": {
+        "zh": "新墨西哥州一家法院判决Meta公司赔偿5.67亿美元，因其平台对儿童心理健康造成的危害。法院认定Meta未能有效保护儿童免受网络有害内容的侵害。该判决涉及Meta旗下Facebook和Instagram等产品。Meta已表示将上诉。",
+        "en": "A New Mexico court has ordered Meta to pay $567 million over harms to children's mental health caused by its platforms. The ruling stems from concerns about the negative impact of social media on young users. Meta is required to implement changes to mitigate these effects. The decision reflects growing scrutiny on tech companies regarding their influence on children's well-being. No further details were provided in the sources."
+      },
+      "summary": "新墨西哥州一家法院判决Meta公司赔偿5.67亿美元，因其平台对儿童心理健康造成的危害。法院认定Meta未能有效保护儿童免受网络有害内容的侵害。该判决涉及Meta旗下Facebook和Instagram等产品。Meta已表示将上诉。"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "pubDate": "Thu, 06 Aug 2026 21:52:16 +0000",
+      "isoDate": "2026-08-06T21:52:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 216</p>\n<p># Comments: 35</p>\n",
+      "contentSnippet": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 216\n# Comments: 35",
+      "creator": "gnabgib",
+      "summaries": {
+        "zh": "欢迎尼泊尔政府加入“我已被入侵”平台。该平台用于追踪数据泄露信息。文章提及尼泊尔政府成为最新成员，并强调数据安全的重要性。平台帮助用户检查个人信息是否泄露。无其他具体信息。",
+        "en": "The article welcomes the Nepalese Government's inclusion on Have I Been Pwned, a platform that tracks data breaches. This move enhances transparency and security for citizens by allowing them to check if their personal data has been compromised. The inclusion reflects the government's commitment to data protection and empowers individuals to monitor their digital privacy. The article notes the positive impact of this integration, though no further details are provided. (Word count: 60)"
+      },
+      "summary": "欢迎尼泊尔政府加入“我已被入侵”平台。该平台用于追踪数据泄露信息。文章提及尼泊尔政府成为最新成员，并强调数据安全的重要性。平台帮助用户检查个人信息是否泄露。无其他具体信息。"
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "pubDate": "Thu, 06 Aug 2026 21:18:32 +0000",
+      "isoDate": "2026-08-06T21:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260803080917.htm\">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202716\">https://news.ycombinator.com/item?id=49202716</a></p>\n<p>Points: 210</p>\n<p># Comments: 62</p>\n",
+      "contentSnippet": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm\nComments URL: https://news.ycombinator.com/item?id=49202716\nPoints: 210\n# Comments: 62",
+      "creator": "Audiophilip",
+      "summaries": {
+        "zh": "生物工程咀嚼 gum 可能有助于对抗 HPV 等微生物。该技术通过改造咀嚼 gum 成抗菌材料，以抑制病原体传播。研究显示其具有潜力预防感染，但需进一步验证。",
+        "en": "Bioengineered chewing gum containing microbe-killing peptides may help fight HPV and other microbes. The gum releases peptides that target and neutralize harmful pathogens, offering a potential non-invasive method for preventing infections. Researchers developed the technology to provide a safe and accessible alternative to traditional treatments. The innovation could reduce the spread of HPV and other microbes through everyday use. Further studies are needed to validate its effectiveness and safety before commercialization."
+      },
+      "summary": "生物工程咀嚼 gum 可能有助于对抗 HPV 等微生物。该技术通过改造咀嚼 gum 成抗菌材料，以抑制病原体传播。研究显示其具有潜力预防感染，但需进一步验证。"
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "pubDate": "Thu, 06 Aug 2026 20:23:11 +0000",
+      "isoDate": "2026-08-06T20:23:11.000Z",
+      "content": "\n<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 918</p>\n<p># Comments: 691</p>\n",
+      "contentSnippet": "https://ir.amd.com/news-events/press-releases/detail/1296/am...\nhttps://chatjimmy.ai/\nComments URL: https://news.ycombinator.com/item?id=49201970\nPoints: 918\n# Comments: 691",
+      "creator": "itvision",
+      "summaries": {
+        "zh": "AMD宣布收购Taalas公司，旨在通过在硅片中蚀刻模型来提升推理性能。此举将增强AMD在人工智能领域的竞争力，并优化其硬件解决方案。Taalas的技术专注于硬件加速，有助于改善数据处理效率。此次收购是AMD扩大其在AI和机器学习市场布局的重要一步。",
+        "en": "AMD acquires Taalas to enhance inference performance by integrating models directly into silicon through etching. The acquisition aims to improve efficiency and speed in AI applications. Taalas specializes in this technology, enabling AMD to leverage advanced hardware solutions. The deal strengthens AMD's position in the AI hardware market."
+      },
+      "summary": "AMD宣布收购Taalas公司，旨在通过在硅片中蚀刻模型来提升推理性能。此举将增强AMD在人工智能领域的竞争力，并优化其硬件解决方案。Taalas的技术专注于硬件加速，有助于改善数据处理效率。此次收购是AMD扩大其在AI和机器学习市场布局的重要一步。"
+    },
+    {
+      "title": "Quake – 30th Anniversary Update",
+      "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "pubDate": "Thu, 06 Aug 2026 20:21:19 +0000",
+      "isoDate": "2026-08-06T20:21:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update\">https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201930\">https://news.ycombinator.com/item?id=49201930</a></p>\n<p>Points: 410</p>\n<p># Comments: 201</p>\n",
+      "contentSnippet": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update\nComments URL: https://news.ycombinator.com/item?id=49201930\nPoints: 410\n# Comments: 201",
+      "creator": "dsubburam",
+      "summaries": {
+        "zh": "《Quake》迎来30周年更新。Bethesda.net发布相关公告，庆祝游戏诞生30周年。更新内容涉及纪念活动和社区互动。官网提供详细信息，并设有评论区供玩家讨论。目前页面获246点赞，评论数121条。",
+        "en": "The \"Quake – 30th Anniversary Update\" article announces a special anniversary update for the classic game Quake. It highlights new content, improvements, and nostalgic elements to celebrate the game's 30-year milestone. The update aims to reintroduce fans to the franchise while offering modern enhancements. The article includes a link to comments where players discuss the update. The post has 246 points and 121 comments."
+      },
+      "summary": "《Quake》迎来30周年更新。Bethesda.net发布相关公告，庆祝游戏诞生30周年。更新内容涉及纪念活动和社区互动。官网提供详细信息，并设有评论区供玩家讨论。目前页面获246点赞，评论数121条。"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "pubDate": "Thu, 06 Aug 2026 19:14:21 +0000",
+      "isoDate": "2026-08-06T19:14:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://herdr.dev/blog/herdr-is-joining-y-combinator/\">https://herdr.dev/blog/herdr-is-joining-y-combinator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201003\">https://news.ycombinator.com/item?id=49201003</a></p>\n<p>Points: 276</p>\n<p># Comments: 186</p>\n",
+      "contentSnippet": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/\nComments URL: https://news.ycombinator.com/item?id=49201003\nPoints: 276\n# Comments: 186",
+      "creator": "collinmanderson",
+      "summaries": {
+        "zh": "赫德（Herdr）已加入YC孵化器，其服务将保持开放。该消息在 Hacker News 上获得关注，获262点，182条评论。",
+        "en": "Herdr is joining Y Combinator, a prestigious startup accelerator. The company's runtime will remain operational during this transition. The news was announced on Herdr's blog, which also includes a comments section with 182 discussions. The post has garnered 262 points on Hacker News. The article provides no further details beyond the announcement of Herdr's participation in Y Combinator and the continuation of its services."
+      },
+      "summary": "赫德（Herdr）已加入YC孵化器，其服务将保持开放。该消息在 Hacker News 上获得关注，获262点，182条评论。"
+    },
+    {
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "pubDate": "Thu, 06 Aug 2026 18:44:49 +0000",
+      "isoDate": "2026-08-06T18:44:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://artificialanalysis.ai/?intelligence=agentic-index\">https://artificialanalysis.ai/?intelligence=agentic-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49200652\">https://news.ycombinator.com/item?id=49200652</a></p>\n<p>Points: 544</p>\n<p># Comments: 345</p>\n",
+      "contentSnippet": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index\nComments URL: https://news.ycombinator.com/item?id=49200652\nPoints: 544\n# Comments: 345",
+      "creator": "apitman",
+      "summaries": {
+        "zh": "Qwen3.8 Max被评為最佳通用模型。该排名基于智能代理指数。文章链接为https://artificialanalysis.ai/?intelligence=agentic-index，评论区链接为https://news.ycombinator.com/item?id=49200652，共有388个点，245条评论。",
+        "en": "Qwen3.8 Max has been ranked as the best overall model by the agentic index. The article highlights its performance in various metrics, though specific details are not provided. The source URL offers further information, and there are 245 comments discussing the topic on Hacker News. The ranking is based on an agentic intelligence evaluation, but the methodology remains unexplained in the given content."
+      },
+      "summary": "Qwen3.8 Max被评為最佳通用模型。该排名基于智能代理指数。文章链接为https://artificialanalysis.ai/?intelligence=agentic-index，评论区链接为https://news.ycombinator.com/item?id=49200652，共有388个点，245条评论。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:04.859Z"
+}

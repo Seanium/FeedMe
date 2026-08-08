@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Agent Plugins package your skills, tools, and more",
+      "link": "https://developers.googleblog.com/en/agent-plugins-package-your-skills-tools-and-more/",
+      "pubDate": "Wed, 05 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-05T16:00:00.000Z",
+      "content": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
+      "contentSnippet": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Agent Plugins 1.0.0 是一个由 Google、Amazon、Microsoft 等支持的新目录规范，用于将 Agent 技能和 MCP 服务器打包成单一可移植单元。通过标准化 manifest（plugin.json）和固定目录布局，它消除了开发者为不同 AI 编码代理和 IDE 维护分离包装或配置的需求。Google 已正式成为核心维护者，并在 Agents CLI 和 Data Agent Kit 中推出支持，使开发者能开始构建和分发互操作插件。",
+        "en": "Agent Plugins 1.0.0 is a vendor-neutral directory specification backed by Google, Amazon, Microsoft, and others. It packages Agent Skills and MCP servers into portable units using a standardized manifest (plugin.json) and fixed directory layout. This eliminates the need for separate wrappers or configurations for different AI coding agents and IDEs. Google has joined as a Core Maintainer and integrated support into the Agents CLI and Data Agent Kit, enabling developers to build and distribute interoperable plugins."
+      },
+      "summary": "Agent Plugins 1.0.0 是一个由 Google、Amazon、Microsoft 等支持的新目录规范，用于将 Agent 技能和 MCP 服务器打包成单一可移植单元。通过标准化 manifest（plugin.json）和固定目录布局，它消除了开发者为不同 AI 编码代理和 IDE 维护分离包装或配置的需求。Google 已正式成为核心维护者，并在 Agents CLI 和 Data Agent Kit 中推出支持，使开发者能开始构建和分发互操作插件。"
+    },
+    {
+      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "link": "https://developers.googleblog.com/en/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "pubDate": "Tue, 04 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-04T16:00:00.000Z",
+      "content": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
+      "contentSnippet": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "2026年7月28日发布的模型上下文协议（MCP）规范将传统有状态约束替换为全无状态核心，支持云原生水平扩展、无服务器部署及标准轮询负载均衡。该架构通过标准化HTTP头实现高效路由，无需深度包检测，并引入缓存控制和多往返请求（MRTR）处理交互和长任务。开发者可使用新发布的Python、TypeScript、Go和C# Beta SDK迁移至该高可扩展基础设施。",
+        "en": "The MCP Stateless update (2026-07-28) replaces legacy stateful constraints with a stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. It introduces HTTP headers for efficient routing, caching controls, and MRTR for long-running tasks. Developers can migrate agentic applications to this scalable infrastructure using beta SDKs for Python, TypeScript, Go, and C#."
+      },
+      "summary": "2026年7月28日发布的模型上下文协议（MCP）规范将传统有状态约束替换为全无状态核心，支持云原生水平扩展、无服务器部署及标准轮询负载均衡。该架构通过标准化HTTP头实现高效路由，无需深度包检测，并引入缓存控制和多往返请求（MRTR）处理交互和长任务。开发者可使用新发布的Python、TypeScript、Go和C# Beta SDK迁移至该高可扩展基础设施。"
+    },
+    {
+      "title": "A unified API for AI model routing",
+      "link": "https://developers.googleblog.com/en/a-unified-api-for-ai-model-routing/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "contentSnippet": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云API网关现提供模型路由功能，支持开发人员动态将流量路由至Gemini、Claude或OpenAI OSS-GPT等模型。开发者可通过OpenAPI 3.x规范直接配置路由规则，将虚拟模型名映射至共享主机上的具体后端目标。部署后，网关作为无服务器入口层，接受标准OpenAI兼容请求，自动将负载转换为目标模型的原生格式，并实时路由流量。",
+        "en": "Google Cloud API Gateway introduces a model routing feature in Public Preview, enabling dynamic traffic routing to AI models like Gemini, Claude, or OpenAI OSS-GPT. Developers configure routing rules via OpenAPI 3.x by mapping virtual model names to backend targets. The Gateway operates as a serverless ingress layer, accepting OpenAI-compatible requests, transcoding payloads to target model schemas, and routing traffic dynamically without hardcoding endpoints or managing proxies."
+      },
+      "summary": "谷歌云API网关现提供模型路由功能，支持开发人员动态将流量路由至Gemini、Claude或OpenAI OSS-GPT等模型。开发者可通过OpenAPI 3.x规范直接配置路由规则，将虚拟模型名映射至共享主机上的具体后端目标。部署后，网关作为无服务器入口层，接受标准OpenAI兼容请求，自动将负载转换为目标模型的原生格式，并实时路由流量。"
+    },
+    {
+      "title": "Scaling real-time AI agents with session-aware load balancing",
+      "link": "https://developers.googleblog.com/en/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+      "pubDate": "Sun, 02 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-02T16:00:00.000Z",
+      "content": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
+      "contentSnippet": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "实时AI代理打破了传统的请求-响应负载均衡模式，因为它们依赖长寿命、状态化的双向流，掩盖了服务器的真实容量。为解决这一问题，开发者必须在运行时直接实现应用层会话跟踪，以准确测量活跃对话的并发工作负载。通过将精确的会话计数与标准的CPU利用率指标输入混合路由算法，基础设施可以有效地分配有状态AI流量，防止后端单个瓶颈。",
+        "en": "Real-time AI agents require session-aware load balancing due to their stateful, long-lived bidirectional streams, which complicate traditional load balancing. Developers must implement application-level session tracking within the runtime to measure active conversation workloads accurately. A hybrid routing algorithm, combining precise session counts with CPU metrics, enables effective distribution of stateful AI traffic, preventing backend bottlenecks. This approach ensures optimal resource utilization and maintains performance for AI agents."
+      },
+      "summary": "实时AI代理打破了传统的请求-响应负载均衡模式，因为它们依赖长寿命、状态化的双向流，掩盖了服务器的真实容量。为解决这一问题，开发者必须在运行时直接实现应用层会话跟踪，以准确测量活跃对话的并发工作负载。通过将精确的会话计数与标准的CPU利用率指标输入混合路由算法，基础设施可以有效地分配有状态AI流量，防止后端单个瓶颈。"
+    },
+    {
+      "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+      "link": "https://developers.googleblog.com/en/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.",
+      "contentSnippet": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Genkit Go引入基于渐进式披露架构的Agent Skills功能，旨在防止上下文窗口膨胀并减少token消耗。开发者可将专业指令、脚本和参考资料打包成模块化SKILL.md文件，初始仅向代理系统提示暴露元数据。当任务匹配技能描述时，Genkit的中间件会动态加载完整指令体及相关资源，确保模型按需访问精确工作流。",
+        "en": "Genkit Go introduces Agent Skills to manage context window bloat and reduce token consumption. Developers package specialized instructions, scripts, and references into modular SKILL.md bundles. Initially, only frontmatter metadata is exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and assets. This ensures the model accesses precise workflows only when needed, optimizing performance and efficiency."
+      },
+      "summary": "Genkit Go引入基于渐进式披露架构的Agent Skills功能，旨在防止上下文窗口膨胀并减少token消耗。开发者可将专业指令、脚本和参考资料打包成模块化SKILL.md文件，初始仅向代理系统提示暴露元数据。当任务匹配技能描述时，Genkit的中间件会动态加载完整指令体及相关资源，确保模型按需访问精确工作流。"
+    },
+    {
+      "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+      "link": "https://developers.googleblog.com/en/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, offering built-in user and environment simulators to automate complex multi-turn testing and streamline CI pipelines.",
+      "contentSnippet": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, offering built-in user and environment simulators to automate complex multi-turn testing and streamline CI pipelines.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Gemini Enterprise Agent Platform的评估服务现已正式推出。该服务为开发者提供统一引擎，可在本地开发和生产环境中一致地衡量代理质量。开发者可使用20多项预建指标、DeepMind支持的自适应标准或自定义代码和LLM裁判指标进行评估。服务通过Agent Platform SDK、agents-cli和ADK集成现有工作流，并提供内置用户和环境模拟器，以自动化复杂的多轮测试并简化CI流程。",
+        "en": "The Gemini Enterprise Agent Platform's evaluation service is now generally available, enabling developers to consistently measure agent quality across local development and production environments. It offers over 20 pre-built metrics, DeepMind-backed adaptive rubrics, and support for custom code-based or LLM-as-a-judge metrics, all stored in a centralized, versioned registry. The service integrates with existing workflows via the Agent Platform SDK, agents-cli, and ADK, including built-in user and environment simulators for automated multi-turn testing and streamlined CI pipelines."
+      },
+      "summary": "Gemini Enterprise Agent Platform的评估服务现已正式推出。该服务为开发者提供统一引擎，可在本地开发和生产环境中一致地衡量代理质量。开发者可使用20多项预建指标、DeepMind支持的自适应标准或自定义代码和LLM裁判指标进行评估。服务通过Agent Platform SDK、agents-cli和ADK集成现有工作流，并提供内置用户和环境模拟器，以自动化复杂的多轮测试并简化CI流程。"
+    },
+    {
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "link": "https://developers.googleblog.com/en/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh sharding, and rematerialization—to maximize hardware utilization for large-scale model deployments.",
+      "contentSnippet": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh sharding, and rematerialization—to maximize hardware utilization for large-scale model deployments.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌开源的TPU微基准测试套件为开发者提供了网络、计算、HBM、主机传输和注意力等组件的细粒度性能指标，用于验证实际硬件能力。通过利用这些基准建立Roofline模型，工程师可准确诊断机器学习工作负载是受计算、内存还是网络限制。这一经验基准直接指导针对性软件优化（如内核调优、网格分片和重计算），以最大化大规模模型部署的硬件利用率。",
+        "en": "Google's open-source TPU microbenchmark suite offers detailed performance metrics for Network, Compute, HBM, Host Transfer, and Attention components. It helps validate hardware capabilities and establish a Roofline model to diagnose workload constraints (compute, memory, or network-bound). This baseline enables targeted software optimizations like kernel tuning, mesh sharding, and rematerialization to maximize hardware utilization for large-scale model deployments."
+      },
+      "summary": "谷歌开源的TPU微基准测试套件为开发者提供了网络、计算、HBM、主机传输和注意力等组件的细粒度性能指标，用于验证实际硬件能力。通过利用这些基准建立Roofline模型，工程师可准确诊断机器学习工作负载是受计算、内存还是网络限制。这一经验基准直接指导针对性软件优化（如内核调优、网格分片和重计算），以最大化大规模模型部署的硬件利用率。"
+    },
+    {
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "link": "https://developers.googleblog.com/en/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "pubDate": "Thu, 23 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-23T16:00:00.000Z",
+      "content": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "contentSnippet": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《在TPU上运行Ray：Ray AI库》第二部分探讨了Ray的高级库（Serve、Data和Train）如何简化在Google TPU切片上运行AI工作负载的复杂性。Ray Serve通过简单的拓扑配置正确调度大型多主机模型；Ray Data通过直接用原生JAX批次为加速器提供数据来消除数据加载瓶颈；JaxTrainer通过自动处理跨切片协调、检查点和容错，简化了TPU上的分布式训练。",
+        "en": "This article discusses Ray's AI libraries for running workloads on Google's TPUs. Ray Serve simplifies multi-host model scheduling with topology configurations. Ray Data optimizes data loading by feeding accelerators with native JAX batches, reducing bottlenecks. JaxTrainer streamlines distributed training, handling cross-slice coordination, checkpointing, and fault tolerance. These libraries abstract TPU complexities, improving efficiency and scalability for AI tasks. (98 words)"
+      },
+      "summary": "《在TPU上运行Ray：Ray AI库》第二部分探讨了Ray的高级库（Serve、Data和Train）如何简化在Google TPU切片上运行AI工作负载的复杂性。Ray Serve通过简单的拓扑配置正确调度大型多主机模型；Ray Data通过直接用原生JAX批次为加速器提供数据来消除数据加载瓶颈；JaxTrainer通过自动处理跨切片协调、检查点和容错，简化了TPU上的分布式训练。"
+    },
+    {
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "link": "https://developers.googleblog.com/en/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "pubDate": "Mon, 20 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-20T16:00:00.000Z",
+      "content": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "contentSnippet": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Tunix是Google开发的一款JAX原生后训练库，旨在解决多轮、工具使用型LLM推理代理训练中TPU空闲的瓶颈问题。通过结合高并发异步推演和分离的生产者-消费者管道，Tunix最大化硬件吞吐量，确保训练器持续获得数据。此外，它提供即用型抽象和持续宏观级分析，方便开发者集成开源环境并优化复杂分布式工作流，无需大量代码重写。",
+        "en": "Tunix is Google's JAX-native library for scaling agentic RL training, designed to reduce TPU idling in multi-turn LLM reasoning agent training. It achieves high hardware throughput using asynchronous rollouts and a decoupled producer-consumer pipeline, keeping the trainer fed while agents wait. Tunix offers plug-and-play abstractions and continuous profiling, simplifying integration of custom environments and optimizing distributed workflows with minimal code changes."
+      },
+      "summary": "Tunix是Google开发的一款JAX原生后训练库，旨在解决多轮、工具使用型LLM推理代理训练中TPU空闲的瓶颈问题。通过结合高并发异步推演和分离的生产者-消费者管道，Tunix最大化硬件吞吐量，确保训练器持续获得数据。此外，它提供即用型抽象和持续宏观级分析，方便开发者集成开源环境并优化复杂分布式工作流，无需大量代码重写。"
+    },
+    {
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "link": "https://developers.googleblog.com/en/run-ray-on-tpu-part-1-the-foundations/",
+      "pubDate": "Sun, 19 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-19T16:00:00.000Z",
+      "content": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "contentSnippet": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《在TPU上运行Ray：基础篇》介绍了Ray 2.55对Google Cloud TPUs的官方支持，使开发者能通过Ray任务和Actor API在Google加速器上运行分布式Python工作负载。为满足多主机TPU切片通过Inter-Chip Interconnect (ICI)保持连接的严格网络要求，GKE上的KubeRay Operator自动配置和标记底层硬件布局。Ray Core利用这些标签，通过slice_placement_group()原语原子化预留完整切片，允许开发者通过KubeRay、Ray Train或Ray Serve声明硬件拓扑（如\"4x4\"）来部署任务，无需编写自定义放置代码。",
+        "en": "Ray 2.55 introduces official TPU support on Google Cloud, enabling distributed Python workloads on accelerators via Ray's task-and-actor APIs. The KubeRay Operator on GKE provisions and labels TPU hardware for strict networking, while Ray Core reserves slices using slice_placement_group(). Developers deploy jobs by declaring hardware topology (e.g., \"4x4\") without custom placement code, using KubeRay, Ray Train, or Ray Serve."
+      },
+      "summary": "《在TPU上运行Ray：基础篇》介绍了Ray 2.55对Google Cloud TPUs的官方支持，使开发者能通过Ray任务和Actor API在Google加速器上运行分布式Python工作负载。为满足多主机TPU切片通过Inter-Chip Interconnect (ICI)保持连接的严格网络要求，GKE上的KubeRay Operator自动配置和标记底层硬件布局。Ray Core利用这些标签，通过slice_placement_group()原语原子化预留完整切片，允许开发者通过KubeRay、Ray Train或Ray Serve声明硬件拓扑（如\"4x4\"）来部署任务，无需编写自定义放置代码。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T19:44:14.376Z"
+}
