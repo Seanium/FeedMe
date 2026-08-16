@@ -220,10 +220,10 @@ GitHub Actions 每次构建后会自动推送到 `deploy` 分支，阿里云 ESA
 
 ## Star 趋势
 
-<a href="https://www.star-history.com/#Seanium/FeedMe&Date">
+<a href="https://star-history.dera.page/#Seanium/FeedMe&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Seanium/FeedMe&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Seanium/FeedMe&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Seanium/FeedMe&type=Date" />
  </picture>
 </a>
