@@ -220,10 +220,10 @@ This project uses Node.js 24 LTS. Use `.nvmrc` or `.node-version` to switch auto
 
 ## Star History
 
-<a href="https://www.star-history.com/#Seanium/FeedMe&Date">
+<a href="https://www.star-history.com/?repos=seanium%2Ffeedme&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Seanium/FeedMe&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=seanium/feedme&type=date&theme=dark&legend=top-left&sealed_token=pn57mzD7vzu2U9qVE7P0wxol1I1_eVEZ4e5NTQBqojwQd29iAIn4a1Th3yIKtNVQqMUaU0iViwYZ93mslJ45MENwva47txmgAOfOz2J6BBgkeBpIk0llkg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=seanium/feedme&type=date&legend=top-left&sealed_token=pn57mzD7vzu2U9qVE7P0wxol1I1_eVEZ4e5NTQBqojwQd29iAIn4a1Th3yIKtNVQqMUaU0iViwYZ93mslJ45MENwva47txmgAOfOz2J6BBgkeBpIk0llkg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=seanium/feedme&type=date&legend=top-left&sealed_token=pn57mzD7vzu2U9qVE7P0wxol1I1_eVEZ4e5NTQBqojwQd29iAIn4a1Th3yIKtNVQqMUaU0iViwYZ93mslJ45MENwva47txmgAOfOz2J6BBgkeBpIk0llkg" />
  </picture>
 </a>
