@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://openai.com/news/engineering/rss.xml",
+  "title": "OpenAI Engineering News",
+  "description": "The OpenAI engineering blog",
+  "link": "https://openai.com/news/engineering",
+  "items": [
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-25T07:00:00.000Z",
+      "content": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "contentSnippet": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的定制推理芯片Jalapeño在AI推理方面表现出行业领先的性能。该芯片提供更快的速度、更高的能效，以及现代模型所需的更高吞吐量和更低延迟。",
+        "en": "Jalapeño, a custom inference chip developed by OpenAI, delivers industry-leading speed and efficiency in AI inference. It offers higher throughput and lower latency for modern AI models while being more power-efficient. The chip represents a significant advancement in AI processing technology."
+      },
+      "summary": "OpenAI的定制推理芯片Jalapeño在AI推理方面表现出行业领先的性能。该芯片提供更快的速度、更高的能效，以及现代模型所需的更高吞吐量和更低延迟。"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-03T07:00:00.000Z",
+      "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "contentSnippet": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章介绍了GPT-Live如何六个月内构建实时响应语音AI系统。该系统采用无回合式语音模型和低延迟架构，实现更快速、自然的对话交互。",
+        "en": "GPT-Live was developed in six months to enable real-time voice interaction with AI. It uses a turnless speech model and low-latency architecture, resulting in faster and more natural conversations. The system facilitates continuous voice engagement with artificial intelligence."
+      },
+      "summary": "文章介绍了GPT-Live如何六个月内构建实时响应语音AI系统。该系统采用无回合式语音模型和低延迟架构，实现更快速、自然的对话交互。"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-29T00:00:00.000Z",
+      "content": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "contentSnippet": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5.6通过优化模型、推理和自主工作流程，提升了AI的整体效率，旨在以更低的成本提供更有价值的智能。",
+        "en": "GPT-5.6 enhances AI efficiency in models, inference, and agentic workflows, delivering more useful intelligence per dollar."
+      },
+      "summary": "GPT-5.6通过优化模型、推理和自主工作流程，提升了AI的整体效率，旨在以更低的成本提供更有价值的智能。"
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "contentSnippet": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI工程师通过大规模核心转储分析，解决了罕见的系统崩溃问题。他们发现了硬件故障和一项存在18年的软件缺陷。",
+        "en": "OpenAI engineers analyzed large-scale core dumps to debug rare infrastructure crashes. Their investigation revealed both a hardware fault and an 18-year-old software bug."
+      },
+      "summary": "OpenAI工程师通过大规模核心转储分析，解决了罕见的系统崩溃问题。他们发现了硬件故障和一项存在18年的软件缺陷。"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "isoDate": "2026-05-27T07:00:00.000Z",
+      "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "contentSnippet": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI、Thrive和Crete利用Codex技术构建了一个自我改进的税务代理系统。该系统能够自动化税务申报流程，提升申报准确性，并加速工作流程。",
+        "en": "OpenAI, Thrive, and Crete developed a self-improving tax agent using Codex. The system automates filings, enhances accuracy, and speeds up workflows. The collaboration aimed to leverage Codex for tax automation, achieving efficiency and precision in financial processes."
+      },
+      "summary": "OpenAI、Thrive和Crete利用Codex技术构建了一个自我改进的税务代理系统。该系统能够自动化税务申报流程，提升申报准确性，并加速工作流程。"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "link": "https://openai.com/index/building-codex-windows-sandbox",
+      "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
+      "isoDate": "2026-05-13T11:00:00.000Z",
+      "content": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "contentSnippet": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI成功在Windows上构建了一个安全有效的沙盒环境，以启用Codex功能。该沙盒通过控制文件访问和网络限制，确保了系统的安全性和稳定性。这一技术为Windows用户提供了更可靠的使用体验。",
+        "en": "OpenAI developed a secure and effective sandbox to run Codex on Windows. The sandbox features controlled file access and network limitations to ensure safety and stability. This setup allows Codex to operate within defined boundaries, enhancing its usability on the Windows platform."
+      },
+      "summary": "OpenAI成功在Windows上构建了一个安全有效的沙盒环境，以启用Codex功能。该沙盒通过控制文件访问和网络限制，确保了系统的安全性和稳定性。这一技术为Windows用户提供了更可靠的使用体验。"
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
+      "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+      "isoDate": "2026-05-05T10:00:00.000Z",
+      "content": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "contentSnippet": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出MRC（多路径可靠连接）协议，通过OCP发布，旨在提升大规模AI训练集群的可靠性和性能。该协议采用多路径传输技术，增强网络韧性，优化数据传输效率，为AI训练提供更稳定高效的网络支持。",
+        "en": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol via OCP, designed to enhance resilience and performance in large-scale AI training clusters."
+      },
+      "summary": "OpenAI推出MRC（多路径可靠连接）协议，通过OCP发布，旨在提升大规模AI训练集群的可靠性和性能。该协议采用多路径传输技术，增强网络韧性，优化数据传输效率，为AI训练提供更稳定高效的网络支持。"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-04T00:00:00.000Z",
+      "content": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "contentSnippet": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI通过重建其WebRTC技术栈，成功实现了低延迟、全球规模和无缝对话转接的实时语音AI。该技术改进旨在优化语音交互性能，确保大规模应用中的实时响应和流畅沟通。",
+        "en": "OpenAI rebuilt its WebRTC stack to deliver low-latency voice AI at scale. The solution enables real-time Voice AI with global reach and seamless conversational turn-taking. The focus was on optimizing performance for efficient, low-latency communication."
+      },
+      "summary": "OpenAI通过重建其WebRTC技术栈，成功实现了低延迟、全球规模和无缝对话转接的实时语音AI。该技术改进旨在优化语音交互性能，确保大规模应用中的实时响应和流畅沟通。"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "contentSnippet": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "creator": "",
+      "summaries": {
+        "zh": "《交响乐》：一项开源编排规范，用于Codex编排。该规范将问题追踪器转化为持续运行的代理系统，提升工程产出并减少上下文切换。",
+        "en": "Symphony is an open-source specification for Codex orchestration that transforms issue trackers into continuous agent systems. By automating workflows, it enhances engineering productivity and minimizes context switching. The system leverages open-source technology to streamline operations, ensuring efficient task management and resource allocation."
+      },
+      "summary": "《交响乐》：一项开源编排规范，用于Codex编排。该规范将问题追踪器转化为持续运行的代理系统，提升工程产出并减少上下文切换。"
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-22T10:00:00.000Z",
+      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文深入探讨了Codex代理循环，展示了通过使用WebSocket和连接范围缓存如何降低API开销并提升模型延迟，从而加速自主工作流程。",
+        "en": "The article explores the Codex agent loop, demonstrating how WebSockets and connection-scoped caching lower API overhead and enhance model latency in agentic workflows. It provides a detailed analysis of these techniques to optimize performance."
+      },
+      "summary": "本文深入探讨了Codex代理循环，展示了通过使用WebSocket和连接范围缓存如何降低API开销并提升模型延迟，从而加速自主工作流程。"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment ",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "pubDate": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "isoDate": "2026-03-11T11:00:00.000Z",
+      "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "contentSnippet": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI利用Responses API、外壳工具和托管容器构建了一个智能体运行时，以运行具备文件、工具和状态的、安全且可扩展的智能体。该技术通过整合多种组件，实现了高效、灵活的智能体环境部署。",
+        "en": "OpenAI developed an agent runtime for the Responses API by integrating shell tools and hosted containers. This approach enables secure, scalable agents capable of handling files, tools, and state management. The solution leverages the API to create a functional computer environment for agent operations."
+      },
+      "summary": "OpenAI利用Responses API、外壳工具和托管容器构建了一个智能体运行时，以运行具备文件、工具和状态的、安全且可扩展的智能体。该技术通过整合多种组件，实现了高效、灵活的智能体环境部署。"
+    },
+    {
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "link": "https://openai.com/index/beyond-rate-limits",
+      "pubDate": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "isoDate": "2026-02-13T09:00:00.000Z",
+      "content": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "contentSnippet": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI构建了一个实时访问系统，通过结合速率限制、使用追踪和信用额度，确保Sora和Codex的持续访问。该系统综合管理资源，平衡效率与可用性，有效支持大规模用户需求。",
+        "en": "OpenAI developed a real-time access system for Sora and Codex. The system integrates rate limits, usage tracking, and credits to ensure continuous access. It balances demand while maintaining performance. The approach enables scalable and sustainable usage of the models."
+      },
+      "summary": "OpenAI构建了一个实时访问系统，通过结合速率限制、使用追踪和信用额度，确保Sora和Codex的持续访问。该系统综合管理资源，平衡效率与可用性，有效支持大规模用户需求。"
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://openai.com/index/harness-engineering",
+      "pubDate": "Wed, 11 Feb 2026 09:00:00 GMT",
+      "isoDate": "2026-02-11T09:00:00.000Z",
+      "content": "By Ryan Lopopolo, Member of the Technical Staff",
+      "contentSnippet": "By Ryan Lopopolo, Member of the Technical Staff",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《利用工程：在以智能体为先的世界中发挥Codex的作用》，作者为Ryan Lopopolo。文章探讨了如何利用Codex技术，在以智能体为中心的环境中实现工程应用。内容简要介绍了智能体优先的背景和Codex技术的潜力，但未提供具体实施细节。整体上，文章强调了Codex在智能体驱动系统中的重要性。",
+        "en": "**Summary:**  \n\nThe article, titled \"Harness engineering: leveraging Codex in an agent-first world,\" is authored by Ryan Lopopolo, a Member of the Technical Staff. It explores the application of Codex, an advanced AI model, in an agent-centric environment. The piece likely discusses how engineering techniques can optimize Codex's integration into systems where AI agents are prioritized. While the content is brief, it focuses on leveraging Codex for enhanced agent performance and efficiency. The article remains objective, providing insights into technical implementation without personal bias. (Word count: 50)"
+      },
+      "summary": "文章标题为《利用工程：在以智能体为先的世界中发挥Codex的作用》，作者为Ryan Lopopolo。文章探讨了如何利用Codex技术，在以智能体为中心的环境中实现工程应用。内容简要介绍了智能体优先的背景和Codex技术的潜力，但未提供具体实施细节。整体上，文章强调了Codex在智能体驱动系统中的重要性。"
+    },
+    {
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "link": "https://openai.com/index/unlocking-the-codex-harness",
+      "pubDate": "Wed, 04 Feb 2026 13:00:00 GMT",
+      "isoDate": "2026-02-04T13:00:00.000Z",
+      "content": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "contentSnippet": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "creator": "",
+      "summaries": {
+        "zh": "《解锁Codex密钥：我们如何构建App服务器》介绍了如何通过Codex App Server嵌入Codex代理。该服务器提供双向JSON-RPC API，支持流式进度、工具使用、审批和差异等功能。",
+        "en": "The Codex App Server is a bidirectional JSON-RPC API that enables embedding the Codex agent. It facilitates streaming progress, tool use, approvals, and diffs. The article explains how to integrate the Codex agent using this server."
+      },
+      "summary": "《解锁Codex密钥：我们如何构建App服务器》介绍了如何通过Codex App Server嵌入Codex代理。该服务器提供双向JSON-RPC API，支持流式进度、工具使用、审批和差异等功能。"
+    },
+    {
+      "title": "Inside OpenAI’s in-house data agent",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "pubDate": "Thu, 29 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-29T10:00:00.000Z",
+      "content": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "contentSnippet": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI开发了一种内部AI数据代理，该代理使用GPT-5、Codex和记忆功能，通过分析海量数据集，在几分钟内提供可靠的洞察。该代理能够进行推理，有效处理大量信息，显著提升数据分析效率。",
+        "en": "OpenAI has developed an in-house AI data agent that leverages GPT-5, Codex, and memory capabilities. This agent processes large datasets to provide reliable insights quickly. It combines advanced AI models with memory functions to enhance reasoning and efficiency. The system aims to streamline data analysis and deliver results in minutes."
+      },
+      "summary": "OpenAI开发了一种内部AI数据代理，该代理使用GPT-5、Codex和记忆功能，通过分析海量数据集，在几分钟内提供可靠的洞察。该代理能够进行推理，有效处理大量信息，显著提升数据分析效率。"
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "pubDate": "Fri, 23 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-23T12:00:00.000Z",
+      "content": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "contentSnippet": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "creator": "",
+      "summaries": {
+        "zh": "《展开Codex代理循环》一文深入探讨了Codex代理循环的技术细节，解释了Codex CLI如何通过Responses API协调模型、工具、提示和性能。文章详细分析了代理循环的工作原理，突出了CLI在自动化任务中的关键作用。",
+        "en": "The article provides a technical deep dive into the Codex agent loop, focusing on how the Codex CLI orchestrates models, tools, prompts, and performance through the Responses API. It explores the mechanisms behind the system's operation, emphasizing its integration and efficiency in managing various components."
+      },
+      "summary": "《展开Codex代理循环》一文深入探讨了Codex代理循环的技术细节，解释了Codex CLI如何通过Responses API协调模型、工具、提示和性能。文章详细分析了代理循环的工作原理，突出了CLI在自动化任务中的关键作用。"
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "link": "https://openai.com/index/scaling-postgresql",
+      "pubDate": "Thu, 22 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-22T12:00:00.000Z",
+      "content": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "contentSnippet": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《使用 PostgreSQL 支撑 8 亿 ChatGPT 用户扩展方案》\n\n文章内容摘要：本文介绍了 OpenAI 如何通过使用副本、缓存、速率限制和工作负载隔离等技术，将 PostgreSQL 扩展到每秒数百万次查询，以支持 8 亿 ChatGPT 用户。",
+        "en": "OpenAI scaled PostgreSQL to handle millions of queries per second for 800 million ChatGPT users by employing replicas, caching, rate limiting, and workload isolation. These strategies ensured efficient performance and reliability."
+      },
+      "summary": "文章标题：《使用 PostgreSQL 支撑 8 亿 ChatGPT 用户扩展方案》\n\n文章内容摘要：本文介绍了 OpenAI 如何通过使用副本、缓存、速率限制和工作负载隔离等技术，将 PostgreSQL 扩展到每秒数百万次查询，以支持 8 亿 ChatGPT 用户。"
+    },
+    {
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "link": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "contentSnippet": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI利用Codex在28天内成功推出Android版Sora。通过AI辅助规划、翻译和并行编码工作流程，敏捷团队实现了快速可靠的开发。",
+        "en": "OpenAI utilized Codex to swiftly release Sora for Android within 28 days. AI-driven planning, translation, and parallel coding workflows facilitated rapid, reliable development by a nimble team."
+      },
+      "summary": "OpenAI利用Codex在28天内成功推出Android版Sora。通过AI辅助规划、翻译和并行编码工作流程，敏捷团队实现了快速可靠的开发。"
+    },
+    {
+      "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+      "link": "https://openai.com/index/building-chatgpt-atlas",
+      "pubDate": "Thu, 30 Oct 2025 00:00:00 GMT",
+      "isoDate": "2025-10-30T00:00:00.000Z",
+      "content": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "contentSnippet": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "OWL是ChatGPT Atlas的新架构，通过解耦Chromium实现快速启动、丰富的用户界面和基于ChatGPT的智能浏览。该架构优化了浏览器性能，提升了用户体验，并支持更高效的交互功能。",
+        "en": "OWL is the new architecture behind ChatGPT Atlas, designed to enhance browsing experiences. It decouples Chromium, enabling faster startup times and a richer user interface. The architecture integrates ChatGPT for agentic browsing, allowing more interactive and intelligent navigation. Key features include improved performance, advanced UI capabilities, and seamless ChatGPT integration."
+      },
+      "summary": "OWL是ChatGPT Atlas的新架构，通过解耦Chromium实现快速启动、丰富的用户界面和基于ChatGPT的智能浏览。该架构优化了浏览器性能，提升了用户体验，并支持更高效的交互功能。"
+    }
+  ],
+  "lastUpdated": "2026-08-26T14:06:21.481Z"
+}

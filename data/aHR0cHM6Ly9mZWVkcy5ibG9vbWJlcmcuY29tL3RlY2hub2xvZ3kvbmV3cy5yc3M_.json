@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "German Startup Isar’s Rocket Lifts Off on European Space Mission",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission",
+      "pubDate": "Sat, 05 Sep 2026 20:24:16 GMT",
+      "isoDate": "2026-09-05T20:24:16.000Z",
+      "content": "An Isar Aerospace rocket lifted off from a launchpad in Norway as the German startup seeks to pull off the first commercial space mission to reach orbit from continental Europe.",
+      "contentSnippet": "An Isar Aerospace rocket lifted off from a launchpad in Norway as the German startup seeks to pull off the first commercial space mission to reach orbit from continental Europe.",
+      "creator": "Paula Doenecke",
+      "summaries": {
+        "zh": "德国初创企业Isar的火箭从挪威发射升空，旨在实现欧洲大陆首次商业轨道空间任务。此次发射标志着该公司在太空探索领域的重要进展。",
+        "en": "The German startup Isar Aerospace successfully launched its rocket from a Norwegian launchpad, aiming to achieve the first commercial space mission reaching orbit from continental Europe. The event marks a significant milestone for the company."
+      },
+      "summary": "德国初创企业Isar的火箭从挪威发射升空，旨在实现欧洲大陆首次商业轨道空间任务。此次发射标志着该公司在太空探索领域的重要进展。"
+    },
+    {
+      "title": "Apple Bets on Foldable iPhone Under New CEO",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video",
+      "pubDate": "Sat, 05 Sep 2026 12:23:38 GMT",
+      "isoDate": "2026-09-05T12:23:38.000Z",
+      "content": "Apple CEO John Ternus is preparing for his first major product event since succeeding Tim Cook, with a foldable iPhone expected to headline the September 9 launch. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho joins Christina Ruffini and Jeff Mason on Bloomberg This Weekend and says Ternus’ engineering background could bring renewed focus to hardware and expanding Apple’s ecosystem as smartphone upgrades become increasingly incremental. (Source: Bloomberg)",
+      "contentSnippet": "Apple CEO John Ternus is preparing for his first major product event since succeeding Tim Cook, with a foldable iPhone expected to headline the September 9 launch. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho joins Christina Ruffini and Jeff Mason on Bloomberg This Weekend and says Ternus’ engineering background could bring renewed focus to hardware and expanding Apple’s ecosystem as smartphone upgrades become increasingly incremental. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果新任CEO约翰·特纳斯即将在9月9日举行的首场产品发布会上，以折叠式iPhone为亮点。据彭博报道，彭博情报资深硬件分析师吴仁昊认为，特纳斯的工程背景将有助于苹果重新聚焦硬件，并扩展其生态系统。随着智能手机升级逐渐趋缓，这一举措或带来新变化。",
+        "en": "Apple's new CEO, John Ternus, is set to launch a foldable iPhone at a major event on September 9. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho suggests Ternus' engineering background may refocus on hardware and expand Apple's ecosystem amid incremental smartphone upgrades. (Word count: 50)"
+      },
+      "summary": "苹果新任CEO约翰·特纳斯即将在9月9日举行的首场产品发布会上，以折叠式iPhone为亮点。据彭博报道，彭博情报资深硬件分析师吴仁昊认为，特纳斯的工程背景将有助于苹果重新聚焦硬件，并扩展其生态系统。随着智能手机升级逐渐趋缓，这一举措或带来新变化。"
+    },
+    {
+      "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+      "pubDate": "Sat, 05 Sep 2026 11:07:00 GMT",
+      "isoDate": "2026-09-05T11:07:00.000Z",
+      "content": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area that Indian tech firms are prioritizing for future growth.",
+      "contentSnippet": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area that Indian tech firms are prioritizing for future growth.",
+      "creator": "Ashutosh Joshi",
+      "summaries": {
+        "zh": "塔塔咨询公司（TCS）及其HyperVault部门与合作伙伴承诺投资700亿卢比（约74亿美元），在南印度建设一个大规模人工智能数据中心园区。此举旨在加速其在印度科技企业优先发展的区域扩张。",
+        "en": "Tata Consultancy Services' HyperVault unit and partners have committed $7.4 billion to build a one-gigawatt capacity data center campus in southern India. The project aims to accelerate TCS's expansion into the region, which is a priority for Indian tech firms seeking growth. The investment highlights the importance of southern India for the company's AI initiatives."
+      },
+      "summary": "塔塔咨询公司（TCS）及其HyperVault部门与合作伙伴承诺投资700亿卢比（约74亿美元），在南印度建设一个大规模人工智能数据中心园区。此举旨在加速其在印度科技企业优先发展的区域扩张。"
+    },
+    {
+      "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+      "pubDate": "Sat, 05 Sep 2026 07:45:26 GMT",
+      "isoDate": "2026-09-05T07:45:26.000Z",
+      "content": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
+      "contentSnippet": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
+      "creator": "Debby Wu",
+      "summaries": {
+        "zh": "鸿海精密工业公司月销售额增长52%，主要得益于全球数据中心和人工智能计算能力建设对服务器的需求。",
+        "en": "Hon Hai Precision Industry Co. saw a 52% monthly sales increase, driven by strong demand for servers amid global efforts to expand data centers and AI computational capacity. The growth reflects momentum in the AI server market."
+      },
+      "summary": "鸿海精密工业公司月销售额增长52%，主要得益于全球数据中心和人工智能计算能力建设对服务器的需求。"
+    },
+    {
+      "title": "Abu Dhabi’s G42 Weighs US Ownership to Safeguard AI Chip Access",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
+      "pubDate": "Fri, 04 Sep 2026 12:50:43 GMT",
+      "isoDate": "2026-09-04T12:50:43.000Z",
+      "content": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it races to guarantee access to high-tech chips beyond next year.",
+      "contentSnippet": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it races to guarantee access to high-tech chips beyond next year.",
+      "creator": "Alex Dooler, Zainab Fattah and Dinesh Nair",
+      "summaries": {
+        "zh": "阿布扎比人工智能公司G42正与美国公司进行初步谈判，可能出售多数股权，以保障明年之后的高科技芯片供应。此举旨在确保其在人工智能领域的芯片获取渠道。",
+        "en": "G42, an Abu Dhabi-based AI firm, is considering selling a majority stake to US companies in exploratory talks. The move aims to secure access to advanced AI chips beyond 2024, as the company seeks to ensure its technological supply chain. The discussions highlight G42's efforts to mitigate potential disruptions in chip availability."
+      },
+      "summary": "阿布扎比人工智能公司G42正与美国公司进行初步谈判，可能出售多数股权，以保障明年之后的高科技芯片供应。此举旨在确保其在人工智能领域的芯片获取渠道。"
+    },
+    {
+      "title": "Jump Trading Expands Office Space in Hong Kong’s IFC Building",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/jump-trading-expands-office-space-in-hong-kong-s-ifc-building",
+      "pubDate": "Sat, 05 Sep 2026 02:58:08 GMT",
+      "isoDate": "2026-09-05T02:58:08.000Z",
+      "content": "Jump Trading is adding office space in Hong Kong, according to people familiar with the matter, the latest sign of global trading firms expanding their presence in the city.",
+      "contentSnippet": "Jump Trading is adding office space in Hong Kong, according to people familiar with the matter, the latest sign of global trading firms expanding their presence in the city.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "Jump Trading将在香港IFC大厦增加办公空间，据知情人士透露，这是全球交易公司扩大在该市存在感的最新迹象。",
+        "en": "Jump Trading is expanding its office space in Hong Kong's IFC Building, indicating the growing presence of global trading firms in the city. The move reflects broader industry trends."
+      },
+      "summary": "Jump Trading将在香港IFC大厦增加办公空间，据知情人士透露，这是全球交易公司扩大在该市存在感的最新迹象。"
+    },
+    {
+      "title": "Japan Says Progress Made on $550 Billion Investment Pact With US",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/japan-says-progress-made-on-550-billion-investment-pact-with-us",
+      "pubDate": "Sat, 05 Sep 2026 01:31:33 GMT",
+      "isoDate": "2026-09-05T01:31:33.000Z",
+      "content": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a $550 billion investment initiative set up as part of a trade deal with the US last year.",
+      "contentSnippet": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a $550 billion investment initiative set up as part of a trade deal with the US last year.",
+      "creator": "Yoshiaki Nohara",
+      "summaries": {
+        "zh": "日本贸易大臣赤泽良昭表示，去年与美国的贸易协定中设立的5500亿美元投资计划正在取得进展。",
+        "en": "Japan and the US are making progress on a $550 billion investment initiative established under a trade agreement last year, according to Japanese Trade Minister Ryosei Akazawa. The pact aims to bolster economic ties between the two nations."
+      },
+      "summary": "日本贸易大臣赤泽良昭表示，去年与美国的贸易协定中设立的5500亿美元投资计划正在取得进展。"
+    },
+    {
+      "title": "China’s 26% Earnings Boom Lands With a Thud in the Stock Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/china-s-26-earnings-boom-lands-with-a-thud-in-the-stock-market",
+      "pubDate": "Sat, 05 Sep 2026 00:00:01 GMT",
+      "isoDate": "2026-09-05T00:00:01.000Z",
+      "content": "China’s best profit growth in five years hasn’t been enough to reignite a stock rally, with a weak economy and doubts over AI returns sapping investor enthusiasm.",
+      "contentSnippet": "China’s best profit growth in five years hasn’t been enough to reignite a stock rally, with a weak economy and doubts over AI returns sapping investor enthusiasm.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国五年内利润增长达26%，但未能提振股市。经济疲软及对人工智能回报的疑虑削弱了投资者信心，导致股市表现不佳。",
+        "en": "China reported a 26% rise in earnings, its best growth in five years, but the stock market failed to rally. Weak economic conditions and skepticism about AI investments dampened investor sentiment."
+      },
+      "summary": "中国五年内利润增长达26%，但未能提振股市。经济疲软及对人工智能回报的疑虑削弱了投资者信心，导致股市表现不佳。"
+    },
+    {
+      "title": "Carney’s Push to Build Canadian Data Centers is Running Into Backlash",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/carney-s-push-to-build-canadian-data-centers-is-running-into-backlash",
+      "pubDate": "Fri, 04 Sep 2026 16:59:33 GMT",
+      "isoDate": "2026-09-04T16:59:33.000Z",
+      "content": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
+      "contentSnippet": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
+      "creator": "Nojoud Al Mallees",
+      "summaries": {
+        "zh": "加拿大总理马克·卡尼推动建设数据中心以吸引人工智能基础设施投资的计划正遭遇阻力，类似美国政治中的数据中心反对浪潮已蔓延至加拿大，增加了其吸引投资的难度。",
+        "en": "Canada is facing backlash similar to the U.S. over Prime Minister Mark Carney’s push to build data centers for AI infrastructure. The opposition complicates efforts to attract investment in this rapidly expanding sector."
+      },
+      "summary": "加拿大总理马克·卡尼推动建设数据中心以吸引人工智能基础设施投资的计划正遭遇阻力，类似美国政治中的数据中心反对浪潮已蔓延至加拿大，增加了其吸引投资的难度。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T22:56:35.188Z"
+}

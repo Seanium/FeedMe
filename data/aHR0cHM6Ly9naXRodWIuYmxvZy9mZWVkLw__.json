@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "pubDate": "Fri, 04 Sep 2026 16:04:14 +0000",
+      "isoDate": "2026-09-04T16:04:14.000Z",
+      "content": "<p>In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/\">Project HydraFusion: Frontier quality via multi-model orchestration</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.\nThe post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog.",
+      "creator": "GitHub Staff",
+      "summaries": {
+        "zh": "项目HydraFusion通过多模型编排实现前沿质量。在离线测试中，其选择性编码工作流程表现与Opus 5基准持平或更优，同时降低工作流程成本。目前已在GitHub Copilot中作为研究预览发布。",
+        "en": "Project HydraFusion achieves frontier quality through multi-model orchestration. In offline evaluations, its selective coding workflows matched or exceeded Opus 5 performance while reducing workflow costs. Now available as a research preview in GitHub Copilot."
+      },
+      "summary": "项目HydraFusion通过多模型编排实现前沿质量。在离线测试中，其选择性编码工作流程表现与Opus 5基准持平或更优，同时降低工作流程成本。目前已在GitHub Copilot中作为研究预览发布。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-03T16:00:00.000Z",
+      "content": "<p>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/\">GitHub Copilot app for Beginners: Run several agents at once</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.\nThe post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "GitHub Copilot应用初级指南：同时运行多个代理。本文介绍了如何在GitHub Copilot应用中并行运行多个代理，帮助用户体验其强大功能，减少使用难度。文章来源于The GitHub Blog。",
+        "en": "The article \"GitHub Copilot app for Beginners: Run several agents at once\" from The GitHub Blog explains how to run parallel agents in the GitHub Copilot app. It highlights the process of using multiple agents simultaneously, which enhances efficiency and power, making the tool feel less intimidating. The article aims to guide beginners in leveraging this feature effectively."
+      },
+      "summary": "GitHub Copilot应用初级指南：同时运行多个代理。本文介绍了如何在GitHub Copilot应用中并行运行多个代理，帮助用户体验其强大功能，减少使用难度。文章来源于The GitHub Blog。"
+    },
+    {
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "pubDate": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "isoDate": "2026-09-02T21:00:00.000Z",
+      "content": "<p>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/\">Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summaries": {
+        "zh": "GitHub Podcast 解读了开发者讨论中出现的 AI 新术语，包括 loop engineering（循环工程）、harnesses（ harnesses）、squads（小组）和 hill climbing（爬山算法）等。这些术语反映了当前 AI 领域的技术趋势。",
+        "en": "The GitHub Podcast explains AI terminology like \"loops,\" \"harnesses,\" \"squads,\" and \"hill climbing\" used in developer discussions. The post, featured on The GitHub Blog, breaks down these terms to clarify their meanings in AI contexts."
+      },
+      "summary": "GitHub Podcast 解读了开发者讨论中出现的 AI 新术语，包括 loop engineering（循环工程）、harnesses（ harnesses）、squads（小组）和 hill climbing（爬山算法）等。这些术语反映了当前 AI 领域的技术趋势。"
+    },
+    {
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "pubDate": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-02T18:00:00.000Z",
+      "content": "<p>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/\">How we make AI coding more cost efficient without sacrificing task quality</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+      "creator": "Erik Kristensen",
+      "summaries": {
+        "zh": "本文探讨了如何通过GitHub Copilot提升AI编码的成本效益，同时不牺牲任务质量。文章指出，较短的输出可能因重复请求导致成本增加，而GitHub Copilot通过优化整个编码流程，减少了不必要的重复工作，从而提高了成本效率。",
+        "en": "GitHub Copilot enhances AI coding efficiency by reducing wasted work and optimizing output length, ensuring cost-effectiveness without compromising task quality. The blog explains how shorter outputs can sometimes incur higher costs and details Copilot's approach to minimizing unnecessary work across the entire coding process."
+      },
+      "summary": "本文探讨了如何通过GitHub Copilot提升AI编码的成本效益，同时不牺牲任务质量。文章指出，较短的输出可能因重复请求导致成本增加，而GitHub Copilot通过优化整个编码流程，减少了不必要的重复工作，从而提高了成本效率。"
+    },
+    {
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<p>OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/\">OpenClaw went viral. Meet the maintainers building and securing it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
+      "creator": "Gregg Cochran",
+      "summaries": {
+        "zh": "OpenClaw成为GitHub历史上增长最快的项目。Peter Steinberger等维护者分享了项目前六个月的成果与经验。该项目迅速走红，维护团队致力于持续建设与安全保障。",
+        "en": "OpenClaw, the fastest-growing GitHub project, gained viral attention. Maintainers Peter Steinberger and others discuss their experiences securing and developing it during its first six months. The insights were shared on The GitHub Blog."
+      },
+      "summary": "OpenClaw成为GitHub历史上增长最快的项目。Peter Steinberger等维护者分享了项目前六个月的成果与经验。该项目迅速走红，维护团队致力于持续建设与安全保障。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "pubDate": "Wed, 26 Aug 2026 20:12:53 +0000",
+      "isoDate": "2026-08-26T20:12:53.000Z",
+      "content": "<p>Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/\">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.\nThe post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "GitHub Copilot应用可帮助初学者自动化处理Dependabot拉取请求的筛选工作，简化库更新管理。该应用通过自动化重复任务，提高效率。详情请参考GitHub博客文章《GitHub Copilot应用入门：自动化Dependabot拉取请求筛选》。",
+        "en": "The GitHub Copilot app simplifies library updates by automating Dependabot pull request triage. It streamlines repetitive tasks, making the process more efficient for beginners. The tool helps manage and prioritize pull requests, reducing manual effort. For more details, see \"GitHub Copilot app for Beginners: Automate Dependabot pull request triage\" on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot应用可帮助初学者自动化处理Dependabot拉取请求的筛选工作，简化库更新管理。该应用通过自动化重复任务，提高效率。详情请参考GitHub博客文章《GitHub Copilot应用入门：自动化Dependabot拉取请求筛选》。"
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "pubDate": "Tue, 25 Aug 2026 21:35:11 +0000",
+      "isoDate": "2026-08-25T21:35:11.000Z",
+      "content": "<p>These are the lessons we learned evaluating LLMs for real-world secret scanning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/\">How to evaluate LLMs before production</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThe post How to evaluate LLMs before production appeared first on The GitHub Blog.",
+      "creator": "Mariko Wakabayashi",
+      "summaries": {
+        "zh": "评估LLM在生产前的要点：GitHub博客分享了在真实世界秘密扫描中评估LLM的经验。文章总结了评估LLM的关键步骤和注意事项，为企业在实际应用LLM前提供了参考。",
+        "en": "Evaluating LLMs for real-world secret scanning revealed key lessons. The GitHub Blog discusses best practices for pre-production assessment. The article emphasizes thorough testing to ensure reliability and security before deploying LLMs in production environments."
+      },
+      "summary": "评估LLM在生产前的要点：GitHub博客分享了在真实世界秘密扫描中评估LLM的经验。文章总结了评估LLM的关键步骤和注意事项，为企业在实际应用LLM前提供了参考。"
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "pubDate": "Mon, 24 Aug 2026 20:56:32 +0000",
+      "isoDate": "2026-08-24T20:56:32.000Z",
+      "content": "<p>We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/\">Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.\nThe post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.",
+      "creator": "Taarik Ashenafi",
+      "summaries": {
+        "zh": "GitHub开发了一个插件，用于GitHub可访问性扫描器，确保替代文本（alt text）真正可访问。该插件可检测自动检查通过的替代文本是否存在问题。此插件旨在提升替代文本质量，确保其符合可访问性标准。",
+        "en": "The GitHub Accessibility Scanner includes a plugin to verify if alt text meets accessibility standards beyond automated checks. The tool ensures alt text is genuinely usable. The post highlights the importance of quality alt text for accessibility."
+      },
+      "summary": "GitHub开发了一个插件，用于GitHub可访问性扫描器，确保替代文本（alt text）真正可访问。该插件可检测自动检查通过的替代文本是否存在问题。此插件旨在提升替代文本质量，确保其符合可访问性标准。"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "pubDate": "Thu, 20 Aug 2026 18:36:11 +0000",
+      "isoDate": "2026-08-20T18:36:11.000Z",
+      "content": "<p>An update on the August 17 outage and the steps we're taking to improve reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">The August 17 outage, and the work ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+      "creator": "Vlad Fedorov",
+      "summaries": {
+        "zh": "8月17日发生停电事件，GitHub发布更新说明。文章回顾了此次停电情况，并介绍了为提升系统可靠性所采取的改进措施。此次事件暴露了系统弱点，GitHub正通过技术升级和流程优化来预防未来类似问题。",
+        "en": "The August 17 outage impacted service reliability. The update outlines the steps being taken to enhance system stability and prevent future disruptions. The focus is on improving infrastructure and processes to ensure better performance. For more details, refer to the full post on The GitHub Blog."
+      },
+      "summary": "8月17日发生停电事件，GitHub发布更新说明。文章回顾了此次停电情况，并介绍了为提升系统可靠性所采取的改进措施。此次事件暴露了系统弱点，GitHub正通过技术升级和流程优化来预防未来类似问题。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "pubDate": "Wed, 19 Aug 2026 17:50:23 +0000",
+      "isoDate": "2026-08-19T17:50:23.000Z",
+      "content": "<p>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/\">GitHub Copilot app for Beginners: Managing your work</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "GitHub Copilot应用初学者指南：管理工作。若需处理多个Copilot会话，可通过“我的工作”面板追踪进行中、已完成及待办任务。该信息源自GitHub博客。",
+        "en": "The GitHub Copilot app helps beginners manage multiple Copilot sessions. The \"My work\" pane tracks ongoing, completed, and upcoming tasks. This feature simplifies organizing and monitoring Copilot activities. For more details, see \"GitHub Copilot app for Beginners: Managing your work\" on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot应用初学者指南：管理工作。若需处理多个Copilot会话，可通过“我的工作”面板追踪进行中、已完成及待办任务。该信息源自GitHub博客。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T22:56:46.220Z"
+}

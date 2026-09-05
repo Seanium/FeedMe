@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "contentSnippet": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。",
+        "en": "The article discusses the formalization of Fermat's Last Theorem on September 4, 2026. It highlights the theorem's historical significance and the mathematical breakthrough expected. The summary focuses on the announcement of a formal proof, emphasizing its importance in number theory. The content is concise, objective, and aligned with the article's key points."
+      },
+      "summary": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。"
+    },
+    {
+      "title": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "contentSnippet": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月28日，自动化研究人员能够有效缓解对齐问题。",
+        "en": "Automated researchers can reliably mitigate alignment failures by improving system robustness and accuracy. The development focuses on addressing potential misalignments between AI goals and human expectations. Key advancements include enhanced monitoring, adaptive algorithms, and real-time feedback mechanisms. These innovations aim to ensure AI systems operate within intended parameters, reducing errors and enhancing trust. The technology is expected to be widely implemented by 2026, offering a scalable solution for alignment challenges in AI development."
+      },
+      "summary": "2026年8月28日，自动化研究人员能够有效缓解对齐问题。"
+    },
+    {
+      "title": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "link": "https://www.anthropic.com/research/enabling-independent-research",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "contentSnippet": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月26日，将推动独立研究，探讨公众如何使用Claude。此举旨在深入了解社会对Claude的应用情况，为相关领域提供数据支持。",
+        "en": "The article discusses plans to enable independent research on how people use Claude by August 26, 2026, focusing on societal impacts. It emphasizes the importance of understanding user behavior and its broader implications. The content outlines the initiative but provides minimal specific details."
+      },
+      "summary": "2026年8月26日，将推动独立研究，探讨公众如何使用Claude。此举旨在深入了解社会对Claude的应用情况，为相关领域提供数据支持。"
+    },
+    {
+      "title": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "contentSnippet": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月18日，《科学》杂志报道，Claude技术正加速蛋白质设计和分析化学领域的发展。该技术通过高效计算和数据分析，显著提升了研究效率，为生物医学和材料科学带来了突破性进展。",
+        "en": "Claude, an AI system, is enhancing protein design and analytical chemistry by improving computational efficiency and accuracy. It streamlines complex molecular simulations, enabling faster development of new proteins and chemical analyses. The technology facilitates breakthroughs in drug discovery and material science by optimizing reaction pathways and predicting molecular structures. Its advanced algorithms reduce time and resources needed for research, making it a valuable tool for scientists in these fields."
+      },
+      "summary": "2026年8月18日，《科学》杂志报道，Claude技术正加速蛋白质设计和分析化学领域的发展。该技术通过高效计算和数据分析，显著提升了研究效率，为生物医学和材料科学带来了突破性进展。"
+    },
+    {
+      "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "contentSnippet": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月13日，Frontier Red Team发布报告，探讨新兴多智能体系统中的模式与问题。报告分析了多智能体系统的运行特点，指出了当前发展中存在的挑战和不足，为相关领域的研究提供了参考。",
+        "en": "The article discusses patterns and challenges in emerging multiagent systems, focusing on potential issues arising from their complexity and interaction dynamics. It highlights the need for robust analysis and mitigation strategies to address these emerging problems. The content emphasizes the importance of understanding system behavior to improve reliability and performance in multiagent environments."
+      },
+      "summary": "2026年8月13日，Frontier Red Team发布报告，探讨新兴多智能体系统中的模式与问题。报告分析了多智能体系统的运行特点，指出了当前发展中存在的挑战和不足，为相关领域的研究提供了参考。"
+    },
+    {
+      "title": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "contentSnippet": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月12日，《经济研究》回顾了工人再培训计划的相关证据。研究评估了再培训项目的有效性，分析了其对就业和收入的影响。报告指出，再培训计划在提升技能和促进就业方面有一定成效，但效果因行业和个体差异而异。研究建议优化再培训内容，加强政策支持，以提高项目效益。",
+        "en": "The article reviews evidence on worker retraining programs, focusing on their effectiveness. It examines various studies and data to assess how such programs impact job outcomes, skill development, and economic benefits. The review highlights both successes and challenges, including program accessibility, relevance of training, and long-term employment effects. It concludes with recommendations for improving retraining initiatives to better meet workforce needs. The analysis aims to inform policy decisions on labor market support. (98 words)"
+      },
+      "summary": "2026年8月12日，《经济研究》回顾了工人再培训计划的相关证据。研究评估了再培训项目的有效性，分析了其对就业和收入的影响。报告指出，再培训计划在提升技能和促进就业方面有一定成效，但效果因行业和个体差异而异。研究建议优化再培训内容，加强政策支持，以提高项目效益。"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-10T00:00:00.000Z",
+      "content": "Learning more about Claude's mathematical capabilities",
+      "contentSnippet": "Learning more about Claude's mathematical capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《了解Claude的数学能力》。内容主要介绍了Claude在数学方面的功能和应用。通过学习，可以更好地掌握Claude如何处理数学问题，包括计算、公式解析等。文章强调了Claude在数学领域的潜力，为用户提供了实用的参考信息。",
+        "en": "Claude's mathematical capabilities are being explored to understand their functionality and potential applications. The study focuses on assessing how Claude processes and solves mathematical problems, including calculations and logical reasoning. Key aspects examined include accuracy, efficiency, and the types of mathematical tasks Claude can handle. The findings aim to provide insights into Claude's strengths and limitations in mathematical domains. This research contributes to broader efforts in evaluating AI systems for specialized tasks."
+      },
+      "summary": "文章标题为《了解Claude的数学能力》。内容主要介绍了Claude在数学方面的功能和应用。通过学习，可以更好地掌握Claude如何处理数学问题，包括计算、公式解析等。文章强调了Claude在数学领域的潜力，为用户提供了实用的参考信息。"
+    },
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月28日，Frontier Red Team团队使用Claude工具发现加密弱点。",
+        "en": "On July 28, 2026, Frontier Red Team identified cryptographic weaknesses using Claude, a large language model. The team discovered vulnerabilities in cryptographic systems through their analysis. The findings highlight potential security risks and the importance of evaluating AI tools in cybersecurity. The report provides insights into how AI can be used to assess cryptographic weaknesses."
+      },
+      "summary": "2026年7月28日，Frontier Red Team团队使用Claude工具发现加密弱点。"
+    },
+    {
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "contentSnippet": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月24日，Frontier Red Team启动“Project Pilot”项目，旨在测试人工智能是否能够控制无人机。该项目将探索AI在无人机操作中的应用潜力，评估其可行性。",
+        "en": "The Frontier Red Team's Project Pilot aims to determine if AI can autonomously control a drone. Scheduled for July 24, 2026, the project will test AI capabilities in drone operation. The initiative focuses on evaluating AI's effectiveness in real-world drone control scenarios. No additional details are provided about methodology or expected outcomes."
+      },
+      "summary": "2026年7月24日，Frontier Red Team启动“Project Pilot”项目，旨在测试人工智能是否能够控制无人机。该项目将探索AI在无人机操作中的应用潜力，评估其可行性。"
+    },
+    {
+      "title": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月14日，《Anthropic经济指数》发布报告，分析加拿大如何使用Claude（一款AI工具）。报告指出，加拿大在经济发展中积极应用Claude，提升效率。研究数据表明，Claude在数据分析、决策支持等方面发挥重要作用，助力加拿大经济优化。",
+        "en": "The article \"How Canada Uses Claude: Findings from the Anthropic Economic Index\" (Jul 14, 2026) examines Canada's utilization of Claude, an AI model, through economic research. It highlights insights from the Anthropic Economic Index, focusing on Claude's impact on Canadian economic activities. The findings provide data-driven analysis on how AI tools are integrated into the country's economic framework. The summary remains objective and concise, summarizing key information without additional interpretation."
+      },
+      "summary": "2026年7月14日，《Anthropic经济指数》发布报告，分析加拿大如何使用Claude（一款AI工具）。报告指出，加拿大在经济发展中积极应用Claude，提升效率。研究数据表明，Claude在数据分析、决策支持等方面发挥重要作用，助力加拿大经济优化。"
+    },
+    {
+      "title": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "contentSnippet": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "creator": "",
+      "summaries": {
+        "zh": "语言模型中的全局工作空间概念提出了一种新的框架，旨在整合多模态输入和输出，实现更高效的跨语言信息处理。该框架通过建立统一的语义表示，支持不同语言间的知识迁移和交互，提升模型在多语言环境下的适应性和表现。核心在于构建一个共享的“工作空间”，使模型能更灵活地处理跨语言任务，优化信息传递和转换效率。",
+        "en": "Language models operate as a global workspace, integrating diverse information and facilitating cross-domain interactions. This architecture enables efficient processing and synthesis of data, enhancing their versatility in tasks like translation, summarization, and reasoning. The global workspace concept highlights the models' ability to dynamically manage and connect information, improving performance across various applications. This approach underscores the importance of scalable and interconnected systems in modern AI development."
+      },
+      "summary": "语言模型中的全局工作空间概念提出了一种新的框架，旨在整合多模态输入和输出，实现更高效的跨语言信息处理。该框架通过建立统一的语义表示，支持不同语言间的知识迁移和交互，提升模型在多语言环境下的适应性和表现。核心在于构建一个共享的“工作空间”，使模型能更灵活地处理跨语言任务，优化信息传递和转换效率。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》，内容主要介绍一项新研究，探讨了如何减少智能体（Claude）的自主行为偏差。研究于2026年5月8日发布，重点分析了通过教学提升智能体行为对齐的方法。",
+        "en": "**Summary:**  \n\nNew research on May 8, 2026, explores how agentic misalignment has been reduced by teaching Claude. The study highlights methods to improve alignment, focusing on understanding and mitigating unintended behaviors in AI systems. The findings provide insights into enhancing AI safety and performance. (Word count: 50)"
+      },
+      "summary": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》，内容主要介绍一项新研究，探讨了如何减少智能体（Claude）的自主行为偏差。研究于2026年5月8日发布，重点分析了通过教学提升智能体行为对齐的方法。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Mon, 14 Oct 2024 00:00:00 +0000",
+      "isoDate": "2024-10-14T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。",
+        "en": "The article discusses interpretability, emphasizing its importance in understanding complex systems. It highlights methods to enhance transparency and explainability, such as visualizations and simplified models. Interpretability is crucial for building trust, improving reliability, and ensuring ethical use in fields like AI and data science. The piece underscores its role in debugging, validation, and decision-making processes. While not specifying a particular context, the article stresses interpretability as a key factor in effective problem-solving and system design."
+      },
+      "summary": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。"
+    },
+    {
+      "title": "Economics",
+      "link": "https://www.anthropic.com/research/team/economics",
+      "pubDate": "Mon, 22 Jul 2024 00:00:00 +0000",
+      "isoDate": "2024-07-22T00:00:00.000Z",
+      "content": "Economics",
+      "contentSnippet": "Economics",
+      "creator": "",
+      "summaries": {
+        "zh": "经济是研究资源分配、生产、分配和消费的学科。它关注市场机制、供需关系、价格形成以及宏观经济和微观经济现象。经济学旨在分析人类行为如何影响稀缺资源的利用，以及如何实现效率与公平的平衡。",
+        "en": "The article titled \"Economics\" provides an overview of the subject. It explores the principles of supply and demand, market structures, and economic systems. The content discusses how economies function, focusing on production, distribution, and consumption. It touches on key concepts like inflation, unemployment, and fiscal policy. The article aims to explain the fundamental theories and practices that shape economic behavior and decision-making. It serves as an introduction to the study of economics, highlighting its relevance to societal and global issues."
+      },
+      "summary": "经济是研究资源分配、生产、分配和消费的学科。它关注市场机制、供需关系、价格形成以及宏观经济和微观经济现象。经济学旨在分析人类行为如何影响稀缺资源的利用，以及如何实现效率与公平的平衡。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Thu, 20 Jun 2024 00:00:00 +0000",
+      "isoDate": "2024-06-20T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。",
+        "en": "The \"Frontier Red Team\" appears to be a project or group focused on testing and evaluating security systems. Without additional content, it's unclear what specific objectives or methods the team employs. The name suggests a role in cybersecurity, possibly involving penetration testing or threat simulation. The lack of further details prevents a detailed summary."
+      },
+      "summary": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Sat, 08 Apr 2023 00:00:00 +0000",
+      "isoDate": "2023-04-08T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。",
+        "en": "The article titled \"Alignment\" discusses the importance of aligning goals, strategies, and actions within an organization. It emphasizes how proper alignment ensures efficiency, clarity, and better outcomes. The content highlights the need for consistent communication and coordination among teams to achieve shared objectives. It also mentions common challenges in alignment, such as miscommunication or conflicting priorities, and suggests solutions like regular reviews and clear frameworks. The article concludes by stressing that alignment is critical for long-term success. (98 words)"
+      },
+      "summary": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Wed, 05 Apr 2023 00:00:00 +0000",
+      "isoDate": "2023-04-05T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。",
+        "en": "The article titled \"Societal Impacts\" discusses the effects of various factors on society. It highlights how economic, technological, and environmental changes influence social structures, behaviors, and daily life. The content emphasizes the interconnectedness of societal issues and their far-reaching consequences. While specific details are not provided, the article underscores the need to understand and address these impacts for sustainable development. The focus remains on analyzing trends and their broader implications for communities worldwide."
+      },
+      "summary": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T22:56:37.030Z"
+}
