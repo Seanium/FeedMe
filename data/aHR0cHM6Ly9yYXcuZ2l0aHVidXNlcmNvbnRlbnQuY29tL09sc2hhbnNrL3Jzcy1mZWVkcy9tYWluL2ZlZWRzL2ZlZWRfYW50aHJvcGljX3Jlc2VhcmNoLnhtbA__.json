@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "contentSnippet": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月10日，Frontier Red Team发布报告，评估AI模型在战术智能、目标定位和常规武器能力方面的表现。研究旨在衡量AI模型的实战效能，为相关领域提供数据支持。",
+        "en": "The article discusses Frontier Red Team's assessment of AI models, focusing on their tactical intelligence, targeting accuracy, and conventional weapons capabilities. The study aims to evaluate how AI performs in simulated military scenarios. The findings will provide insights into the effectiveness and limitations of AI in tactical operations. The analysis is part of ongoing efforts to understand AI's role in modern warfare. No specific results or conclusions are detailed in the provided text."
+      },
+      "summary": "2026年9月10日，Frontier Red Team发布报告，评估AI模型在战术智能、目标定位和常规武器能力方面的表现。研究旨在衡量AI模型的实战效能，为相关领域提供数据支持。"
+    },
+    {
+      "title": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-09T00:00:00.000Z",
+      "content": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "contentSnippet": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月9日，一份关于近期网络安全事件的协同评估报告发布。报告分析了近期发生的多起网络安全事件，评估了其影响和应对措施。报告指出，这些事件主要涉及数据泄露、网络攻击等，强调了加强网络安全防护的重要性。评估结果为后续的网络安全策略制定提供了参考依据。",
+        "en": "The article \"Sep 9, 2026 Alignment: An alignment assessment of recent cybersecurity incidents\" evaluates recent cybersecurity incidents. It examines patterns, threats, and potential vulnerabilities, providing insights for improved security measures. The assessment aims to identify key trends and suggest strategies to mitigate future risks. The content focuses on analyzing past events to enhance cybersecurity preparedness."
+      },
+      "summary": "2026年9月9日，一份关于近期网络安全事件的协同评估报告发布。报告分析了近期发生的多起网络安全事件，评估了其影响和应对措施。报告指出，这些事件主要涉及数据泄露、网络攻击等，强调了加强网络安全防护的重要性。评估结果为后续的网络安全策略制定提供了参考依据。"
+    },
+    {
+      "title": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "contentSnippet": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。",
+        "en": "The article discusses the formalization of Fermat's Last Theorem on September 4, 2026. It highlights the theorem's historical significance and the mathematical breakthrough expected. The summary focuses on the announcement of a formal proof, emphasizing its importance in number theory. The content is concise, objective, and aligned with the article's key points."
+      },
+      "summary": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。"
+    },
+    {
+      "title": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "contentSnippet": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月28日，自动化研究人员能够有效缓解对齐问题。",
+        "en": "Automated researchers can reliably mitigate alignment failures by improving system robustness and accuracy. The development focuses on addressing potential misalignments between AI goals and human expectations. Key advancements include enhanced monitoring, adaptive algorithms, and real-time feedback mechanisms. These innovations aim to ensure AI systems operate within intended parameters, reducing errors and enhancing trust. The technology is expected to be widely implemented by 2026, offering a scalable solution for alignment challenges in AI development."
+      },
+      "summary": "2026年8月28日，自动化研究人员能够有效缓解对齐问题。"
+    },
+    {
+      "title": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "link": "https://www.anthropic.com/research/enabling-independent-research",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "contentSnippet": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月26日，将推动独立研究，探讨公众如何使用Claude。此举旨在深入了解社会对Claude的应用情况，为相关领域提供数据支持。",
+        "en": "The article discusses plans to enable independent research on how people use Claude by August 26, 2026, focusing on societal impacts. It emphasizes the importance of understanding user behavior and its broader implications. The content outlines the initiative but provides minimal specific details."
+      },
+      "summary": "2026年8月26日，将推动独立研究，探讨公众如何使用Claude。此举旨在深入了解社会对Claude的应用情况，为相关领域提供数据支持。"
+    },
+    {
+      "title": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "contentSnippet": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月18日，《科学》杂志报道，Claude技术正加速蛋白质设计和分析化学领域的发展。该技术通过高效计算和数据分析，显著提升了研究效率，为生物医学和材料科学带来了突破性进展。",
+        "en": "Claude, an AI system, is enhancing protein design and analytical chemistry by improving computational efficiency and accuracy. It streamlines complex molecular simulations, enabling faster development of new proteins and chemical analyses. The technology facilitates breakthroughs in drug discovery and material science by optimizing reaction pathways and predicting molecular structures. Its advanced algorithms reduce time and resources needed for research, making it a valuable tool for scientists in these fields."
+      },
+      "summary": "2026年8月18日，《科学》杂志报道，Claude技术正加速蛋白质设计和分析化学领域的发展。该技术通过高效计算和数据分析，显著提升了研究效率，为生物医学和材料科学带来了突破性进展。"
+    },
+    {
+      "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "contentSnippet": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月13日，Frontier Red Team发布报告，探讨新兴多智能体系统中的模式与问题。报告分析了多智能体系统的运行特点，指出了当前发展中存在的挑战和不足，为相关领域的研究提供了参考。",
+        "en": "The article discusses patterns and challenges in emerging multiagent systems, focusing on potential issues arising from their complexity and interaction dynamics. It highlights the need for robust analysis and mitigation strategies to address these emerging problems. The content emphasizes the importance of understanding system behavior to improve reliability and performance in multiagent environments."
+      },
+      "summary": "2026年8月13日，Frontier Red Team发布报告，探讨新兴多智能体系统中的模式与问题。报告分析了多智能体系统的运行特点，指出了当前发展中存在的挑战和不足，为相关领域的研究提供了参考。"
+    },
+    {
+      "title": "Aug 12, 2026EconomicsReviewing the evidence on worker retraining programs",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "Aug 12, 2026EconomicsReviewing the evidence on worker retraining programs",
+      "contentSnippet": "Aug 12, 2026EconomicsReviewing the evidence on worker retraining programs",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年8月12日，《经济研究》回顾了工人再培训计划的相关证据。研究评估了再培训项目的有效性，分析了其对就业和收入的影响。报告指出，再培训计划在提升技能和促进就业方面有一定成效，但效果因行业和个体差异而异。研究建议优化再培训内容，加强政策支持，以提高项目效益。",
+        "en": "The article reviews evidence on worker retraining programs, focusing on their effectiveness. It examines various studies and data to assess how such programs impact job outcomes, skill development, and economic benefits. The review highlights both successes and challenges, including program accessibility, relevance of training, and long-term employment effects. It concludes with recommendations for improving retraining initiatives to better meet workforce needs. The analysis aims to inform policy decisions on labor market support. (98 words)"
+      },
+      "summary": "2026年8月12日，《经济研究》回顾了工人再培训计划的相关证据。研究评估了再培训项目的有效性，分析了其对就业和收入的影响。报告指出，再培训计划在提升技能和促进就业方面有一定成效，但效果因行业和个体差异而异。研究建议优化再培训内容，加强政策支持，以提高项目效益。"
+    },
+    {
+      "title": "ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-10T00:00:00.000Z",
+      "content": "ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.",
+      "contentSnippet": "ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《了解Claude的数学能力》。内容主要介绍了Claude在数学方面的功能和应用。通过学习，可以更好地掌握Claude如何处理数学问题，包括计算、公式解析等。文章强调了Claude在数学领域的潜力，为用户提供了实用的参考信息。",
+        "en": "Claude's mathematical capabilities are being explored to understand their functionality and potential applications. The study focuses on assessing how Claude processes and solves mathematical problems, including calculations and logical reasoning. Key aspects examined include accuracy, efficiency, and the types of mathematical tasks Claude can handle. The findings aim to provide insights into Claude's strengths and limitations in mathematical domains. This research contributes to broader efforts in evaluating AI systems for specialized tasks."
+      },
+      "summary": "文章标题为《了解Claude的数学能力》。内容主要介绍了Claude在数学方面的功能和应用。通过学习，可以更好地掌握Claude如何处理数学问题，包括计算、公式解析等。文章强调了Claude在数学领域的潜力，为用户提供了实用的参考信息。"
+    },
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月28日，Frontier Red Team团队使用Claude工具发现加密弱点。",
+        "en": "On July 28, 2026, Frontier Red Team identified cryptographic weaknesses using Claude, a large language model. The team discovered vulnerabilities in cryptographic systems through their analysis. The findings highlight potential security risks and the importance of evaluating AI tools in cybersecurity. The report provides insights into how AI can be used to assess cryptographic weaknesses."
+      },
+      "summary": "2026年7月28日，Frontier Red Team团队使用Claude工具发现加密弱点。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Fri, 25 Oct 2024 00:00:00 +0000",
+      "isoDate": "2024-10-25T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。",
+        "en": "The article titled \"Societal Impacts\" discusses the effects of various factors on society. It highlights how economic, technological, and environmental changes influence social structures, behaviors, and daily life. The content emphasizes the interconnectedness of societal issues and their far-reaching consequences. While specific details are not provided, the article underscores the need to understand and address these impacts for sustainable development. The focus remains on analyzing trends and their broader implications for communities worldwide."
+      },
+      "summary": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Wed, 16 Oct 2024 00:00:00 +0000",
+      "isoDate": "2024-10-16T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。",
+        "en": "The article titled \"Alignment\" discusses the importance of aligning goals, strategies, and actions within an organization. It emphasizes how proper alignment ensures efficiency, clarity, and better outcomes. The content highlights the need for consistent communication and coordination among teams to achieve shared objectives. It also mentions common challenges in alignment, such as miscommunication or conflicting priorities, and suggests solutions like regular reviews and clear frameworks. The article concludes by stressing that alignment is critical for long-term success. (98 words)"
+      },
+      "summary": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。"
+    },
+    {
+      "title": "Economics",
+      "link": "https://www.anthropic.com/research/team/economics",
+      "pubDate": "Wed, 24 Jan 2024 00:00:00 +0000",
+      "isoDate": "2024-01-24T00:00:00.000Z",
+      "content": "Economics",
+      "contentSnippet": "Economics",
+      "creator": "",
+      "summaries": {
+        "zh": "经济是研究资源分配、生产、分配和消费的学科。它关注市场机制、供需关系、价格形成以及宏观经济和微观经济现象。经济学旨在分析人类行为如何影响稀缺资源的利用，以及如何实现效率与公平的平衡。",
+        "en": "The article titled \"Economics\" provides an overview of the subject. It explores the principles of supply and demand, market structures, and economic systems. The content discusses how economies function, focusing on production, distribution, and consumption. It touches on key concepts like inflation, unemployment, and fiscal policy. The article aims to explain the fundamental theories and practices that shape economic behavior and decision-making. It serves as an introduction to the study of economics, highlighting its relevance to societal and global issues."
+      },
+      "summary": "经济是研究资源分配、生产、分配和消费的学科。它关注市场机制、供需关系、价格形成以及宏观经济和微观经济现象。经济学旨在分析人类行为如何影响稀缺资源的利用，以及如何实现效率与公平的平衡。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Thu, 31 Aug 2023 00:00:00 +0000",
+      "isoDate": "2023-08-31T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。",
+        "en": "The \"Frontier Red Team\" appears to be a project or group focused on testing and evaluating security systems. Without additional content, it's unclear what specific objectives or methods the team employs. The name suggests a role in cybersecurity, possibly involving penetration testing or threat simulation. The lack of further details prevents a detailed summary."
+      },
+      "summary": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Mon, 15 May 2023 00:00:00 +0000",
+      "isoDate": "2023-05-15T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。",
+        "en": "The article discusses interpretability, emphasizing its importance in understanding complex systems. It highlights methods to enhance transparency and explainability, such as visualizations and simplified models. Interpretability is crucial for building trust, improving reliability, and ensuring ethical use in fields like AI and data science. The piece underscores its role in debugging, validation, and decision-making processes. While not specifying a particular context, the article stresses interpretability as a key factor in effective problem-solving and system design."
+      },
+      "summary": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:00:52.447Z"
+}

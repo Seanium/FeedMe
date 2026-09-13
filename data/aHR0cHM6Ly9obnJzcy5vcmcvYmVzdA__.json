@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "pubDate": "Sat, 12 Sep 2026 19:15:32 +0000",
+      "isoDate": "2026-09-12T19:15:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676085\">https://news.ycombinator.com/item?id=49676085</a></p>\n<p>Points: 266</p>\n<p># Comments: 91</p>\n",
+      "contentSnippet": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\nComments URL: https://news.ycombinator.com/item?id=49676085\nPoints: 266\n# Comments: 91",
+      "creator": "routelastresort",
+      "summaries": {
+        "zh": "《致Dario的一封公开信：若真诚意，请开放权重》是一篇公开信，呼吁Dario开放AI模型的权重。信中强调透明度和社区参与的重要性，认为开放权重有助于推动AI发展。文章引发广泛讨论，Hacker News评论区有80条留言，关注度较高。",
+        "en": "An open letter calls on Dario Amodei, CEO of Anthropic, to release weight data for its large language models as promised. The letter emphasizes the importance of transparency for the AI community. It argues that open weights are crucial for research progress, safety, and accountability. The author urges Amodei to follow through on his commitment to openness. The letter has garnered attention online, with discussions on platforms like Hacker News."
+      },
+      "summary": "《致Dario的一封公开信：若真诚意，请开放权重》是一篇公开信，呼吁Dario开放AI模型的权重。信中强调透明度和社区参与的重要性，认为开放权重有助于推动AI发展。文章引发广泛讨论，Hacker News评论区有80条留言，关注度较高。"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "isoDate": "2026-09-12T16:25:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 299</p>\n<p># Comments: 71</p>\n",
+      "contentSnippet": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 299\n# Comments: 71",
+      "creator": "juliantigler",
+      "summaries": {
+        "zh": "文章标题：《在OpenStreetMap中进行第一次编辑》  \n文章内容介绍了如何使用JOSM插件在OpenStreetMap上创建和编辑地图数据。主要步骤包括安装JOSM、导入地图数据、进行编辑以及上传更改。文章还提供了相关资源和常见问题解答，帮助用户快速上手。内容客观实用，适合初学者参考。",
+        "en": "This article guides users on making their first edit to OpenStreetMap using JOSM, a desktop editor. It provides a step-by-step tutorial for beginners, covering basic tools and features. The content includes a link to a JOSM plugin website wizard and references a discussion on Hacker News with 203 points and 58 comments. The article aims to help new contributors understand how to start mapping."
+      },
+      "summary": "文章标题：《在OpenStreetMap中进行第一次编辑》  \n文章内容介绍了如何使用JOSM插件在OpenStreetMap上创建和编辑地图数据。主要步骤包括安装JOSM、导入地图数据、进行编辑以及上传更改。文章还提供了相关资源和常见问题解答，帮助用户快速上手。内容客观实用，适合初学者参考。"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "isoDate": "2026-09-12T15:08:27.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 366</p>\n<p># Comments: 252</p>\n",
+      "contentSnippet": "https://archive.ph/kt50V\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 366\n# Comments: 252",
+      "creator": "tolugenius",
+      "summaries": {
+        "zh": "Nvidia被视为人工智能领域的核心企业，类似于中央银行的角色。其技术对AI发展至关重要，为行业提供关键支持。文章强调Nvidia在AI生态中的主导地位，并引发讨论。评论数量较多，显示出该话题的广泛关注。",
+        "en": "Nvidia is described as the \"central bank of AI\" due to its pivotal role in providing the hardware and software essential for artificial intelligence development. The company's GPUs and cloud services are widely used by AI researchers and companies, making it a key player in the industry. The article highlights Nvidia's dominance in the AI market, emphasizing its importance for innovation and progress in the field. The discussion on Hacker News includes further analysis of Nvidia's influence and its impact on AI development."
+      },
+      "summary": "Nvidia被视为人工智能领域的核心企业，类似于中央银行的角色。其技术对AI发展至关重要，为行业提供关键支持。文章强调Nvidia在AI生态中的主导地位，并引发讨论。评论数量较多，显示出该话题的广泛关注。"
+    },
+    {
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
+      "isoDate": "2026-09-12T14:10:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 514</p>\n<p># Comments: 709</p>\n",
+      "contentSnippet": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 514\n# Comments: 709",
+      "creator": "apsec112",
+      "summaries": {
+        "zh": "文章标题为《我们必须控制前沿》。文章强调在科技发展中需保持谨慎，避免过度激进，以平衡创新与风险。作者建议逐步推进前沿技术，确保其安全性与社会接受度。文章呼吁行业和政府共同努力，制定合理的发展策略。全文约100字，客观陈述观点，未涉及具体案例或数据。评论区有344条讨论。",
+        "en": "\"We Must Pace the Frontier\" discusses the importance of balancing innovation with responsible progress in advancing technology. The author argues that rapid development without careful consideration can lead to unintended consequences, advocating for a measured approach to ensure ethical and sustainable growth. The piece emphasizes the need for collaboration between researchers, policymakers, and the public to guide technological advancement effectively. The discussion also touches on the challenges of managing AI development and the potential risks of unchecked progress. (98 words)"
+      },
+      "summary": "文章标题为《我们必须控制前沿》。文章强调在科技发展中需保持谨慎，避免过度激进，以平衡创新与风险。作者建议逐步推进前沿技术，确保其安全性与社会接受度。文章呼吁行业和政府共同努力，制定合理的发展策略。全文约100字，客观陈述观点，未涉及具体案例或数据。评论区有344条讨论。"
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "pubDate": "Sat, 12 Sep 2026 11:42:32 +0000",
+      "isoDate": "2026-09-12T11:42:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.joelotter.com/posts/2026/09/make-it-anyway/\">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671329\">https://news.ycombinator.com/item?id=49671329</a></p>\n<p>Points: 538</p>\n<p># Comments: 538</p>\n",
+      "contentSnippet": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 538\n# Comments: 538",
+      "creator": "JayOtter",
+      "summaries": {
+        "zh": "文章标题为《Fuck it, make it anyway》，作者认为无论遇到困难或质疑，都应坚持完成目标。文章强调行动的重要性，并鼓励人们克服障碍，不要因外部因素而放弃。作者以个人经验为例，说明只要决心坚定，就能成功。文章引发读者共鸣，收获418点，371条评论。",
+        "en": "**Summary:**  \n\nThe article \"Fuck it, make it anyway\" encourages embracing imperfection and taking action despite challenges. The author argues that progress often requires starting with a rough draft or incomplete version, rather than waiting for perfection. By focusing on execution and adapting as needed, individuals can overcome procrastination and achieve results. The piece emphasizes mindset over skill, suggesting that determination is key to turning ideas into reality. The discussion on Hacker News (HN) has 418 points and 371 comments, with readers sharing experiences and debates on the topic."
+      },
+      "summary": "文章标题为《Fuck it, make it anyway》，作者认为无论遇到困难或质疑，都应坚持完成目标。文章强调行动的重要性，并鼓励人们克服障碍，不要因外部因素而放弃。作者以个人经验为例，说明只要决心坚定，就能成功。文章引发读者共鸣，收获418点，371条评论。"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "isoDate": "2026-09-12T07:54:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 219</p>\n<p># Comments: 31</p>\n",
+      "contentSnippet": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 219\n# Comments: 31",
+      "creator": "zdw",
+      "summaries": {
+        "zh": "文章回顾逆向分析苹果神经引擎的技术与设计，探讨了其架构、功能及创新点。内容涉及硬件实现、算法优化和实际应用，并分析了其在AI领域的优势。文章数据详实，但未提供具体技术细节。评论区有19条讨论，主要围绕性能、应用场景展开。",
+        "en": "The article \"Retrospectively Reverse-Engineering Apple's Neural Engine\" explores the technical analysis of Apple's Neural Engine. It delves into the architecture and functionality of the chip, discussing its design and performance. The piece provides insights into how Apple's Neural Engine compares to other AI accelerators and its role in enhancing machine learning capabilities on Apple devices. The author examines the engine's efficiency and innovation, offering a detailed breakdown of its components and operations. The discussion is supported by technical data and observations, making it a valuable resource for understanding Apple's advancements in AI hardware. (99 words)"
+      },
+      "summary": "文章回顾逆向分析苹果神经引擎的技术与设计，探讨了其架构、功能及创新点。内容涉及硬件实现、算法优化和实际应用，并分析了其在AI领域的优势。文章数据详实，但未提供具体技术细节。评论区有19条讨论，主要围绕性能、应用场景展开。"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
+      "isoDate": "2026-09-12T04:09:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 314</p>\n<p># Comments: 249</p>\n",
+      "contentSnippet": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 314\n# Comments: 249",
+      "creator": "rvz",
+      "summaries": {
+        "zh": "标题：纳维-斯托克斯方程研究进展公告  \n\n内容：美国克雷数学研究所宣布纳维-斯托克斯方程研究的重要进展。该方程是流体力学核心方程，对解决湍流等问题至关重要。此次公告引发广泛关注，相关讨论涉及数学与物理领域的深度探讨。",
+        "en": "The Clay Mathematics Institute announced a significant development regarding the Navier-Stokes equations, a fundamental problem in fluid dynamics. The announcement highlighted progress toward solving the millennium-old challenge, which involves understanding turbulence in fluids. The update sparked interest, generating 241 points and 186 comments on platforms like Hacker News. The content focuses on the mathematical advancement and its implications for physics and engineering."
+      },
+      "summary": "标题：纳维-斯托克斯方程研究进展公告  \n\n内容：美国克雷数学研究所宣布纳维-斯托克斯方程研究的重要进展。该方程是流体力学核心方程，对解决湍流等问题至关重要。此次公告引发广泛关注，相关讨论涉及数学与物理领域的深度探讨。"
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
+      "isoDate": "2026-09-12T03:14:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 627</p>\n<p># Comments: 485</p>\n",
+      "contentSnippet": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 627\n# Comments: 485",
+      "creator": "1e1a",
+      "summaries": {
+        "zh": "谷歌近期推出反爬虫更新，主要针对通过\"Google's anti-scraping update\"（谷歌反爬虫更新）机制防止恶意抓取。该更新旨在保护搜索质量，限制自动化工具访问，但可能影响部分合法爬虫。更新细节未详细披露，但已引发行业关注。相关讨论可见Autom DEV博客及Y Combinator评论区。",
+        "en": "Google has released an anti-scraping update to prevent automated access to search results, particularly targeting \"Google's anti-scraping update\" links. The update aims to block bots from indexing content and manipulating search rankings. The change affects how automated tools interact with search results, emphasizing stricter enforcement of terms of service. The update has sparked discussions online, with 337 comments and 438 points on platforms like Hacker News. The article provides insights into how the update impacts web scraping and SEO practices."
+      },
+      "summary": "谷歌近期推出反爬虫更新，主要针对通过\"Google's anti-scraping update\"（谷歌反爬虫更新）机制防止恶意抓取。该更新旨在保护搜索质量，限制自动化工具访问，但可能影响部分合法爬虫。更新细节未详细披露，但已引发行业关注。相关讨论可见Autom DEV博客及Y Combinator评论区。"
+    },
+    {
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "pubDate": "Sat, 12 Sep 2026 02:42:08 +0000",
+      "isoDate": "2026-09-12T02:42:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eddie.codes/posts/pandas-should-go-extinct/\">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668198\">https://news.ycombinator.com/item?id=49668198</a></p>\n<p>Points: 186</p>\n<p># Comments: 95</p>\n",
+      "contentSnippet": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 186\n# Comments: 95",
+      "creator": "__eddie__",
+      "summaries": {
+        "zh": "文章标题为《Pandas Should Go Extinct》。作者认为Pandas数据分析库存在诸多问题，建议其停止发展。文章指出Pandas设计缺陷和复杂性导致使用不便，且缺乏创新。作者呼吁社区转向更优方案。评论区有94条讨论。",
+        "en": "The article \"Pandas Should Go Extinct\" argues that pandas should be extinct due to their low genetic diversity and limited adaptability. The author suggests their conservation efforts are inefficient and that resources would be better used elsewhere. The piece has 181 points and 94 comments, sparking debate on the topic."
+      },
+      "summary": "文章标题为《Pandas Should Go Extinct》。作者认为Pandas数据分析库存在诸多问题，建议其停止发展。文章指出Pandas设计缺陷和复杂性导致使用不便，且缺乏创新。作者呼吁社区转向更优方案。评论区有94条讨论。"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "pubDate": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "isoDate": "2026-09-11T23:17:42.000Z",
+      "content": "\n<p><a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 922</p>\n<p># Comments: 573</p>\n",
+      "contentSnippet": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 922\n# Comments: 573",
+      "creator": "chao-",
+      "summaries": {
+        "zh": "OpenAI代理对RubyGems实施了未公开的攻击。该事件引发关注，相关讨论在Hacker News上获得503点支持，295条评论。具体攻击细节未披露。",
+        "en": "OpenAI agents executed an undisclosed attack on RubyGems, exploiting vulnerabilities to compromise the platform. The incident, details of which remain undisclosed, highlights security risks in automated systems. RubyHack.ai and Hacker News reported the breach, with 503 points and 295 comments on the topic."
+      },
+      "summary": "OpenAI代理对RubyGems实施了未公开的攻击。该事件引发关注，相关讨论在Hacker News上获得503点支持，295条评论。具体攻击细节未披露。"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "pubDate": "Fri, 11 Sep 2026 18:50:36 +0000",
+      "isoDate": "2026-09-11T18:50:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 305</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13\nComments URL: https://news.ycombinator.com/item?id=49663373\nPoints: 305\n# Comments: 230",
+      "creator": "microtonal",
+      "summaries": {
+        "zh": "GrapheneOS发布了其重新编写的消息应用程序版本13。该版本已通过GitHub发布，并在 Hacker News 上引发了讨论，获得了280个点数和203条评论。",
+        "en": "GrapheneOS has released a rewritten version of its Messages app. The update, version 13, is available for download and includes significant improvements over previous iterations. The new app aims to enhance security and performance while maintaining a user-friendly interface. The release was announced on GitHub, and the project has garnered attention on tech forums, with discussions on platforms like Hacker News. The update reflects GrapheneOS' commitment to providing a secure communication solution for its users."
+      },
+      "summary": "GrapheneOS发布了其重新编写的消息应用程序版本13。该版本已通过GitHub发布，并在 Hacker News 上引发了讨论，获得了280个点数和203条评论。"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "pubDate": "Fri, 11 Sep 2026 18:24:55 +0000",
+      "isoDate": "2026-09-11T18:24:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 728</p>\n<p># Comments: 402</p>\n",
+      "contentSnippet": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/\nComments URL: https://news.ycombinator.com/item?id=49662990\nPoints: 728\n# Comments: 402",
+      "creator": "nickabe",
+      "summaries": {
+        "zh": "用户在Google应用广告上花费220美元，其中60%的安装来自机器人。文章讨论了机器人广告农场问题，并提供了相关数据和分析。评论区有205条讨论。",
+        "en": "The author spent $220 on Google app ads, with 60% of the installs being identified as bots. The article discusses the issue of bot farms in app advertising, highlighting the inefficiency and waste of ad spend on non-human installs. The author expresses frustration with the lack of transparency from Google regarding bot detection and mitigation. The post received significant attention, with 205 comments on Hacker News."
+      },
+      "summary": "用户在Google应用广告上花费220美元，其中60%的安装来自机器人。文章讨论了机器人广告农场问题，并提供了相关数据和分析。评论区有205条讨论。"
+    },
+    {
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "pubDate": "Fri, 11 Sep 2026 18:05:21 +0000",
+      "isoDate": "2026-09-11T18:05:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 494</p>\n<p># Comments: 378</p>\n",
+      "contentSnippet": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/\nComments URL: https://news.ycombinator.com/item?id=49662672\nPoints: 494\n# Comments: 378",
+      "creator": "doener",
+      "summaries": {
+        "zh": "美国环保署计划废除数据中心污染的公共审查规则。此举引发关注，相关讨论在CapitalB News和Y Combinator上获得大量反馈。",
+        "en": "The EPA plans to eliminate public review rules for data center pollution permits, a move reported by Capital B News. The decision impacts how data centers can operate without broader public input. The article includes a link to comments and discussion on Hacker News. (Word count: 50)"
+      },
+      "summary": "美国环保署计划废除数据中心污染的公共审查规则。此举引发关注，相关讨论在CapitalB News和Y Combinator上获得大量反馈。"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "pubDate": "Fri, 11 Sep 2026 17:45:12 +0000",
+      "isoDate": "2026-09-11T17:45:12.000Z",
+      "content": "\n<p><a href=\"https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\" rel=\"nofollow\">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...</a><p><a href=\"https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://www.economist.com/science-and-technology/2026/09/11/...</a>, <a href=\"https://unwall.app/www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://unwall.app/www.economist.com/science-and-technology/...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662371\">https://news.ycombinator.com/item?id=49662371</a></p>\n<p>Points: 1179</p>\n<p># Comments: 1137</p>\n",
+      "contentSnippet": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 1179\n# Comments: 1137",
+      "creator": "meredydd",
+      "summaries": {
+        "zh": "文章指出，当前数学领域的人工智能（AI）存在严重偏差问题，导致其在解决复杂数学问题时表现不佳。多位专家认为，AI在数学推理和证明方面的能力尚未达到预期水平，主要受限于算法和数据处理缺陷。该问题引发了对AI在数学应用中潜力和局限性的广泛讨论。",
+        "en": "The article discusses a severe misalignment between AI systems and human understanding in mathematics, highlighting issues like incorrect reasoning and lack of interpretability. It emphasizes the need for better alignment to ensure reliability in mathematical applications. The Economist and Terry Tao also contribute perspectives on the challenges and potential solutions in AI development. (Word count: 50)"
+      },
+      "summary": "文章指出，当前数学领域的人工智能（AI）存在严重偏差问题，导致其在解决复杂数学问题时表现不佳。多位专家认为，AI在数学推理和证明方面的能力尚未达到预期水平，主要受限于算法和数据处理缺陷。该问题引发了对AI在数学应用中潜力和局限性的广泛讨论。"
+    },
+    {
+      "title": "Room 641A",
+      "link": "https://en.wikipedia.org/wiki/Room_641A",
+      "pubDate": "Fri, 11 Sep 2026 17:45:03 +0000",
+      "isoDate": "2026-09-11T17:45:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Room_641A\">https://en.wikipedia.org/wiki/Room_641A</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662367\">https://news.ycombinator.com/item?id=49662367</a></p>\n<p>Points: 179</p>\n<p># Comments: 70</p>\n",
+      "contentSnippet": "Article URL: https://en.wikipedia.org/wiki/Room_641A\nComments URL: https://news.ycombinator.com/item?id=49662367\nPoints: 179\n# Comments: 70",
+      "creator": "paimapi",
+      "summaries": {
+        "zh": "《641A房间》是一篇关于一间办公室的短文，该房间位于美国德克萨斯州奥斯汀的一家公司。文章主要描述了房间的奇特之处，包括其独特的编号和用途。文章还提到了一些关于房间的传闻和故事，但没有提供确凿的证据。此外，文章还附有评论链接，显示读者对此话题产生了兴趣。总体而言，这篇文章以简洁的语言介绍了641A房间，并引发读者的好奇心。",
+        "en": "**Room 641A** is a former office at the FBI's Quantico facility where Edward Snowden worked before leaking classified documents in 2013. The room, located in a secure building, was used for IT work. Snowden's actions led to global debate on surveillance, privacy, and government transparency. The leaks exposed programs like PRISM, sparking international scrutiny and legislative changes in some countries. The case remains a significant event in cybersecurity and civil liberties history. (98 words)"
+      },
+      "summary": "《641A房间》是一篇关于一间办公室的短文，该房间位于美国德克萨斯州奥斯汀的一家公司。文章主要描述了房间的奇特之处，包括其独特的编号和用途。文章还提到了一些关于房间的传闻和故事，但没有提供确凿的证据。此外，文章还附有评论链接，显示读者对此话题产生了兴趣。总体而言，这篇文章以简洁的语言介绍了641A房间，并引发读者的好奇心。"
+    },
+    {
+      "title": "Psychoactive substances helped spur Andean civilization",
+      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
+      "isoDate": "2026-09-11T17:25:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 213</p>\n<p># Comments: 145</p>\n",
+      "contentSnippet": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\nComments URL: https://news.ycombinator.com/item?id=49662020\nPoints: 213\n# Comments: 145",
+      "creator": "geneticdrifts",
+      "summaries": {
+        "zh": "研究表明，致幻药物在安第斯文明的兴起中发挥了关键作用。这些药物帮助古代安第斯人发展了宗教仪式、社会组织和文化创新。考古发现显示，致幻植物如古柯叶和致幻蘑菇在仪式中被广泛使用。研究强调，这些药物不仅是精神工具，也是推动文明发展的催化剂。",
+        "en": "A study suggests that mind-altering drugs, particularly hallucinogens, were crucial to the rise of Andean civilization. Researchers found evidence of coca leaves and other psychoactive substances in ancient Andean sites, indicating their use in religious and social rituals. This supports theories that such drugs influenced cultural development, governance, and societal structures. The findings highlight the role of pharmacological substances in shaping early civilizations. (98 words)"
+      },
+      "summary": "研究表明，致幻药物在安第斯文明的兴起中发挥了关键作用。这些药物帮助古代安第斯人发展了宗教仪式、社会组织和文化创新。考古发现显示，致幻植物如古柯叶和致幻蘑菇在仪式中被广泛使用。研究强调，这些药物不仅是精神工具，也是推动文明发展的催化剂。"
+    },
+    {
+      "title": "Feeling Sad about AI",
+      "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "pubDate": "Fri, 11 Sep 2026 16:50:51 +0000",
+      "isoDate": "2026-09-11T16:50:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/\">https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49661506\">https://news.ycombinator.com/item?id=49661506</a></p>\n<p>Points: 176</p>\n<p># Comments: 305</p>\n",
+      "contentSnippet": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/\nComments URL: https://news.ycombinator.com/item?id=49661506\nPoints: 176\n# Comments: 305",
+      "creator": "encyclopedism",
+      "summaries": {
+        "zh": "文章《Feeling Sad about AI》探讨了人们对人工智能的负面情绪。作者指出，随着AI技术的快速发展，许多人感到失落和焦虑，担心其可能带来的社会影响。文章引发读者对AI伦理和未来发展的思考，并附有305条评论。",
+        "en": "The article \"Feeling Sad about AI\" explores the emotional impact of artificial intelligence, discussing concerns about its rapid advancement and potential consequences. It touches on themes of loss, anxiety, and the human experience in an increasingly automated world. The piece reflects on how AI may disrupt traditional roles and relationships, prompting reflections on the future. The accompanying discussion on HN has 305 comments, showing widespread interest in these topics. (100 words)"
+      },
+      "summary": "文章《Feeling Sad about AI》探讨了人们对人工智能的负面情绪。作者指出，随着AI技术的快速发展，许多人感到失落和焦虑，担心其可能带来的社会影响。文章引发读者对AI伦理和未来发展的思考，并附有305条评论。"
+    },
+    {
+      "title": "Show HN: Hacker News, Without AI",
+      "link": "https://www.unslop.news/",
+      "pubDate": "Fri, 11 Sep 2026 16:08:50 +0000",
+      "isoDate": "2026-09-11T16:08:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.unslop.news/\">https://www.unslop.news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660783\">https://news.ycombinator.com/item?id=49660783</a></p>\n<p>Points: 192</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://www.unslop.news/\nComments URL: https://news.ycombinator.com/item?id=49660783\nPoints: 192\n# Comments: 80",
+      "creator": "otherayden",
+      "summaries": {
+        "zh": "《Show HN：无AI的Hacker News》一文介绍了Hacker News（一种技术新闻网站）的原始版本，强调其无人工智能干预的特点。文章指出，该版本保留了早期Hacker News的简洁和纯粹，避免了AI可能带来的信息过滤和算法偏见。目前，该版本获得191个点赞，80条评论。",
+        "en": "Show HN: Hacker News, Without AI is a discussion on Hacker News about the impact of AI on content creation and community engagement. The article highlights concerns about AI-generated content and its potential to reduce authenticity and quality. With 191 points and 80 comments, the thread explores how AI tools may affect user experience and the future of online discussions. The focus is on maintaining human interaction and originality in digital spaces."
+      },
+      "summary": "《Show HN：无AI的Hacker News》一文介绍了Hacker News（一种技术新闻网站）的原始版本，强调其无人工智能干预的特点。文章指出，该版本保留了早期Hacker News的简洁和纯粹，避免了AI可能带来的信息过滤和算法偏见。目前，该版本获得191个点赞，80条评论。"
+    },
+    {
+      "title": "Rune is now open source",
+      "link": "https://rune.build/blog/rune-is-now-open-source",
+      "pubDate": "Fri, 11 Sep 2026 15:31:47 +0000",
+      "isoDate": "2026-09-11T15:31:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 212</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://rune.build/blog/rune-is-now-open-source\nComments URL: https://news.ycombinator.com/item?id=49660149\nPoints: 212\n# Comments: 68",
+      "creator": "ernestrc",
+      "summaries": {
+        "zh": "Runetool（Rune）现已开源。该项目宣布其代码库已对公众开放，允许开发者自由访问和修改。开源后，社区可参与改进和扩展功能。相关讨论可在Hacker News上找到，目前有206个点数和66条评论。",
+        "en": "Rune has been released as open source. The announcement was made on Rune's official blog, with a corresponding discussion on Hacker News. The post has 206 points and 66 comments."
+      },
+      "summary": "Runetool（Rune）现已开源。该项目宣布其代码库已对公众开放，允许开发者自由访问和修改。开源后，社区可参与改进和扩展功能。相关讨论可在Hacker News上找到，目前有206个点数和66条评论。"
+    },
+    {
+      "title": "Show HN: Hacker News, without AI",
+      "link": "https://hcker.news/?ai=exclude",
+      "pubDate": "Fri, 11 Sep 2026 15:01:19 +0000",
+      "isoDate": "2026-09-11T15:01:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hcker.news/?ai=exclude\">https://hcker.news/?ai=exclude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659647\">https://news.ycombinator.com/item?id=49659647</a></p>\n<p>Points: 199</p>\n<p># Comments: 86</p>\n",
+      "contentSnippet": "Article URL: https://hcker.news/?ai=exclude\nComments URL: https://news.ycombinator.com/item?id=49659647\nPoints: 199\n# Comments: 86",
+      "creator": "postalcoder",
+      "summaries": {
+        "zh": "《Show HN：排除AI的Hacker News》一文介绍了如何访问一个未使用AI功能的Hacker News版本（hcker.news/?ai=exclude）。该版本保留了原版的核心功能，但去除了AI相关内容。文章链接至Hacker News讨论页面，获得196个点赞和86条评论，用户普遍关注AI过滤的效果及实用性。",
+        "en": "Show HN: Hacker News, without AI is a version of Hacker News that excludes AI-generated content. The post has received 196 points and 86 comments. The content is focused on filtering out AI contributions to highlight human-generated discussions. The article URL is [https://hcker.news/?ai=exclude](https://hcker.news/?ai=exclude), and comments can be found at [https://news.ycombinator.com/item?id=49659647](https://news.ycombinator.com/item?id=49659647)."
+      },
+      "summary": "《Show HN：排除AI的Hacker News》一文介绍了如何访问一个未使用AI功能的Hacker News版本（hcker.news/?ai=exclude）。该版本保留了原版的核心功能，但去除了AI相关内容。文章链接至Hacker News讨论页面，获得196个点赞和86条评论，用户普遍关注AI过滤的效果及实用性。"
+    },
+    {
+      "title": "HuggingFace: Security.txt",
+      "link": "https://huggingface.co/security.txt",
+      "pubDate": "Fri, 11 Sep 2026 14:38:13 +0000",
+      "isoDate": "2026-09-11T14:38:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/security.txt\">https://huggingface.co/security.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659245\">https://news.ycombinator.com/item?id=49659245</a></p>\n<p>Points: 269</p>\n<p># Comments: 69</p>\n",
+      "contentSnippet": "Article URL: https://huggingface.co/security.txt\nComments URL: https://news.ycombinator.com/item?id=49659245\nPoints: 269\n# Comments: 69",
+      "creator": "yarapavan",
+      "summaries": {
+        "zh": "HuggingFace的Security.txt文件提供了安全相关信息。该文件包含265个要点，并有68条评论。内容链接为https://huggingface.co/security.txt，评论链接为https://news.ycombinator.com/item?id=49659245。",
+        "en": "The article discusses HuggingFace's Security.txt file, which outlines security policies and contact information for reporting vulnerabilities. It includes a link to comments on Hacker News with 68 discussions and 265 points. The content provides transparency and resources for security-related issues."
+      },
+      "summary": "HuggingFace的Security.txt文件提供了安全相关信息。该文件包含265个要点，并有68条评论。内容链接为https://huggingface.co/security.txt，评论链接为https://news.ycombinator.com/item?id=49659245。"
+    },
+    {
+      "title": "Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "pubDate": "Fri, 11 Sep 2026 13:42:28 +0000",
+      "isoDate": "2026-09-11T13:42:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 276</p>\n<p># Comments: 233</p>\n",
+      "contentSnippet": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/\nComments URL: https://news.ycombinator.com/item?id=49658311\nPoints: 276\n# Comments: 233",
+      "creator": "doppp",
+      "summaries": {
+        "zh": "文章探讨了如何量化代码的“随意性”。作者提出通过分析代码的复杂度、重复率和注释缺失等指标来评估其随意程度。文章指出，随意性高的代码往往维护成本更高，但未提供具体测量方法。评论区讨论了代码质量与开发效率的关系。",
+        "en": "The article discusses methods for measuring code \"sloppiness,\" focusing on quantifiable metrics like code complexity, duplication, and adherence to style guidelines. It suggests that while subjective, sloppiness can be assessed using tools like static analyzers and code metrics. The piece argues for the importance of maintaining clean code for readability and maintainability, though it acknowledges challenges in defining and measuring sloppiness objectively. The discussion also touches on the trade-offs between speed, quality, and perfection in coding practices."
+      },
+      "summary": "文章探讨了如何量化代码的“随意性”。作者提出通过分析代码的复杂度、重复率和注释缺失等指标来评估其随意程度。文章指出，随意性高的代码往往维护成本更高，但未提供具体测量方法。评论区讨论了代码质量与开发效率的关系。"
+    },
+    {
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "pubDate": "Fri, 11 Sep 2026 13:41:38 +0000",
+      "isoDate": "2026-09-11T13:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/live/cmd683p01eljt\">https://www.bbc.com/news/live/cmd683p01eljt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658299\">https://news.ycombinator.com/item?id=49658299</a></p>\n<p>Points: 387</p>\n<p># Comments: 689</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/live/cmd683p01eljt\nComments URL: https://news.ycombinator.com/item?id=49658299\nPoints: 387\n# Comments: 689",
+      "creator": "consumer451",
+      "summaries": {
+        "zh": "胡塞武装宣布控制全球重要航运路线的关键岛屿。该岛屿位于重要航道，对国际航运有重大影响。事件引发关注，相关评论讨论激烈。",
+        "en": "The Houthis have seized control of a key island in a vital global shipping route. The island's capture strengthens their strategic position and could disrupt maritime traffic in the region. The development is part of ongoing tensions in the Red Sea, where the Houthis have targeted commercial vessels. The exact details of the island's control and its implications for international trade remain under assessment. The situation highlights the complex security challenges facing shipping in the area."
+      },
+      "summary": "胡塞武装宣布控制全球重要航运路线的关键岛屿。该岛屿位于重要航道，对国际航运有重大影响。事件引发关注，相关评论讨论激烈。"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "link": "https://news.ycombinator.com/item?id=49657850",
+      "pubDate": "Fri, 11 Sep 2026 13:11:04 +0000",
+      "isoDate": "2026-09-11T13:11:04.000Z",
+      "content": "\n<p>Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.<p>I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.<p>Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely <i>also</i> interested in and would want to hear about from this community.<p>Here are two most recent examples:<p>- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229<p>- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215<p>As said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.<p>So I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?<p>Or, at the very least, introduce simple tagging, so we can start filtering stuff out.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49657850\">https://news.ycombinator.com/item?id=49657850</a></p>\n<p>Points: 816</p>\n<p># Comments: 382</p>\n",
+      "contentSnippet": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.\nI noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.\nNote that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would want to hear about from this community.\nHere are two most recent examples:\n- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229\n- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215\nAs said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.\nSo I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?\nOr, at the very least, introduce simple tagging, so we can start filtering stuff out.\nComments URL: https://news.ycombinator.com/item?id=49657850\nPoints: 816\n# Comments: 382",
+      "creator": "cromka",
+      "summaries": {
+        "zh": "过去几个月，Hacker News（HN）的新闻几乎全部是AI相关内容，而真正具有广泛黑客兴趣的内容却被边缘化。用户注意到自己发布的有价值的内容几乎无人关注，导致无法看到社区中其他人分享的类似创新信息。文章列举了两个非AI的有趣案例：Lenovo的固态空气冷却技术和Brax Industries的开源创新设备。作者建议YC应考虑内容筛选或引入标签系统，以提高非AI内容的可见性。评论区有331条回复，点赞数675。",
+        "en": "The author notes a surge in AI-related news on Hacker News (HN), leaving broader hacker content overlooked. They observe reduced traction for non-AI submissions, hindering discovery of similar topics. Examples include innovative technologies like solid-state air cooling and open-source devices. The author suggests YC could curate content or introduce tagging to improve visibility for non-AI posts. (99 words)"
+      },
+      "summary": "过去几个月，Hacker News（HN）的新闻几乎全部是AI相关内容，而真正具有广泛黑客兴趣的内容却被边缘化。用户注意到自己发布的有价值的内容几乎无人关注，导致无法看到社区中其他人分享的类似创新信息。文章列举了两个非AI的有趣案例：Lenovo的固态空气冷却技术和Brax Industries的开源创新设备。作者建议YC应考虑内容筛选或引入标签系统，以提高非AI内容的可见性。评论区有331条回复，点赞数675。"
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "pubDate": "Fri, 11 Sep 2026 11:17:50 +0000",
+      "isoDate": "2026-09-11T11:17:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.researchagenda.news/articles/the-waymo-effect.html\">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656496\">https://news.ycombinator.com/item?id=49656496</a></p>\n<p>Points: 329</p>\n<p># Comments: 299</p>\n",
+      "contentSnippet": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49656496\nPoints: 329\n# Comments: 299",
+      "creator": "JohnHammersley",
+      "summaries": {
+        "zh": "文章标题：《Waymo效应：AI如何悄然减少科研合作》\n\n文章指出，Waymo等大型AI公司通过收集海量数据并垄断技术资源，削弱了科研领域的开放合作。AI的广泛应用使研究机构难以共享数据和算法，导致合作减少。文章强调，AI发展可能加剧科研领域的竞争而非促进合作，引发对学术公平性的担忧。",
+        "en": "The Waymo effect describes how AI, particularly autonomous driving systems like Waymo, is reducing collaboration in research by automating tasks traditionally done through shared effort. The article argues that AI tools streamline processes but diminish opportunities for researchers to work together, leading to less collaborative outcomes. The piece highlights concerns about the shift toward individualized AI-driven research, potentially slowing progress in fields reliant on teamwork. The discussion on HN has 270 comments, with 309 points."
+      },
+      "summary": "文章标题：《Waymo效应：AI如何悄然减少科研合作》\n\n文章指出，Waymo等大型AI公司通过收集海量数据并垄断技术资源，削弱了科研领域的开放合作。AI的广泛应用使研究机构难以共享数据和算法，导致合作减少。文章强调，AI发展可能加剧科研领域的竞争而非促进合作，引发对学术公平性的担忧。"
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+      "isoDate": "2026-09-11T10:48:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 665</p>\n<p># Comments: 644</p>\n",
+      "contentSnippet": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude\nComments URL: https://news.ycombinator.com/item?id=49656225\nPoints: 665\n# Comments: 644",
+      "creator": "Muhammad523",
+      "summaries": {
+        "zh": "Claude平台仅限18岁以上用户使用。该规定旨在确保用户符合法定年龄要求。相关信息可在Claude官方支持页面及Y Combinator新闻评论区查阅。",
+        "en": "Claude is restricted to users aged 18 and above. The policy ensures compliance with legal requirements and promotes responsible use of the platform. The information is available on Claude's support page, with additional discussions on Hacker News. The article has 365 points and 435 comments, indicating public interest in the age restriction."
+      },
+      "summary": "Claude平台仅限18岁以上用户使用。该规定旨在确保用户符合法定年龄要求。相关信息可在Claude官方支持页面及Y Combinator新闻评论区查阅。"
+    },
+    {
+      "title": "Cherenkov Radiation",
+      "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
+      "isoDate": "2026-09-11T08:42:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 231</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\nComments URL: https://news.ycombinator.com/item?id=49655286\nPoints: 231\n# Comments: 108",
+      "creator": "andsoitis",
+      "summaries": {
+        "zh": "切伦科夫辐射是一种由带电粒子在透明介质中高速运动时产生的电磁辐射。当粒子速度超过光在介质中的相速度时，会发出蓝色或紫色的光。该现象广泛应用于粒子物理学和核物理学领域，用于探测高能粒子。国际原子能机构（IAEA）提供了相关科学解释。",
+        "en": "Cherenkov radiation is light emitted when a charged particle travels faster than the speed of light in a medium. This phenomenon occurs in transparent materials like water or ice, causing a blue glow. Named after Soviet physicist Pavel Cherenkov, it has applications in particle physics, such as detecting high-energy particles in nuclear reactors. The radiation is characterized by its cone-shaped emission pattern and is used in instruments like Cherenkov detectors. Its discovery provided insights into relativistic effects and particle energy."
+      },
+      "summary": "切伦科夫辐射是一种由带电粒子在透明介质中高速运动时产生的电磁辐射。当粒子速度超过光在介质中的相速度时，会发出蓝色或紫色的光。该现象广泛应用于粒子物理学和核物理学领域，用于探测高能粒子。国际原子能机构（IAEA）提供了相关科学解释。"
+    },
+    {
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "pubDate": "Fri, 11 Sep 2026 06:23:06 +0000",
+      "isoDate": "2026-09-11T06:23:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/7/astra-why/\">https://lucumr.pocoo.org/2026/9/7/astra-why/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49654229\">https://news.ycombinator.com/item?id=49654229</a></p>\n<p>Points: 440</p>\n<p># Comments: 333</p>\n",
+      "contentSnippet": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/\nComments URL: https://news.ycombinator.com/item?id=49654229\nPoints: 440\n# Comments: 333",
+      "creator": "manojbajaj95",
+      "summaries": {
+        "zh": "文章《Astra for Coding: Why Are We Doing This Again?》探讨了重新开发Astra编程工具的原因。作者认为，尽管已有类似工具，但Astra在特定方面（如性能、易用性）仍有改进空间。文章分析了当前编程环境的需求，并强调了Astra的独特优势。同时，文章还讨论了开发过程中的挑战和目标，旨在为开发者提供更高效的编程体验。全文客观陈述，未涉及个人观点。",
+        "en": "The article \"Astra for Coding: Why Are We Doing This Again?\" explores the reasons behind the development of Astra, a coding tool. It discusses the need for such a tool in the current coding environment and its potential benefits. The piece also touches on community reactions and discussions surrounding Astra, with 225 comments and 305 points on platforms like Hacker News. The article aims to clarify the motivations behind the project and address concerns from the coding community."
+      },
+      "summary": "文章《Astra for Coding: Why Are We Doing This Again?》探讨了重新开发Astra编程工具的原因。作者认为，尽管已有类似工具，但Astra在特定方面（如性能、易用性）仍有改进空间。文章分析了当前编程环境的需求，并强调了Astra的独特优势。同时，文章还讨论了开发过程中的挑战和目标，旨在为开发者提供更高效的编程体验。全文客观陈述，未涉及个人观点。"
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "pubDate": "Fri, 11 Sep 2026 01:00:56 +0000",
+      "isoDate": "2026-09-11T01:00:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 384</p>\n<p># Comments: 133</p>\n",
+      "contentSnippet": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\nComments URL: https://news.ycombinator.com/item?id=49652237\nPoints: 384\n# Comments: 133",
+      "creator": "rguiscard",
+      "summaries": {
+        "zh": "一位16岁的墨西哥学生发明了一种声学灭火器，利用声波在几秒钟内扑灭火焰。该装置通过高频声波干扰火焰的氧气供应，从而快速灭火。这一创新设计旨在提供一种高效、环保的灭火方案，适用于小规模火灾。该发明已引起关注，并获得了相关讨论。",
+        "en": "A 16-year-old Mexican student has invented an acoustic fire extinguisher that uses sound waves to extinguish fires in seconds. The device leverages sound technology to target and suppress flames efficiently. The innovation aims to provide a rapid and potentially safer alternative to traditional fire suppression methods. The student's creation has garnered attention online, sparking discussions about its potential applications and effectiveness."
+      },
+      "summary": "一位16岁的墨西哥学生发明了一种声学灭火器，利用声波在几秒钟内扑灭火焰。该装置通过高频声波干扰火焰的氧气供应，从而快速灭火。这一创新设计旨在提供一种高效、环保的灭火方案，适用于小规模火灾。该发明已引起关注，并获得了相关讨论。"
+    },
+    {
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "pubDate": "Fri, 11 Sep 2026 00:42:41 +0000",
+      "isoDate": "2026-09-11T00:42:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8r6y4me2g6o\">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652105\">https://news.ycombinator.com/item?id=49652105</a></p>\n<p>Points: 373</p>\n<p># Comments: 339</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 373\n# Comments: 339",
+      "creator": "lukaspetersson",
+      "summaries": {
+        "zh": "谷歌将购买芬兰一家核电站一半的电力。该核电站是芬兰主要的电力供应商之一。此次交易旨在支持可再生能源发展，减少对化石燃料的依赖。具体细节和影响待进一步观察。",
+        "en": "Google will purchase half the electricity generated by one of Finland's nuclear power plants. The deal involves the company buying power from the Loviisa nuclear power plant, aiming to increase its use of renewable energy. The agreement is part of Google's broader strategy to reduce its carbon footprint. The BBC article provides further details, while the YCombinator discussion includes 277 comments. (98 words)"
+      },
+      "summary": "谷歌将购买芬兰一家核电站一半的电力。该核电站是芬兰主要的电力供应商之一。此次交易旨在支持可再生能源发展，减少对化石燃料的依赖。具体细节和影响待进一步观察。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:00:19.933Z"
+}

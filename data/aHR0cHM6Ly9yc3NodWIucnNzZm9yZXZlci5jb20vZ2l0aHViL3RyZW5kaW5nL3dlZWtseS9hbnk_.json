@@ -1,0 +1,303 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fefeda47228d142b7a4fdc9f694da5a3eea7eca65c5a644e0a999508cbad8b6b/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 43457<br>Forks: 2474",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 43457\nForks: 2474",
+      "creator": "ayghri",
+      "summaries": {
+        "zh": "标题：ayghri/i-have-adhd  \n内容：该技能可防止代码代理隐藏答案，专为ADHD用户设计，使用Python开发。获得33259星标和1967次分叉。",
+        "en": "The article \"ayghri/i-have-adhd\" introduces a skill to prevent coding agents from burying answers, designed for users with ADHD. The solution is implemented in Python and has gained significant popularity, with 33,259 stars and 1,967 forks on platforms like GitHub. The tool aims to enhance accessibility and clarity in coding outputs for individuals with ADHD."
+      },
+      "summary": "标题：ayghri/i-have-adhd  \n内容：该技能可防止代码代理隐藏答案，专为ADHD用户设计，使用Python开发。获得33259星标和1967次分叉。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2490285e5280ad5495a12a4607404b1b9fefd54c0cb38232737c553ab08c8cb7/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 257124<br>Forks: 38473",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 257124\nForks: 38473",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获得249,544星和37,579次分叉。",
+        "en": "The \"affaan-m/ECC\" repository is a performance optimization system for an agent harness. It focuses on enhancing skills, instincts, memory, security, and research-driven development for AI models like Claude Code, Codex, Opencode, Cursor, and future iterations. The system is built in JavaScript and has garnered significant community interest, with 249,544 stars and 37,579 forks on platforms like GitHub."
+      },
+      "summary": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获得249,544星和37,579次分叉。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/45294ecdf398b1ccb7f4df4b8fdac5d0459fb0b057c4eefd1415c47c499d42a8/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 6541<br>Forks: 861",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 6541\nForks: 861",
+      "creator": "openai",
+      "summaries": {
+        "zh": "OpenAI 插件使用 JavaScript 语言开发，拥有 6083 个星标和 815 个分支。",
+        "en": "OpenAI Plugins is a JavaScript-based project with 6,083 stars and 815 forks on platforms like GitHub. The content focuses on plugins developed for OpenAI's ecosystem, likely enhancing AI capabilities through modular extensions. The project appears popular within the developer community, indicating active use and contribution."
+      },
+      "summary": "OpenAI 插件使用 JavaScript 语言开发，拥有 6083 个星标和 815 个分支。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 136629<br>Forks: 7328",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 136629\nForks: 7328",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "标题：DietrichGebert/ponytail\n\n简介：该项目使AI代理表现得像最懒散的老开发人员一样，强调“最好的代码是不写代码”。使用JavaScript开发，目前有128,790个星标和6,898次分叉。",
+        "en": "The project \"DietrichGebert/ponytail\" is a JavaScript tool designed to make AI agents behave like a lazy senior developer, prioritizing minimal code. It emphasizes writing the least amount of code possible. The repository has 128,790 stars and 6,898 forks."
+      },
+      "summary": "标题：DietrichGebert/ponytail\n\n简介：该项目使AI代理表现得像最懒散的老开发人员一样，强调“最好的代码是不写代码”。使用JavaScript开发，目前有128,790个星标和6,898次分叉。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a7aa7dd2cc4179eec8735532a90b0868f67e5d2e3bcd29c7631067b459f1c1e7/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 22370<br>Forks: 1610",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 22370\nForks: 1610",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "\"mksglu/context-mode\"是一个针对AI编程代理的上下文窗口优化工具。该工具通过沙盒工具输出减少98%，持久化会话内存，并通过MCP+钩子强制在17个平台上进行路由。使用TypeScript编写，获得21235星和1537次分叉。",
+        "en": "The \"mksglu/context-mode\" project optimizes context windows for AI coding agents. It reduces sandbox tool output by 98%, persists session memory, and enforces routing across 17 platforms using MCP and hooks. Developed in TypeScript, it has 21,235 stars and 1,537 forks."
+      },
+      "summary": "\"mksglu/context-mode\"是一个针对AI编程代理的上下文窗口优化工具。该工具通过沙盒工具输出减少98%，持久化会话内存，并通过MCP+钩子强制在17个平台上进行路由。使用TypeScript编写，获得21235星和1537次分叉。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28777ee068e907a5fce03e680e382f389c1ae60ddce4447d911a6142b4eaa989/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 29926<br>Forks: 6023",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 29926\nForks: 6023",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "这是一个基于浏览器的间谍卫星模拟器，使用真实数据。它提供开源的实时空间智能，在照片级真实感的3D球体上运行。该项目使用JavaScript开发，获得23433个星标和4883次分叉。",
+        "en": "This project is a browser-based spy satellite simulator using real, open-source spatial intelligence data. It displays photorealistic 3D global imagery and is built with JavaScript. The tool is open-source, with 23,433 stars and 4,883 forks on platforms like GitHub."
+      },
+      "summary": "这是一个基于浏览器的间谍卫星模拟器，使用真实数据。它提供开源的实时空间智能，在照片级真实感的3D球体上运行。该项目使用JavaScript开发，获得23433个星标和4883次分叉。"
+    },
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 59665<br>Forks: 3905",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 59665\nForks: 3905",
+      "creator": "tt-a1i",
+      "summaries": {
+        "zh": "tt-a1i/archify是一个JavaScript工具，用于生成美观且可验证的架构、工作流、序列、数据流和生命周期图。该工具输出自包含的HTML文件，支持动画效果和清晰导出。目前该工具在GitHub上拥有26727个星标和1696个分支。",
+        "en": "The \"tt-a1i/archify\" repository is a JavaScript-based agent skill for creating visually appealing and verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams. It generates self-contained HTML files with motion effects and offers crisp exports. The project has 26,727 stars and 1,696 forks on platforms like GitHub."
+      },
+      "summary": "tt-a1i/archify是一个JavaScript工具，用于生成美观且可验证的架构、工作流、序列、数据流和生命周期图。该工具输出自包含的HTML文件，支持动画效果和清晰导出。目前该工具在GitHub上拥有26727个星标和1696个分支。"
+    },
+    {
+      "title": "openai/skills",
+      "link": "https://github.com/openai/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d60d119afdc7c96ae0625f06c9e70e6c612b872a99ecf70cce86d279e4a3740e/openai/skills\" referrerpolicy=\"no-referrer\"><br>Skills Catalog for Codex<br><br>Language: Python<br>Stars: 27017<br>Forks: 1806",
+      "contentSnippet": "Skills Catalog for Codex\nLanguage: Python\nStars: 27017\nForks: 1806",
+      "creator": "openai",
+      "summaries": {
+        "zh": "CodexLanguage是一款基于Python的技能目录，拥有26340颗星和1766个分支。该目录提供了丰富的技能资源，方便开发者使用和扩展。",
+        "en": "The article \"openai/skills\" presents a Skills Catalog for CodexLanguage, primarily focused on Python. It has 26,340 stars and 1,766 forks on its repository. The content outlines key programming capabilities and resources within the CodexLanguage framework, emphasizing Python-based skills. The catalog serves as a reference for developers seeking to enhance their Python proficiency and explore related tools. The high star and fork counts indicate significant community interest and engagement with the project."
+      },
+      "summary": "CodexLanguage是一款基于Python的技能目录，拥有26340颗星和1766个分支。该目录提供了丰富的技能资源，方便开发者使用和扩展。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4da3bdfc18c03a801b6c1978403d40a2340a23314c8d313d92979dcca7135bed/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 49224<br>Forks: 4492",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 49224\nForks: 4492",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes  \n内容：该工具使用TypeScript编写HTML，支持视频渲染，专为智能代理设计。目前获得47431个星标，4376次分叉。",
+        "en": "The article介绍s \"Hyperframes,\" a TypeScript-based tool for writing HTML and rendering video, designed for agents. It has 47,431 stars and 4,376 forks on its repository."
+      },
+      "summary": "标题：heygen-com/hyperframes  \n内容：该工具使用TypeScript编写HTML，支持视频渲染，专为智能代理设计。目前获得47431个星标，4376次分叉。"
+    },
+    {
+      "title": "humanlayer/skills",
+      "link": "https://github.com/humanlayer/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/432bea8dc599c325e62461656c9ce500cf31f97301acbce5bfb78a93f4560239/humanlayer/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 3913<br>Forks: 116",
+      "contentSnippet": "Language: TypeScript\nStars: 3913\nForks: 116",
+      "creator": "humanlayer",
+      "summaries": {
+        "zh": "标题：humanlayer/skills  \n内容：这是一个使用TypeScript开发的GitHub项目，拥有3763个星标和110个分支。项目信息简洁，未提供详细内容。",
+        "en": "The article \"humanlayer/skills\" is a TypeScript repository with 3,763 stars and 110 forks. It appears to be a collection or framework related to TypeScript, as indicated by the title and metadata. The content focuses on the project's popularity and technical language."
+      },
+      "summary": "标题：humanlayer/skills  \n内容：这是一个使用TypeScript开发的GitHub项目，拥有3763个星标和110个分支。项目信息简洁，未提供详细内容。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/478f48f24e34af7c862ff4c7c243ab2d64ca989dd461148e8877f8d72d61b1aa/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 38868<br>Forks: 2468",
+      "contentSnippet": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 38868\nForks: 2468",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "文章介绍了Claude Code、Codex和Pi的38种编辑图表类型，采用自包含的HTML+SVG格式，无阴影，无Mermaid问题。该项目获得37545个星标和2384次分叉。",
+        "en": "The article \"cathrynlavery/diagram-design\" introduces 38 editorial diagram types for Claude Code, Codex, and Pi. The diagrams are self-contained HTML + SVG files, with no shadows or Mermaid elements. The project has received 37,545 stars and 2,384 forks on its platform."
+      },
+      "summary": "文章介绍了Claude Code、Codex和Pi的38种编辑图表类型，采用自包含的HTML+SVG格式，无阴影，无Mermaid问题。该项目获得37545个星标和2384次分叉。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8595fe4cd9cedd1f146b439c190a31f15641f8e276e29beef8aa3d7c809ce54b/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 47328<br>Forks: 3855",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 47328\nForks: 3855",
+      "creator": "blader",
+      "summaries": {
+        "zh": "该工具名为“blader/humanizer”，是一款Python编写的智能代理技能，用于去除文本中AI生成的痕迹，使其更符合人类写作风格。该工具在GitHub上获得45249个星标和3728次分叉，显示出较高的社区认可度。",
+        "en": "The article describes an agent skill called \"blader/humanizer\" that removes signs of AI-generated writing from text. It is implemented in Python and has received 45,249 stars and 3,728 forks on its repository."
+      },
+      "summary": "该工具名为“blader/humanizer”，是一款Python编写的智能代理技能，用于去除文本中AI生成的痕迹，使其更符合人类写作风格。该工具在GitHub上获得45249个星标和3728次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/86152a34da7a147993e418dd6aa8b13ce14adb1ec70b595e06f37b2f63ff5b2c/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 183242<br>Forks: 13474",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 183242\nForks: 13474",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "该工具是一款Python程序，用于将文件和Office文档转换为Markdown格式。该工具在GitHub上获得182389个星标和13409次分叉，显示出较高的社区认可度。",
+        "en": "The Python tool \"microsoft/markitdown\" converts files and office documents to Markdown. It is popular, with 182,389 stars and 13,409 forks on its repository."
+      },
+      "summary": "该工具是一款Python程序，用于将文件和Office文档转换为Markdown格式。该工具在GitHub上获得182389个星标和13409次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0823ed849751d56690880f356d04d429bfb48ed456b145234b758257b0bdc302/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 51766<br>Forks: 3637",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 51766\nForks: 3637",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代理的Chrome开发者工具，使用TypeScript开发。该项目拥有51339个星标和3615个分支。",
+        "en": "The ChromeDevTools repository, titled \"chrome-devtools-mcp,\" focuses on coding agents using TypeScript. It has 51,339 stars and 3,615 forks, indicating significant community interest and contribution. The content highlights the tool's role in developing coding agents within the Chrome DevTools framework."
+      },
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代理的Chrome开发者工具，使用TypeScript开发。该项目拥有51339个星标和3615个分支。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e78675059a7334cd96cc5df553c5d039992810d9e1317eb1f6e3b312dc72b5a/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 260495<br>Forks: 21971",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 260495\nForks: 21971",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "标题：mattpocock/skills  \n简介：该资源提供实用工程技能，源自作者.mattpoc目录，使用Shell语言编写。资源在GitHub上获得256,695个星标和21,621次分叉，广受关注。",
+        "en": "The article \"mattpocock/skills\" focuses on essential engineering skills, sourced from the author's `.agents` directory. It is presented in Shell format. The repository has 256,695 stars and 21,621 forks, indicating significant popularity and community interest."
+      },
+      "summary": "标题：mattpocock/skills  \n简介：该资源提供实用工程技能，源自作者.mattpoc目录，使用Shell语言编写。资源在GitHub上获得256,695个星标和21,621次分叉，广受关注。"
+    },
+    {
+      "title": "coreyhaines31/marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/427741f53ae22ee1ecf6ab57c3000d9f559fc28f7b984d6ab4af665ef8f133a2/coreyhaines31/marketingskills\" referrerpolicy=\"no-referrer\"><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.<br><br>Language: JavaScript<br>Stars: 49825<br>Forks: 7568",
+      "contentSnippet": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\nLanguage: JavaScript\nStars: 49825\nForks: 7568",
+      "creator": "coreyhaines31",
+      "summaries": {
+        "zh": "本文介绍了为Claude代码和AI代理提供的营销技能，包括用户获取增长（CRO）、文案写作、搜索引擎优化（SEO）、数据分析和增长工程。这些技能主要使用JavaScript实现。项目在GitHub上获得48552个星标和7476次分叉，显示出较高的关注度。",
+        "en": "The article \"coreyhaines31/marketingskills\" focuses on marketing skills for Claude Code and AI agents. Key areas covered include Conversion Rate Optimization (CRO), copywriting, SEO, analytics, and growth engineering. The content is written in JavaScript and has gained significant popularity, with 48,552 stars and 7,476 forks on the platform."
+      },
+      "summary": "本文介绍了为Claude代码和AI代理提供的营销技能，包括用户获取增长（CRO）、文案写作、搜索引擎优化（SEO）、数据分析和增长工程。这些技能主要使用JavaScript实现。项目在GitHub上获得48552个星标和7476次分叉，显示出较高的关注度。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5284b98a3b7ba93aed75ec4db836800054491d71430cb29fc7088e84a705a788/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 36196<br>Forks: 5740",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 36196\nForks: 5740",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "“THU-MAIC/OpenMAIC”是一个名为“Open Multi-Agent Interactive Classroom”的开源项目，提供沉浸式多智能体学习体验。该项目使用TypeScript开发，获得34191个星标和5495次分叉。",
+        "en": "The \"THU-MAIC/OpenMAIC\" project offers an immersive, multi-agent interactive classroom experience. It is developed using TypeScript and provides a one-click solution for multi-agent learning. The project has gained significant popularity, with 34,191 stars and 5,495 forks on its repository."
+      },
+      "summary": "“THU-MAIC/OpenMAIC”是一个名为“Open Multi-Agent Interactive Classroom”的开源项目，提供沉浸式多智能体学习体验。该项目使用TypeScript开发，获得34191个星标和5495次分叉。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0db2b2aafe668aa7b70a2e79f0f4f546e1030074582dd957095710635e4f4676/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 22666<br>Forks: 3252",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 22666\nForks: 3252",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "腾讯/WeKnora是一个开源的LLM知识平台，可将原始文档转换为可查询的RAG、自主推理代理和自维护维基。该平台使用Go语言开发，获得22323个星标和3210次分叉。",
+        "en": "Tencent/WeKnora is an open-source LLM knowledge platform that transforms raw documents into a queryable RAG (Retrieval-Augmented Generation), an autonomous reasoning agent, and a self-maintaining Wiki. The project is supported by 22,323 GoStars and 3,210 forks on its repository."
+      },
+      "summary": "腾讯/WeKnora是一个开源的LLM知识平台，可将原始文档转换为可查询的RAG、自主推理代理和自维护维基。该平台使用Go语言开发，获得22323个星标和3210次分叉。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0204d5fd0e4ab71c2b7f22dafeb6206e67a18dc85d86b469c397325813e5af85/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>A library of agent skills for CAD, CAE and CAM<br><br>Language: Python<br>Stars: 15453<br>Forks: 1595",
+      "contentSnippet": "A library of agent skills for CAD, CAE and CAM\nLanguage: Python\nStars: 15453\nForks: 1595",
+      "creator": "earthtojake",
+      "summaries": {
+        "zh": "该库名为“earthtojake/text-to-cad”，是一个用于CAD、CAE和CAM领域的Python技能库。该库包含多种代理技能，拥有15400个星标和1591个分支。",
+        "en": "The \"earthtojake/text-to-cad\" library is a Python-based collection of agent skills designed for CAD, CAE, and CAM applications. It offers tools to automate and streamline design processes. The project has garnered significant attention with 15,400 stars and 1,591 forks on its repository."
+      },
+      "summary": "该库名为“earthtojake/text-to-cad”，是一个用于CAD、CAE和CAM领域的Python技能库。该库包含多种代理技能，拥有15400个星标和1591个分支。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/50a76cf8c755761be3202486857aa87cb9e6e27e9355a422348f0a28d29cf477/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 285815<br>Forks: 25571",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 285815\nForks: 25571",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该框架是一种代理技能框架和软件开发方法，旨在高效工作。语言：Shell。在GitHub上获得285,630颗星和25,557次分叉。",
+        "en": "The article discusses an agentic skills framework and software development methodology designed to be effective. It is associated with ShellStars (285,630) and Forks (25,557), indicating its popularity and community engagement. The framework aims to streamline development processes while emphasizing adaptability and efficiency."
+      },
+      "summary": "该框架是一种代理技能框架和软件开发方法，旨在高效工作。语言：Shell。在GitHub上获得285,630颗星和25,557次分叉。"
+    },
+    {
+      "title": "petergyang/no-ai-slop",
+      "link": "https://github.com/petergyang/no-ai-slop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e27c2f916eddce8e65dd4f0acc06800a46f2eb192fd6f89ca2e596ffb1c55b4b/petergyang/no-ai-slop\" referrerpolicy=\"no-referrer\"><br>Removes 20+ patterns of AI slop from any piece of writing.<br><br>Language: Python<br>Stars: 8669<br>Forks: 648",
+      "contentSnippet": "Removes 20+ patterns of AI slop from any piece of writing.\nLanguage: Python\nStars: 8669\nForks: 648",
+      "creator": "petergyang",
+      "summaries": {
+        "zh": "该工具可从任何文本中去除20多种AI生成的冗余内容，使用Python编写，获得8538个星标和643个分支。",
+        "en": "The tool \"no-ai-slop\" removes over 20 AI-generated patterns from text using Python. It has 8,538 stars and 643 forks on its repository."
+      },
+      "summary": "该工具可从任何文本中去除20多种AI生成的冗余内容，使用Python编写，获得8538个星标和643个分支。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:03:49.881Z"
+}

@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
+      "link": "https://www.v2ex.com/t/1241596",
+      "pubDate": "Sat, 12 Sep 2026 14:02:48 GMT",
+      "isoDate": "2026-09-12T14:02:48.000Z",
+      "content": "baicai321: <p>今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比</p>\n<p>我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -&gt; 改代码 -&gt; 问题还在 -&gt; 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了</p>\n<p>实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决</p>\n<p>感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差</p>\n",
+      "contentSnippet": "baicai321: \n今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比\n我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -> 改代码 -> 问题还在 -> 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了\n实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决\n感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差",
+      "creator": "baicai321",
+      "summaries": {
+        "zh": "DeepSeek V4.1 在速度上接近300tok/s，但在处理复杂任务时表现不佳，频繁尝试方案却难以解决难题，效率低下。相比之下，Astra High 虽然速度较慢，但能稳定地在两轮内找到正确方案并解决问题。在高难度任务上，国模与国外模型差距明显，速度提升并未改善体验。",
+        "en": "The article compares DeepSeek V4.1 and Astra in handling complex tasks, such as decompiling and modifying old games. DeepSeek V4.1 is fast, processing around 300 tokens per second, but struggles with difficult problems, repeatedly cycling through solutions without success, even altering previously fixed modules. In contrast, Astra is slower but more stable, solving issues efficiently within two attempts. The author concludes that while DeepSeek excels in speed, Astra outperforms it in accuracy and problem-solving for high-difficulty tasks."
+      },
+      "summary": "DeepSeek V4.1 在速度上接近300tok/s，但在处理复杂任务时表现不佳，频繁尝试方案却难以解决难题，效率低下。相比之下，Astra High 虽然速度较慢，但能稳定地在两轮内找到正确方案并解决问题。在高难度任务上，国模与国外模型差距明显，速度提升并未改善体验。"
+    },
+    {
+      "title": "vibe coding 的代码你怎么放心上线？",
+      "link": "https://www.v2ex.com/t/1241529",
+      "pubDate": "Sat, 12 Sep 2026 06:00:24 GMT",
+      "isoDate": "2026-09-12T06:00:24.000Z",
+      "content": "wildwind2333: <p>用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。</p>\n<p>但如果上线给用户用，出问题了总会是很麻烦的事情。</p>\n<p>大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？</p>\n",
+      "contentSnippet": "wildwind2333: \n用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。\n但如果上线给用户用，出问题了总会是很麻烦的事情。\n大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？",
+      "creator": "wildwind2333",
+      "summaries": {
+        "zh": "\"Vibe Coding\" 利用 AI 快速编写代码，但上线给用户存在风险。提问者询问大家如何通过 DDD、自动化测试或测试 Harness 等方法进行测试，以确保代码质量。",
+        "en": "The discussion centers on the challenges of deploying AI-generated code in production. While AI coding speeds up development, concerns exist about reliability and potential issues for end-users. The thread asks for testing techniques like DDD, automation, or specific harnesses to ensure code quality before launch."
+      },
+      "summary": "\"Vibe Coding\" 利用 AI 快速编写代码，但上线给用户存在风险。提问者询问大家如何通过 DDD、自动化测试或测试 Harness 等方法进行测试，以确保代码质量。"
+    },
+    {
+      "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
+      "link": "https://www.v2ex.com/t/1241528",
+      "pubDate": "Sat, 12 Sep 2026 05:53:32 GMT",
+      "isoDate": "2026-09-12T05:53:32.000Z",
+      "content": "aaa0009: 一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。<br><br>阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。<br><br>第一次有了换华为的冲动",
+      "contentSnippet": "aaa0009: 一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。\n阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。\n第一次有了换华为的冲动",
+      "creator": "aaa0009",
+      "summaries": {
+        "zh": "用户aaa0009表示，虽然一直使用三星Galaxy Ultra，但觉得其竖屏时高度冗余，横屏时又显得矮小。华为的竖直大屏手机精准满足了这一需求，现场体验显示单手轻度使用无压力，且阅读体验更佳，使其产生了更换华为产品的念头。",
+        "en": "The user, a long-time Samsung Galaxy Ultra user, finds the phone good but slightly too long and narrow, making it inefficient for reading in either portrait or landscape mode. They visited a Huawei store and tested the new wide straight-screen phone, finding it comfortable for single-handed use and ideal for reading. The device's design better suits reading needs compared to the Ultra. This experience has sparked the user's interest in switching to Huawei."
+      },
+      "summary": "用户aaa0009表示，虽然一直使用三星Galaxy Ultra，但觉得其竖屏时高度冗余，横屏时又显得矮小。华为的竖直大屏手机精准满足了这一需求，现场体验显示单手轻度使用无压力，且阅读体验更佳，使其产生了更换华为产品的念头。"
+    },
+    {
+      "title": "v2ex 注册成功",
+      "link": "https://www.v2ex.com/t/1241517",
+      "pubDate": "Sat, 12 Sep 2026 04:26:10 GMT",
+      "isoDate": "2026-09-12T04:26:10.000Z",
+      "content": "aongen123: <p>最终还是花钱买了个 V2EX 验证码。朋友死活不肯给我</p>\n",
+      "contentSnippet": "aongen123: \n最终还是花钱买了个 V2EX 验证码。朋友死活不肯给我",
+      "creator": "aongen123",
+      "summaries": {
+        "zh": "用户aongen123分享，因朋友不愿提供，最终选择付费获取V2EX验证码成功注册。",
+        "en": "User aongen123 successfully registered for V2EX after paying for a verification code, as their friend refused to provide one."
+      },
+      "summary": "用户aongen123分享，因朋友不愿提供，最终选择付费获取V2EX验证码成功注册。"
+    },
+    {
+      "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
+      "link": "https://www.v2ex.com/t/1241515",
+      "pubDate": "Sat, 12 Sep 2026 04:21:19 GMT",
+      "isoDate": "2026-09-12T04:21:19.000Z",
+      "content": "Asimov01: <p>上周做了个好玩的东西: <strong><a href=\"https://javranking.top/\" rel=\"nofollow\">什么值得冲</a></strong> （友情提示：不要在旁边有人的时候打开） </p>\n<p>本来只想给兄弟们冲天事业略尽绵薄之力，结果第 4 天就不能访问了，一查才知道域名直接被注册局（江苏邦宁科技） serverHold 了，这个域名直接在全球停止解析，没有提醒，没有通知，直接挂，直到我发邮件过去问才知道是怎么回事。</p>\n<p>这几天我都在和这个江苏邦宁科技扯皮，好在经过我的坚持不懈，今天域名解除了 serverHold ，<strong>我把解析权要回来了。</strong></p>\n<p>我是第一次遇到这种情况，不过我估计遇到这个情况的应该不止我一个，所以我写了一篇文章，分享了详细的扯皮过程和思路，如果你的 .top 域名也被莫名其妙停止解析了，可以让你的 AI Agent 读读这篇文章，帮你扯皮，要回解析权。</p>\n<p>两个核心经验点分享：</p>\n<ol>\n<li>如果你的站点不打算备案，最好不要用任何注册局在中国大陆境内运营的域名，不仅仅是 .top 。因为随时都可能被莫名其妙 serverHold ，哪怕你的域名服务商，DNS 服务商，服务器和用户在海外。</li>\n<li>如果你像我不幸使用了 .top 域名，还投入了资源，不想更换域名，那就不要怕麻烦，让 AI 帮你扯皮，按闹分配，DDDD</li>\n</ol>\n<p><strong>文章全文：<a href=\"https://zemo.bio/zh/posts/how-i-recovered-a-top-domain-from-serverhold/\" rel=\"nofollow\">如果你的 .top 域名被注册局 ServerHold 了，怎么办？</a></strong></p>\n<p>如果你手上有 .top 域名，建议收藏，希望你用不上，但是万一和我一样不幸。。。</p>\n",
+      "contentSnippet": "Asimov01: \n上周做了个好玩的东西: 什么值得冲 （友情提示：不要在旁边有人的时候打开） \n本来只想给兄弟们冲天事业略尽绵薄之力，结果第 4 天就不能访问了，一查才知道域名直接被注册局（江苏邦宁科技） serverHold 了，这个域名直接在全球停止解析，没有提醒，没有通知，直接挂，直到我发邮件过去问才知道是怎么回事。\n这几天我都在和这个江苏邦宁科技扯皮，好在经过我的坚持不懈，今天域名解除了 serverHold ，我把解析权要回来了。\n我是第一次遇到这种情况，不过我估计遇到这个情况的应该不止我一个，所以我写了一篇文章，分享了详细的扯皮过程和思路，如果你的 .top 域名也被莫名其妙停止解析了，可以让你的 AI Agent 读读这篇文章，帮你扯皮，要回解析权。\n两个核心经验点分享：\n如果你的站点不打算备案，最好不要用任何注册局在中国大陆境内运营的域名，不仅仅是 .top 。因为随时都可能被莫名其妙 serverHold ，哪怕你的域名服务商，DNS 服务商，服务器和用户在海外。\n如果你像我不幸使用了 .top 域名，还投入了资源，不想更换域名，那就不要怕麻烦，让 AI 帮你扯皮，按闹分配，DDDD\n文章全文：如果你的 .top 域名被注册局 ServerHold 了，怎么办？\n如果你手上有 .top 域名，建议收藏，希望你用不上，但是万一和我一样不幸。。。",
+      "creator": "Asimov01",
+      "summaries": {
+        "zh": "作者因江苏邦宁科技（.top域名注册局）无故将域名ServerHold，导致全球解析停止，未提前通知。作者通过邮件沟通，最终成功解除限制。文章分享此经历及应对思路，建议非备案站点避免使用中国境内注册局域名，如遇问题可借助AI维权。核心经验：避免使用境内注册局域名，遇问题坚持沟通。",
+        "en": "The author encountered a .top domain (registered with Jiangsu Bangning Technology) being unexpectedly ServerHold by the registry without notice, causing global解析停止. After persistent communication, the domain was restored. The author warns against using .top domains registered by Chinese mainland registrars due to potential arbitrary holds, even if other services are overseas. For those with affected .top domains, they suggest using AI to negotiate for resolution. The experience highlights risks with mainland registrars and the need for persistent effort to recover domain access."
+      },
+      "summary": "作者因江苏邦宁科技（.top域名注册局）无故将域名ServerHold，导致全球解析停止，未提前通知。作者通过邮件沟通，最终成功解除限制。文章分享此经历及应对思路，建议非备案站点避免使用中国境内注册局域名，如遇问题可借助AI维权。核心经验：避免使用境内注册局域名，遇问题坚持沟通。"
+    },
+    {
+      "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
+      "link": "https://www.v2ex.com/t/1241506",
+      "pubDate": "Sat, 12 Sep 2026 03:35:41 GMT",
+      "isoDate": "2026-09-12T03:35:41.000Z",
+      "content": "123271616: <a target=\"_blank\" href=\"https://i.imgur.com/UwA7ML3.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/UwA7ML3.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a><br><br>如图弟兄们",
+      "contentSnippet": "123271616: \n如图弟兄们",
+      "creator": "123271616",
+      "summaries": {
+        "zh": "文章标题“codex抓紧蹬啊 弟兄们 又有重置了 tibo真神”和内容“123271616: 如图弟兄们”表明，作者在讨论某个游戏或项目（codex）的“重置”事件，并鼓励大家积极参与（抓紧蹬）。同时，作者提到tibo是一位重要人物（真神），并附有图片。整体内容围绕游戏或项目的更新和社群互动展开。",
+        "en": "The article discusses a reset event, referring to \"codex\" and \"tibo\" as significant. Users are urged to \"grasp the opportunity\" and labeled \"brothers.\" The content includes a reference to a figure (\"123271616\") and an image, but lacks detailed context. The tone is informal and promotional."
+      },
+      "summary": "文章标题“codex抓紧蹬啊 弟兄们 又有重置了 tibo真神”和内容“123271616: 如图弟兄们”表明，作者在讨论某个游戏或项目（codex）的“重置”事件，并鼓励大家积极参与（抓紧蹬）。同时，作者提到tibo是一位重要人物（真神），并附有图片。整体内容围绕游戏或项目的更新和社群互动展开。"
+    },
+    {
+      "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
+      "link": "https://www.v2ex.com/t/1241496",
+      "pubDate": "Sat, 12 Sep 2026 02:55:07 GMT",
+      "isoDate": "2026-09-12T02:55:07.000Z",
+      "content": "Curtion: <p>现在的<code>DeepSeek V4.1 Flash</code> 很像 GPT5.4 的时候，根本不知道在说些什么, 总会造一些不存在的词, 经常使用不常用且特殊的语法，输出内容繁杂。</p>\n<p>感觉只适合用来做调用工具完成一次性工作, 不适合项目规划、分析代码和解读文档这类工作。</p>\n<p>例如逆向一个嵌入式固件、安装 ASR 模型来本地语音识别都完成得很好。</p>\n<p>只要任务的最终产出不是文字就好用, 一旦产出的内容是文字需要人去看时就很痛苦。</p>\n",
+      "contentSnippet": "Curtion: \n现在的DeepSeek V4.1 Flash 很像 GPT5.4 的时候，根本不知道在说些什么, 总会造一些不存在的词, 经常使用不常用且特殊的语法，输出内容繁杂。\n感觉只适合用来做调用工具完成一次性工作, 不适合项目规划、分析代码和解读文档这类工作。\n例如逆向一个嵌入式固件、安装 ASR 模型来本地语音识别都完成得很好。\n只要任务的最终产出不是文字就好用, 一旦产出的内容是文字需要人去看时就很痛苦。",
+      "creator": "Curtion",
+      "summaries": {
+        "zh": "DeepSeek V4.1 Flash 类似 GPT5.4，输出内容含糊，常造词、用特殊语法，适合一次性任务如逆向固件、本地语音识别，但不适合项目规划、代码分析等文字输出工作。",
+        "en": "The article discusses DeepSeek V4.1 Flash's performance, comparing it to GPT5.4. Users note it creates non-existent words, uses uncommon grammar, and produces complex outputs. While suitable for tasks like reverse engineering firmware or installing ASR models for local voice recognition, it is considered unsuitable for project planning, code analysis, or document interpretation, especially when text output requires human review. The tool is deemed useful for one-time tasks but problematic for text-heavy, analytical work."
+      },
+      "summary": "DeepSeek V4.1 Flash 类似 GPT5.4，输出内容含糊，常造词、用特殊语法，适合一次性任务如逆向固件、本地语音识别，但不适合项目规划、代码分析等文字输出工作。"
+    },
+    {
+      "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+      "link": "https://www.v2ex.com/t/1241484",
+      "pubDate": "Sat, 12 Sep 2026 01:26:36 GMT",
+      "isoDate": "2026-09-12T01:26:36.000Z",
+      "content": "Ai2You: <p>各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。</p>\n<p>我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！</p>\n<p>由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们 QQ 客服，我们会协助您一起解决。</p>\n<p>我们的小铺地址： <a href=\"https://www.ldxp.cn/shop/282D9KDL\" rel=\"nofollow\">https://www.ldxp.cn/shop/282D9KDL</a> 。我们的产品目前只要分成下面两种。</p>\n<p>一：稳定特殊渠道特价商品：目前这几款我们测试下来都是很稳定，价格会随每天行情变化，请以平台价格为准。</p>\n<p><a href=\"https://pay.ldxp.cn/item/x74yu9\" rel=\"nofollow\">GPTPlus 日区成品号（质保 24 小时）</a> 62.88 | <a href=\"https://pay.ldxp.cn/item/5wdrjz\" rel=\"nofollow\">GPTPlus 东南亚区成品号（质保 24 小时）</a> 62.88 | <a href=\"https://www.ldxp.cn/item/hn4q2p\" rel=\"nofollow\">GPTPlus 日区成品号（质保 20 天）</a> 88.88 | <a href=\"https://pay.ldxp.cn/item/tc7p4m\" rel=\"nofollow\">GPTPlus 泰区成品号（质保 20 天）</a> 88.88 |  <a href=\"https://www.ldxp.cn/item/vj4iwg\" rel=\"nofollow\">Gemini Pro 18 个月直充</a> 9.88  | <a href=\"https://pay.ldxp.cn/item/cdao0i\" rel=\"nofollow\">Gemini Pro 18 个月反重力成品老号</a> 28.88 | <a href=\"https://pay.ldxp.cn/item/dtl195\" rel=\"nofollow\">Gemini Pro 18 个月成品老号</a> 22.88 | <a href=\"https://pay.ldxp.cn/item/l7y6d9\" rel=\"nofollow\">Gmail 谷歌随机老号</a> 16.88 | <a href=\"https://pay.ldxp.cn/item/1zff5i\" rel=\"nofollow\">Leonardo Ai 月卡成品号（支持 seedance2.0mini ）</a> 9.88 | <a href=\"https://pay.ldxp.cn/item/c9f21d\" rel=\"nofollow\">Capcut Pro 月卡成品号（支持 seedance2.5 ）</a> 28.88 | <a href=\"https://wzyp.cn/item/hefsnw\" rel=\"nofollow\">Runway Max 月卡成品号（支持 seedance2.5 ）</a> 188.88|<a href=\"https://pay.ldxp.cn/item/ew9kxy\" rel=\"nofollow\">Super Grok 周卡成品号</a> 28.88 | <a href=\"https://pay.ldxp.cn/item/1zsh7t\" rel=\"nofollow\">Super Grok Heavy 月卡成品号</a> 188.88 | <a href=\"https://wzyp.cn/item/v0ofm0\" rel=\"nofollow\">Super Grok Heavy 季卡成品号</a> 328.88 | <a href=\"https://wzyp.cn/item/pw1z4o\" rel=\"nofollow\">Super Grok Heavy 年卡成品号</a> 668.88 </p>\n<p>二：稳定正规渠道特价商品：一般都是 IOS 优惠区域的直充，这个系列您用大号也可以。</p>\n<p><a href=\"https://pay.ldxp.cn/item/ep6emq\" rel=\"nofollow\">ChatGPT Pro5X 稳定正规渠道月卡直充 1</a> 668.88 | <a href=\"https://wzyp.cn/item/hk57yf\" rel=\"nofollow\">ChatGPT Pro5X 稳定正规渠道月卡直充 2</a> 668.88 | <a href=\"https://wzyp.cn/item/3lgfy3\" rel=\"nofollow\">ChatGPT Pro5X 稳定正规渠道月卡直充 3</a> 688.88 | <a href=\"https://pay.ldxp.cn/item/oxid90\" rel=\"nofollow\">ChatGPT Plus 稳定正规渠道月卡直充 1</a> 128.88 | <a href=\"https://pay.ldxp.cn/item/4xtc99\" rel=\"nofollow\">ChatGPT Plus 稳定正规渠道月卡直充 3</a> 138.88 | <a href=\"https://wzyp.cn/item/3sdtqn\" rel=\"nofollow\">ChatGPT Plus 稳定正规渠道年卡直充 1</a> 1288.88 | <a href=\"https://www.ldxp.cn/item/wsts8u\" rel=\"nofollow\">Claude Pro 稳定正规渠道月卡直充</a> 146.88 | <a href=\"https://pay.ldxp.cn/item/16jx4q\" rel=\"nofollow\">Super Grok 稳定正规渠道季卡直充</a> 388.88 | <a href=\"https://pay.ldxp.cn/item/d7eg6l\" rel=\"nofollow\">Super Grok 稳定正规渠道季卡成品号</a> 298.88</p>\n<p><strong>特别推荐下我们的 Plus 成品号：</strong></p>\n<p>智友社 GPTPlus 稳定特殊渠道独享月卡成品号 1 （日区，支持反代，购买 24 小时内非禁止网络账号问题可免费更换一次），欢迎您的试用反馈！（目前只是经营策略调整，跟之前质保 28 天是一样的渠道哦）</p>\n<p>商品购买地址：<a href=\"https://pay.ldxp.cn/item/x74yu9\" rel=\"nofollow\">购买请点我</a></p>\n<p>该款产品最近 27 天封号反馈情况如下，供大家参考：</p>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/poy7JVmU.png\"></p>\n<p>目前 GPT 封控升级，您购买的账号 codex 登陆基本都会跳手机绑定，需要您自行购买我们平台的接码服务解决，请您同意在购买，感谢您的理解和支持！</p>\n<p>TM 实体卡自助接码服务 3：<a href=\"https://www.ldxp.cn/item/ga7uvr\" rel=\"nofollow\">购买请点我</a></p>\n<p>美国实体卡自助接码服务 10： <a href=\"https://pay.ldxp.cn/item/augfm5\" rel=\"nofollow\">购买请点我</a></p>\n<p>最近 GPT 风控升级，您账号任何网络的变动都可能引发二次验证或者封号，我们建议大家最近尽量避免账号网络环境的变动，尽量把账号固定 1 个场景使用（比如网页的仅用于网页，反代仅用于反代），稳定的网络加上单一的使用场景非常有助于提高账号的稳定性，我们成品号 1 的原生地是日本，我们非常建议大家上日本家宽网络，这样能最大程度的降低账号的风控，您的使用体验也会非常稳定。我们非常建议您可以通过 CPA 或者 SUB2API 建立您个人的私人中转站，这是目前我们发现能最稳定使用成品号的方法之一。</p>\n<p>注意：\n1 、禁止 HK 、SG 、TW 地区网络 和 AS 域名是 Amazon 、Google 、Alibaba 、Tencent 、Akamai 、Frantech 、Cloudflare 、Oracle 、Akari 、GSL 、Nearoute 、it7 、Dmit 、Colocrossing 、Sakura 、As979 服务商的所有网络，如果您是上述网络，建议您落地个家宽网络。</p>\n<p>欢迎您加入：</p>\n<p>我们的官方 QQ 开放交流 3 群：27078264</p>\n<p>我们的官方 TG 开放交流群： <a href=\"https://t.me/+fzIWsUSbcq1kMDYx\" rel=\"nofollow\">https://t.me/+fzIWsUSbcq1kMDYx</a></p>\n<p>我们的官方 店铺地址： <a href=\"https://www.ldxp.cn/shop/282D9KDL\" rel=\"nofollow\">https://www.ldxp.cn/shop/282D9KDL</a></p>\n<h1><strong>抽奖环节</strong></h1>\n<p><strong>奖品详情：</strong></p>\n<p>奖品：8 个智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6</p>\n<p><strong>活动时间：</strong></p>\n<p>截止时间：2026 年 9 月 16 日晚 22:00 关贴后</p>\n<p><strong>参与方式：</strong></p>\n<p>在本帖下回复：周末大家随便聊聊，纯水回复也计入抽奖</p>\n<p>** 抽奖规则：**</p>\n<p>每位用户仅允许参与一次。\n用的 V 友 shoa 的开源项目： <a href=\"https://github.com/wcwac/v2ex-lottery\" rel=\"nofollow\">https://github.com/wcwac/v2ex-lottery</a> ，在此感谢 shoa ！</p>\n<p><strong>注意事项：</strong></p>\n<p>中奖者将在活动结束后在本帖公布，请中奖的 V 友带上截图加我们官方 3 群 27078264 在群里私聊我们 QQ 客服兑奖。</p>\n",
+      "contentSnippet": "Ai2You: \n各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们 QQ 客服，我们会协助您一起解决。\n我们的小铺地址： https://www.ldxp.cn/shop/282D9KDL 。我们的产品目前只要分成下面两种。\n一：稳定特殊渠道特价商品：目前这几款我们测试下来都是很稳定，价格会随每天行情变化，请以平台价格为准。\nGPTPlus 日区成品号（质保 24 小时） 62.88 | GPTPlus 东南亚区成品号（质保 24 小时） 62.88 | GPTPlus 日区成品号（质保 20 天） 88.88 | GPTPlus 泰区成品号（质保 20 天） 88.88 |  Gemini Pro 18 个月直充 9.88  | Gemini Pro 18 个月反重力成品老号 28.88 | Gemini Pro 18 个月成品老号 22.88 | Gmail 谷歌随机老号 16.88 | Leonardo Ai 月卡成品号（支持 seedance2.0mini ） 9.88 | Capcut Pro 月卡成品号（支持 seedance2.5 ） 28.88 | Runway Max 月卡成品号（支持 seedance2.5 ） 188.88|Super Grok 周卡成品号 28.88 | Super Grok Heavy 月卡成品号 188.88 | Super Grok Heavy 季卡成品号 328.88 | Super Grok Heavy 年卡成品号 668.88 \n二：稳定正规渠道特价商品：一般都是 IOS 优惠区域的直充，这个系列您用大号也可以。\nChatGPT Pro5X 稳定正规渠道月卡直充 1 668.88 | ChatGPT Pro5X 稳定正规渠道月卡直充 2 668.88 | ChatGPT Pro5X 稳定正规渠道月卡直充 3 688.88 | ChatGPT Plus 稳定正规渠道月卡直充 1 128.88 | ChatGPT Plus 稳定正规渠道月卡直充 3 138.88 | ChatGPT Plus 稳定正规渠道年卡直充 1 1288.88 | Claude Pro 稳定正规渠道月卡直充 146.88 | Super Grok 稳定正规渠道季卡直充 388.88 | Super Grok 稳定正规渠道季卡成品号 298.88\n特别推荐下我们的 Plus 成品号：\n智友社 GPTPlus 稳定特殊渠道独享月卡成品号 1 （日区，支持反代，购买 24 小时内非禁止网络账号问题可免费更换一次），欢迎您的试用反馈！（目前只是经营策略调整，跟之前质保 28 天是一样的渠道哦）\n商品购买地址：购买请点我\n该款产品最近 27 天封号反馈情况如下，供大家参考：\n\n目前 GPT 封控升级，您购买的账号 codex 登陆基本都会跳手机绑定，需要您自行购买我们平台的接码服务解决，请您同意在购买，感谢您的理解和支持！\nTM 实体卡自助接码服务 3：购买请点我\n美国实体卡自助接码服务 10： 购买请点我\n最近 GPT 风控升级，您账号任何网络的变动都可能引发二次验证或者封号，我们建议大家最近尽量避免账号网络环境的变动，尽量把账号固定 1 个场景使用（比如网页的仅用于网页，反代仅用于反代），稳定的网络加上单一的使用场景非常有助于提高账号的稳定性，我们成品号 1 的原生地是日本，我们非常建议大家上日本家宽网络，这样能最大程度的降低账号的风控，您的使用体验也会非常稳定。我们非常建议您可以通过 CPA 或者 SUB2API 建立您个人的私人中转站，这是目前我们发现能最稳定使用成品号的方法之一。\n注意：\n1 、禁止 HK 、SG 、TW 地区网络 和 AS 域名是 Amazon 、Google 、Alibaba 、Tencent 、Akamai 、Frantech 、Cloudflare 、Oracle 、Akari 、GSL 、Nearoute 、it7 、Dmit 、Colocrossing 、Sakura 、As979 服务商的所有网络，如果您是上述网络，建议您落地个家宽网络。\n欢迎您加入：\n我们的官方 QQ 开放交流 3 群：27078264\n我们的官方 TG 开放交流群： https://t.me/+fzIWsUSbcq1kMDYx\n我们的官方 店铺地址： https://www.ldxp.cn/shop/282D9KDL\n抽奖环节\n奖品详情：\n奖品：8 个智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6\n活动时间：\n截止时间：2026 年 9 月 16 日晚 22:00 关贴后\n参与方式：\n在本帖下回复：周末大家随便聊聊，纯水回复也计入抽奖\n** 抽奖规则：**\n每位用户仅允许参与一次。\n用的 V 友 shoa 的开源项目： https://github.com/wcwac/v2ex-lottery ，在此感谢 shoa ！\n注意事项：\n中奖者将在活动结束后在本帖公布，请中奖的 V 友带上截图加我们官方 3 群 27078264 在群里私聊我们 QQ 客服兑奖。",
+      "creator": "Ai2You",
+      "summaries": {
+        "zh": "智友社回馈V站新老客户，开展抽奖活动，送出8个GPTPLUS稳定特殊渠道日区月卡成品号。智友社专注于寻找稳定的主流AI特价渠道，通过购买评测筛选优质产品。产品分为稳定特殊渠道特价和稳定正规渠道特价两类，涵盖GPTPlus、Gemini Pro等多种AI服务。活动截止至2026年9月16日22:00，参与方式为在本帖回复“周末大家随便聊聊”。中奖者将在活动结束后公布，需截图私聊QQ客服兑奖。",
+        "en": "ZhiYouShe is offering a giveaway of eight GPTPLUS stable special channel Japan-exclusive monthly card product numbers as a thank you to its Vdouyin customers. The giveaway ends on September 16, 2026, at 10 PM. To participate, users must reply to a post with \"Weekend chat, pure water replies are also counted.\" Each user is limited to one entry. Winners will be announced after the event and must contact the official QQ group for redemption."
+      },
+      "summary": "智友社回馈V站新老客户，开展抽奖活动，送出8个GPTPLUS稳定特殊渠道日区月卡成品号。智友社专注于寻找稳定的主流AI特价渠道，通过购买评测筛选优质产品。产品分为稳定特殊渠道特价和稳定正规渠道特价两类，涵盖GPTPlus、Gemini Pro等多种AI服务。活动截止至2026年9月16日22:00，参与方式为在本帖回复“周末大家随便聊聊”。中奖者将在活动结束后公布，需截图私聊QQ客服兑奖。"
+    },
+    {
+      "title": "讨论一下在手机上编程是不是伪需求",
+      "link": "https://www.v2ex.com/t/1241482",
+      "pubDate": "Sat, 12 Sep 2026 01:20:44 GMT",
+      "isoDate": "2026-09-12T01:20:44.000Z",
+      "content": "wKong753900: <p>如题，手机编程，不是手机远程电脑编程哈</p>\n<p>个人观点是伪需求，谢谢，下一个</p>\n",
+      "contentSnippet": "wKong753900: \n如题，手机编程，不是手机远程电脑编程哈\n个人观点是伪需求，谢谢，下一个",
+      "creator": "wKong753900",
+      "summaries": {
+        "zh": "文章讨论了手机编程是否为伪需求。作者wKong753900认为手机编程并非远程电脑编程，而是伪需求，并表达了个人观点。",
+        "en": "The discussion centers on whether mobile programming is a pseudo-need. wKong753900 argues it is not the same as remote computer programming and considers it a pseudo-need. The post is brief and concludes with a typical online response."
+      },
+      "summary": "文章讨论了手机编程是否为伪需求。作者wKong753900认为手机编程并非远程电脑编程，而是伪需求，并表达了个人观点。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:03:50.527Z"
+}

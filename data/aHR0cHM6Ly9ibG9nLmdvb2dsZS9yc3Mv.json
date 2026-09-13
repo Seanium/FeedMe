@@ -1,0 +1,577 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+      "link": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+      "pubDate": "Fri, 11 Sep 2026 11:00:00 +0000",
+      "isoDate": "2026-09-11T11:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp\">Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.",
+      "contentSnippet": "Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.",
+      "creator": "",
+      "summaries": {
+        "zh": "在83届威尼斯国际电影节上，谷歌介绍了三个利用科技推动人类创造力边界的新项目。这些项目在电影节期间首映，展示了科技与创意的结合。",
+        "en": "Google showcased three projects at the 83rd Venice International Film Festival, highlighting their use of technology to enhance human creativity. The initiatives premiered during the event, emphasizing Google's support for innovative technological applications in the arts."
+      },
+      "summary": "在83届威尼斯国际电影节上，谷歌介绍了三个利用科技推动人类创造力边界的新项目。这些项目在电影节期间首映，展示了科技与创意的结合。"
+    },
+    {
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+      "pubDate": "Thu, 10 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-10T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp\">In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+      "contentSnippet": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌实验室于6月推出个性化每日故事集合实验“Dreambeans”，现面向美国所有账户开放。该服务提供定制化故事内容。",
+        "en": "Dreambeans, a Google Labs project offering personalized daily story collections, is now available to all U.S. accounts. Introduced in June, the service provides tailored content to users."
+      },
+      "summary": "谷歌实验室于6月推出个性化每日故事集合实验“Dreambeans”，现面向美国所有账户开放。该服务提供定制化故事内容。"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\">Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "contentSnippet": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Peter Schottenfels"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌能通过报名提醒、定制训练计划等方式，帮助跑者做好比赛准备。",
+        "en": "Search offers three ways to prepare for a big race: registration alerts, customized training plans, and additional resources to help runners get race-day ready."
+      },
+      "summary": "谷歌能通过报名提醒、定制训练计划等方式，帮助跑者做好比赛准备。"
+    },
+    {
+      "title": "The Gemini app is now available for Windows",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp\">We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "contentSnippet": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Erin Pettigrew"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "《Gemini》桌面应用现已登陆Windows平台。该应用专为Windows系统设计，旨在与用户常用的工具和日常应用协同工作，提升桌面使用体验。",
+        "en": "The Gemini app is now available for Windows. It is a new desktop application designed to integrate seamlessly with users' preferred tools and daily software. The app aims to enhance productivity by working alongside existing applications."
+      },
+      "summary": "《Gemini》桌面应用现已登陆Windows平台。该应用专为Windows系统设计，旨在与用户常用的工具和日常应用协同工作，提升桌面使用体验。"
+    },
+    {
+      "title": "Switching password managers is easy and safe on Android",
+      "link": "https://blog.google/products-and-platforms/platforms/android/switch-password-managers/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp\">A new Android feature lets you securely transfer passwords and passkeys between password managers.",
+      "contentSnippet": "A new Android feature lets you securely transfer passwords and passkeys between password managers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jean-Pierre Pralle"
+        ],
+        "title": [
+          "Product Manager, Android"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Android新增功能，可安全地在密码管理器间迁移密码和密钥，切换过程简便安全。",
+        "en": "A new Android feature enables users to securely transfer passwords and passkeys between password managers. The process is designed to be easy and safe, simplifying the transition for those switching services. The feature ensures data integrity and security during the transfer."
+      },
+      "summary": "Android新增功能，可安全地在密码管理器间迁移密码和密钥，切换过程简便安全。"
+    },
+    {
+      "title": "Drive profitable growth with new data and measurement tools",
+      "link": "https://blog.google/products/ads-commerce/data-strength-updates/",
+      "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-10T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp\">New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+      "contentSnippet": "New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nipoon Malhotra"
+        ],
+        "title": [
+          "VP, Ads Analytics, Insights, and Measurement"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本文介绍了新的数据与测量工具，旨在帮助企业做出更快速、更明智的决策，从而推动业务增长。新功能覆盖了测量套件，为企业提供了更有效的增长策略。",
+        "en": "The article highlights new data and measurement tools designed to improve decision-making and drive business growth. These tools offer enhanced capabilities within the measurement suite, enabling faster and more effective choices to boost profitability. The focus is on leveraging advanced analytics for strategic advantages."
+      },
+      "summary": "本文介绍了新的数据与测量工具，旨在帮助企业做出更快速、更明智的决策，从而推动业务增长。新功能覆盖了测量套件，为企业提供了更有效的增长策略。"
+    },
+    {
+      "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "isoDate": "2026-09-10T11:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp\">A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+      "contentSnippet": "A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mark Ball"
+        ],
+        "title": [
+          "Artistic Director, Southbank Centre"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "南岸中心举办周末活动，探讨艺术家、数字创新和人工智能如何重塑我们的世界。活动聚焦创意智能，展示艺术与科技融合的最新成果，引发对未来的思考。",
+        "en": "The Southbank Centre in London hosts a weekend event examining creative intelligence. The program explores how artists, digital innovation, and AI are reshaping society. The event focuses on the intersection of creativity and technology, highlighting their impact on the modern world."
+      },
+      "summary": "南岸中心举办周末活动，探讨艺术家、数字创新和人工智能如何重塑我们的世界。活动聚焦创意智能，展示艺术与科技融合的最新成果，引发对未来的思考。"
+    },
+    {
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+      "pubDate": "Wed, 09 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-09T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp\">Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "contentSnippet": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vishal Batchu"
+        ],
+        "title": [
+          "Research Engineer"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与NASA JPL合作开发了一种人工智能模型，利用EMIT卫星从太空绘制并量化全球甲烷排放。该模型通过深度学习技术，实现了对全球甲烷排放源的精准识别和监测。",
+        "en": "Google and NASA JPL have created a new deep learning model to map and quantify global methane emissions from space. The model utilizes data from the Earth Surface Mineral Dust Transport (EMIT) instrument. This technology enables precise detection and measurement of methane sources worldwide, aiding in environmental monitoring and climate research. The collaboration aims to improve understanding of methane distribution and contribute to efforts in reducing emissions."
+      },
+      "summary": "谷歌与NASA JPL合作开发了一种人工智能模型，利用EMIT卫星从太空绘制并量化全球甲烷排放。该模型通过深度学习技术，实现了对全球甲烷排放源的精准识别和监测。"
+    },
+    {
+      "title": "Tackle your to-do list with new features in our Google AI plans.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+      "pubDate": "Wed, 09 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-09T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-600x600.format-webp.webp\">Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+      "contentSnippet": "Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vikas Kansal"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "AI Subscriptions"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌AI计划推出新功能，帮助用户管理待办事项。订阅者可试用Google Pics和Sheets canvas，同时Gmail、Docs和Keep新增语音功能。",
+        "en": "Google AI plans introduce new features for subscribers, including access to Google Pics and Sheets canvas. Enhanced voice features are also added to Gmail, Docs, and Keep to improve productivity. These updates aim to streamline task management and enhance user experience across Google's suite of applications."
+      },
+      "summary": "谷歌AI计划推出新功能，帮助用户管理待办事项。订阅者可试用Google Pics和Sheets canvas，同时Gmail、Docs和Keep新增语音功能。"
+    },
+    {
+      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "link": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp\">People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+      "contentSnippet": "People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah Armstrong"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "《Gemini助力简化行政事务》\n\nGemini正被广泛用于协助处理复杂的政府任务。它通过简化税务申报、罚款准备和社保服务申请等流程，显著提升了行政效率，使相关事务变得快速便捷。",
+        "en": "Gemini assists with administrative tasks such as filing taxes, preparing fines, and accessing social services, making complex government processes quicker and easier for users."
+      },
+      "summary": "《Gemini助力简化行政事务》\n\nGemini正被广泛用于协助处理复杂的政府任务。它通过简化税务申报、罚款准备和社保服务申请等流程，显著提升了行政效率，使相关事务变得快速便捷。"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp\">Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "contentSnippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Chang"
+        ],
+        "title": [
+          "Google DeepMind engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "影片《Love, Rendered》展示了电影制作人和谷歌DeepMind如何运用人工智能技术，通过画面重构的方式，再现了一对恋人未记录的过去。该短片以逐帧重制的创新手法，呈现了一段跨越70年的爱情故事，展现了科技在艺术创作中的应用。",
+        "en": "The short film \"Love, Rendered\" showcases filmmakers and Google DeepMind using AI to recreate a couple's unrecorded 70-year love story frame by frame. The project leverages artificial intelligence to visualize their shared history, filling in gaps with detailed recreations based on limited information. The result is a poignant visual narrative that brings their past to life."
+      },
+      "summary": "影片《Love, Rendered》展示了电影制作人和谷歌DeepMind如何运用人工智能技术，通过画面重构的方式，再现了一对恋人未记录的过去。该短片以逐帧重制的创新手法，呈现了一段跨越70年的爱情故事，展现了科技在艺术创作中的应用。"
+    },
+    {
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "contentSnippet": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Denise Ho"
+        ],
+        "title": [
+          "Senior Director, Product Management, Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索新增足球功能，本赛季可直接追踪直播比赛、查看详细数据，并获取个性化梦幻球队推荐。",
+        "en": "Google Search is introducing new football features for the season, allowing users to track live game feeds, explore detailed player and team statistics, and receive custom fantasy recommendations directly within the search platform. These updates enhance the fan experience by providing real-time updates and personalized content."
+      },
+      "summary": "谷歌搜索新增足球功能，本赛季可直接追踪直播比赛、查看详细数据，并获取个性化梦幻球队推荐。"
+    },
+    {
+      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp\">Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "contentSnippet": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kevin O’Toole"
+        ],
+        "title": [
+          "Global Head of Google Accelerators"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌加速器过去十年帮助全球初创企业成功。自2016年以来，我们已支持2115家来自92个国家的初创企业、开发者、研究机构和非政府组织。",
+        "en": "Google Accelerators have supported 2,115 startups, developers, research organizations, and NGOs across 92 countries since 2016, helping global startups succeed over the past decade."
+      },
+      "summary": "谷歌加速器过去十年帮助全球初创企业成功。自2016年以来，我们已支持2115家来自92个国家的初创企业、开发者、研究机构和非政府组织。"
+    },
+    {
+      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-09T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp\">Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
+      "contentSnippet": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bikash Koley"
+        ],
+        "title": [
+          "Vice President, Google Global Infrastructure"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌向芬兰投资130亿欧元，旨在提升数字基础设施、发展清洁能源、创造就业机会，并支持当地环保项目。此举进一步深化了谷歌对芬兰的承诺。",
+        "en": "Google is investing €13 billion in Finland to enhance digital infrastructure, promote clean energy, generate employment, and support local environmental projects. The initiative underscores the company's commitment to the region while advancing technological and sustainable development goals."
+      },
+      "summary": "谷歌向芬兰投资130亿欧元，旨在提升数字基础设施、发展清洁能源、创造就业机会，并支持当地环保项目。此举进一步深化了谷歌对芬兰的承诺。"
+    },
+    {
+      "title": "Our blueprint for responsible clean energy growth in Finland",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-09T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp\">Today Google announced new local energy partnerships — including our first ever agreement for a nuclear plant life extension & uprate — to contribute to a resilient, aff…",
+      "contentSnippet": "Today Google announced new local energy partnerships — including our first ever agreement for a nuclear plant life extension & uprate — to contribute to a resilient, aff…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Enrique Frances"
+        ],
+        "title": [
+          "Senior Lead"
+        ],
+        "department": [
+          "Energy Strategy"
+        ],
+        "company": [
+          "EMEA"
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌近日宣布新的本地能源合作，包括首次与核电站签署延寿及提效协议，以促进芬兰清洁能源的稳健发展。此举旨在增强能源韧性，推动可持续能源增长。",
+        "en": "Google announced new local energy partnerships in Finland, including its first nuclear plant life extension and uprate agreement. These initiatives aim to support responsible clean energy growth and enhance energy resilience. The collaboration underscores Google's commitment to sustainable energy solutions in the region."
+      },
+      "summary": "谷歌近日宣布新的本地能源合作，包括首次与核电站签署延寿及提效协议，以促进芬兰清洁能源的稳健发展。此举旨在增强能源韧性，推动可持续能源增长。"
+    },
+    {
+      "title": "Missouri and Google partner on AI and career training",
+      "link": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+      "pubDate": "Tue, 08 Sep 2026 15:05:00 +0000",
+      "isoDate": "2026-09-08T15:05:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp\">Google is partnering with Missouri to provide 1.1 million students free access to Gemini for Education and career certificates. See how to get started.",
+      "contentSnippet": "Google is partnering with Missouri to provide 1.1 million students free access to Gemini for Education and career certificates. See how to get started.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Drew Sidel"
+        ],
+        "title": [
+          "North America Lead"
+        ],
+        "department": [
+          "Google Workspace and AI for Education"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与密苏里州合作，为110万名学生免费提供教育版Gemini和职业证书。具体获取方式请参考相关指引。",
+        "en": "Missouri and Google are collaborating to offer 1.1 million students free access to Gemini for Education and career certificates. The partnership aims to enhance AI learning and career development opportunities. Interested students can explore how to get started with the program."
+      },
+      "summary": "谷歌与密苏里州合作，为110万名学生免费提供教育版Gemini和职业证书。具体获取方式请参考相关指引。"
+    },
+    {
+      "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
+      "pubDate": "Tue, 08 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-08T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp\">We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+      "contentSnippet": "We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenna Stauffer"
+        ],
+        "title": [
+          "Head of Strategic Priorities"
+        ],
+        "department": [
+          "Climate Operations"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们将与Nevoya和绿色市场激活中心（GMA）合作，在德克萨斯州部署25辆电动半挂卡车。",
+        "en": "We are collaborating with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 new electric semi trucks in Texas. The partnership aims to expand the use of electric transportation solutions in the region. The initiative highlights a commitment to sustainable logistics and reducing carbon emissions through the adoption of electric vehicles."
+      },
+      "summary": "我们将与Nevoya和绿色市场激活中心（GMA）合作，在德克萨斯州部署25辆电动半挂卡车。"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "pubDate": "Tue, 08 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-08T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp\">We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.",
+      "contentSnippet": "We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Pushmeet Kohli"
+        ],
+        "title": [
+          "VP Science, Google DeepMind & Chief Scientist, Google Cloud"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "AlphaGenome Atlas是一个预测人类基因组中每个可能单核苷酸变异影响的数据库。该数据库提供了高分辨率的人类DNA图谱，为基因变异研究提供了全面的数据支持。",
+        "en": "The AlphaGenome Atlas is a database that predicts the effects of all possible single nucleotide variants in the human genome. It provides a high-resolution map of human DNA, offering comprehensive insights into genetic variations and their potential impacts. The resource aims to enhance understanding of genetic diversity and its implications for health and disease."
+      },
+      "summary": "AlphaGenome Atlas是一个预测人类基因组中每个可能单核苷酸变异影响的数据库。该数据库提供了高分辨率的人类DNA图谱，为基因变异研究提供了全面的数据支持。"
+    },
+    {
+      "title": "Helping small businesses win with AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
+      "pubDate": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-08T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp\">We took to Route 66 to help Main Street entrepreneurs build confidence with AI. Explore free tools at Grow.Google/SMB.",
+      "contentSnippet": "We took to Route 66 to help Main Street entrepreneurs build confidence with AI. Explore free tools at Grow.Google/SMB.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Gevelber"
+        ],
+        "title": [
+          "Founder, Grow with Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本文介绍了通过AI帮助小型企业主提升信心的项目。项目团队前往Route 66，为美国大街上的企业家提供支持。相关免费工具可在Grow.Google/SMB平台获取。",
+        "en": "The article highlights efforts to assist small businesses in leveraging AI to boost confidence. It features a Route 66 initiative for Main Street entrepreneurs, with resources available at Grow.Google/SMB, offering free AI tools. The focus is on empowering SMBs through accessible technology."
+      },
+      "summary": "本文介绍了通过AI帮助小型企业主提升信心的项目。项目团队前往Route 66，为美国大街上的企业家提供支持。相关免费工具可在Grow.Google/SMB平台获取。"
+    },
+    {
+      "title": "Our new contrail avoidance trial in Asia-Pacific",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
+      "pubDate": "Mon, 07 Sep 2026 08:00:00 +0000",
+      "isoDate": "2026-09-07T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp\">We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "contentSnippet": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kemal Armada"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们与国泰航空合作，在亚太地区开展一项新的人工智能驱动的尾迹规避技术试验，主要针对超长途航班。",
+        "en": "The company is collaborating with Cathay Pacific to test its AI-driven contrail mitigation technology on ultra-long-haul flights in the Asia-Pacific region. The trial aims to evaluate the effectiveness of the technology in reducing aircraft contrails."
+      },
+      "summary": "我们与国泰航空合作，在亚太地区开展一项新的人工智能驱动的尾迹规避技术试验，主要针对超长途航班。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:00:54.691Z"
+}

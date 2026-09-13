@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "pubDate": "Sat, 12 Sep 2026 14:17:56 GMT",
+      "isoDate": "2026-09-12T14:17:56.000Z",
+      "content": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "contentSnippet": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "creator": "Kevin Whitelaw and Seth Fiegerman",
+      "summaries": {
+        "zh": "Anthropic公司首席执行官Dario Amodei表示，鉴于对人类“严重”风险的日益担忧，人工智能行业应减缓新模型的开发速度。",
+        "en": "Anthropic CEO Dario Amodei calls for slowing AI model advancements due to \"serious\" human risks. He highlights growing concerns about the pace of development in the artificial intelligence industry."
+      },
+      "summary": "Anthropic公司首席执行官Dario Amodei表示，鉴于对人类“严重”风险的日益担忧，人工智能行业应减缓新模型的开发速度。"
+    },
+    {
+      "title": "Brazil’s Top Court Gives Police Deadline on Banker’s Phone Data",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data",
+      "pubDate": "Sun, 13 Sep 2026 00:02:14 GMT",
+      "isoDate": "2026-09-13T00:02:14.000Z",
+      "content": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of Daniel Vorcaro, former owner of Banco Master, according to a ruling issued this Saturday.",
+      "contentSnippet": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of Daniel Vorcaro, former owner of Banco Master, according to a ruling issued this Saturday.",
+      "creator": "Patricia Xavier",
+      "summaries": {
+        "zh": "巴西最高法院首席大法官埃德森·法钦于本周六裁定，联邦警察必须在24小时内提供关于前巴西大师银行（Banco Master）老板丹尼尔·沃卡罗（Daniel Vorcaro）手机数据保管和状况的信息。",
+        "en": "Brazil’s Chief Justice Edson Fachin ordered the Federal Police to submit details on the storage and status of data from former Banco Master owner Daniel Vorcaro’s phone within 24 hours, as per a Saturday ruling. The decision specifies the timeframe for providing information on the extracted data."
+      },
+      "summary": "巴西最高法院首席大法官埃德森·法钦于本周六裁定，联邦警察必须在24小时内提供关于前巴西大师银行（Banco Master）老板丹尼尔·沃卡罗（Daniel Vorcaro）手机数据保管和状况的信息。"
+    },
+    {
+      "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam",
+      "pubDate": "Sat, 12 Sep 2026 22:59:58 GMT",
+      "isoDate": "2026-09-12T22:59:58.000Z",
+      "content": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "contentSnippet": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "路透社报道，Revolut Ltd.表示，部分客户敏感信息因第三方未经授权使用合法政府邮箱域名进行诈骗而泄露。此次事件涉及的数据数量有限。",
+        "en": "Revolut Ltd. confirmed that a scam involving an unauthorized third party exploited a legitimate government email domain, exposing sensitive data of a \"limited number\" of customers. The incident involved the misuse of official email addresses to deceive individuals. The company addressed the unauthorized access but did not provide further details on the extent or type of data compromised."
+      },
+      "summary": "路透社报道，Revolut Ltd.表示，部分客户敏感信息因第三方未经授权使用合法政府邮箱域名进行诈骗而泄露。此次事件涉及的数据数量有限。"
+    },
+    {
+      "title": "Tesla Teases Oct. 1 Event to Showcase Next-Generation Roadster",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/tesla-teases-oct-1-event-to-showcase-next-generation-roadster",
+      "pubDate": "Sat, 12 Sep 2026 20:20:58 GMT",
+      "isoDate": "2026-09-12T20:20:58.000Z",
+      "content": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "contentSnippet": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "creator": "Dana Hull",
+      "summaries": {
+        "zh": "特斯拉于10月1日举办活动，将展示其新一代Roadster车型。该车型是特斯拉CEO马斯克于2017年11月首次揭幕的利基产品。",
+        "en": "Tesla Inc. announced an Oct. 1 event to reveal its next-generation Roadster, a high-performance electric vehicle initially unveiled by CEO Elon Musk in November 2017. The company provided minimal details but confirmed the event will focus on the updated Roadster."
+      },
+      "summary": "特斯拉于10月1日举办活动，将展示其新一代Roadster车型。该车型是特斯拉CEO马斯克于2017年11月首次揭幕的利基产品。"
+    },
+    {
+      "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+      "pubDate": "Sat, 12 Sep 2026 19:36:39 GMT",
+      "isoDate": "2026-09-12T19:36:39.000Z",
+      "content": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "contentSnippet": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "creator": "María Paula Mijares Torres and Se Young Lee",
+      "summaries": {
+        "zh": "OpenAI首席执行官萨姆·奥特曼表示，该公司不会在2026年上市，而是将优先解决人工智能技术相关的安全问题。这一决定基于对安全的重视，而非市场时机。",
+        "en": "OpenAI's CEO Sam Altman confirmed in a Fortune interview that the company has no plans for an IPO in 2026. Altman stated that OpenAI will prioritize addressing safety concerns in artificial intelligence over going public. The firm remains focused on ensuring the responsible development and deployment of AI technology."
+      },
+      "summary": "OpenAI首席执行官萨姆·奥特曼表示，该公司不会在2026年上市，而是将优先解决人工智能技术相关的安全问题。这一决定基于对安全的重视，而非市场时机。"
+    },
+    {
+      "title": "Blizzard Announces ‘Diablo V,’ New ‘StarCraft’ Shooter",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-12/blizzard-announces-diablo-v-new-starcraft-shooter",
+      "pubDate": "Sat, 12 Sep 2026 19:15:01 GMT",
+      "isoDate": "2026-09-12T19:15:01.000Z",
+      "content": "The new games capped off a bounce-back year for the developer",
+      "contentSnippet": "The new games capped off a bounce-back year for the developer",
+      "creator": "Jason Schreier",
+      "summaries": {
+        "zh": "暴雪宣布推出《暗黑破坏神V》新作，并推出一款《星际争霸》射击游戏。这两款新游戏标志着暴雪在经历起伏后的一年成功复苏。",
+        "en": "Blizzard announced *Diablo V*, a new *StarCraft* shooter, marking a successful rebound year for the developer. The company showcased its latest projects, highlighting *Diablo V* and the *StarCraft* shooter as key additions. The news reflects Blizzard's continued growth and expansion in its gaming portfolio."
+      },
+      "summary": "暴雪宣布推出《暗黑破坏神V》新作，并推出一款《星际争霸》射击游戏。这两款新游戏标志着暴雪在经历起伏后的一年成功复苏。"
+    },
+    {
+      "title": "Oracle Boosts Layoffs Plan by $700 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+      "pubDate": "Fri, 11 Sep 2026 21:13:29 GMT",
+      "isoDate": "2026-09-11T21:13:29.000Z",
+      "content": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "contentSnippet": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "creator": "Brody Ford",
+      "summaries": {
+        "zh": "甲骨文公司因应对人工智能项目大规模数据中心建设带来的资金短缺，将裁员计划增加7亿美元。",
+        "en": "Oracle Corp. has expanded its layoffs plan by an additional $700 million, bringing the total cost of the workforce reduction to $3.5 billion. The move reflects the company's struggle with a cash shortage, primarily due to the high expenses of developing large-scale data centers for artificial intelligence projects. The decision aims to streamline operations amid financial pressures."
+      },
+      "summary": "甲骨文公司因应对人工智能项目大规模数据中心建设带来的资金短缺，将裁员计划增加7亿美元。"
+    },
+    {
+      "title": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/larry-ellison-scraps-plan-to-sell-up-to-50-million-oracle-shares",
+      "pubDate": "Sat, 12 Sep 2026 16:33:33 GMT",
+      "isoDate": "2026-09-12T16:33:33.000Z",
+      "content": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "contentSnippet": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "甲骨文公司主席埃里森宣布取消原计划出售最多5000万股公司股票。",
+        "en": "Larry Ellison has canceled his plan to sell up to 50 million shares of Oracle Corp. The announcement was made by Oracle on Saturday."
+      },
+      "summary": "甲骨文公司主席埃里森宣布取消原计划出售最多5000万股公司股票。"
+    },
+    {
+      "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-12T13:00:00.000Z",
+      "content": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "contentSnippet": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "creator": "Maggie Eastland and Courtney Subramanian",
+      "summaries": {
+        "zh": "特朗普在2024年6月拉斯维加斯竞选活动中接触了将定义其第二任期的重要技术，并淡化了对人工智能的担忧，以维护美国在中国的领先地位。",
+        "en": "Donald Trump dismissed concerns about artificial intelligence during a June 2024 campaign stop in Las Vegas, emphasizing the need to safeguard the U.S. ahead of China. The article highlights his focus on the technology that would shape his potential second term, though no further details are provided. (Word count: 50)"
+      },
+      "summary": "特朗普在2024年6月拉斯维加斯竞选活动中接触了将定义其第二任期的重要技术，并淡化了对人工智能的担忧，以维护美国在中国的领先地位。"
+    },
+    {
+      "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+      "pubDate": "Sat, 12 Sep 2026 09:37:47 GMT",
+      "isoDate": "2026-09-12T09:37:47.000Z",
+      "content": "China’s artificial intelligence industry is shifting from competition in large models and computing power toward the deployment and commercialization of AI agents, according to a report by the China Telecom Research Institute cited by China Central Television on Saturday.",
+      "contentSnippet": "China’s artificial intelligence industry is shifting from competition in large models and computing power toward the deployment and commercialization of AI agents, according to a report by the China Telecom Research Institute cited by China Central Television on Saturday.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国人工智能产业正从大型模型和算力竞赛转向AI代理的部署与商业化，据中国电信研究院报告及央视报道。行业重点转向实际应用，推动技术落地。",
+        "en": "China’s AI industry is shifting focus from developing large models and computing power to deploying and commercializing AI agents, as reported by China Central Television citing the China Telecom Research Institute. The pivot reflects a move toward practical applications and business integration."
+      },
+      "summary": "中国人工智能产业正从大型模型和算力竞赛转向AI代理的部署与商业化，据中国电信研究院报告及央视报道。行业重点转向实际应用，推动技术落地。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:00:42.042Z"
+}
