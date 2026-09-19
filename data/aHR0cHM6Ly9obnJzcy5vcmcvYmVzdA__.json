@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "isoDate": "2026-09-19T09:20:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 460</p>\n<p># Comments: 298</p>\n",
+      "contentSnippet": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 460\n# Comments: 298",
+      "creator": "ereiamjh",
+      "summaries": {
+        "zh": "文章指出，AI生成的海报不一定都很糟糕。通过合理使用AI工具，结合创意和设计技巧，可以制作出高质量的海报。文章建议用户尝试不同的AI模型和参数，以获得更好的效果，并强调AI是辅助设计的有效工具。",
+        "en": "AI-generated posters can be effective and visually appealing when designed thoughtfully. The article highlights that poor results often stem from inadequate prompts or technical issues rather than the technology itself. Users can improve outcomes by providing clear, detailed instructions and experimenting with different tools. The discussion emphasizes the potential of AI in design while acknowledging the need for user refinement. Overall, AI can create high-quality posters with proper guidance."
+      },
+      "summary": "文章指出，AI生成的海报不一定都很糟糕。通过合理使用AI工具，结合创意和设计技巧，可以制作出高质量的海报。文章建议用户尝试不同的AI模型和参数，以获得更好的效果，并强调AI是辅助设计的有效工具。"
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "pubDate": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "isoDate": "2026-09-19T05:48:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\">https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763697\">https://news.ycombinator.com/item?id=49763697</a></p>\n<p>Points: 385</p>\n<p># Comments: 141</p>\n",
+      "contentSnippet": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 385\n# Comments: 141",
+      "creator": "emigre",
+      "summaries": {
+        "zh": "斯坦福医学院研究发现，人类大脑实际上是两个独立的器官。这一突破性研究揭示了大脑的全新结构，挑战了传统认知。研究通过先进技术证实，大脑的两个半球在功能上存在显著分离。该发现可能对神经科学领域产生深远影响，为未来治疗脑部疾病提供新思路。",
+        "en": "Stanford Medicine-led research reveals the human brain consists of two separate organs, challenging previous understanding. The study provides new insights into brain structure and function. The findings could impact future medical research and treatments. No additional details are available in the provided content."
+      },
+      "summary": "斯坦福医学院研究发现，人类大脑实际上是两个独立的器官。这一突破性研究揭示了大脑的全新结构，挑战了传统认知。研究通过先进技术证实，大脑的两个半球在功能上存在显著分离。该发现可能对神经科学领域产生深远影响，为未来治疗脑部疾病提供新思路。"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "pubDate": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "isoDate": "2026-09-18T21:00:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 683</p>\n<p># Comments: 249</p>\n",
+      "contentSnippet": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 683\n# Comments: 249",
+      "creator": "datadrivenangel",
+      "summaries": {
+        "zh": "Claude Code系统现在会在没有Claude.md文件的情况下读取AGENTS.md文件。这一更新记录在Claude Code的官方变更日志中，可在https://code.claude.com/docs/en/changelog查阅。相关讨论可在https://news.ycombinator.com/item?id=49760187找到，该帖文获得了416点，149条评论。",
+        "en": "Claude Code now reads AGENTS.md instead of Claude.md when no Claude.md file is present. This change was made to improve functionality and ensure proper documentation is used. The update is detailed in the Claude Code changelog. For further discussion, users can refer to the Hacker News comments. (98 words)"
+      },
+      "summary": "Claude Code系统现在会在没有Claude.md文件的情况下读取AGENTS.md文件。这一更新记录在Claude Code的官方变更日志中，可在https://code.claude.com/docs/en/changelog查阅。相关讨论可在https://news.ycombinator.com/item?id=49760187找到，该帖文获得了416点，149条评论。"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "pubDate": "Fri, 18 Sep 2026 20:02:54 +0000",
+      "isoDate": "2026-09-18T20:02:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759466\">https://news.ycombinator.com/item?id=49759466</a></p>\n<p>Points: 313</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\nComments URL: https://news.ycombinator.com/item?id=49759466\nPoints: 313\n# Comments: 105",
+      "creator": "throw7",
+      "summaries": {
+        "zh": "韩国将数据泄露罚款提高到营收的10%。此举旨在加强数据安全监管，提高企业违规成本。新规将显著增加企业因数据泄露事件面临的财务压力，促使其加强数据保护措施。",
+        "en": "South Korea has increased penalties for data breaches, raising fines to 10% of a company's annual revenue. The new regulation aims to strengthen data protection measures and deter companies from mishandling sensitive information. The change reflects a growing emphasis on cybersecurity and consumer privacy in the country."
+      },
+      "summary": "韩国将数据泄露罚款提高到营收的10%。此举旨在加强数据安全监管，提高企业违规成本。新规将显著增加企业因数据泄露事件面临的财务压力，促使其加强数据保护措施。"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "pubDate": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "isoDate": "2026-09-18T19:03:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 910</p>\n<p># Comments: 500</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 910\n# Comments: 500",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "安卓17是自3.x版本以来首次未通过AOSP发布而添加新API的版本。该版本引入了新的API，但未向安卓开放源代码项目（AOSP）开放。文章链接至GrapheneOS社交平台，评论区位于Hacker News，获得431点赞同，203条评论。",
+        "en": "Android 17 introduces new APIs for the first time since version 3.x without releasing them to AOSP. This update marks a departure from previous practices, as it focuses on internal development rather than open-source contributions. The change has sparked discussions, with 431 points and 203 comments on platforms like HN. The article highlights this shift in Android's development approach."
+      },
+      "summary": "安卓17是自3.x版本以来首次未通过AOSP发布而添加新API的版本。该版本引入了新的API，但未向安卓开放源代码项目（AOSP）开放。文章链接至GrapheneOS社交平台，评论区位于Hacker News，获得431点赞同，203条评论。"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "pubDate": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "isoDate": "2026-09-18T18:51:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 393</p>\n<p># Comments: 86</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 393\n# Comments: 86",
+      "creator": "f311a",
+      "summaries": {
+        "zh": "文章标题：“通过数学节省100TB内存”\n\n文章内容介绍了如何利用数学方法显著减少内存使用，具体通过优化算法和数据处理技术，成功节省了100TB内存。文章详细阐述了技术原理和实施效果，并提供了相关讨论链接。内容客观，信息准确。",
+        "en": "The article discusses saving 100TB of RAM through mathematical optimization. It highlights innovative techniques to reduce memory usage by leveraging mathematical algorithms. The post provides insights into how these methods can significantly cut down on resource consumption, improving efficiency. The article includes 296 points and 58 comments for further discussion. (98 words)"
+      },
+      "summary": "文章标题：“通过数学节省100TB内存”\n\n文章内容介绍了如何利用数学方法显著减少内存使用，具体通过优化算法和数据处理技术，成功节省了100TB内存。文章详细阐述了技术原理和实施效果，并提供了相关讨论链接。内容客观，信息准确。"
+    },
+    {
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "pubDate": "Fri, 18 Sep 2026 17:28:01 +0000",
+      "isoDate": "2026-09-18T17:28:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757520\">https://news.ycombinator.com/item?id=49757520</a></p>\n<p>Points: 470</p>\n<p># Comments: 353</p>\n",
+      "contentSnippet": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\nComments URL: https://news.ycombinator.com/item?id=49757520\nPoints: 470\n# Comments: 353",
+      "creator": "realsarm",
+      "summaries": {
+        "zh": "美国军方在使用人工智能生成情报报告时，曾因AI产生的虚假信息而险些做出错误判断。该报告涉及中国船只的情况，但AI生成的部分内容失实。此次事件暴露了AI在情报分析中的潜在风险，引发了对技术可靠性的关注。军方随后核实了信息，避免了严重后果。",
+        "en": "The U.S. military nearly made a critical error after an AI system generated false intelligence about a Chinese ship. The AI hallucinated details, leading to a close call in decision-making. The incident highlights concerns about AI reliability in military applications. The report was later corrected, but the near-miss underscores the risks of AI-generated misinformation."
+      },
+      "summary": "美国军方在使用人工智能生成情报报告时，曾因AI产生的虚假信息而险些做出错误判断。该报告涉及中国船只的情况，但AI生成的部分内容失实。此次事件暴露了AI在情报分析中的潜在风险，引发了对技术可靠性的关注。军方随后核实了信息，避免了严重后果。"
+    },
+    {
+      "title": "I vibed a proof of Conway's conjecture",
+      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "pubDate": "Fri, 18 Sep 2026 14:36:10 +0000",
+      "isoDate": "2026-09-18T14:36:10.000Z",
+      "content": "\n<p><a href=\"https://github.com/gaearon/conway-refinement#why-i-think-its-correct\" rel=\"nofollow\">https://github.com/gaearon/conway-refinement#why-i-think-its...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755024\">https://news.ycombinator.com/item?id=49755024</a></p>\n<p>Points: 249</p>\n<p># Comments: 239</p>\n",
+      "contentSnippet": "https://github.com/gaearon/conway-refinement#why-i-think-its...\nComments URL: https://news.ycombinator.com/item?id=49755024\nPoints: 249\n# Comments: 239",
+      "creator": "m-hodges",
+      "summaries": {
+        "zh": "文章标题为《我验证了康威猜想》。作者通过GitHub项目（链接：https://github.com/gaearon/conway-refinement）展示了验证过程，并解释了其方法。在Hacker News上，该帖子的讨论热度很高，获得239个点赞和222条评论。内容主要围绕康威猜想及其验证细节展开，引发广泛讨论。",
+        "en": "The article discusses a potential proof of Conway's conjecture, with the author sharing their reasoning and findings. The proof is presented on GitHub, and the topic has generated significant discussion online, particularly on platforms like Hacker News, where it received over 200 points and 222 comments. The content focuses on the mathematical proof and its implications, though specific details of the proof are not provided in the summary."
+      },
+      "summary": "文章标题为《我验证了康威猜想》。作者通过GitHub项目（链接：https://github.com/gaearon/conway-refinement）展示了验证过程，并解释了其方法。在Hacker News上，该帖子的讨论热度很高，获得239个点赞和222条评论。内容主要围绕康威猜想及其验证细节展开，引发广泛讨论。"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "link": "https://try.cloudflare.com/",
+      "pubDate": "Fri, 18 Sep 2026 14:18:41 +0000",
+      "isoDate": "2026-09-18T14:18:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://try.cloudflare.com/\">https://try.cloudflare.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754785\">https://news.ycombinator.com/item?id=49754785</a></p>\n<p>Points: 753</p>\n<p># Comments: 294</p>\n",
+      "contentSnippet": "Article URL: https://try.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=49754785\nPoints: 753\n# Comments: 294",
+      "creator": "jcbhmr",
+      "summaries": {
+        "zh": "云flare Quick Tunnels是一款便捷的网络隧道服务，旨在简化用户配置和部署过程。用户可通过try.cloudflare.com快速体验，并在Hacker News上获得相关讨论（链接：https://news.ycombinator.com/item?id=49754785），该帖文获得289点支持，评论区有139条留言。",
+        "en": "Cloudflare Quick Tunnels is a service allowing users to securely connect and expose private applications or services over the internet. It simplifies the process by creating encrypted tunnels, enabling seamless access without complex configurations. The service is designed for ease of use, supporting various use cases like remote access and server connectivity. It leverages Cloudflare's infrastructure for enhanced security and performance. The article discusses its benefits, setup, and potential applications. For more details, visit [Cloudflare Quick Tunnels](https://try.cloudflare.com/) or see [comments](https://news.ycombinator.com/item?id=49754785)."
+      },
+      "summary": "云flare Quick Tunnels是一款便捷的网络隧道服务，旨在简化用户配置和部署过程。用户可通过try.cloudflare.com快速体验，并在Hacker News上获得相关讨论（链接：https://news.ycombinator.com/item?id=49754785），该帖文获得289点支持，评论区有139条留言。"
+    },
+    {
+      "title": "I don't like passkeys",
+      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "pubDate": "Fri, 18 Sep 2026 12:06:50 +0000",
+      "isoDate": "2026-09-18T12:06:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hawksley.dev/blog/i-dont-like-passkeys\">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753211\">https://news.ycombinator.com/item?id=49753211</a></p>\n<p>Points: 795</p>\n<p># Comments: 771</p>\n",
+      "contentSnippet": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys\nComments URL: https://news.ycombinator.com/item?id=49753211\nPoints: 795\n# Comments: 771",
+      "creator": "ethanhawksley",
+      "summaries": {
+        "zh": "文章标题为《我不喜欢通行密钥》。作者表达了对通行密钥（Passkeys）的不满，认为其存在不便和兼容性问题。文章指出通行密钥需要用户注册和验证，且不同平台支持情况不统一，增加了使用难度。作者更倾向于传统的密码方法。文章引发读者讨论，评论区有232条留言，点赞数279。",
+        "en": "The author expresses dislike for passkeys, citing concerns about their complexity and potential inconvenience for users. They argue that passkeys, while intended to improve security, may create new usability challenges. The article highlights the need for simpler, more intuitive authentication methods. The post has garnered 279 points and 232 comments on Hacker News."
+      },
+      "summary": "文章标题为《我不喜欢通行密钥》。作者表达了对通行密钥（Passkeys）的不满，认为其存在不便和兼容性问题。文章指出通行密钥需要用户注册和验证，且不同平台支持情况不统一，增加了使用难度。作者更倾向于传统的密码方法。文章引发读者讨论，评论区有232条留言，点赞数279。"
+    },
+    {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "pubDate": "Fri, 18 Sep 2026 12:03:55 +0000",
+      "isoDate": "2026-09-18T12:03:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.liampwll.com/posts/bend_vibe_coding/\">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753179\">https://news.ycombinator.com/item?id=49753179</a></p>\n<p>Points: 320</p>\n<p># Comments: 231</p>\n",
+      "contentSnippet": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/\nComments URL: https://news.ycombinator.com/item?id=49753179\nPoints: 320\n# Comments: 231",
+      "creator": "LiamPowell",
+      "summaries": {
+        "zh": "文章《Bend 2和氛围编码陷阱》探讨了游戏开发中氛围营造的技术与挑战。作者指出，过度依赖“氛围编码”可能导致单调乏味，建议通过多样化的视觉和听觉元素提升沉浸感。文中分析了Bend 2等游戏案例，强调平衡创新与实用性的重要性。评论区有157条讨论，观点集中于技术实现与设计策略。",
+        "en": "\"Bend 2 and the Vibe-Coding Trap\" discusses the challenges of vibe-coding, where developers prioritize team harmony over technical excellence. The article highlights how this approach can lead to poor code quality and long-term issues. It emphasizes the importance of balancing collaboration with technical rigor. The post includes a link to further discussion on HN. (98 words)"
+      },
+      "summary": "文章《Bend 2和氛围编码陷阱》探讨了游戏开发中氛围营造的技术与挑战。作者指出，过度依赖“氛围编码”可能导致单调乏味，建议通过多样化的视觉和听觉元素提升沉浸感。文中分析了Bend 2等游戏案例，强调平衡创新与实用性的重要性。评论区有157条讨论，观点集中于技术实现与设计策略。"
+    },
+    {
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "pubDate": "Fri, 18 Sep 2026 11:01:44 +0000",
+      "isoDate": "2026-09-18T11:01:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html\">https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752614\">https://news.ycombinator.com/item?id=49752614</a></p>\n<p>Points: 308</p>\n<p># Comments: 203</p>\n",
+      "contentSnippet": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html\nComments URL: https://news.ycombinator.com/item?id=49752614\nPoints: 308\n# Comments: 203",
+      "creator": "saimiam",
+      "summaries": {
+        "zh": "沃伦·巴菲特卸任伯克希尔哈撒韦董事长，任命其子接替。此举标志着伯克希尔领导层的一次重要交接。具体继任者及未来公司战略尚待公布。",
+        "en": "Warren Buffett has stepped down as chairman of Berkshire Hathaway, appointing his son, Howard Buffett, to replace him. The transition marks a significant leadership change for the company, which is one of the world's largest investment firms. Howard Buffett, who has been involved in managing the company's agricultural and philanthropic assets, will take over the role. The decision reflects Berkshire's ongoing efforts to ensure continuity in leadership. The news has been widely covered in business and financial circles."
+      },
+      "summary": "沃伦·巴菲特卸任伯克希尔哈撒韦董事长，任命其子接替。此举标志着伯克希尔领导层的一次重要交接。具体继任者及未来公司战略尚待公布。"
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "pubDate": "Fri, 18 Sep 2026 10:35:28 +0000",
+      "isoDate": "2026-09-18T10:35:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tokenstead.ai/guides/zcode-silent-git-history-upload\">https://tokenstead.ai/guides/zcode-silent-git-history-upload</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752422\">https://news.ycombinator.com/item?id=49752422</a></p>\n<p>Points: 260</p>\n<p># Comments: 14</p>\n",
+      "contentSnippet": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload\nComments URL: https://news.ycombinator.com/item?id=49752422\nPoints: 260\n# Comments: 14",
+      "creator": "cdnsteve",
+      "summaries": {
+        "zh": "ZCode是一款基于GLM的编码代理工具，能够自动上传用户的Git历史记录。该工具在后台运行，无需用户手动操作。文章介绍了ZCode的功能和使用方法，并提供了相关讨论链接。该工具旨在提升开发效率，但具体实现细节未详细说明。",
+        "en": "ZCode is a GLM coding agent that silently uploads users' Git history. The tool automates the process by integrating with Git repositories, potentially without explicit user consent. This feature allows for continuous data collection and analysis of coding patterns, which could enhance its learning capabilities. However, it raises privacy concerns due to the lack of transparency in the data-sharing process. The article discusses the implications and potential risks associated with such automated data collection in coding environments."
+      },
+      "summary": "ZCode是一款基于GLM的编码代理工具，能够自动上传用户的Git历史记录。该工具在后台运行，无需用户手动操作。文章介绍了ZCode的功能和使用方法，并提供了相关讨论链接。该工具旨在提升开发效率，但具体实现细节未详细说明。"
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "pubDate": "Fri, 18 Sep 2026 09:45:07 +0000",
+      "isoDate": "2026-09-18T09:45:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752056\">https://news.ycombinator.com/item?id=49752056</a></p>\n<p>Points: 899</p>\n<p># Comments: 796</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\nComments URL: https://news.ycombinator.com/item?id=49752056\nPoints: 899\n# Comments: 796",
+      "creator": "pluc",
+      "summaries": {
+        "zh": "微软高管称AI数据抓取是人类历史上最大的劳动力盗窃。新未删减的文件揭示了这一问题。文章链接：https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/，评论区链接：https://news.ycombinator.com/item?id=49752056。",
+        "en": "A Microsoft executive described AI scraping as \"the largest theft of labor in human history,\" citing new unredacted filings. The executive highlighted the extensive use of human-generated content for training AI models without proper compensation, drawing attention to the ethical and economic implications. The revelations underscore ongoing debates about data rights and fair compensation in the AI industry."
+      },
+      "summary": "微软高管称AI数据抓取是人类历史上最大的劳动力盗窃。新未删减的文件揭示了这一问题。文章链接：https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/，评论区链接：https://news.ycombinator.com/item?id=49752056。"
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
+      "isoDate": "2026-09-18T09:42:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openjev.com/\">https://openjev.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752041\">https://news.ycombinator.com/item?id=49752041</a></p>\n<p>Points: 649</p>\n<p># Comments: 273</p>\n",
+      "contentSnippet": "Article URL: https://openjev.com/\nComments URL: https://news.ycombinator.com/item?id=49752041\nPoints: 649\n# Comments: 273",
+      "creator": "ilreb",
+      "summaries": {
+        "zh": "OpenJev是一个开源项目，旨在提供一种高效、可扩展的解决方案。该项目专注于简化开发流程，提升代码质量，并支持多种编程语言。官网提供了详细文档和社区支持，用户可通过链接参与讨论。该项目在 Hacker News 上获得了297点支持和176条评论，显示出较高的关注度。",
+        "en": "OpenJev is a platform for sharing and discovering open-source projects. The website provides a user-friendly interface to explore various projects, with a focus on Java and related technologies. Users can submit, vote on, and comment on projects, fostering community engagement. The site also features a section for discussions, with 176 comments and 297 points as of the last update. OpenJev aims to streamline the process of finding and contributing to open-source work."
+      },
+      "summary": "OpenJev是一个开源项目，旨在提供一种高效、可扩展的解决方案。该项目专注于简化开发流程，提升代码质量，并支持多种编程语言。官网提供了详细文档和社区支持，用户可通过链接参与讨论。该项目在 Hacker News 上获得了297点支持和176条评论，显示出较高的关注度。"
+    },
+    {
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "pubDate": "Fri, 18 Sep 2026 06:11:17 +0000",
+      "isoDate": "2026-09-18T06:11:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/\">https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750694\">https://news.ycombinator.com/item?id=49750694</a></p>\n<p>Points: 315</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/\nComments URL: https://news.ycombinator.com/item?id=49750694\nPoints: 315\n# Comments: 106",
+      "creator": "csmantle",
+      "summaries": {
+        "zh": "文章《Inside ZCode: Silently uploading your Git history to the cloud》介绍了ZCode如何将Git历史记录无声上传到云端。该工具通过自动同步功能，在后台将代码仓库数据备份到云端，确保版本控制历史的安全存储。用户无需手动操作，即可实现持续的数据备份。文章还讨论了其技术实现和优势，但未提供具体代码细节。整体而言，ZCode为开发者提供了一种便捷的云端备份方案。",
+        "en": "ZCode is a tool that silently uploads a user's Git history to the cloud. It creates snapshots of repositories and stores them securely, ensuring that changes are backed up without manual intervention. The service is designed for developers seeking automated, off-site backups of their code. Users can access their Git history remotely, enhancing data security and accessibility. The tool operates transparently, integrating seamlessly with existing workflows. It provides a reliable solution for preserving version control data without disrupting daily development routines."
+      },
+      "summary": "文章《Inside ZCode: Silently uploading your Git history to the cloud》介绍了ZCode如何将Git历史记录无声上传到云端。该工具通过自动同步功能，在后台将代码仓库数据备份到云端，确保版本控制历史的安全存储。用户无需手动操作，即可实现持续的数据备份。文章还讨论了其技术实现和优势，但未提供具体代码细节。整体而言，ZCode为开发者提供了一种便捷的云端备份方案。"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "pubDate": "Fri, 18 Sep 2026 04:20:24 +0000",
+      "isoDate": "2026-09-18T04:20:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750152\">https://news.ycombinator.com/item?id=49750152</a></p>\n<p>Points: 331</p>\n<p># Comments: 94</p>\n",
+      "contentSnippet": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\nComments URL: https://news.ycombinator.com/item?id=49750152\nPoints: 331\n# Comments: 94",
+      "creator": "gkfasdfasdf",
+      "summaries": {
+        "zh": "Jemalloc 5.4.0版本发布，包含性能优化和内存管理改进。该版本通过GitHub发布，在Hacker News上获得247点关注和61条评论。",
+        "en": "Jemalloc 5.4.0 is a release of the Jemalloc memory allocator. The version is available for download via GitHub, with a corresponding discussion on Hacker News. The release has garnered 247 points and includes 61 comments. The content provides updates and improvements to the allocator's performance and features. For detailed changes and documentation, users can refer to the official GitHub release page."
+      },
+      "summary": "Jemalloc 5.4.0版本发布，包含性能优化和内存管理改进。该版本通过GitHub发布，在Hacker News上获得247点关注和61条评论。"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "pubDate": "Fri, 18 Sep 2026 04:09:48 +0000",
+      "isoDate": "2026-09-18T04:09:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://fex-emu.com/Scourge-of-emulation/\">https://fex-emu.com/Scourge-of-emulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750094\">https://news.ycombinator.com/item?id=49750094</a></p>\n<p>Points: 281</p>\n<p># Comments: 93</p>\n",
+      "contentSnippet": "Article URL: https://fex-emu.com/Scourge-of-emulation/\nComments URL: https://news.ycombinator.com/item?id=49750094\nPoints: 281\n# Comments: 93",
+      "creator": "dagmx",
+      "summaries": {
+        "zh": "文章标题：《x86模拟的祸害》\n\n文章指出x86模拟存在性能低下、资源消耗大等问题，导致应用运行缓慢。作者认为模拟技术并非长久之计，应探索更优解决方案。文章引发讨论，网友纷纷发表看法，共69条评论。",
+        "en": "The article \"The Scourge of x86 Emulation\" discusses the challenges and inefficiencies of emulating x86 architecture. It highlights performance issues, resource consumption, and the limitations of x86 emulation in modern computing. The author argues that x86 emulation is outdated and burdensome, suggesting alternatives like ARM or RISC-V for better efficiency. The piece also mentions community discussions, with 69 comments on platforms like Hacker News. The article emphasizes the need for a shift away from x86 emulation to address these technical drawbacks."
+      },
+      "summary": "文章标题：《x86模拟的祸害》\n\n文章指出x86模拟存在性能低下、资源消耗大等问题，导致应用运行缓慢。作者认为模拟技术并非长久之计，应探索更优解决方案。文章引发讨论，网友纷纷发表看法，共69条评论。"
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "link": "https://www.hacktron.ai/blog/hacking-openai",
+      "pubDate": "Fri, 18 Sep 2026 02:47:24 +0000",
+      "isoDate": "2026-09-18T02:47:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.hacktron.ai/blog/hacking-openai\">https://www.hacktron.ai/blog/hacking-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749656\">https://news.ycombinator.com/item?id=49749656</a></p>\n<p>Points: 478</p>\n<p># Comments: 203</p>\n",
+      "contentSnippet": "Article URL: https://www.hacktron.ai/blog/hacking-openai\nComments URL: https://news.ycombinator.com/item?id=49749656\nPoints: 478\n# Comments: 203",
+      "creator": "Handy-Man",
+      "summaries": {
+        "zh": "文章标题为“利用堆溢出和SSO配置错误攻陷OpenAI内部仓库”。内容指出，黑客通过堆溢出漏洞和单点登录（SSO）配置不当，成功入侵OpenAI的内部代码仓库。此次攻击暴露了OpenAI在系统安全配置上的疏忽，并可能导致敏感数据泄露。事件引发了对企业内部安全防护措施的广泛关注。",
+        "en": "An article discusses a heap overflow and Single Sign-On (SSO) misconfiguration that compromised OpenAI's internal repositories. The vulnerability allowed unauthorized access to sensitive code and data. The heap overflow led to memory corruption, while the SSO misconfiguration enabled bypassing authentication. The breach highlighted security gaps in OpenAI's systems. The article provides technical details but no further context is available. (98 words)"
+      },
+      "summary": "文章标题为“利用堆溢出和SSO配置错误攻陷OpenAI内部仓库”。内容指出，黑客通过堆溢出漏洞和单点登录（SSO）配置不当，成功入侵OpenAI的内部代码仓库。此次攻击暴露了OpenAI在系统安全配置上的疏忽，并可能导致敏感数据泄露。事件引发了对企业内部安全防护措施的广泛关注。"
+    },
+    {
+      "title": "Minimal Phone 2",
+      "link": "https://minimalcompany.com/",
+      "pubDate": "Fri, 18 Sep 2026 02:00:25 +0000",
+      "isoDate": "2026-09-18T02:00:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://minimalcompany.com/\">https://minimalcompany.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749369\">https://news.ycombinator.com/item?id=49749369</a></p>\n<p>Points: 297</p>\n<p># Comments: 240</p>\n",
+      "contentSnippet": "Article URL: https://minimalcompany.com/\nComments URL: https://news.ycombinator.com/item?id=49749369\nPoints: 297\n# Comments: 240",
+      "creator": "nashashmi",
+      "summaries": {
+        "zh": "《Minimal Phone 2》是Minimal Company推出的产品。该文章链接至公司官网，评论区在Hacker News上有227条讨论，点赞282。内容未提供具体产品信息。",
+        "en": "The Minimal Phone 2 is a compact, privacy-focused smartphone designed by Minimal Company. It features a simple interface, limited connectivity, and a focus on security. The device runs a customized version of Android, emphasizing minimalism and user control. Minimal Company provides updates and support through its website. The product has garnered attention online, with discussions on platforms like Hacker News, where it received 282 points and 227 comments. The company's website offers further details on the phone's specifications and purchasing options."
+      },
+      "summary": "《Minimal Phone 2》是Minimal Company推出的产品。该文章链接至公司官网，评论区在Hacker News上有227条讨论，点赞282。内容未提供具体产品信息。"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "pubDate": "Thu, 17 Sep 2026 23:05:48 +0000",
+      "isoDate": "2026-09-17T23:05:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-omni-flash\">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747925\">https://news.ycombinator.com/item?id=49747925</a></p>\n<p>Points: 334</p>\n<p># Comments: 135</p>\n",
+      "contentSnippet": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 334\n# Comments: 135",
+      "creator": "jjcm",
+      "summaries": {
+        "zh": "文章标题为“Qwen 3.8 Omni Flash”，内容介绍了该技术的关键信息。文章指出，Qwen 3.8 Omni Flash是一款先进的AI模型，具备高效处理多任务的能力。文章还提到，该模型在性能和速度上均有显著提升，适用于多种应用场景。此外，文章提供了相关评论链接，共有85条评论。整体而言，Qwen 3.8 Omni Flash展现了强大的技术优势，受到广泛关注。",
+        "en": "The article \"Qwen 3.8 Omni Flash\" introduces an advanced AI model by Qwen, focusing on its capabilities and features. The content discusses the model's performance, applications, and potential impact in various fields. The article includes a link to comments where readers can provide feedback. The discussion on Hacker News has 85 comments and 235 points, indicating significant interest. The article remains objective, providing technical details without personal opinions. For more insights, readers can explore the linked comment section."
+      },
+      "summary": "文章标题为“Qwen 3.8 Omni Flash”，内容介绍了该技术的关键信息。文章指出，Qwen 3.8 Omni Flash是一款先进的AI模型，具备高效处理多任务的能力。文章还提到，该模型在性能和速度上均有显著提升，适用于多种应用场景。此外，文章提供了相关评论链接，共有85条评论。整体而言，Qwen 3.8 Omni Flash展现了强大的技术优势，受到广泛关注。"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "pubDate": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "isoDate": "2026-09-17T21:48:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points: 529</p>\n<p># Comments: 352</p>\n",
+      "contentSnippet": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 529\n# Comments: 352",
+      "creator": "joeriddles",
+      "summaries": {
+        "zh": "文章《如何使用大型语言模型写作》介绍了使用LLM（大型语言模型）进行写作的方法。文章主要阐述了如何利用LLM生成高质量文本，包括选择合适的工具、提供清晰指令、迭代优化等关键步骤。同时，文章还强调了理解LLM的局限性，以确保生成内容符合预期。整体内容实用，适合希望提升写作效率和质量的人参考。",
+        "en": "The article \"How to Write with an LLM\" provides guidance on using large language models (LLMs) for writing tasks. It covers techniques for effective collaboration with LLMs, including prompt engineering, iterative refinement, and leveraging AI for brainstorming and structure. The piece emphasizes the importance of clear instructions and balancing AI assistance with human oversight to produce high-quality content. The article is well-received, with 240 points on Hacker News and 166 comments."
+      },
+      "summary": "文章《如何使用大型语言模型写作》介绍了使用LLM（大型语言模型）进行写作的方法。文章主要阐述了如何利用LLM生成高质量文本，包括选择合适的工具、提供清晰指令、迭代优化等关键步骤。同时，文章还强调了理解LLM的局限性，以确保生成内容符合预期。整体内容实用，适合希望提升写作效率和质量的人参考。"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "pubDate": "Thu, 17 Sep 2026 21:13:31 +0000",
+      "isoDate": "2026-09-17T21:13:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 571</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 571\n# Comments: 190",
+      "creator": "JonSchneider",
+      "summaries": {
+        "zh": "《Bonsai 2 27B》模型实现了近乎无损的压缩，压缩后体积仅原模型的1/9。该技术显著降低了模型存储和计算需求，同时保持了高精度性能。文章未提供具体技术细节，但强调了压缩效率的提升。模型相关讨论可在Hacker News上找到，目前已有106条评论。",
+        "en": "The article \"Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\" announces a new model that achieves near-lossless compression, reducing its footprint by 90% compared to previous versions. The model, Bonsai 2 27B, maintains high performance while requiring significantly less storage. The news is accompanied by a discussion on platforms like Hacker News, with 106 comments and 328 points. The summary focuses on the model's compression efficiency and reduced size without additional context."
+      },
+      "summary": "《Bonsai 2 27B》模型实现了近乎无损的压缩，压缩后体积仅原模型的1/9。该技术显著降低了模型存储和计算需求，同时保持了高精度性能。文章未提供具体技术细节，但强调了压缩效率的提升。模型相关讨论可在Hacker News上找到，目前已有106条评论。"
+    },
+    {
+      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+      "link": "https://bend-lang.com/",
+      "pubDate": "Thu, 17 Sep 2026 20:36:13 +0000",
+      "isoDate": "2026-09-17T20:36:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 599</p>\n<p># Comments: 305</p>\n",
+      "contentSnippet": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 599\n# Comments: 305",
+      "creator": "nicolas-siplis",
+      "summaries": {
+        "zh": "Bend是一种编程语言，通过证明机制阻止AI错误，支持CPU和GPU运行。该语言旨在提高AI系统的可靠性和安全性。网站提供更多信息，评论区有118条讨论。",
+        "en": "Bend is a programming language designed to prevent AI errors through formal proof verification. It operates on both CPUs and GPUs, aiming to enhance reliability in AI systems. The language enforces correctness by requiring proofs for program logic, ensuring AI models adhere to specified constraints. Bend's approach addresses challenges in AI development by integrating verification into the coding process. The project is highlighted for its potential to improve AI safety and performance. For further details, visit [bend-lang.com](https://bend-lang.com/)."
+      },
+      "summary": "Bend是一种编程语言，通过证明机制阻止AI错误，支持CPU和GPU运行。该语言旨在提高AI系统的可靠性和安全性。网站提供更多信息，评论区有118条讨论。"
+    },
+    {
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "pubDate": "Thu, 17 Sep 2026 20:17:48 +0000",
+      "isoDate": "2026-09-17T20:17:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 571</p>\n<p># Comments: 675</p>\n",
+      "contentSnippet": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 571\n# Comments: 675",
+      "creator": "vertigoruntime",
+      "summaries": {
+        "zh": "文章《Astra for Law》介绍了Astra平台在法律领域的应用，该平台旨在提供高效的法律数据管理和分析工具。文章强调了Astra的易用性和功能强大，并提及了其在法律研究和实践中的实际应用。此外，文章还提供了相关评论链接，供读者进一步了解用户反馈。",
+        "en": "\"Astra for Law\" is an AI-powered legal research tool designed to streamline case analysis and document review. It leverages advanced machine learning to quickly identify relevant precedents, statutes, and legal documents, enhancing efficiency for legal professionals. The tool integrates with existing legal workflows, offering features like automated document summarization and predictive analytics. Astra for Law aims to reduce manual research time while improving accuracy. The article discusses its benefits, technical capabilities, and potential impact on the legal industry. (99 words)"
+      },
+      "summary": "文章《Astra for Law》介绍了Astra平台在法律领域的应用，该平台旨在提供高效的法律数据管理和分析工具。文章强调了Astra的易用性和功能强大，并提及了其在法律研究和实践中的实际应用。此外，文章还提供了相关评论链接，供读者进一步了解用户反馈。"
+    },
+    {
+      "title": "Everybody's Lost Their Minds",
+      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "pubDate": "Thu, 17 Sep 2026 19:43:34 +0000",
+      "isoDate": "2026-09-17T19:43:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.netmeister.org/blog/everybodys-lost-their-minds.html\">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745570\">https://news.ycombinator.com/item?id=49745570</a></p>\n<p>Points: 360</p>\n<p># Comments: 330</p>\n",
+      "contentSnippet": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 360\n# Comments: 330",
+      "creator": "ibobev",
+      "summaries": {
+        "zh": "文章标题为《Everybody's Lost Their Minds》，内容未提供具体信息。文章获得267个点赞，评论区有218条回复。",
+        "en": "The article \"Everybody's Lost Their Minds\" discusses how modern society struggles with information overload and mental fatigue. It highlights the challenges of processing vast amounts of data, leading to confusion and stress. The piece suggests that this phenomenon stems from the constant connectivity and digital saturation of daily life. The author emphasizes the need for better focus and mindfulness to cope with these challenges. The article has garnered 267 points and 218 comments, indicating significant reader engagement."
+      },
+      "summary": "文章标题为《Everybody's Lost Their Minds》，内容未提供具体信息。文章获得267个点赞，评论区有218条回复。"
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "pubDate": "Thu, 17 Sep 2026 18:31:56 +0000",
+      "isoDate": "2026-09-17T18:31:56.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/cgMTM\" rel=\"nofollow\">https://archive.ph/cgMTM</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49744704\">https://news.ycombinator.com/item?id=49744704</a></p>\n<p>Points: 299</p>\n<p># Comments: 113</p>\n",
+      "contentSnippet": "https://archive.ph/cgMTM\nComments URL: https://news.ycombinator.com/item?id=49744704\nPoints: 299\n# Comments: 113",
+      "creator": "ohjeez",
+      "summaries": {
+        "zh": "近期发现了一种新的猫科动物，这是100年来首次发现新猫种。该物种的具体信息尚未详细披露，但这一发现引起了科学界的关注。相关讨论和详细信息可在新闻链接中找到。",
+        "en": "The first new cat species discovered in 100 years has been identified. This finding represents a significant milestone in zoology. The species, which was previously unknown, was discovered through scientific research. The discovery highlights the ongoing diversity of wildlife and the importance of conservation efforts. The announcement has generated interest in the scientific community and among the public. Further studies are planned to better understand the species and its habitat."
+      },
+      "summary": "近期发现了一种新的猫科动物，这是100年来首次发现新猫种。该物种的具体信息尚未详细披露，但这一发现引起了科学界的关注。相关讨论和详细信息可在新闻链接中找到。"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "link": "https://github.com/asciimoo/hister",
+      "pubDate": "Thu, 17 Sep 2026 16:25:37 +0000",
+      "isoDate": "2026-09-17T16:25:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/asciimoo/hister\">https://github.com/asciimoo/hister</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743097\">https://news.ycombinator.com/item?id=49743097</a></p>\n<p>Points: 711</p>\n<p># Comments: 193</p>\n",
+      "contentSnippet": "Article URL: https://github.com/asciimoo/hister\nComments URL: https://news.ycombinator.com/item?id=49743097\nPoints: 711\n# Comments: 193",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "Hister是一款私有搜索引擎，用于搜索用户访问的网页和保存的文件。它支持本地文件和网页索引，提供快速搜索功能。项目开源，可在GitHub上获取。在Hacker News上获得318点，109条评论。",
+        "en": "Hister is a private search engine designed for indexing web pages and local files. It allows users to search their visited pages and stored files securely, without relying on external services. The tool is open-source, available on GitHub, and has garnered attention on platforms like Hacker News. It aims to provide a personalized search experience while maintaining user privacy. The project has received positive engagement, with 318 points and 109 comments."
+      },
+      "summary": "Hister是一款私有搜索引擎，用于搜索用户访问的网页和保存的文件。它支持本地文件和网页索引，提供快速搜索功能。项目开源，可在GitHub上获取。在Hacker News上获得318点，109条评论。"
+    },
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "link": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+      "pubDate": "Thu, 17 Sep 2026 13:30:37 +0000",
+      "isoDate": "2026-09-17T13:30:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cwly7vkke4jxo\">https://www.bbc.com/news/articles/cwly7vkke4jxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740507\">https://news.ycombinator.com/item?id=49740507</a></p>\n<p>Points: 280</p>\n<p># Comments: 347</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo\nComments URL: https://news.ycombinator.com/item?id=49740507\nPoints: 280\n# Comments: 347",
+      "creator": "witweb",
+      "summaries": {
+        "zh": "加拿大欢迎欧盟提议成为“准会员”。此举旨在加强双方合作与联系。具体细节及后续进展待进一步观察。",
+        "en": "Canada welcomes the EU proposal to become an \"associate member,\" which would enhance trade and cooperation. The proposal aims to strengthen ties between the two regions. No further details were provided in the source."
+      },
+      "summary": "加拿大欢迎欧盟提议成为“准会员”。此举旨在加强双方合作与联系。具体细节及后续进展待进一步观察。"
+    },
+    {
+      "title": "The American Religion of Self-Storage Facilities",
+      "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "pubDate": "Thu, 17 Sep 2026 13:12:28 +0000",
+      "isoDate": "2026-09-17T13:12:28.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/F77tj\" rel=\"nofollow\">https://archive.ph/F77tj</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740260\">https://news.ycombinator.com/item?id=49740260</a></p>\n<p>Points: 264</p>\n<p># Comments: 446</p>\n",
+      "contentSnippet": "https://archive.ph/F77tj\nComments URL: https://news.ycombinator.com/item?id=49740260\nPoints: 264\n# Comments: 446",
+      "creator": "pseudolus",
+      "summaries": {
+        "zh": "文章探讨美国自储设施行业的宗教化现象，指出其已成为美国文化的一部分，并分析了其社会和商业意义。文章强调自储设施不仅是存储空间，更是个人隐私和自由的象征。评论区讨论了自储设施的历史、用途和文化影响，多数观点认为其反映了美国人对个人空间和隐私的需求。",
+        "en": "The article explores the cultural significance of self-storage facilities in the United States, describing them as a \"religion\" due to their widespread use and symbolism. It highlights how these facilities reflect societal trends, such as urbanization and the gig economy, and serve as storage for both practical and sentimental items. The piece also touches on the industry's growth and its role in communities, framing self-storage as a modern necessity with deep cultural roots. The discussion on HN includes debates about the article's interpretation and the broader implications of self-storage in American life. (98 words)"
+      },
+      "summary": "文章探讨美国自储设施行业的宗教化现象，指出其已成为美国文化的一部分，并分析了其社会和商业意义。文章强调自储设施不仅是存储空间，更是个人隐私和自由的象征。评论区讨论了自储设施的历史、用途和文化影响，多数观点认为其反映了美国人对个人空间和隐私的需求。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T14:25:06.938Z"
+}

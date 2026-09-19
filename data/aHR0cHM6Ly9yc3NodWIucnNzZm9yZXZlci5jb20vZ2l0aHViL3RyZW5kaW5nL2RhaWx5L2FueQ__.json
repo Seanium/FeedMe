@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dde72ae8c8f37a1794679c253d568aa3500a0d31c0ed1d1aba2381d95319e26e/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 14870<br>Forks: 814",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 14870\nForks: 814",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "标题：cloudflare/security-audit-skill\n\n该技能为多阶段安全审计设计，采用独立验证的机器可读结果。基于JavaScript开发，目前有5440个星标和332个分支。",
+        "en": "The article introduces a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The skill has gained significant popularity, with 5,440 stars and 332 forks on its repository."
+      },
+      "summary": "标题：cloudflare/security-audit-skill\n\n该技能为多阶段安全审计设计，采用独立验证的机器可读结果。基于JavaScript开发，目前有5440个星标和332个分支。"
+    },
+    {
+      "title": "trycua/cua",
+      "link": "https://github.com/trycua/cua",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ce74c5f8d36eecf19746063060696ed9489ba7300122bdeb636ee450c27d1491/trycua/cua\" referrerpolicy=\"no-referrer\"><br>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.<br><br>Language: HTML<br>Stars: 23839<br>Forks: 1648",
+      "contentSnippet": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\nLanguage: HTML\nStars: 23839\nForks: 1648",
+      "creator": "trycua",
+      "summaries": {
+        "zh": "标题：trycua/cua\n\n内容：该项目通过开源驱动、跨操作系统集群和基准测试，提升计算机使用的规模。旨在用于训练、评估和生成数据。目前获得23839星标和1648次分叉。",
+        "en": "The article \"trycua/cua\" focuses on scaling computer use with open-source drivers, enabling cross-OS fleets. It includes benchmarks for training, evaluation, and data generation. The project has 23,839 stars and 1,648 forks on its repository."
+      },
+      "summary": "标题：trycua/cua\n\n内容：该项目通过开源驱动、跨操作系统集群和基准测试，提升计算机使用的规模。旨在用于训练、评估和生成数据。目前获得23839星标和1648次分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/534022e14511ee90ba9810a97f8fec86b7a867b62c38bca42dcd48da712fc97b/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96647<br>Forks: 10209",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96647\nForks: 10209",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "标题：addyosmani/agent-skills  \n简介：该项目提供用于AI编码代理的生产级工程技能，使用JavaScript开发。目前拥有94663个星标和10055次分叉。",
+        "en": "The project \"addyosmani/agent-skills\" provides production-ready engineering skills for AI coding agents, developed in JavaScript. It has garnered significant popularity with 94,663 stars and 10,055 forks on its repository. The focus is on creating efficient and scalable solutions for AI-driven coding tasks."
+      },
+      "summary": "标题：addyosmani/agent-skills  \n简介：该项目提供用于AI编码代理的生产级工程技能，使用JavaScript开发。目前拥有94663个星标和10055次分叉。"
+    },
+    {
+      "title": "coder/coder",
+      "link": "https://github.com/coder/coder",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1\" referrerpolicy=\"no-referrer\"><br>Secure environments for developers and their agents<br><br>Language: Go<br>Stars: 15433<br>Forks: 1509",
+      "contentSnippet": "Secure environments for developers and their agents\nLanguage: Go\nStars: 15433\nForks: 1509",
+      "creator": "coder",
+      "summaries": {
+        "zh": "本文标题为“coder/coder”，主要介绍为开发者及其代理提供安全环境的工具或框架。该工具使用Go语言开发，目前拥有14722个星标和1480个分支。内容聚焦于安全性和开发者的应用场景，但未提供具体技术细节。总结：该开源项目旨在提升开发者环境的安全性，采用Go语言，社区活跃，但具体实现未详述。",
+        "en": "The article \"coder/coder\" discusses secure environments for developers and their agents, using the Go programming language. It emphasizes robust security measures for development workflows. The project has 14,722 stars and 1,480 forks on its repository. The focus is on creating a secure and efficient development ecosystem."
+      },
+      "summary": "本文标题为“coder/coder”，主要介绍为开发者及其代理提供安全环境的工具或框架。该工具使用Go语言开发，目前拥有14722个星标和1480个分支。内容聚焦于安全性和开发者的应用场景，但未提供具体技术细节。总结：该开源项目旨在提升开发者环境的安全性，采用Go语言，社区活跃，但具体实现未详述。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f4ee83501a0903a5394223bddc03eca0a04b1967cdec085dd4ad528fbbeacf6/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146499<br>Forks: 23831",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146499\nForks: 23831",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code是一款终端中的智能编码工具，通过自然语言命令理解代码库，执行常规任务、解释复杂代码及管理Git工作流，提升编程效率。基于TypeScript开发，该工具在GitHub上拥有145251颗星和23390次分叉。",
+        "en": "Claude Code is an agentic coding tool that operates in the terminal, integrates with codebases, and accelerates coding through natural language commands. It automates routine tasks, explains complex code, and manages Git workflows. The tool is written in TypeScript and has garnered 145,251 stars and 23,390 forks on its repository."
+      },
+      "summary": "Claude Code是一款终端中的智能编码工具，通过自然语言命令理解代码库，执行常规任务、解释复杂代码及管理Git工作流，提升编程效率。基于TypeScript开发，该工具在GitHub上拥有145251颗星和23390次分叉。"
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24fa5ace6559296bd7439de40b8a4423afd811489d7238aef7551f9b78fb5e57/Open-Dev-Society/OpenStock\" referrerpolicy=\"no-referrer\"><br>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.<br><br>Language: TypeScript<br>Stars: 15680<br>Forks: 2052",
+      "contentSnippet": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\nLanguage: TypeScript\nStars: 15680\nForks: 2052",
+      "creator": "Open-Dev-Society",
+      "summaries": {
+        "zh": "OpenStock是一个免费开源的替代市场平台，提供实时价格追踪、个性化警报和公司详细信息等功能。该项目使用TypeScript开发，拥有15680个星标和2052个分叉，旨在为所有人提供永久免费的开放服务。",
+        "en": "OpenStock is an open-source market platform alternative that offers real-time price tracking, personalized alerts, and detailed company insights. It is free, built with TypeScript, and aims to provide accessible financial tools for everyone. The project has 15,680 stars and 2,052 forks on its GitHub repository."
+      },
+      "summary": "OpenStock是一个免费开源的替代市场平台，提供实时价格追踪、个性化警报和公司详细信息等功能。该项目使用TypeScript开发，拥有15680个星标和2052个分叉，旨在为所有人提供永久免费的开放服务。"
+    },
+    {
+      "title": "higgsfield-ai/higgsfield",
+      "link": "https://github.com/higgsfield-ai/higgsfield",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7d22de9ca980345b76732c38cfe5f6f5612989e5713bdd32064323ca64e16f4b/higgsfield-ai/higgsfield\" referrerpolicy=\"no-referrer\"><br>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters<br><br>Language: Jupyter Notebook<br>Stars: 4659<br>Forks: 869",
+      "contentSnippet": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters\nLanguage: Jupyter Notebook\nStars: 4659\nForks: 869",
+      "creator": "higgsfield-ai",
+      "summaries": {
+        "zh": "Higgsfield-ai/higgsfield项目是一个容错、可高度扩展的GPU调度工具和机器学习框架，专为训练具有数十亿至数万亿参数的模型而设计。该项目使用Jupyter Notebook，获得4659个星标和869次分叉。",
+        "en": "Higgsfield-ai/higgsfield is an open-source project featuring fault-tolerant, scalable GPU orchestration and a machine learning framework. It enables the training of models with billions to trillions of parameters. The project is hosted on GitHub, available as a Jupyter Notebook, and has 4,659 stars and 869 forks."
+      },
+      "summary": "Higgsfield-ai/higgsfield项目是一个容错、可高度扩展的GPU调度工具和机器学习框架，专为训练具有数十亿至数万亿参数的模型而设计。该项目使用Jupyter Notebook，获得4659个星标和869次分叉。"
+    },
+    {
+      "title": "docling-project/docling",
+      "link": "https://github.com/docling-project/docling",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/826168160/d3c8a8f9-af99-449f-856b-4ab9c897cce2\" referrerpolicy=\"no-referrer\"><br>Get your documents ready for gen AI<br><br>Language: Python<br>Stars: 66716<br>Forks: 4815",
+      "contentSnippet": "Get your documents ready for gen AI\nLanguage: Python\nStars: 66716\nForks: 4815",
+      "creator": "docling-project",
+      "summaries": {
+        "zh": "本文介绍了名为\"docling\"的项目，该项目使用Python开发，旨在为生成式人工智能（gen AI）准备文档。项目在GitHub上拥有66716个星标和4815个分支，显示出较高的社区关注度。",
+        "en": "The \"docling-project/docling\" repository provides tools for preparing documents for generative AI using Python. It has 66,716 stars and 4,815 forks on its platform. The project aims to streamline document processing for AI applications."
+      },
+      "summary": "本文介绍了名为\"docling\"的项目，该项目使用Python开发，旨在为生成式人工智能（gen AI）准备文档。项目在GitHub上拥有66716个星标和4815个分支，显示出较高的社区关注度。"
+    },
+    {
+      "title": "cloudflare/quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5\" referrerpolicy=\"no-referrer\"><br>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3<br><br>Language: Rust<br>Stars: 11852<br>Forks: 1098",
+      "contentSnippet": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\nLanguage: Rust\nStars: 11852\nForks: 1098",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "\"cloudflare/quiche\"是一个使用Rust语言实现的QUIC传输协议和HTTP/3的 savory（咸味）项目。该项目在GitHub上拥有11852个星标和1098个分支。",
+        "en": "The project \"cloudflare/quiche\" is a Rust implementation of the QUIC transport protocol and HTTP/3. It is designed for savory applications, supporting modern web protocols. The repository has 11,852 stars and 1,098 forks on platforms like GitHub."
+      },
+      "summary": "\"cloudflare/quiche\"是一个使用Rust语言实现的QUIC传输协议和HTTP/3的 savory（咸味）项目。该项目在GitHub上拥有11852个星标和1098个分支。"
+    },
+    {
+      "title": "asciimoo/hister",
+      "link": "https://github.com/asciimoo/hister",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ef8a45b308e039cec17034c4d25369f3fa64c8c5594363249c5ec3fcee05098a/asciimoo/hister\" referrerpolicy=\"no-referrer\"><br>Your own search engine<br><br>Language: Go<br>Stars: 5078<br>Forks: 212",
+      "contentSnippet": "Your own search engine\nLanguage: Go\nStars: 5078\nForks: 212",
+      "creator": "asciimoo",
+      "summaries": {
+        "zh": "标题：asciimoo/hister  \n简介：这是一个自研搜索引擎项目，使用Go语言开发。项目在GitHub上拥有4633个星标和197个分支。",
+        "en": "The project \"asciimoo/hister\" is a self-hostable search engine written in Go. It features 4,633 stars and 197 forks on its repository. The tool is designed for users to create their own search engine, offering a customizable and open-source solution for indexing and searching content."
+      },
+      "summary": "标题：asciimoo/hister  \n简介：这是一个自研搜索引擎项目，使用Go语言开发。项目在GitHub上拥有4633个星标和197个分支。"
+    },
+    {
+      "title": "ruanyf/weekly",
+      "link": "https://github.com/ruanyf/weekly",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7955e50c7151ad2f03a54a36699b2eff3d00850d9402605d2269c6547905a47c/ruanyf/weekly\" referrerpolicy=\"no-referrer\"><br>科技爱好者周刊，每周五发布<br><br>Language: Unknown<br>Stars: 102950<br>Forks: 4420",
+      "contentSnippet": "科技爱好者周刊，每周五发布\nLanguage: Unknown\nStars: 102950\nForks: 4420",
+      "creator": "ruanyf",
+      "summaries": {
+        "zh": "《ruanyf/weekly》是一个科技爱好者周刊，每周五发布。该项目在GitHub上拥有102,950个星标和4,420次分叉，显示出较高的社区关注度。内容聚焦科技领域，为读者提供每周更新。",
+        "en": "\"ruanyf/weekly\" is a weekly technology enthusiast publication released every Friday. It has 102,950 stars and 4,420 forks."
+      },
+      "summary": "《ruanyf/weekly》是一个科技爱好者周刊，每周五发布。该项目在GitHub上拥有102,950个星标和4,420次分叉，显示出较高的社区关注度。内容聚焦科技领域，为读者提供每周更新。"
+    },
+    {
+      "title": "ZuodaoTech/everyone-can-use-english",
+      "link": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b1570dbde83cca0ece040f3cddc1645a8cfeeb5973c24ee2979cf05282fe39c0/ZuodaoTech/everyone-can-use-english\" referrerpolicy=\"no-referrer\"><br>人人都能用英语<br><br>Language: TypeScript<br>Stars: 37652<br>Forks: 5198",
+      "contentSnippet": "人人都能用英语\nLanguage: TypeScript\nStars: 37652\nForks: 5198",
+      "creator": "ZuodaoTech",
+      "summaries": {
+        "zh": "文章标题为“ZuodaoTech/everyone-can-use-english”，内容介绍这是一个面向所有人的英语学习项目，使用TypeScript编写。该项目目前有37,652个星标和5,198次分叉，表明其受欢迎程度较高。",
+        "en": "The article \"ZuodaoTech/everyone-can-use-english\" is a TypeScript project focused on making English accessible to everyone. It has 37,652 stars and 5,198 forks on its repository. The content highlights the project's goal of simplifying English learning for users."
+      },
+      "summary": "文章标题为“ZuodaoTech/everyone-can-use-english”，内容介绍这是一个面向所有人的英语学习项目，使用TypeScript编写。该项目目前有37,652个星标和5,198次分叉，表明其受欢迎程度较高。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4106e9c5f27dbbaa60ebbab3a9387873434f9eb48436155d1df74eb14aee665e/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 24973<br>Forks: 2978",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 24973\nForks: 2978",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "开源仓库anthropics/knowledge-work-plugins，主要面向知识工作者，在Claude Cowork环境中使用。插件以Python编写，获得24133星标和2914分支。",
+        "en": "The open-source repository \"anthropics/knowledge-work-plugins\" offers plugins designed for knowledge workers, compatible with Claude Cowork. The tools are primarily written in Python. The project has gained significant popularity, with 24,133 stars and 2,914 forks on its platform."
+      },
+      "summary": "开源仓库anthropics/knowledge-work-plugins，主要面向知识工作者，在Claude Cowork环境中使用。插件以Python编写，获得24133星标和2914分支。"
+    },
+    {
+      "title": "cactus-compute/needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0c356d04e08866609549b9f7316ecf263aa3bc8a5cf93185216c598cd718665f/cactus-compute/needle\" referrerpolicy=\"no-referrer\"><br>Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.<br><br>Language: Python<br>Stars: 11394<br>Forks: 727",
+      "contentSnippet": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.\nLanguage: Python\nStars: 11394\nForks: 727",
+      "creator": "cactus-compute",
+      "summaries": {
+        "zh": "该开源项目 \"needle\" 是一个自动化基础模型，专为微型设备设计。模型采用2位量化技术，体积为8-29 MB，支持工具调用、结构化提取和嵌入。适用于手机、可穿戴设备、智能家居、机器人、汽车和微控制器等场景。使用Python语言开发，拥有11394个星标和727个分支。",
+        "en": "The project \"cactus-compute/needle\" is an automation foundation model designed for tiny devices. It operates with 2-bit precision, weighing between 8-29 MB, and supports tool calls, structured extraction, and embeddings. This model is optimized for use on phones, wearables, smart homes, robots, cars, and microcontrollers. It is implemented in Python and has garnered 11,394 stars and 727 forks on its repository."
+      },
+      "summary": "该开源项目 \"needle\" 是一个自动化基础模型，专为微型设备设计。模型采用2位量化技术，体积为8-29 MB，支持工具调用、结构化提取和嵌入。适用于手机、可穿戴设备、智能家居、机器人、汽车和微控制器等场景。使用Python语言开发，拥有11394个星标和727个分支。"
+    },
+    {
+      "title": "yynxxxxx/Codex-X",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d767bb096a58243f517f4ef3444fbefc114b0a2b26b75ee9566dd2f8e341e09c/yynxxxxx/Codex-X\" referrerpolicy=\"no-referrer\"><br>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。<br><br>Language: Rust<br>Stars: 3305<br>Forks: 440",
+      "contentSnippet": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。\nLanguage: Rust\nStars: 3305\nForks: 440",
+      "creator": "yynxxxxx",
+      "summaries": {
+        "zh": "OpenAI Codex 的可视化管理工具 Codex-X 是一款跨平台桌面/CLI 应用，支持 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化等功能。使用 Rust 开发，目前 Star 数 3305，Fork 数 440。",
+        "en": "Codex-X is a cross-platform visualization tool for OpenAI Codex desktop/CLI, featuring Provider/API switching, session synchronization, prompt injection, Skills/MCP management, and TOML configuration visualization. Developed in Rust, it has 3,305 stars and 440 forks."
+      },
+      "summary": "OpenAI Codex 的可视化管理工具 Codex-X 是一款跨平台桌面/CLI 应用，支持 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化等功能。使用 Rust 开发，目前 Star 数 3305，Fork 数 440。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T10:59:03.215Z"
+}

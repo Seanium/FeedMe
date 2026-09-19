@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "我的 v 站余额是什么水平？",
+      "link": "https://www.v2ex.com/t/1242483",
+      "pubDate": "Wed, 16 Sep 2026 09:10:45 GMT",
+      "isoDate": "2026-09-16T09:10:45.000Z",
+      "content": "fankcoder: 我是 V2EX 第 272263 号会员，加入于 2017-12-04 17:20:32 +08:00<br><br>目前账号 1 金 35 银 1 铜，余额来源基本都是签到来的，中间有几年 gap 没坐班没怎么上 v 站<br><br>想知道我是属于垫底还是中间？大家会有余额焦虑吗，会因为余额不足不轻易发帖/回复吗？",
+      "contentSnippet": "fankcoder: 我是 V2EX 第 272263 号会员，加入于 2017-12-04 17:20:32 +08:00\n目前账号 1 金 35 银 1 铜，余额来源基本都是签到来的，中间有几年 gap 没坐班没怎么上 v 站\n想知道我是属于垫底还是中间？大家会有余额焦虑吗，会因为余额不足不轻易发帖/回复吗？",
+      "creator": "fankcoder",
+      "summaries": {
+        "zh": "用户fankcoder在V2EX社区分享其V站账号余额情况：1金35银1铜，主要来自签到。因近年未活跃，询问余额水平是否垫底，并关注余额焦虑是否影响发帖回复。",
+        "en": "The user fankcoder, a V2EX member since 2017, has 1 gold, 35 silver, and 1 copper, primarily earned through sign-ins. They experienced a gap in activity due to work commitments. The user seeks to assess their account balance level and asks if others experience balance anxiety, avoiding posts or replies due to insufficient funds. The summary remains objective, capturing key details without personal opinions."
+      },
+      "summary": "用户fankcoder在V2EX社区分享其V站账号余额情况：1金35银1铜，主要来自签到。因近年未活跃，询问余额水平是否垫底，并关注余额焦虑是否影响发帖回复。"
+    },
+    {
+      "title": "我要再次发出暴论， AGI 离我们还很遥远。",
+      "link": "https://www.v2ex.com/t/1242441",
+      "pubDate": "Wed, 16 Sep 2026 07:04:10 GMT",
+      "isoDate": "2026-09-16T07:04:10.000Z",
+      "content": "nekoooooo: <p>标题党一下，从成本上来说，让自主迭代一个工程很难，成本太高。只能说从 0-1 ，平时迭代效率提高了不少，这个过程依旧非常需要人工介入，上很多约束，子会话什么的也不现实，Token 成本会很高。</p>\n<p>我自己用 200 刀的 gpt ，跑的时候会让他开 Terra middle 多很多次代码审查，确实能避免绝大多数问题了，但也还有不少问题。还是得我自己真机实操去回归，发现，给他讲，写测试，锁死，修改。</p>\n<p>现在能源也没什么大突破，算力危机感觉一时半会也搞不定，如果真到 Token 和流量一样便宜的时候，可能就实现了吧？大力出奇迹，一个 Ai 有幻觉就多弄几个？我也不是很懂，欢迎友好讨论。</p>\n",
+      "contentSnippet": "nekoooooo: \n标题党一下，从成本上来说，让自主迭代一个工程很难，成本太高。只能说从 0-1 ，平时迭代效率提高了不少，这个过程依旧非常需要人工介入，上很多约束，子会话什么的也不现实，Token 成本会很高。\n我自己用 200 刀的 gpt ，跑的时候会让他开 Terra middle 多很多次代码审查，确实能避免绝大多数问题了，但也还有不少问题。还是得我自己真机实操去回归，发现，给他讲，写测试，锁死，修改。\n现在能源也没什么大突破，算力危机感觉一时半会也搞不定，如果真到 Token 和流量一样便宜的时候，可能就实现了吧？大力出奇迹，一个 Ai 有幻觉就多弄几个？我也不是很懂，欢迎友好讨论。",
+      "creator": "nekoooooo",
+      "summaries": {
+        "zh": "文章指出，AGI（通用人工智能）目前仍很遥远。从成本角度看，自主迭代工程难度大、成本高，仍需大量人工介入。使用GPT等工具虽能提高效率，但问题仍需人工解决。当前能源和算力瓶颈难以突破，Token成本高也是制约因素。作者认为AGI的实现需等到Token和流量变得廉价。",
+        "en": "The author argues that AGI remains distant due to high costs and the need for significant human intervention in autonomous engineering iterations. While AI tools like GPT can improve efficiency and reduce errors, they still require manual oversight, testing, and refinement. The author notes challenges such as energy limitations and high token costs, suggesting that AGI may only be feasible when these resources become more affordable. The discussion invites further exploration of AI development challenges."
+      },
+      "summary": "文章指出，AGI（通用人工智能）目前仍很遥远。从成本角度看，自主迭代工程难度大、成本高，仍需大量人工介入。使用GPT等工具虽能提高效率，但问题仍需人工解决。当前能源和算力瓶颈难以突破，Token成本高也是制约因素。作者认为AGI的实现需等到Token和流量变得廉价。"
+    },
+    {
+      "title": "昨天面试了一家公司，刷新了我的认知。",
+      "link": "https://www.v2ex.com/t/1242437",
+      "pubDate": "Wed, 16 Sep 2026 06:44:45 GMT",
+      "isoDate": "2026-09-16T06:44:45.000Z",
+      "content": "wobuchiyu: <p>首先说结果，挂了。挂的理由，管理经验不是特别丰富，不是特别匹配。</p>\n<p>因为 jd 上全程没有提需要管理经验，连人事都不知道，面试的时候就 20 分钟不到。一直说你是备选。我也是服了，那还让我来干嘛。</p>\n<p>然后面试完跟人事聊，我问人事这个岗位是不是要管理，人事当时说不是，就开放岗。</p>\n<p>面试过程中一直提，说面试了这么多人，就是你两手过来的，作品也没有带，电脑也没有带。你之前面试的都是带着作品电脑，到这里打开电脑，投屏给他讲代码怎么实现的，一个支付功能代码怎么写的。</p>\n<p>然后嘛我的简历上有公众号有博客，又说看了很多遍。</p>\n<p>我也是服了，现在前端怎么卷的吗，面试带电脑讲代码？说实话，这个我是真没想到。</p>\n",
+      "contentSnippet": "wobuchiyu: \n首先说结果，挂了。挂的理由，管理经验不是特别丰富，不是特别匹配。\n因为 jd 上全程没有提需要管理经验，连人事都不知道，面试的时候就 20 分钟不到。一直说你是备选。我也是服了，那还让我来干嘛。\n然后面试完跟人事聊，我问人事这个岗位是不是要管理，人事当时说不是，就开放岗。\n面试过程中一直提，说面试了这么多人，就是你两手过来的，作品也没有带，电脑也没有带。你之前面试的都是带着作品电脑，到这里打开电脑，投屏给他讲代码怎么实现的，一个支付功能代码怎么写的。\n然后嘛我的简历上有公众号有博客，又说看了很多遍。\n我也是服了，现在前端怎么卷的吗，面试带电脑讲代码？说实话，这个我是真没想到。",
+      "creator": "wobuchiyu",
+      "summaries": {
+        "zh": "面试一公司被拒，因管理经验不符岗位要求，但JD未提及。面试时仅20分钟，对方称我是备选。人事表示岗位非管理岗，但面试中却要求我带电脑展示代码，与之前面试方式不同。我简历有公众号和博客，对方仍表示反复查看。这次面试刷新了我对前端行业的认知。",
+        "en": "The author was not selected for a job interview due to a lack of management experience, which was not mentioned in the job description. The interview lasted less than 20 minutes, and the author was repeatedly told they were a backup candidate. During the interview, the interviewer praised the author's skills but expected them to bring a laptop and present code, unlike other candidates. The author was surprised by this requirement and felt the process was overly competitive."
+      },
+      "summary": "面试一公司被拒，因管理经验不符岗位要求，但JD未提及。面试时仅20分钟，对方称我是备选。人事表示岗位非管理岗，但面试中却要求我带电脑展示代码，与之前面试方式不同。我简历有公众号和博客，对方仍表示反复查看。这次面试刷新了我对前端行业的认知。"
+    },
+    {
+      "title": "发现 6 astra 无限能源了",
+      "link": "https://www.v2ex.com/t/1242432",
+      "pubDate": "Wed, 16 Sep 2026 06:40:20 GMT",
+      "isoDate": "2026-09-16T06:40:20.000Z",
+      "content": "GhostCai: <p>最近要写东西，想起来 openai 之前搞的那个 latex 编辑器 <a href=\"http://prism.openai.com/\" rel=\"nofollow\">prism.openai.com</a> ，惊觉里面可以用稳定不降智的 6 astra xhigh ，实测不占 codex 额度，估计是官方都忘了这个平台了。。</p>\n",
+      "contentSnippet": "GhostCai: \n最近要写东西，想起来 openai 之前搞的那个 latex 编辑器 prism.openai.com ，惊觉里面可以用稳定不降智的 6 astra xhigh ，实测不占 codex 额度，估计是官方都忘了这个平台了。。",
+      "creator": "GhostCai",
+      "summaries": {
+        "zh": "文章标题为“发现 6 astra 无限能源了”。作者 GhostCai 提到，在 openai 的 LaTeX 编辑器 prism.openai.com 中，可以使用稳定不降智的 6 astra xhigh 模型，且不占用 codex 额度。作者推测官方可能已遗忘该平台。",
+        "en": "GhostCai recently discovered that the OpenAI-developed LaTeX editor Prism (prism.openai.com) supports the stable and non-degrading 6 Astra XHigh model. Testing shows it doesn't consume Codex quotas, suggesting the platform may have been overlooked by OpenAI. The summary captures these key points concisely."
+      },
+      "summary": "文章标题为“发现 6 astra 无限能源了”。作者 GhostCai 提到，在 openai 的 LaTeX 编辑器 prism.openai.com 中，可以使用稳定不降智的 6 astra xhigh 模型，且不占用 codex 额度。作者推测官方可能已遗忘该平台。"
+    },
+    {
+      "title": "今晚发布的理想 i9 请教下看法",
+      "link": "https://www.v2ex.com/t/1242417",
+      "pubDate": "Wed, 16 Sep 2026 06:12:35 GMT",
+      "isoDate": "2026-09-16T06:12:35.000Z",
+      "content": "emmmbu: <p>最近考虑买辆电车，已婚有娃。</p>\n<p>• 特某拉、某界，首先排除</p>\n<p>• 小米汽车：热度很高，但除去情绪价值，综合性价比个人感觉并不是很高</p>\n<p>• 极氪：硬件底子不错，但比较担心车机系统稳定性，怕后续出现各类小 bug</p>\n<p>• 蔚来：智驾表现一般，换电模式网上评价两极</p>\n<p>重中之重的一点，考虑到 L3 明年政策落地，这些品牌不太清楚是否满足 L3 的要求，不希望买了就淘汰。</p>\n<p>目前看中理想 i9 旋转座椅、空间大，理想车机口碑比较好，整体配置不低，内饰用料感觉也不错，智驾应该算一梯队，并且配有线控底盘和后轮转向，听说 L3 的硬件要求之一就是线控底盘？</p>\n<p>i9 是否满足 L3 的硬件，以及是否推荐或者是否有其他选项推荐。想听听佬们的看法。</p>\n<p>特某拉、问界</p>\n",
+      "contentSnippet": "emmmbu: \n最近考虑买辆电车，已婚有娃。\n• 特某拉、某界，首先排除\n• 小米汽车：热度很高，但除去情绪价值，综合性价比个人感觉并不是很高\n• 极氪：硬件底子不错，但比较担心车机系统稳定性，怕后续出现各类小 bug\n• 蔚来：智驾表现一般，换电模式网上评价两极\n重中之重的一点，考虑到 L3 明年政策落地，这些品牌不太清楚是否满足 L3 的要求，不希望买了就淘汰。\n目前看中理想 i9 旋转座椅、空间大，理想车机口碑比较好，整体配置不低，内饰用料感觉也不错，智驾应该算一梯队，并且配有线控底盘和后轮转向，听说 L3 的硬件要求之一就是线控底盘？\ni9 是否满足 L3 的硬件，以及是否推荐或者是否有其他选项推荐。想听听佬们的看法。\n特某拉、问界",
+      "creator": "emmmbu",
+      "summaries": {
+        "zh": "用户考虑购买电动车，已婚有娃，已排除特斯拉、问界，认为小米汽车性价比不高，极氪车机稳定性存疑，蔚来智驾和换电模式评价不一。重点关注L3级自动驾驶政策，担心现有品牌不满足要求。目前倾向理想i9，看重旋转座椅、大空间、车机口碑、高配置及内饰用料，认为其智驾属一梯队，且配备线控底盘和后轮转向，或符合L3硬件要求。询问理想i9是否满足L3标准及是否推荐，或提供其他选项。",
+        "en": "The user is considering buying an electric car for a family with children. They have ruled out Tesla and AITO, find Xiaomi's value questionable, and are wary of Zeekr's software stability and NIO's inconsistent swap service. The user prefers the Ideal i9 for its rotating seats, spacious interior, good infotainment system, and strong autonomous driving capabilities, which they believe may meet Level 3 requirements, possibly due to its controllable chassis. They seek opinions on whether the i9 meets Level 3 hardware standards and if it's recommended, or if other options exist."
+      },
+      "summary": "用户考虑购买电动车，已婚有娃，已排除特斯拉、问界，认为小米汽车性价比不高，极氪车机稳定性存疑，蔚来智驾和换电模式评价不一。重点关注L3级自动驾驶政策，担心现有品牌不满足要求。目前倾向理想i9，看重旋转座椅、大空间、车机口碑、高配置及内饰用料，认为其智驾属一梯队，且配备线控底盘和后轮转向，或符合L3硬件要求。询问理想i9是否满足L3标准及是否推荐，或提供其他选项。"
+    },
+    {
+      "title": "观《卷王都是什么心态呢》，评论区恶心的嘴脸",
+      "link": "https://www.v2ex.com/t/1242410",
+      "pubDate": "Wed, 16 Sep 2026 05:56:00 GMT",
+      "isoDate": "2026-09-16T05:56:00.000Z",
+      "content": "qipan0321: <p>人家小领导只卷自己，对下属不错，工作安排有序，同时也确实拿了最好的绩效。这不是很好的局面吗？怎么到评论区一些人的嘴里就自动给人家打上了“穷人”、“没自己想法”、“只会傻干”的标签。  </p>\n<p>我工作中遇到了几个这样的人，能做到以上几点的都是我真心佩服的，人家根本不是上面标签描述的那样。非常聪明，也有很健康的爱好，个别家里还能拿出千万首付。    </p>\n<p>奉劝某些人自己摆烂嘴里也有留点德，你们这种人才是谁都不愿意碰最讨人嫌的。  </p>\n<p>我本人是个懒人，工作这么多年几乎不加班，也没什么出息，但是不会狗嘴吐不出象牙。</p>\n",
+      "contentSnippet": "qipan0321: \n人家小领导只卷自己，对下属不错，工作安排有序，同时也确实拿了最好的绩效。这不是很好的局面吗？怎么到评论区一些人的嘴里就自动给人家打上了“穷人”、“没自己想法”、“只会傻干”的标签。  \n我工作中遇到了几个这样的人，能做到以上几点的都是我真心佩服的，人家根本不是上面标签描述的那样。非常聪明，也有很健康的爱好，个别家里还能拿出千万首付。    \n奉劝某些人自己摆烂嘴里也有留点德，你们这种人才是谁都不愿意碰最讨人嫌的。  \n我本人是个懒人，工作这么多年几乎不加班，也没什么出息，但是不会狗嘴吐不出象牙。",
+      "creator": "qipan0321",
+      "summaries": {
+        "zh": "文章标题为《观《卷王都是什么心态呢》，评论区恶心的嘴脸》。内容主要讨论了评论区对一位“卷王”的负面评价，认为其领导能力强、对下属好且绩效优异，却被部分网友贴上“穷人”、“没想法”等标签。作者认为这种评价不公，并批评某些网友自甘堕落却仍恶语相向。作者本人虽不加班但承认无出息，反感负面评价。",
+        "en": "The article discusses a post titled \"What Kind of Mindset Do Top Achievers Have?\" The author praises a leader who works hard, manages their team well, and achieves top performance. They criticize negative comments in the post's comments, labeling the leader as \"poor,\" \"thoughtless,\" and \"only hardworking,\" while sharing personal experiences with similar leaders who are intelligent and successful. The author advises others to be more constructive and less resentful."
+      },
+      "summary": "文章标题为《观《卷王都是什么心态呢》，评论区恶心的嘴脸》。内容主要讨论了评论区对一位“卷王”的负面评价，认为其领导能力强、对下属好且绩效优异，却被部分网友贴上“穷人”、“没想法”等标签。作者认为这种评价不公，并批评某些网友自甘堕落却仍恶语相向。作者本人虽不加班但承认无出息，反感负面评价。"
+    },
+    {
+      "title": "找工作三个月了....",
+      "link": "https://www.v2ex.com/t/1242364",
+      "pubDate": "Wed, 16 Sep 2026 03:12:01 GMT",
+      "isoDate": "2026-09-16T03:12:01.000Z",
+      "content": "victorysl: Boss 上沟通发起 674 条<br>交换简历 104 个<br>进入面试阶段 12 个<br>一面通过数量 4 个<br>最终拿到 offer 1 个<br><br>7 月 1 号开始找，一直到 9 月，可以说都没有任何水花，只有 2 个面试都还挂了。直到上周才开始高强度面试，上周一共面了 10 家公司，但是这周又开始约不到面试了。<br><br>真的有点怀疑自己的职业竞争力了。",
+      "contentSnippet": "victorysl: Boss 上沟通发起 674 条\n交换简历 104 个\n进入面试阶段 12 个\n一面通过数量 4 个\n最终拿到 offer 1 个\n7 月 1 号开始找，一直到 9 月，可以说都没有任何水花，只有 2 个面试都还挂了。直到上周才开始高强度面试，上周一共面了 10 家公司，但是这周又开始约不到面试了。\n真的有点怀疑自己的职业竞争力了。",
+      "creator": "victorysl",
+      "summaries": {
+        "zh": "求职三个月，通过Boss直聊交换简历674次，104次面试，12次通过第一面，4个拿到offer，1个最终签约。7月1日至9月进展甚微，仅2次面试成功。上周面试强度加大，面了10家公司，本周又难以约到面试，开始怀疑自身职业竞争力。",
+        "en": "The author has been job hunting since July 1st, with 674 resume exchanges on Boss, 104 interviews, 12 first-round passes, and 4 final offers, including 1 accepted. Initially, there was no success, with only 2 interviews resulting in rejections. Intensive interviews began last week, covering 10 companies, but this week, interview invitations have dwindled. The author expresses doubt about their professional competitiveness."
+      },
+      "summary": "求职三个月，通过Boss直聊交换简历674次，104次面试，12次通过第一面，4个拿到offer，1个最终签约。7月1日至9月进展甚微，仅2次面试成功。上周面试强度加大，面了10家公司，本周又难以约到面试，开始怀疑自身职业竞争力。"
+    },
+    {
+      "title": "卷王都是什么心态呢",
+      "link": "https://www.v2ex.com/t/1242357",
+      "pubDate": "Wed, 16 Sep 2026 03:03:38 GMT",
+      "isoDate": "2026-09-16T03:03:38.000Z",
+      "content": "lame_chen: 我承认我的主管是个能力很优秀的人，从底层程序员爬上去，就算当了小领导，也比较照顾我们，项目人员管理起来都是很有条理，比起那些老油条主管强多了，老油条都是那种只给压力，根本没有任何规划的（下边人都是痛苦的）。  但是他自己在他那个层级里边，他是最卷的，绩效也是最好的，但是感觉就像他的领导给他很多压力（不确定）， 每天就没停过，而且疯狂揽活，我们下边人的工作量都是安排的刚刚好那种，多了还会考虑重新安排啥的，但是他自己工作量直接超标，每天日常都是 11 点下班（回家了或者周六日没来加班，也会在线干活这种）。 挺羡慕他的精力的，但是又不想像他一样，看着也不可能是债务问题， 难道是在一线城市生活压力很大？有房贷还是说要抚养赡养啥的，完全理解不了。",
+      "contentSnippet": "lame_chen: 我承认我的主管是个能力很优秀的人，从底层程序员爬上去，就算当了小领导，也比较照顾我们，项目人员管理起来都是很有条理，比起那些老油条主管强多了，老油条都是那种只给压力，根本没有任何规划的（下边人都是痛苦的）。  但是他自己在他那个层级里边，他是最卷的，绩效也是最好的，但是感觉就像他的领导给他很多压力（不确定）， 每天就没停过，而且疯狂揽活，我们下边人的工作量都是安排的刚刚好那种，多了还会考虑重新安排啥的，但是他自己工作量直接超标，每天日常都是 11 点下班（回家了或者周六日没来加班，也会在线干活这种）。 挺羡慕他的精力的，但是又不想像他一样，看着也不可能是债务问题， 难道是在一线城市生活压力很大？有房贷还是说要抚养赡养啥的，完全理解不了。",
+      "creator": "lame_chen",
+      "summaries": {
+        "zh": "文章讨论了某优秀主管的“卷”心态。该主管从底层程序员晋升，管理有方，但仍极度努力，绩效顶尖，常11点下班或周末在线工作。作者羡慕其精力，但对其为何如此拼命感到困惑，猜测可能是一线城市生活压力大（如房贷、赡养等）。",
+        "en": "The post discusses an excellent manager who rose from a programmer to a leadership position, known for being organized and supportive. Despite managing others well, the manager is described as highly \"involved\" (卷), working excessively hard with the best performance, often working late or online on weekends. The poster admires the manager's energy but expresses reluctance to emulate such intensity, speculating reasons like financial pressure (mortgages, family obligations) in a first-tier city, rather than debt."
+      },
+      "summary": "文章讨论了某优秀主管的“卷”心态。该主管从底层程序员晋升，管理有方，但仍极度努力，绩效顶尖，常11点下班或周末在线工作。作者羡慕其精力，但对其为何如此拼命感到困惑，猜测可能是一线城市生活压力大（如房贷、赡养等）。"
+    },
+    {
+      "title": "夫妻之间的一点小事儿 请教方法",
+      "link": "https://www.v2ex.com/t/1242350",
+      "pubDate": "Wed, 16 Sep 2026 02:42:20 GMT",
+      "isoDate": "2026-09-16T02:42:20.000Z",
+      "content": "Myst: <p>最近夫妻之间发生了一些小事儿</p>\n<p>起因是因为孩子快出生了，有天媳妇看孩子落户的事，突然对我说，要不落户跟着我吧。</p>\n<p>我说再看，回头我研究研究。</p>\n<p>我们的大概情况就是 我们孩子落户最优是 A  我户口是 B  然后她户口是 C 。我们暂时都没有 A 的户口，所以需要先落 B 或 C 。</p>\n<p>我家里是农村的  我户口还有地和宅基地 所以后续肯定是让我媳妇 先落 A  然后孩子到时候再和她一起迁过去。</p>\n<p>但是眼下快生了，需要临时落户到 B 或 C 。</p>\n<p>然后我自己也研究了  还让 ai 针对我们的情况出了一个具体的文档。</p>\n<p>ai 的建议就是哪个方便先落哪个 反正也是临时的 B C 都差不多。这个和我的个人想法一致的。</p>\n<p>但是考虑到一个我父母的想法，我想的是既然都一样，那就跟着我这边先落，避免爸妈那头因为这个事儿不高兴有家庭矛盾就没必要了。</p>\n<p>我媳妇听了之后很无语，觉得我们小家不该因为父母的情绪影响决策，这话我听了之后，觉得也是一点毛病没有。</p>\n<p>我这个人，还是喜欢多考虑一些，可能想的比较多吧，我想的是既然是都一样，那就落我这边，还能照顾父母情绪 也是一举两得。</p>\n<p>一点小事 还闹了不愉快 ，第二天我们各自没聊这个事，就和好了，后面我的想法是 如果媳妇还是坚持的话 就按她说的办 ，毕竟媳妇的想法还是第一位的，如果因为这点小事，让我们小家不愉快 那就得不偿失了。如果她能同意 那也是最好。</p>\n<p>类似的事情 大家咋处理的？</p>\n<p>说实话我这个性格，想到后面的婆媳关系 我都头大。</p>\n",
+      "contentSnippet": "Myst: \n最近夫妻之间发生了一些小事儿\n起因是因为孩子快出生了，有天媳妇看孩子落户的事，突然对我说，要不落户跟着我吧。\n我说再看，回头我研究研究。\n我们的大概情况就是 我们孩子落户最优是 A  我户口是 B  然后她户口是 C 。我们暂时都没有 A 的户口，所以需要先落 B 或 C 。\n我家里是农村的  我户口还有地和宅基地 所以后续肯定是让我媳妇 先落 A  然后孩子到时候再和她一起迁过去。\n但是眼下快生了，需要临时落户到 B 或 C 。\n然后我自己也研究了  还让 ai 针对我们的情况出了一个具体的文档。\nai 的建议就是哪个方便先落哪个 反正也是临时的 B C 都差不多。这个和我的个人想法一致的。\n但是考虑到一个我父母的想法，我想的是既然都一样，那就跟着我这边先落，避免爸妈那头因为这个事儿不高兴有家庭矛盾就没必要了。\n我媳妇听了之后很无语，觉得我们小家不该因为父母的情绪影响决策，这话我听了之后，觉得也是一点毛病没有。\n我这个人，还是喜欢多考虑一些，可能想的比较多吧，我想的是既然是都一样，那就落我这边，还能照顾父母情绪 也是一举两得。\n一点小事 还闹了不愉快 ，第二天我们各自没聊这个事，就和好了，后面我的想法是 如果媳妇还是坚持的话 就按她说的办 ，毕竟媳妇的想法还是第一位的，如果因为这点小事，让我们小家不愉快 那就得不偿失了。如果她能同意 那也是最好。\n类似的事情 大家咋处理的？\n说实话我这个性格，想到后面的婆媳关系 我都头大。",
+      "creator": "Myst",
+      "summaries": {
+        "zh": "夫妻因孩子落户小事产生分歧。妻子建议落户随她，因其方便且符合孩子落户最优方案。丈夫考虑父母情绪，倾向先落户B或C，避免家庭矛盾。妻子认为不应受父母影响。丈夫最终决定尊重妻子意见。此事虽短暂不愉快，但双方和解，丈夫表示未来会以妻子意愿为主。",
+        "en": "A couple discussed their child's temporary household registration. The wife suggested the child register under her household, but the husband proposed registering under his, aligning with AI advice, to avoid conflict with his parents. The wife felt their decision shouldn't prioritize parental preferences. The husband, considering potential婆媳 issues, agreed to follow her preference if she坚持, valuing harmony over trivial matters. (98 words)"
+      },
+      "summary": "夫妻因孩子落户小事产生分歧。妻子建议落户随她，因其方便且符合孩子落户最优方案。丈夫考虑父母情绪，倾向先落户B或C，避免家庭矛盾。妻子认为不应受父母影响。丈夫最终决定尊重妻子意见。此事虽短暂不愉快，但双方和解，丈夫表示未来会以妻子意愿为主。"
+    },
+    {
+      "title": "为啥让各种 ai 生成一个 1-30 的随机数 都是说 17",
+      "link": "https://www.v2ex.com/t/1242347",
+      "pubDate": "Wed, 16 Sep 2026 02:35:42 GMT",
+      "isoDate": "2026-09-16T02:35:42.000Z",
+      "content": "klos: 有没有知道原理的 <br>找了群友验证了居然是真的 <br>他们发的很多也都是 17 <br>除了个别思考过程里自己写了段随机代码的其他给的都是 17<br><br>deepseek<br><a target=\"_blank\" href=\"https://i.imgur.com/LaWPCEz.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/LaWPCEz.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a><br><a target=\"_blank\" href=\"https://i.imgur.com/rnkrYGP.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/rnkrYGP.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a><br><br>豆包 <br><a target=\"_blank\" href=\"https://i.imgur.com/qfU6yfM.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/qfU6yfM.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a><br><br>qwen<br><a target=\"_blank\" href=\"https://i.imgur.com/EtgLBLO.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/EtgLBLO.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a><br><a target=\"_blank\" href=\"https://i.imgur.com/eqlzZGJ.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/eqlzZGJ.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a>",
+      "contentSnippet": "klos: 有没有知道原理的 \n找了群友验证了居然是真的 \n他们发的很多也都是 17 \n除了个别思考过程里自己写了段随机代码的其他给的都是 17\ndeepseek\n\n\n豆包 \n\nqwen",
+      "creator": "klos",
+      "summaries": {
+        "zh": "文章探讨了为何多个AI生成1-30随机数时都显示为17。经群友验证，多数AI给出的答案都是17，少数例外。部分AI在思考过程中自行编写了随机代码。这一现象引发了对AI随机数生成机制的讨论。",
+        "en": "Many AI systems consistently generate the number 17 when asked for a 1-30 random number, with most responses being 17. Some users in a group confirmed this trend, noting exceptions where individuals wrote their own random code. The exact reason for this pattern remains unclear, but the observation highlights a recurring behavior among these AI models."
+      },
+      "summary": "文章探讨了为何多个AI生成1-30随机数时都显示为17。经群友验证，多数AI给出的答案都是17，少数例外。部分AI在思考过程中自行编写了随机代码。这一现象引发了对AI随机数生成机制的讨论。"
+    }
+  ],
+  "lastUpdated": "2026-09-17T01:28:51.277Z"
+}
