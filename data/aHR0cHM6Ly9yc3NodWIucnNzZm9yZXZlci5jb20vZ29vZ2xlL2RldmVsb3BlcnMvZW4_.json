@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+      "link": "https://developers.googleblog.com/en/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure.",
+      "contentSnippet": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云API网关现可作为原生远程模型上下文协议（MCP）服务器，无需构建和维护自定义中间件即可将REST API暴露给AI代理。通过在现有的OpenAPI 3.x规范中添加特定注解（如x-google-api-management.mcp），开发者可即时将标准REST操作转换为AI代理可发现的工具。网关自动将传入的MCP JSON-RPC请求转换为REST调用，确保现有认证、配额和日志策略无缝应用于代理流量，无需新建基础设施。",
+        "en": "Google Cloud API Gateway now supports Model Context Protocol (MCP) as a native remote server, enabling developers to expose REST APIs to AI agents without custom middleware. By adding annotations like `x-google-api-management.mcp` to OpenAPI 3.x specs, REST operations become agent-ready tools. The gateway transcodes MCP JSON-RPC requests to REST, applying existing authentication, quotas, and logging policies to agent traffic, eliminating the need for new infrastructure."
+      },
+      "summary": "谷歌云API网关现可作为原生远程模型上下文协议（MCP）服务器，无需构建和维护自定义中间件即可将REST API暴露给AI代理。通过在现有的OpenAPI 3.x规范中添加特定注解（如x-google-api-management.mcp），开发者可即时将标准REST操作转换为AI代理可发现的工具。网关自动将传入的MCP JSON-RPC请求转换为REST调用，确保现有认证、配额和日志策略无缝应用于代理流量，无需新建基础设施。"
+    },
+    {
+      "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+      "link": "https://developers.googleblog.com/en/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved up to 57.4% Model Flops Utilization (MFU) and demonstrated robust infrastructure portability by surviving mid-run cluster resizes and cross-generation TPU shifts without requiring recipe alterations. Crucially, the exercise proved the necessity of comprehensive held-out validation by catching a silent data-loader memorization bug that artificially depressed training loss and would have otherwise faked a performance win.",
+      "contentSnippet": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved up to 57.4% Model Flops Utilization (MFU) and demonstrated robust infrastructure portability by surviving mid-run cluster resizes and cross-generation TPU shifts without requiring recipe alterations. Crucially, the exercise proved the necessity of comprehensive held-out validation by catching a silent data-loader memorization bug that artificially depressed training loss and would have otherwise faked a performance win.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "MaxText团队成功在Google Cloud TPUs上使用JAX/XLA从零复现了AI2的OLMo 3 7B语言模型，并在预训练和中期训练阶段所有独立评估中与原始PyTorch-on-GPU参考完全匹配。该实现最高达到57.4%的模型浮点运算利用率（MFU），并展示了强大的基础设施可移植性，在中期运行时集群调整和跨代TPU迁移中无需修改配置即可稳定运行。关键在于，该实验证明了全面独立验证的必要性，通过捕获一个数据加载器记忆错误，避免了虚假的性能提升。",
+        "en": "The MaxText team successfully replicated AI2’s OLMo 3 7B model on Google Cloud TPUs using JAX/XLA, matching PyTorch-on-GPU performance. The implementation reached 57.4% Model Flops Utilization (MFU) and showed resilience to infrastructure changes. A key finding was the importance of held-out validation, which uncovered a data-loader bug that would have misrepresented performance gains. The study highlights effective large-scale training practices on TPUs."
+      },
+      "summary": "MaxText团队成功在Google Cloud TPUs上使用JAX/XLA从零复现了AI2的OLMo 3 7B语言模型，并在预训练和中期训练阶段所有独立评估中与原始PyTorch-on-GPU参考完全匹配。该实现最高达到57.4%的模型浮点运算利用率（MFU），并展示了强大的基础设施可移植性，在中期运行时集群调整和跨代TPU迁移中无需修改配置即可稳定运行。关键在于，该实验证明了全面独立验证的必要性，通过捕获一个数据加载器记忆错误，避免了虚假的性能提升。"
+    },
+    {
+      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+      "link": "https://developers.googleblog.com/en/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+      "pubDate": "Tue, 22 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-22T16:00:00.000Z",
+      "content": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—directly on-device. Furthermore, the SDK provides drop-in support for OpenAI-compatible inference servers like Ollama and vLLM, enabling the seamless creation of privacy-first, autonomous local utilities.",
+      "contentSnippet": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—directly on-device. Furthermore, the SDK provides drop-in support for OpenAI-compatible inference servers like Ollama and vLLM, enabling the seamless creation of privacy-first, autonomous local utilities.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌Antigravity SDK现已支持本地AI模型，如Gemma 4 26B A4B，通过LiteRT执行离线智能工作流。该更新支持混合编排架构，云模型作为轻量级规划器，本地模型在设备上安全处理代码审计等密集型任务。此外，SDK提供对Ollama和vLLM等OpenAI兼容推理服务的一站式支持，实现隐私优先的自主本地工具创建。",
+        "en": "The Google Antigravity SDK now supports local AI models like Gemma 4 26B A4B via LiteRT, enabling offline, agentic workflows. This allows cloud models to act as lightweight planners while local models securely handle token-intensive tasks, such as code auditing, on-device. The SDK also supports OpenAI-compatible inference servers like Ollama and vLLM, facilitating the creation of privacy-first, autonomous local utilities."
+      },
+      "summary": "谷歌Antigravity SDK现已支持本地AI模型，如Gemma 4 26B A4B，通过LiteRT执行离线智能工作流。该更新支持混合编排架构，云模型作为轻量级规划器，本地模型在设备上安全处理代码审计等密集型任务。此外，SDK提供对Ollama和vLLM等OpenAI兼容推理服务的一站式支持，实现隐私优先的自主本地工具创建。"
+    },
+    {
+      "title": "Colab is now part of your Google AI plan",
+      "link": "https://developers.googleblog.com/en/colab-is-now-part-of-your-google-ai-plan/",
+      "pubDate": "Mon, 21 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-21T16:00:00.000Z",
+      "content": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+      "contentSnippet": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI计划现包含Colab。订阅用户可解锁高级Colab计算资源，包括优先加速器、Premium GPU和后台执行，以支持长时间训练。",
+        "en": "Google Colab is now included in the Google AI plan. Subscribers receive premium features, such as priority access to accelerators, Premium GPUs, and background execution for extended training tasks. The update enhances computational capabilities for users."
+      },
+      "summary": "谷歌AI计划现包含Colab。订阅用户可解锁高级Colab计算资源，包括优先加速器、Premium GPU和后台执行，以支持长时间训练。"
+    },
+    {
+      "title": "Why client SDK generation belongs in the open",
+      "link": "https://developers.googleblog.com/en/why-client-sdk-generation-belongs-in-the-open/",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly open-sourced suite equips developers with deterministic, multi-language SDK generators that natively support strict typing and SSE streaming, alongside tools for compiling agent-native CLIs and documentation MCP servers. Engineering teams can now safely integrate this robust tooling directly into their CI pipelines to automatically generate reliable client libraries for their own APIs, all while retaining complete licensing control over the output code.",
+      "contentSnippet": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly open-sourced suite equips developers with deterministic, multi-language SDK generators that natively support strict typing and SSE streaming, alongside tools for compiling agent-native CLIs and documentation MCP servers. Engineering teams can now safely integrate this robust tooling directly into their CI pipelines to automatically generate reliable client libraries for their own APIs, all while retaining complete licensing control over the output code.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌与Speakeasy合作，以AGPLv3许可证开源了其OpenAPI代码生成套件。此举源于此前谷歌自有SDK提供商的突然关停。该开源套件提供多语言SDK生成器，支持严格类型和SSE流，并包含编译代理CLI和文档MCP服务器工具。工程团队可将其集成至CI流程，自动生成可靠API客户端库，同时保留对输出代码的完全许可控制。",
+        "en": "Google has open-sourced its OpenAPI code generation suite with Speakeasy under the AGPLv3 license after its previous proprietary SDK provider was shut down. The suite offers deterministic, multi-language SDK generators supporting strict typing and SSE streaming, along with tools for CLI compilation and documentation servers. Engineers can integrate this tooling into CI pipelines to auto-generate reliable client libraries for their APIs while maintaining licensing control over the output."
+      },
+      "summary": "谷歌与Speakeasy合作，以AGPLv3许可证开源了其OpenAPI代码生成套件。此举源于此前谷歌自有SDK提供商的突然关停。该开源套件提供多语言SDK生成器，支持严格类型和SSE流，并包含编译代理CLI和文档MCP服务器工具。工程团队可将其集成至CI流程，自动生成可靠API客户端库，同时保留对输出代码的完全许可控制。"
+    },
+    {
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+      "link": "https://developers.googleblog.com/en/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "pubDate": "Tue, 15 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-15T16:00:00.000Z",
+      "content": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests. It utilizes a multi-tiered detection pipeline—combining lightweight statistical scanning with deep LLM-based reasoning—to identify logical anomalies and policy violations grounded in the OWASP Agentic Top 10. Developers can triage these automated findings within Security Command Center or leverage the exposed API to programmatically block subsequent tool calls when an agent breaches defined risk thresholds.",
+      "contentSnippet": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests. It utilizes a multi-tiered detection pipeline—combining lightweight statistical scanning with deep LLM-based reasoning—to identify logical anomalies and policy violations grounded in the OWASP Agentic Top 10. Developers can triage these automated findings within Security Command Center or leverage the exposed API to programmatically block subsequent tool calls when an agent breaches defined risk thresholds.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Gemini Enterprise Agent Platform推出名为“Agent Anomaly Detection”的新功能，通过分析OpenTelemetry跟踪和工具调用，在不影响实时请求的情况下识别行为风险。该功能采用多层检测流程，结合轻量级统计扫描和基于LLM的深度推理，检测OWASP Agentic Top 10中的逻辑异常和政策违规。开发者可在Security Command Center中处理自动发现的问题，或通过API编程阻止违规工具调用。",
+        "en": "Agent Anomaly Detection is a new oversight layer for the Gemini Enterprise Agent Platform, analyzing OpenTelemetry traces and tool calls to identify behavioral risks without runtime latency. It uses a multi-tiered pipeline combining statistical scanning and LLM-based reasoning to detect logical anomalies and policy violations based on the OWASP Agentic Top 10. Developers can triage findings in Security Command Center or use an API to block tool calls when risk thresholds are breached."
+      },
+      "summary": "Gemini Enterprise Agent Platform推出名为“Agent Anomaly Detection”的新功能，通过分析OpenTelemetry跟踪和工具调用，在不影响实时请求的情况下识别行为风险。该功能采用多层检测流程，结合轻量级统计扫描和基于LLM的深度推理，检测OWASP Agentic Top 10中的逻辑异常和政策违规。开发者可在Security Command Center中处理自动发现的问题，或通过API编程阻止违规工具调用。"
+    },
+    {
+      "title": "Build zero-trust AI agents that judge intent, not just syntax",
+      "link": "https://developers.googleblog.com/en/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+      "pubDate": "Mon, 14 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-14T16:00:00.000Z",
+      "content": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model Armor for screening edge prompts, Semantic Governance Policies for evaluating tool intent against business rules, and Agent Anomaly Detection for catching multi-turn exploits. By shifting these capabilities to the platform level, security administrators can dynamically enforce policies and neutralize complex attacks without needing to modify or redeploy the agent's underlying code.",
+      "contentSnippet": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model Armor for screening edge prompts, Semantic Governance Policies for evaluating tool intent against business rules, and Agent Anomaly Detection for catching multi-turn exploits. By shifting these capabilities to the platform level, security administrators can dynamically enforce policies and neutralize complex attacks without needing to modify or redeploy the agent's underlying code.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文探讨了如何通过Gemini Enterprise Agent Platform将AI代理的安全控制从静态构建时管理转向动态运行时治理。主要介绍了三种管理防御：Model Armor用于筛选边缘提示，Semantic Governance Policies用于评估工具意图是否符合业务规则，以及Agent Anomaly Detection用于捕获多轮攻击。通过将这些能力迁移到平台层面，安全管理员无需修改或重新部署代理代码，即可动态执行策略并抵御复杂攻击。",
+        "en": "The article discusses transitioning AI agents to dynamic runtime governance using the Gemini Enterprise Agent Platform. It introduces three managed defenses: Model Armor (edge prompt screening), Semantic Governance Policies (tool intent evaluation), and Agent Anomaly Detection (multi-turn exploit detection). These capabilities, integrated into the platform, allow security administrators to enforce policies and neutralize attacks dynamically, without requiring code changes to the agent."
+      },
+      "summary": "本文探讨了如何通过Gemini Enterprise Agent Platform将AI代理的安全控制从静态构建时管理转向动态运行时治理。主要介绍了三种管理防御：Model Armor用于筛选边缘提示，Semantic Governance Policies用于评估工具意图是否符合业务规则，以及Agent Anomaly Detection用于捕获多轮攻击。通过将这些能力迁移到平台层面，安全管理员无需修改或重新部署代理代码，即可动态执行策略并抵御复杂攻击。"
+    },
+    {
+      "title": "Autonomous LLM post-training with Tunix on TPUs",
+      "link": "https://developers.googleblog.com/en/autonomous-llm-post-training-with-tunix-on-tpus/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "The \"autofinetune\" project introduces an autonomous research loop that fully automates LLM post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning via GRPO. By defining boundary conditions and evaluation metrics in a single Markdown specification, developers can deploy an AI agent to iteratively edit training scripts, launch experiments, and automatically commit verified hyperparameter optimizations to Git. Built on Google’s AI stack—including Tunix, Gemma, and Cloud TPUs—this framework eliminates manual tuning cycles, successfully demonstrating hands-off performance gains in both function calling and math reasoning models.",
+      "contentSnippet": "The \"autofinetune\" project introduces an autonomous research loop that fully automates LLM post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning via GRPO. By defining boundary conditions and evaluation metrics in a single Markdown specification, developers can deploy an AI agent to iteratively edit training scripts, launch experiments, and automatically commit verified hyperparameter optimizations to Git. Built on Google’s AI stack—including Tunix, Gemma, and Cloud TPUs—this framework eliminates manual tuning cycles, successfully demonstrating hands-off performance gains in both function calling and math reasoning models.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了使用Tunix在TPU上进行自主LLM后训练的方法。通过编写Markdown规范，用户可以在睡眠后自动完成训练过程，醒来即可获得优化后的模型。该方法简化了LLM训练流程，提高了效率。",
+        "en": "The article discusses autonomous large language model (LLM) post-training using Tunix on TPUs. It highlights the process of automating model refinement through a single Markdown specification, enabling efficient updates without manual intervention. The focus is on streamlining LLM development by leveraging Tunix and TPUs for seamless post-training adjustments. The content emphasizes convenience and efficiency in managing AI model updates."
+      },
+      "summary": "本文介绍了使用Tunix在TPU上进行自主LLM后训练的方法。通过编写Markdown规范，用户可以在睡眠后自动完成训练过程，醒来即可获得优化后的模型。该方法简化了LLM训练流程，提高了效率。"
+    },
+    {
+      "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+      "link": "https://developers.googleblog.com/en/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+      "pubDate": "Tue, 08 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-08T16:00:00.000Z",
+      "content": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down. To solve this, developers should adopt behavioral evaluations—fast, local, unit-style tests that assert on discrete intermediate actions, such as verifying specific tool calls or file modifications rather than final string equality. By building these inexpensive micro-checks alongside macro benchmarks, engineering teams can confidently iterate on system prompts and upgrade models without the risk of regressions.",
+      "contentSnippet": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down. To solve this, developers should adopt behavioral evaluations—fast, local, unit-style tests that assert on discrete intermediate actions, such as verifying specific tool calls or file modifications rather than final string equality. By building these inexpensive micro-checks alongside macro benchmarks, engineering teams can confidently iterate on system prompts and upgrade models without the risk of regressions.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《 harness 工程解剖：如何评估、迭代和防护 AI 编码代理》指出，端到端基准如 SWE-bench 虽能提供整体性能评分，但成本高、速度慢且缺乏根本原因诊断。建议采用行为评估，即快速、局部的单元式测试，验证离散中间动作（如工具调用或文件修改）。结合宏观基准，这些低成本微测试可帮助团队在迭代系统提示和升级模型时避免回归风险。",
+        "en": "The article discusses the limitations of end-to-end benchmarks like SWE-bench for evaluating AI coding agents, as they are costly, slow, and lack detailed diagnostics. It proposes behavioral evaluations as a solution: fast, local, unit-style tests that verify discrete intermediate actions (e.g., tool calls or file changes). By combining these micro-checks with macro benchmarks, developers can confidently iterate on system prompts and model upgrades while minimizing regression risks. This approach offers a more efficient and precise way to assess AI agent performance."
+      },
+      "summary": "《 harness 工程解剖：如何评估、迭代和防护 AI 编码代理》指出，端到端基准如 SWE-bench 虽能提供整体性能评分，但成本高、速度慢且缺乏根本原因诊断。建议采用行为评估，即快速、局部的单元式测试，验证离散中间动作（如工具调用或文件修改）。结合宏观基准，这些低成本微测试可帮助团队在迭代系统提示和升级模型时避免回归风险。"
+    },
+    {
+      "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+      "link": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+      "pubDate": "Tue, 08 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-08T16:00:00.000Z",
+      "content": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol Processing (KSP) for zero-reflection, type-safe function calling, alongside advanced orchestration capabilities like human-in-the-loop workflows and context compaction. Additionally, the release introduces a robust suite of Android-first extensions, allowing mobile developers to integrate local models via LiteRT-LM, cloud reasoning through Firebase AI, session persistence using Room, and semantic memory powered by AppSearch.",
+      "contentSnippet": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol Processing (KSP) for zero-reflection, type-safe function calling, alongside advanced orchestration capabilities like human-in-the-loop workflows and context compaction. Additionally, the release introduces a robust suite of Android-first extensions, allowing mobile developers to integrate local models via LiteRT-LM, cloud reasoning through Firebase AI, session persistence using Room, and semantic memory powered by AppSearch.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌正式发布Kotlin版本1.0的智能体开发工具包（ADK），功能与Python和Java版本核心一致，支持Kotlin原生多智能体AI开发。该框架基于Kotlin多平台（KMP），利用Kotlin符号处理（KSP）实现无反射、类型安全的函数调用，并具备高级编排能力，如人机协同工作流和上下文压缩。此外，新版本推出面向Android的扩展功能，包括通过LiteRT-LM集成本地模型、利用Firebase AI实现云端推理、使用Room持久化会话以及基于AppSearch的语义记忆，方便移动开发者集成AI能力。",
+        "en": "Google released version 1.0 of the Agent Development Kit (ADK) for Kotlin, matching Python and Java ADK features. Built on Kotlin Multiplatform (KMP), it uses Kotlin Symbol Processing (KSP) for type-safe function calling and advanced orchestration. The kit includes Android-specific extensions for integrating local models (LiteRT-LM), cloud reasoning (Firebase AI), session persistence (Room), and semantic memory (AppSearch), enabling production-ready AI agent development in Kotlin and Android."
+      },
+      "summary": "谷歌正式发布Kotlin版本1.0的智能体开发工具包（ADK），功能与Python和Java版本核心一致，支持Kotlin原生多智能体AI开发。该框架基于Kotlin多平台（KMP），利用Kotlin符号处理（KSP）实现无反射、类型安全的函数调用，并具备高级编排能力，如人机协同工作流和上下文压缩。此外，新版本推出面向Android的扩展功能，包括通过LiteRT-LM集成本地模型、利用Firebase AI实现云端推理、使用Room持久化会话以及基于AppSearch的语义记忆，方便移动开发者集成AI能力。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T01:34:45.467Z"
+}

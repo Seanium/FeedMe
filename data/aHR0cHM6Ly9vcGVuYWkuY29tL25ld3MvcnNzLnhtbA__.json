@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-25T19:00:00.000Z",
+      "content": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "contentSnippet": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "creator": "",
+      "summaries": {
+        "zh": "Proaction通过使用Codex、GPT-Live-1和GPT-6 Astra，在车队管理方面实现60%的销售增长，并节省超过75小时的工作时间。该公司借助这些工具，能够更快地构建、运营和销售现代车队管理系统。",
+        "en": "Proaction enhances fleet management by leveraging Codex, GPT-Live-1, and GPT-6 Astra, achieving a 60% sales increase and saving over 75 hours. The tools streamline the process of building, operating, and selling modern fleet management solutions."
+      },
+      "summary": "Proaction通过使用Codex、GPT-Live-1和GPT-6 Astra，在车队管理方面实现60%的销售增长，并节省超过75小时的工作时间。该公司借助这些工具，能够更快地构建、运营和销售现代车队管理系统。"
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "contentSnippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI Academy已成立两年，致力于将AI技能推广至更多社群。",
+        "en": "OpenAI Academy celebrated its second anniversary, expanding AI education to more communities. The initiative focuses on enhancing AI skills globally."
+      },
+      "summary": "OpenAI Academy已成立两年，致力于将AI技能推广至更多社群。"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-23T13:00:00.000Z",
+      "content": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "contentSnippet": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将向乌克兰政府提供其“黎明”项目访问权限，以支持民用基础设施的网络安全防御。此举旨在增强乌克兰的民用防御能力。",
+        "en": "OpenAI is expanding access to its Daybreak program for the Ukrainian government to bolster cyber defense of civilian infrastructure. The initiative aims to enhance cybersecurity measures for critical civilian systems."
+      },
+      "summary": "OpenAI将向乌克兰政府提供其“黎明”项目访问权限，以支持民用基础设施的网络安全防御。此举旨在增强乌克兰的民用防御能力。"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "contentSnippet": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI CEO Sam Altman在联合国安理会发言中，讨论了人工智能安全、人类控制及国际合作等议题。",
+        "en": "Sam Altman, CEO of OpenAI, addressed the United Nations Security Council, emphasizing AI safety, the importance of human control over artificial intelligence, and the need for international cooperation to manage its risks."
+      },
+      "summary": "OpenAI CEO Sam Altman在联合国安理会发言中，讨论了人工智能安全、人类控制及国际合作等议题。"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "contentSnippet": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra通过生成结构更清晰、更符合法律语境的文件，帮助哈维公司优化法律文书。这一技术使律师能更专注于策略制定，提升了工作效率。",
+        "en": "GPT-6 Astra enhances legal document drafting by producing more structured, context-aware outputs. This tool helps lawyers focus on strategic work by streamlining the creation of legal texts."
+      },
+      "summary": "GPT-6 Astra通过生成结构更清晰、更符合法律语境的文件，帮助哈维公司优化法律文书。这一技术使律师能更专注于策略制定，提升了工作效率。"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "contentSnippet": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用GPT-6 Astra，invideo可更精准地规划编辑，将色彩校正和调色效率提升三倍，并一天内生成50种定制特效。",
+        "en": "Invideo leverages GPT-6 Astra to enhance precision in editing, triple the efficiency of color correction and grading, and generate 50 custom effects daily."
+      },
+      "summary": "使用GPT-6 Astra，invideo可更精准地规划编辑，将色彩校正和调色效率提升三倍，并一天内生成50种定制特效。"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "contentSnippet": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：Ringg的AI代理借助OpenAI解决高达65%的客户来电\n\n内容：Ringg采用GPT-5.6技术，使其多语言AI代理可在语音、聊天、WhatsApp和网页上运行。这些代理能解决高达65%的客户来电，且成本比GPT-4.1降低了90%。",
+        "en": "Ringg’s AI agents, powered by GPT-5.6, resolve up to 65% of customer calls across voice, chat, WhatsApp, and web. The technology enables multilingual support and reduces costs by 90% compared to GPT-4.1."
+      },
+      "summary": "标题：Ringg的AI代理借助OpenAI解决高达65%的客户来电\n\n内容：Ringg采用GPT-5.6技术，使其多语言AI代理可在语音、聊天、WhatsApp和网页上运行。这些代理能解决高达65%的客户来电，且成本比GPT-4.1降低了90%。"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-23T10:00:00.000Z",
+      "content": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "contentSnippet": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "creator": "",
+      "summaries": {
+        "zh": "MentalHealthBench是一个由专家指导的基准，用于评估AI在真实心理健康对话中提供的帮助和安全性的响应。",
+        "en": "MentalHealthBench is an expert-informed benchmark designed to evaluate the helpfulness and safety of AI responses in realistic mental health conversations. It provides a standardized tool for assessing AI performance in this sensitive domain."
+      },
+      "summary": "MentalHealthBench是一个由专家指导的基准，用于评估AI在真实心理健康对话中提供的帮助和安全性的响应。"
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
+      "isoDate": "2026-09-23T02:00:00.000Z",
+      "content": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "contentSnippet": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT Ads已扩展至东南亚和台湾地区。该广告服务将为符合条件的商家提供更多触达超过60个国家的用户的新方式。",
+        "en": "ChatGPT Ads has expanded its services to Southeast Asia and Taiwan, enabling eligible businesses to target audiences across more than 60 countries. The move provides new advertising opportunities for companies operating in the region."
+      },
+      "summary": "ChatGPT Ads已扩展至东南亚和台湾地区。该广告服务将为符合条件的商家提供更多触达超过60个国家的用户的新方式。"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "pubDate": "Wed, 23 Sep 2026 01:00:00 GMT",
+      "isoDate": "2026-09-23T01:00:00.000Z",
+      "content": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "contentSnippet": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "creator": "",
+      "summaries": {
+        "zh": "Airbnb正扩大对GPT-6 Astra和OpenAI前沿模型的访问权限，以帮助工程团队解决错误、设计系统并加速产品交付。",
+        "en": "Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to assist engineering teams. These tools are designed to help solve bugs, design systems, and accelerate project delivery. The initiative aims to enhance productivity by leveraging advanced AI capabilities."
+      },
+      "summary": "Airbnb正扩大对GPT-6 Astra和OpenAI前沿模型的访问权限，以帮助工程团队解决错误、设计系统并加速产品交付。"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "contentSnippet": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与Grab启动“GO Forward with AI”区域计划，旨在帮助东南亚30,000名合作伙伴提升实用AI技能。该计划旨在推动AI技术在区域内的实际应用，提升合作伙伴的AI能力。",
+        "en": "OpenAI and Grab have launched GO Forward with AI, a regional initiative aimed at equipping 30,000 Southeast Asian partners with practical AI skills. The program focuses on delivering hands-on training and resources to enhance AI capabilities in the region."
+      },
+      "summary": "OpenAI与Grab启动“GO Forward with AI”区域计划，旨在帮助东南亚30,000名合作伙伴提升实用AI技能。该计划旨在推动AI技术在区域内的实际应用，提升合作伙伴的AI能力。"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "isoDate": "2026-09-22T21:00:00.000Z",
+      "content": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "contentSnippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6通过提高缓存命中率、引入新的诊断工具、设置显式断点以及控制功能，优化了提示缓存。这些改进有助于降低延迟和成本。",
+        "en": "GPT-6 enhances prompt caching by achieving higher cache hit rates, introducing new diagnostics, enabling explicit breakpoints, and providing controls to reduce latency and costs. These improvements optimize performance and efficiency."
+      },
+      "summary": "GPT-6通过提高缓存命中率、引入新的诊断工具、设置显式断点以及控制功能，优化了提示缓存。这些改进有助于降低延迟和成本。"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "isoDate": "2026-09-22T18:00:00.000Z",
+      "content": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "contentSnippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Sol和Luna是两款前沿智能模型，旨在将先进技术融入日常工作中。它们在能力和成本上实现了不同平衡，以满足多样化的需求。",
+        "en": "GPT-6 Sol and Luna are two models designed to integrate advanced AI capabilities into daily work. Sol and Luna offer different combinations of performance and cost, catering to diverse needs. The models aim to enhance productivity by bringing frontier intelligence to everyday tasks."
+      },
+      "summary": "GPT-6 Sol和Luna是两款前沿智能模型，旨在将先进技术融入日常工作中。它们在能力和成本上实现了不同平衡，以满足多样化的需求。"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-22T12:00:00.000Z",
+      "content": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "contentSnippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra使Parallel的智能体在研究合成劳动力市场数据方面，相比以往模型将时间和成本各减少一半。",
+        "en": "GPT‑6 Astra enables Parallel’s agents to research and synthesize labor-market data in half the time and cost compared to previous models."
+      },
+      "summary": "GPT-6 Astra使Parallel的智能体在研究合成劳动力市场数据方面，相比以往模型将时间和成本各减少一半。"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-22T00:00:00.000Z",
+      "content": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "contentSnippet": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI提出了针对前沿模型和防护措施的有效第三方AI安全评估的优先事项和原则，强调评估需严格、安全、独立。",
+        "en": "OpenAI outlines key priorities and principles for effective third-party AI safety assessments of frontier models. The guidelines emphasize rigorous, secure, and independent evaluations to ensure AI safety. The focus is on establishing robust standards for assessing potential risks and safeguards associated with advanced AI systems. The principles aim to foster transparency and trust in the development of frontier AI models."
+      },
+      "summary": "OpenAI提出了针对前沿模型和防护措施的有效第三方AI安全评估的优先事项和原则，强调评估需严格、安全、独立。"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-21T12:00:00.000Z",
+      "content": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "contentSnippet": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "creator": "",
+      "summaries": {
+        "zh": "Higgsfield AI利用GPT-6 Astra，在一天内推出新视频功能，简化了小企业制作视频广告的过程，并加速了创意工具的市场推广。",
+        "en": "Higgsfield AI has launched new video features using GPT-6 Astra, simplifying video ad creation for small businesses. The technology enables faster development of creative tools for the market."
+      },
+      "summary": "Higgsfield AI利用GPT-6 Astra，在一天内推出新视频功能，简化了小企业制作视频广告的过程，并加速了创意工具的市场推广。"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-21T12:00:00.000Z",
+      "content": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "contentSnippet": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI正与一个独立的人工智能与数学咨询小组合作，以指导对新兴人工智能成果的审查和沟通。该小组旨在提供专业意见，确保AI研究的发展方向符合科学和伦理标准。",
+        "en": "OpenAI has formed an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to guide the review and communication of emerging AI research findings."
+      },
+      "summary": "OpenAI正与一个独立的人工智能与数学咨询小组合作，以指导对新兴人工智能成果的审查和沟通。该小组旨在提供专业意见，确保AI研究的发展方向符合科学和伦理标准。"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-21T10:00:00.000Z",
+      "content": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "contentSnippet": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI提出建立全球共享的AI标准，呼吁协调评估、报告和治理以提升安全性。该计划旨在推动下一阶段AI发展，确保技术安全可控。",
+        "en": "OpenAI proposes a framework for global AI standards, emphasizing coordinated evaluation, reporting, and governance to enhance safety in the next phase of AI development. The initiative aims to establish shared guidelines to ensure responsible progress."
+      },
+      "summary": "OpenAI提出建立全球共享的AI标准，呼吁协调评估、报告和治理以提升安全性。该计划旨在推动下一阶段AI发展，确保技术安全可控。"
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "isoDate": "2026-09-21T07:00:00.000Z",
+      "content": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "contentSnippet": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI Academy新增学习路径，旨在帮助员工、开发者、领导者、教育者和学生构建和展示实际AI技能。",
+        "en": "OpenAI Academy is expanding with new learning paths tailored for employees, developers, leaders, educators, and students. These paths aim to help individuals build and demonstrate practical AI skills. The initiative enhances the platform's offerings by providing targeted educational resources for different user groups."
+      },
+      "summary": "OpenAI Academy新增学习路径，旨在帮助员工、开发者、领导者、教育者和学生构建和展示实际AI技能。"
+    },
+    {
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+      "link": "https://openai.com/index/v7",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-21T00:00:00.000Z",
+      "content": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "contentSnippet": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "creator": "",
+      "summaries": {
+        "zh": "V7利用GPT-5.6技术，将公司分散的文件转化为AI代理可使用的上下文信息，从而帮助其完成复杂且与来源相关的任务，赋予AI代理机构记忆功能。",
+        "en": "V7 leverages GPT-5.6 to transform scattered company files into context agents, enabling AI to complete complex, source-linked tasks. The system provides institutional memory, allowing agents to access and utilize organized data effectively."
+      },
+      "summary": "V7利用GPT-5.6技术，将公司分散的文件转化为AI代理可使用的上下文信息，从而帮助其完成复杂且与来源相关的任务，赋予AI代理机构记忆功能。"
+    },
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "pubDate": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-18T12:00:00.000Z",
+      "content": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "contentSnippet": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "creator": "",
+      "summaries": {
+        "zh": "澳大利亚青年安全蓝图发布，旨在通过六大支柱路线图，为年轻人提供更安全的AI体验，保护并赋能他们。该计划重点关注青年安全，推动AI应用中的保护措施。",
+        "en": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar framework designed to enhance AI safety for young people. The roadmap aims to protect and empower youth through structured guidelines, ensuring secure and responsible AI interactions. The initiative focuses on key principles to foster safer digital environments for Australia's youth."
+      },
+      "summary": "澳大利亚青年安全蓝图发布，旨在通过六大支柱路线图，为年轻人提供更安全的AI体验，保护并赋能他们。该计划重点关注青年安全，推动AI应用中的保护措施。"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "pubDate": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-17T12:00:00.000Z",
+      "content": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "contentSnippet": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "creator": "",
+      "summaries": {
+        "zh": "科乐利公司利用ChatGPT技术构建了GO Public平台，旨在为IPO流程提供智能化支持。该平台帮助律师更早发现问题，集中精力处理关键环节，从而加速IPO工作。",
+        "en": "Cooley is using ChatGPT to develop GO Public, an AI tool designed to enhance the IPO process. The tool aims to provide intelligence, enabling lawyers to identify issues sooner and prioritize critical decisions more effectively."
+      },
+      "summary": "科乐利公司利用ChatGPT技术构建了GO Public平台，旨在为IPO流程提供智能化支持。该平台帮助律师更早发现问题，集中精力处理关键环节，从而加速IPO工作。"
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "contentSnippet": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "creator": "",
+      "summaries": {
+        "zh": "《为法律行业推出Astra》一文介绍了OpenAI为法律行业带来的前沿智能技术。该技术旨在优化律师事务所的工作流程，整合连接法律数据源，并确保客户机密工作的法律级控制。",
+        "en": "Astra for Law introduces OpenAI's advanced intelligence to legal firms, enhancing workflows with frontier technology. It integrates connected legal data sources and provides legal-grade controls for confidential client work, ensuring secure and efficient operations."
+      },
+      "summary": "《为法律行业推出Astra》一文介绍了OpenAI为法律行业带来的前沿智能技术。该技术旨在优化律师事务所的工作流程，整合连接法律数据源，并确保客户机密工作的法律级控制。"
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "contentSnippet": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与AARP合作，将在美国10个城市为1000名老年人提供免费的ChatGPT实操工作坊，旨在安全地帮助老年人掌握实用的人工智能技能。",
+        "en": "OpenAI and AARP are offering free, hands-on ChatGPT workshops to 1,000 older adults in 10 U.S. cities. The goal is to help them develop practical AI skills in a safe and accessible manner."
+      },
+      "summary": "OpenAI与AARP合作，将在美国10个城市为1000名老年人提供免费的ChatGPT实操工作坊，旨在安全地帮助老年人掌握实用的人工智能技能。"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-16T13:00:00.000Z",
+      "content": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "contentSnippet": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 探索了基于人工智能的新型广告体验，包括推广代理（Sponsored Agents）、面向营销人员的工具，以及与 HubSpot 和 Shopify 的集成。这些创新旨在为广告行业带来更多可能性。",
+        "en": "OpenAI is reimagining advertising with AI-powered solutions, including Sponsored Agents, marketer tools, and integrations with HubSpot and Shopify. The initiative aims to enhance advertising experiences through advanced AI capabilities."
+      },
+      "summary": "OpenAI 探索了基于人工智能的新型广告体验，包括推广代理（Sponsored Agents）、面向营销人员的工具，以及与 HubSpot 和 Shopify 的集成。这些创新旨在为广告行业带来更多可能性。"
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "link": "https://openai.com/index/hex-gpt-6-astra",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-16T12:00:00.000Z",
+      "content": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "contentSnippet": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra助力Hex的数据代理将分析结果转化为交互式可视化报告，便于员工分享。",
+        "en": "GPT-6 Astra enables Hex's data agents to convert analytical insights into interactive visualizations, facilitating easier and more engaging data sharing among employees."
+      },
+      "summary": "GPT-6 Astra助力Hex的数据代理将分析结果转化为交互式可视化报告，便于员工分享。"
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-16T12:00:00.000Z",
+      "content": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "contentSnippet": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何将AI使用与商业价值相结合。ChatGPT Work和Codex分析工具帮助团队理解AI使用情况和支出，识别培训需求，并将AI应用与商业成果联系起来。",
+        "en": "The article explains how ChatGPT Work and Codex analytics assist teams in analyzing AI usage and spending. These tools help identify training requirements and link AI adoption to business outcomes, enhancing value realization."
+      },
+      "summary": "本文介绍了如何将AI使用与商业价值相结合。ChatGPT Work和Codex分析工具帮助团队理解AI使用情况和支出，识别培训需求，并将AI应用与商业成果联系起来。"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "isoDate": "2026-09-16T17:00:00.000Z",
+      "content": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "contentSnippet": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布了一个用于追踪、调查和披露模型错位的框架，并附有六份关于模型意外或令人担忧行为的报告。该框架旨在系统化处理AI模型与预期目标不符的问题，提高透明度和责任感。",
+        "en": "OpenAI presents a framework for monitoring, examining, and reporting instances of model misalignment. The framework accompanies six reports detailing unexpected or concerning behaviors exhibited by AI models. The initiative aims to enhance transparency and accountability in AI development by systematically addressing and disclosing discrepancies between model outputs and intended goals."
+      },
+      "summary": "OpenAI发布了一个用于追踪、调查和披露模型错位的框架，并附有六份关于模型意外或令人担忧行为的报告。该框架旨在系统化处理AI模型与预期目标不符的问题，提高透明度和责任感。"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "isoDate": "2026-09-16T09:00:00.000Z",
+      "content": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "contentSnippet": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "creator": "",
+      "summaries": {
+        "zh": "新开放AI经济研究显示，工人在使用AI时已超越传统角色，并将AI融入日常工作中。研究揭示了AI如何帮助工人解锁新的工作方式，以及哪些新任务已成为他们工作的一部分。",
+        "en": "OpenAI's research reveals that workers are leveraging AI beyond traditional roles, integrating it into their daily tasks. The study highlights new activities that have become recurring as a result of AI adoption. The findings underscore evolving work practices driven by AI technology."
+      },
+      "summary": "新开放AI经济研究显示，工人在使用AI时已超越传统角色，并将AI融入日常工作中。研究揭示了AI如何帮助工人解锁新的工作方式，以及哪些新任务已成为他们工作的一部分。"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer",
+      "pubDate": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-14T12:00:00.000Z",
+      "content": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "contentSnippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "creator": "",
+      "summaries": {
+        "zh": "Fyxer是一家利用OpenAI模型、微调、记忆和真实用户反馈来组织收件箱和撰写邮件的公司，其AI助理能模仿用户风格。",
+        "en": "Fyxer has developed an AI executive assistant using OpenAI models, fine-tuning, memory, and real user feedback. The assistant organizes inboxes and drafts emails in each user’s voice, enhancing productivity and trust."
+      },
+      "summary": "Fyxer是一家利用OpenAI模型、微调、记忆和真实用户反馈来组织收件箱和撰写邮件的公司，其AI助理能模仿用户风格。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T17:10:56.393Z"
+}

@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "pubDate": "Fri, 25 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-25T18:00:00.000Z",
+      "content": "<p>Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/\">GitHub Copilot app for Beginners: How to build custom workflows with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "GitHub Copilot应用入门：如何使用画布构建自定义工作流。通过用普通英语描述所需界面，代理将构建一个可共同使用和更新的实时界面，帮助用户减少适应工具的时间，更专注于完成工作。该文章首发于GitHub博客。",
+        "en": "The article \"GitHub Copilot app for Beginners: How to build custom workflows with canvases\" explains how to create custom workflows using GitHub Copilot. Users describe their desired interface in plain English, and the agent generates a live, collaborative surface that can be updated together. This approach aims to reduce time spent adapting to tools and increase productivity. The article was originally published on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot应用入门：如何使用画布构建自定义工作流。通过用普通英语描述所需界面，代理将构建一个可共同使用和更新的实时界面，帮助用户减少适应工具的时间，更专注于完成工作。该文章首发于GitHub博客。"
+    },
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-25T15:00:00.000Z",
+      "content": "<p>How we fully migrated github.com away from CSS-in-JS.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/\">Improving site performance by shipping more CSS</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we fully migrated github.com away from CSS-in-JS.\nThe post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+      "creator": "Josh Black",
+      "summaries": {
+        "zh": "文章探讨了设计系统如何通过推送更多CSS来提升网站性能，并展示了这一过程并未引发重大问题。该改进措施有效优化了资源加载，提升了用户体验。GitHub博客发布此文，分享了实践经验和成功案例。",
+        "en": "The article discusses how a design system successfully shipped significant CSS changes without disrupting operations. It highlights strategies for improving site performance by increasing CSS delivery, emphasizing careful planning and execution. The focus is on maintaining stability while enhancing performance through larger CSS updates. The GitHub Blog originally published the post."
+      },
+      "summary": "文章探讨了设计系统如何通过推送更多CSS来提升网站性能，并展示了这一过程并未引发重大问题。该改进措施有效优化了资源加载，提升了用户体验。GitHub博客发布此文，分享了实践经验和成功案例。"
+    },
+    {
+      "title": "When chat is the wrong UI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "pubDate": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-24T20:00:00.000Z",
+      "content": "<p>What is a developer to do when they need something more tangible than a chat box? Enter canvases.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/\">When chat is the wrong UI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.\nThe post When chat is the wrong UI appeared first on The GitHub Blog.",
+      "creator": "Burke Holland",
+      "summaries": {
+        "zh": "文章标题为《当聊天界面不合适时》。文章指出，当开发者需要比聊天框更具体的功能时，应使用画布界面。该观点最初发表在GitHub博客上。",
+        "en": "The article discusses when chat interfaces are insufficient for developers and suggests using canvases as a more tangible alternative. It highlights the limitations of chat-based UIs and proposes canvases as a solution for more complex interactions. The post is from The GitHub Blog."
+      },
+      "summary": "文章标题为《当聊天界面不合适时》。文章指出，当开发者需要比聊天框更具体的功能时，应使用画布界面。该观点最初发表在GitHub博客上。"
+    },
+    {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "pubDate": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "isoDate": "2026-09-24T18:26:12.000Z",
+      "content": "<p>In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. </p>\n<p>The post <a href=\"https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. \nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
+      "creator": "Antonio Morales",
+      "summaries": {
+        "zh": "本文介绍了如何使用基于GitHub Security Lab Taskflow Agent AI框架的新型模糊测试任务流程。该流程利用AI技术提升模糊测试效率，具体操作和优势在GitHub博客中有详细说明。",
+        "en": "The article explains how to use the new AI-powered fuzzing taskflow based on the GitHub Security Lab Taskflow Agent. It provides guidance on leveraging the GitHub Security Lab's AI framework for automated testing and vulnerability detection. The post is part of The GitHub Blog."
+      },
+      "summary": "本文介绍了如何使用基于GitHub Security Lab Taskflow Agent AI框架的新型模糊测试任务流程。该流程利用AI技术提升模糊测试效率，具体操作和优势在GitHub博客中有详细说明。"
+    },
+    {
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "pubDate": "Wed, 23 Sep 2026 18:29:49 +0000",
+      "isoDate": "2026-09-23T18:29:49.000Z",
+      "content": "<p>How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/\">Rendering huge pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Alberto Gimeno",
+      "summaries": {
+        "zh": "GitHub Copilot 实现了在应用中渲染百万行的大代码合并请求，并支持数百条行内评论。该应用通过重建差异界面，优化了大规模代码的加载和显示性能。",
+        "en": "The GitHub Copilot app was updated to efficiently render very large pull requests, up to a million lines with hundreds of inline comments. The team rebuilt the diff surface to handle such massive files, improving performance and usability. This update enables smoother navigation and review of extensive code changes. The changes were announced on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot 实现了在应用中渲染百万行的大代码合并请求，并支持数百条行内评论。该应用通过重建差异界面，优化了大规模代码的加载和显示性能。"
+    },
+    {
+      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
+      "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-23T13:00:00.000Z",
+      "content": "<p>New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.</p>\n<p>The post <a href=\"https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/\">Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. appeared first on The GitHub Blog.",
+      "creator": "Paull Young",
+      "summaries": {
+        "zh": "GitHub与耶鲁气候变化沟通项目联合研究发现，超过1000名GitHub用户强烈呼吁开发更高效的软件工具、测量方法和实用指南，以减少计算资源浪费。该调查结果揭示了开发者对提升软件效率的迫切需求。",
+        "en": "GitHub and Yale's research reveals that over 1,000 GitHub users prioritize tools, measurement, and practical guidance to enhance software efficiency and reduce wasted compute. The findings highlight a strong demand for solutions that help developers optimize their work."
+      },
+      "summary": "GitHub与耶鲁气候变化沟通项目联合研究发现，超过1000名GitHub用户强烈呼吁开发更高效的软件工具、测量方法和实用指南，以减少计算资源浪费。该调查结果揭示了开发者对提升软件效率的迫切需求。"
+    },
+    {
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-18T15:00:00.000Z",
+      "content": "<p>We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/\">Should you read the code, is RAG dead, and did Skills kill MCP?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nThe post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
+      "creator": "GPS",
+      "summaries": {
+        "zh": "GitHub Podcast最新一期探讨了\"是否应阅读代码\"、\"RAG是否已死\"及\"技能是否终结了MCP\"等AI热点话题。节目深入分析了这些疑问，内容首发于GitHub博客。",
+        "en": "The GitHub Podcast explores key AI topics, including whether to read code, the status of RAG (Retrieval-Augmented Generation), and if Skills impacted MCP. The discussion covers current AI trends and debates."
+      },
+      "summary": "GitHub Podcast最新一期探讨了\"是否应阅读代码\"、\"RAG是否已死\"及\"技能是否终结了MCP\"等AI热点话题。节目深入分析了这些疑问，内容首发于GitHub博客。"
+    },
+    {
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "pubDate": "Thu, 17 Sep 2026 00:26:43 +0000",
+      "isoDate": "2026-09-17T00:26:43.000Z",
+      "content": "<p>A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/\">Migrating the GitHub Copilot runtime to Rust, using Copilot</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.",
+      "creator": "Stephen Toub",
+      "summaries": {
+        "zh": "GitHub将Copilot代理运行时迁移至Rust语言，涉及80万行生产级Rust代码。此次重写因代理技术而变得可行，文章详细介绍了迁移过程及成果。该内容源自GitHub博客。",
+        "en": "The GitHub Copilot runtime was migrated to Rust, a 800,000-line production codebase. This rewrite was previously unfeasible but became possible with new agent capabilities. The article details the process and outcomes of porting the Copilot agent runtime to Rust. (Word count: 50)"
+      },
+      "summary": "GitHub将Copilot代理运行时迁移至Rust语言，涉及80万行生产级Rust代码。此次重写因代理技术而变得可行，文章详细介绍了迁移过程及成果。该内容源自GitHub博客。"
+    },
+    {
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "pubDate": "Fri, 11 Sep 2026 18:26:10 +0000",
+      "isoDate": "2026-09-11T18:26:10.000Z",
+      "content": "<p>If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/\">Marketing ops as code: Automating events from planning to follow-up on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.\nThe post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.",
+      "creator": "Tomoko Tanaka",
+      "summaries": {
+        "zh": "文章标题：《以代码实现营销运营：自动化GitHub亚太区活动从策划到跟进》\n\n文章内容：若能将工作流程文档化，即可实现自动化。本文介绍了如何支持GitHub亚太区营销团队，通过代码自动化活动策划至跟进的全过程。该实践展示了利用GitHub平台提升营销运营效率的方法。",
+        "en": "The article discusses automating marketing operations using code, specifically for GitHub's APAC team. It emphasizes that documenting work enables automation, detailing the process of automating events from planning to follow-up on GitHub. The piece is from The GitHub Blog."
+      },
+      "summary": "文章标题：《以代码实现营销运营：自动化GitHub亚太区活动从策划到跟进》\n\n文章内容：若能将工作流程文档化，即可实现自动化。本文介绍了如何支持GitHub亚太区营销团队，通过代码自动化活动策划至跟进的全过程。该实践展示了利用GitHub平台提升营销运营效率的方法。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "pubDate": "Thu, 10 Sep 2026 21:31:19 +0000",
+      "isoDate": "2026-09-10T21:31:19.000Z",
+      "content": "<p>Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/\">GitHub Copilot app for Beginners: Using the diff, terminal, and browser</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.\nThe post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "GitHub Copilot应用入门指南：使用diff、终端和浏览器功能。该应用支持在GitHub Copilot中同时查看代码diff、运行终端命令和预览网页应用，方便用户在多个任务间高效切换。通过这些功能，用户可以更便捷地管理代码和项目。",
+        "en": "The GitHub Copilot app allows beginners to efficiently view diffs, run terminal commands, and preview web apps side by side. This integration reduces the need to switch tabs, streamlining the coding process. The app enhances productivity by providing a unified interface for these essential tasks. For more details, refer to \"GitHub Copilot app for Beginners: Using the diff, terminal, and browser\" on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot应用入门指南：使用diff、终端和浏览器功能。该应用支持在GitHub Copilot中同时查看代码diff、运行终端命令和预览网页应用，方便用户在多个任务间高效切换。通过这些功能，用户可以更便捷地管理代码和项目。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T17:12:56.999Z"
+}
