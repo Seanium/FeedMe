@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5789d9361dbc4d969ddd9f250c3f6a4cbc209f167e9bf083c3eb0bbe5563ff20/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 96733<br>Forks: 16383",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 96733\nForks: 16383",
+      "creator": "paperclipai",
+      "summaries": {
+        "zh": "开源应用Paperclip是一款用于管理工作代理的工具，使用TypeScript编写。该应用广受欢迎，拥有84,329个星标和15,195个分支。",
+        "en": "PaperclipAI is an open-source app designed for managing agents at work, written in TypeScript. It has gained significant popularity, with 84,329 stars and 15,195 forks on its repository. The app provides a streamlined solution for workplace agent management, leveraging community contributions and widespread adoption."
+      },
+      "summary": "开源应用Paperclip是一款用于管理工作代理的工具，使用TypeScript编写。该应用广受欢迎，拥有84,329个星标和15,195个分支。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24998b627ec39dce4c77219c36e82c7c7a79748c309e7a1fd035a4e1c1c2abc4/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 45085<br>Forks: 5896",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 45085\nForks: 5896",
+      "creator": "vectorize-io",
+      "summaries": {
+        "zh": "Hindsight是一个智能体记忆库，使用Python开发，支持语言学习。该项目在GitHub上拥有27167个星标和2568个分支。",
+        "en": "Hindsight is an open-source Python library for agent memory, designed to help machine learning agents learn from past experiences. It features a memory component that enables agents to retain and utilize historical information for improved decision-making. The project has gained significant traction, with 27,167 stars and 2,568 forks on its repository. Hindsight is aimed at enhancing the performance of reinforcement learning agents by integrating memory capabilities."
+      },
+      "summary": "Hindsight是一个智能体记忆库，使用Python开发，支持语言学习。该项目在GitHub上拥有27167个星标和2568个分支。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 52560<br>Forks: 5858",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 52560\nForks: 5858",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio是一款开源的全本地化声音工作室，是ElevenLabs的替代方案。它支持声音克隆、声音设计、视频配音、听写、转录和有声书制作，覆盖646种语言。该项目使用Python开发，拥有42544个星标和4992个分支。",
+        "en": "VoiceStudio is an open-source, local alternative to ElevenLabs, offering voice cloning, design, video dubbing, dictation, transcription, and audiobook creation in 646 languages. Built with Python, it has 42,544 stars and 4,992 forks on its GitHub repository. The platform supports a wide range of linguistic and audio functionalities."
+      },
+      "summary": "VoiceStudio是一款开源的全本地化声音工作室，是ElevenLabs的替代方案。它支持声音克隆、声音设计、视频配音、听写、转录和有声书制作，覆盖646种语言。该项目使用Python开发，拥有42544个星标和4992个分支。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e4f22a78b41bf662155d624c8c6c8ee480e219818f3b9abe208da902b0cb8675/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 75252<br>Forks: 4515",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 75252\nForks: 4515",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "标题：pbakaus/impeccable  \n简介：该设计语言通过JavaScript提升AI设计工具的效能，包含72510个星标和4382次分叉。",
+        "en": "The article \"pbakaus/impeccable\" discusses a design language for improving AI-powered design tools. It is built using JavaScript and has garnered significant popularity, with 72,510 stars and 4,382 forks on its repository. The focus is on enhancing the design capabilities of AI systems through this language."
+      },
+      "summary": "标题：pbakaus/impeccable  \n简介：该设计语言通过JavaScript提升AI设计工具的效能，包含72510个星标和4382次分叉。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 63124<br>Forks: 10792",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 63124\nForks: 10792",
+      "creator": "rohitg00",
+      "summaries": {
+        "zh": "标题：rohitg00/ai-engineering-from-scratch\n\n简介：该项目旨在通过Python从零开始学习人工智能工程。内容涵盖学习、构建和部署AI应用。项目获得59047个星标和10211次分叉，显示其受欢迎程度。",
+        "en": "The article \"rohitg00/ai-engineering-from-scratch\" focuses on learning, building, and deploying AI systems using Python. It is a popular resource with 59,047 stars and 10,211 forks, indicating its wide adoption and community interest. The content likely provides practical guidance for developing AI projects from scratch."
+      },
+      "summary": "标题：rohitg00/ai-engineering-from-scratch\n\n简介：该项目旨在通过Python从零开始学习人工智能工程。内容涵盖学习、构建和部署AI应用。项目获得59047个星标和10211次分叉，显示其受欢迎程度。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/47a9f7b1c2371ff07e9db191fc4b678a5b182e90a337873d77103fdf26845e6b/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 56298<br>Forks: 5060",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 56298\nForks: 5060",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。",
+        "en": "The article introduces Heygen's Hyperframes, a tool for creating HTML and rendering video, built for agents using TypeScript. It has gained significant popularity with 55,698 stars and 5,040 forks on its repository. The content focuses on its technical foundation and community engagement, highlighting its utility for developers and agents."
+      },
+      "summary": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。"
+    },
+    {
+      "title": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67\" referrerpolicy=\"no-referrer\"><br>The React Framework<br><br>Language: JavaScript<br>Stars: 143069<br>Forks: 33761",
+      "contentSnippet": "The React Framework\nLanguage: JavaScript\nStars: 143069\nForks: 33761",
+      "creator": "vercel",
+      "summaries": {
+        "zh": "Next.js 是一个基于 React 的 JavaScript 框架，用于构建全栈 Web 应用。它拥有 142,785 个星标和 33,254 个分支，是一个流行的开发工具。",
+        "en": "Vercel/Next.js is a React framework built with JavaScript. It is popular, boasting 142,785 stars and 33,254 forks on platforms like GitHub. The framework is designed for modern web development, offering features like server-side rendering and static site generation. It simplifies building fast, scalable, and SEO-friendly applications. Next.js is widely used for full-stack development, providing a robust solution for developers seeking efficient and flexible web solutions."
+      },
+      "summary": "Next.js 是一个基于 React 的 JavaScript 框架，用于构建全栈 Web 应用。它拥有 142,785 个星标和 33,254 个分支，是一个流行的开发工具。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/51e8bedb6f6aa2bbb8b6037d009cdae58d79b6f17401e7060bbb45a5f436a47b/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16798<br>Forks: 813",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16798\nForks: 813",
+      "creator": "Effect-TS",
+      "summaries": {
+        "zh": "Effect-TS/effect 是一款基于 TypeScript 的库，用于构建生产级应用程序。该库目前获得 16685 个星标和 808 个分支。",
+        "en": "The article \"Effect-TS/effect\" focuses on building production-ready applications using TypeScript. It is a popular library with 16,685 stars and 808 forks on platforms like GitHub. The content emphasizes the library's capabilities for developing robust and scalable applications in TypeScript."
+      },
+      "summary": "Effect-TS/effect 是一款基于 TypeScript 的库，用于构建生产级应用程序。该库目前获得 16685 个星标和 808 个分支。"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/956af1b0bb61bb62bd1806ac351c308b64bf721f4c1d14169cde011d36c65816/alirezarezvani/claude-skills\" referrerpolicy=\"no-referrer\"><br>380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.<br><br>Language: Python<br>Stars: 27475<br>Forks: 3872",
+      "contentSnippet": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.\nLanguage: Python\nStars: 27475\nForks: 3872",
+      "creator": "alirezarezvani",
+      "summaries": {
+        "zh": "项目“alirezarezvani/claude-skills”包含380种Claude代码技能、代理技能和插件，涵盖30多个代理、70多个自定义命令。适用于Claude Code、Codex、Gemini CLI、Cursor等8种编程代理，包括工程、营销、产品、合规等领域的技能，并支持Python编程。项目获得27030个星标和3821次分叉。",
+        "en": "The repository \"alirezarezvani/claude-skills\" offers 380 Claude Code skills, agent skills, and plugins, including 30+ agents, 70+ custom commands, and customizable references/scripts. It supports Claude Code, Codex, Gemini CLI, Cursor, and 8 other coding agents across engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial/finance, and daily productivity. The Python-based tools have 27,030 stars and 3,821 forks."
+      },
+      "summary": "项目“alirezarezvani/claude-skills”包含380种Claude代码技能、代理技能和插件，涵盖30多个代理、70多个自定义命令。适用于Claude Code、Codex、Gemini CLI、Cursor等8种编程代理，包括工程、营销、产品、合规等领域的技能，并支持Python编程。项目获得27030个星标和3821次分叉。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179303<br>Forks: 32922",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179303\nForks: 32922",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "Flutter是一款基于Dart语言的跨平台应用开发框架，可快速构建美观的移动应用及跨平台应用。该框架拥有179,173个星标和32,734个分支，便于开发者高效创建高质量的应用程序。",
+        "en": "Flutter is a framework for building cross-platform mobile apps using the Dart language. It enables developers to create visually appealing and high-performance applications for iOS and Android efficiently. The framework is popular, with 179,173 stars and 32,734 forks on platforms like GitHub, indicating its widespread adoption. Flutter's key features include a rich set of pre-built widgets, hot reload for rapid development, and strong community support."
+      },
+      "summary": "Flutter是一款基于Dart语言的跨平台应用开发框架，可快速构建美观的移动应用及跨平台应用。该框架拥有179,173个星标和32,734个分支，便于开发者高效创建高质量的应用程序。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23709a67c3eacfe69c455a5a3e08699fe39e3994e082fd6486ca62dc9dec49cf/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89752<br>Forks: 7895",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89752\nForks: 7895",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong（Agent-Reach）是一款Python工具，可通过命令行界面（CLI）让AI代理浏览整个互联网，支持阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该项目在GitHub上拥有89,371个星标和7,865个分支。",
+        "en": "Panniantong/Agent-Reach is a Python-based CLI tool that enables AI agents to access and process content from multiple online platforms, including Twitter, Reddit, YouTube, GitHub, Bilibili, and Xiaohongshu. It supports reading and searching across these platforms without requiring API fees. The tool has garnered 89,371 stars and 7,865 forks on its repository."
+      },
+      "summary": "Panniantong（Agent-Reach）是一款Python工具，可通过命令行界面（CLI）让AI代理浏览整个互联网，支持阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该项目在GitHub上拥有89,371个星标和7,865个分支。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/730463925236bc776fa5134a13eaa5e8922cd721256b115ae99cc83ce703d454/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 6581<br>Forks: 811",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 6581\nForks: 811",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "腾讯云/Octop是一个更智能的自托管AI助手，支持多用户和多智能体。该工具使用Python开发，目前有4593个星标和530个分支。",
+        "en": "TencentCloud/Octop is a self-hosted AI assistant designed for multi-user and multi-agent environments. Built in Python, it offers smarter functionality with 4,593 stars and 530 forks on its repository."
+      },
+      "summary": "腾讯云/Octop是一个更智能的自托管AI助手，支持多用户和多智能体。该工具使用Python开发，目前有4593个星标和530个分支。"
+    },
+    {
+      "title": "tile-ai/tilelang",
+      "link": "https://github.com/tile-ai/tilelang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ee62c4133de63a981d1da04434ba50d77e57de7042a09562fe8667c3d81ac7e/tile-ai/tilelang\" referrerpolicy=\"no-referrer\"><br> Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels<br><br>Language: Python<br>Stars: 8288<br>Forks: 835",
+      "contentSnippet": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels\nLanguage: Python\nStars: 8288\nForks: 835",
+      "creator": "tile-ai",
+      "summaries": {
+        "zh": "标题：tilelang\n\ntilelang 是一种面向特定领域的语言，旨在简化高性能 GPU/CPU/加速器内核的开发。该语言基于 Python，目前获得 7984 个星标和 805 次分叉。",
+        "en": "TileLang is a domain-specific language built to simplify the development of high-performance GPU/CPU/accelerator kernels. It is designed to streamline the process, leveraging Python for ease of use. The project has gained significant traction with 7,984 stars and 805 forks on its repository."
+      },
+      "summary": "标题：tilelang\n\ntilelang 是一种面向特定领域的语言，旨在简化高性能 GPU/CPU/加速器内核的开发。该语言基于 Python，目前获得 7984 个星标和 805 次分叉。"
+    },
+    {
+      "title": "longbridge/gpui-kit",
+      "link": "https://github.com/longbridge/gpui-kit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/814684486/d4c207a3-d306-4e87-86b2-3b9b83fc5d41\" referrerpolicy=\"no-referrer\"><br>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.<br><br>Language: Rust<br>Stars: 15838<br>Forks: 975",
+      "contentSnippet": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.\nLanguage: Rust\nStars: 15838\nForks: 975",
+      "creator": "longbridge",
+      "summaries": {
+        "zh": "本文介绍了使用 Rust 语言开发的 GPUI 库，该库提供 GUI 组件，用于构建跨平台桌面应用程序。GPUI 支持多种平台，具有 15767 个星标和 975 个分支，是构建高质量桌面应用的理想选择。",
+        "en": "The article introduces \"longbridge/gpui-kit,\" Rust GUI components for creating cross-platform desktop applications using GPUI. It highlights the tool's versatility and popularity, with 15,767 stars and 975 forks on platforms like GitHub. The focus is on building high-quality, cross-platform apps efficiently."
+      },
+      "summary": "本文介绍了使用 Rust 语言开发的 GPUI 库，该库提供 GUI 组件，用于构建跨平台桌面应用程序。GPUI 支持多种平台，具有 15767 个星标和 975 个分支，是构建高质量桌面应用的理想选择。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e6ea3b7645cfda85c5c07d4d349df8654ef476618b8ebff4575fc8fbf762c9f/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 103680<br>Forks: 31231",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 103680\nForks: 31231",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "PyTorch 是一款基于 Python 的张量库，支持动态神经网络和强大的 GPU 加速。该库在 GitHub 上拥有超过 103 万星标和 3.1 万次分叉，广泛应用于深度学习领域。",
+        "en": "PyTorch is a Python library for tensors and dynamic neural networks, offering strong GPU acceleration. It is widely used for machine learning and deep learning tasks. The library has 103,617 stars and 31,077 forks on its GitHub repository."
+      },
+      "summary": "PyTorch 是一款基于 Python 的张量库，支持动态神经网络和强大的 GPU 加速。该库在 GitHub 上拥有超过 103 万星标和 3.1 万次分叉，广泛应用于深度学习领域。"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/af71b5445121300b22a5f68e37895f9799d1c0021f493cf4d9a7ec1d230eba99/harry0703/MoneyPrinterTurbo\" referrerpolicy=\"no-referrer\"><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.<br><br>Language: Python<br>Stars: 128253<br>Forks: 20064",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\nLanguage: Python\nStars: 128253\nForks: 20064",
+      "creator": "harry0703",
+      "summaries": {
+        "zh": "标题：harry0703/MoneyPrinterTurbo\n\n该工具利用AI大模型和自动化工作流，可根据主题或关键词一键生成高清短视频。基于Python开发，目前获得128,033个星标和20,021次分叉。",
+        "en": "The tool \"MoneyPrinterTurbo\" uses AI large models and automated workflows to generate HD short videos from topics or keywords with a single click. It is built in Python, has 128,033 stars and 20,002 forks on its repository."
+      },
+      "summary": "标题：harry0703/MoneyPrinterTurbo\n\n该工具利用AI大模型和自动化工作流，可根据主题或关键词一键生成高清短视频。基于Python开发，目前获得128,033个星标和20,021次分叉。"
+    },
+    {
+      "title": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14ef09cd9e85b5e6f18085f51b8bf42403c36c0eae8f734c22970dbec239db56/pablostanley/yoinks\" referrerpolicy=\"no-referrer\"><br>yoink any video from your terminal. no shady ads.<br><br>Language: TypeScript<br>Stars: 3831<br>Forks: 337",
+      "contentSnippet": "yoink any video from your terminal. no shady ads.\nLanguage: TypeScript\nStars: 3831\nForks: 337",
+      "creator": "pablostanley",
+      "summaries": {
+        "zh": "yoinks 是一款终端工具，可从终端中提取视频，无广告干扰。使用 TypeScript 开发，获得 3314 星和 302 次分叉。",
+        "en": "The project \"yoinks\" allows users to extract videos from the terminal without intrusive ads. It is developed in TypeScript and has gained 3,314 stars and 302 forks on its repository."
+      },
+      "summary": "yoinks 是一款终端工具，可从终端中提取视频，无广告干扰。使用 TypeScript 开发，获得 3314 星和 302 次分叉。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05213b17443eaa1b3f48bf3824412a49f1b2a0e7e384b1df78ec188d56281f39/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 3227<br>Forks: 273",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 3227\nForks: 273",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "该工具名为 boykopovar/AnyPS5，用于自动将 PS5 可执行文件移植到 Linux 和 Windows 系统。使用 C++ 语言开发，目前获得 3227 拥星和 273 分叉。",
+        "en": "The tool \"boykopovar/AnyPS5\" automates the porting of PS5 executables to Linux and Windows. Developed in C++, it has 3,227 stars and 273 forks on its repository."
+      },
+      "summary": "该工具名为 boykopovar/AnyPS5，用于自动将 PS5 可执行文件移植到 Linux 和 Windows 系统。使用 C++ 语言开发，目前获得 3227 拥星和 273 分叉。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5237763bfcb5e5d9d43ecef884172d15988710c3f2670a5918244d7686b432eb/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 16830<br>Forks: 2299",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 16830\nForks: 2299",
+      "creator": "HunxByts",
+      "summaries": {
+        "zh": "HunxByts/GhostTrack是一个用于追踪位置或手机号码的实用工具，使用Python开发。该工具在GitHub上获得16766个星标和2291次分叉。",
+        "en": "The HunxByts/GhostTrack tool is a useful Python-based application for tracking locations or mobile numbers. It has gained significant popularity, with 16,766 stars and 2,291 forks on its repository."
+      },
+      "summary": "HunxByts/GhostTrack是一个用于追踪位置或手机号码的实用工具，使用Python开发。该工具在GitHub上获得16766个星标和2291次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:06:58.725Z"
+}

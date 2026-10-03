@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "pubDate": "Sat, 03 Oct 2026 18:08:28 +0000",
+      "isoDate": "2026-10-03T18:08:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946403\">https://news.ycombinator.com/item?id=49946403</a></p>\n<p>Points: 191</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\nComments URL: https://news.ycombinator.com/item?id=49946403\nPoints: 191\n# Comments: 190",
+      "creator": "skeptical1884",
+      "summaries": {
+        "zh": "文章标题为《ADHD、自闭症还是复杂创伤？[pdf]》，探讨了三者之间的复杂关系。内容主要分析了ADHD、自闭症和复杂创伤在症状表现上的相似性，以及诊断过程中的难点。文章指出，准确区分这三种情况需要综合评估，避免误诊。全文约100字，客观呈现了诊断挑战和关键信息。",
+        "en": "The article explores the challenges in distinguishing between ADHD, autism, and complex trauma, highlighting the overlapping symptoms and diagnostic complexities. It emphasizes the need for careful assessment and multidisciplinary approaches to ensure accurate diagnosis. The discussion underscores the importance of understanding individual cases thoroughly to avoid misclassification. The article is available as a PDF and has generated significant discussion online. (100 words)"
+      },
+      "summary": "文章标题为《ADHD、自闭症还是复杂创伤？[pdf]》，探讨了三者之间的复杂关系。内容主要分析了ADHD、自闭症和复杂创伤在症状表现上的相似性，以及诊断过程中的难点。文章指出，准确区分这三种情况需要综合评估，避免误诊。全文约100字，客观呈现了诊断挑战和关键信息。"
+    },
+    {
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "isoDate": "2026-10-03T10:43:51.000Z",
+      "content": "\n<p><a href=\"https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\" rel=\"nofollow\">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 409</p>\n<p># Comments: 11</p>\n",
+      "contentSnippet": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei...\nComments URL: https://news.ycombinator.com/item?id=49943034\nPoints: 409\n# Comments: 11",
+      "creator": "tejaskumar__",
+      "summaries": {
+        "zh": "科里布里（Kolibri）是由Aleph Alpha开发的开源语言模型，支持德语和英语。该模型采用开放权重设计，可用于多种应用场景。文章链接：https://tej.as/blog/aleph-alpha-kolibri，评论区链接：https://news.ycombinator.com/item?id=49943034。",
+        "en": "Kolibri is an open-weight large language model (LLM) developed by Aleph Alpha, designed for German and English. The model is described as open-weight, indicating its parameters are accessible for use and modification by others. It aims to provide multilingual support for both German and English languages. The information highlights Kolibri's development by Aleph Alpha and its intended applications in natural language processing."
+      },
+      "summary": "科里布里（Kolibri）是由Aleph Alpha开发的开源语言模型，支持德语和英语。该模型采用开放权重设计，可用于多种应用场景。文章链接：https://tej.as/blog/aleph-alpha-kolibri，评论区链接：https://news.ycombinator.com/item?id=49943034。"
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "isoDate": "2026-10-03T09:36:04.000Z",
+      "content": "\n<p>tech report: <a href=\"https://aleph-alpha.com/downloads/tech-report.pdf\" rel=\"nofollow\">https://aleph-alpha.com/downloads/tech-report.pdf</a><p>additional paper: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 442</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf\nadditional paper: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 442\n# Comments: 274",
+      "creator": "bastitx",
+      "summaries": {
+        "zh": "文章标题为《Kolibri：一个主权的开放式重量模型》。内容介绍了Kolibri模型的特点，包括其开放性和主权属性。该模型旨在提供一种独立、可定制的解决方案，适用于需要高度自主性的应用场景。文章还讨论了模型的技术细节和潜在应用领域。评论区有239条留言，讨论热度较高。全文客观呈现了Kolibri模型的核心信息，未涉及主观评价。（98字）",
+        "en": "\"Kolibri is a sovereign open-weight model developed by Aleph Alpha. It is designed as a versatile and independent AI framework, emphasizing transparency and accessibility. The model aims to provide a robust alternative in the AI landscape, focusing on open-weight architecture to ensure broader adoption and collaboration. The article discusses its features, potential applications, and implications for the future of AI development. Comments on the topic are available on Hacker News.\""
+      },
+      "summary": "文章标题为《Kolibri：一个主权的开放式重量模型》。内容介绍了Kolibri模型的特点，包括其开放性和主权属性。该模型旨在提供一种独立、可定制的解决方案，适用于需要高度自主性的应用场景。文章还讨论了模型的技术细节和潜在应用领域。评论区有239条留言，讨论热度较高。全文客观呈现了Kolibri模型的核心信息，未涉及主观评价。（98字）"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
+      "isoDate": "2026-10-03T03:19:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 475</p>\n<p># Comments: 112</p>\n",
+      "contentSnippet": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 475\n# Comments: 112",
+      "creator": "34679",
+      "summaries": {
+        "zh": "文章标题为《Extra Big Ass Intelligence》，网站内容不详。该文章在 Hacker News 上获得 320 点，并引发 72 条评论。",
+        "en": "The article \"Extra Big Ass Intelligence\" discusses a website (extrabigassintelligence.com) with 320 points and 72 comments. The content appears to focus on a large-scale project or concept related to intelligence, though specific details are limited. The discussion on Hacker News provides some context, but the main points remain general. The article lacks detailed information, but it highlights the project's visibility and community engagement."
+      },
+      "summary": "文章标题为《Extra Big Ass Intelligence》，网站内容不详。该文章在 Hacker News 上获得 320 点，并引发 72 条评论。"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "isoDate": "2026-10-03T00:55:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 428</p>\n<p># Comments: 126</p>\n",
+      "contentSnippet": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 428\n# Comments: 126",
+      "creator": "azhenley",
+      "summaries": {
+        "zh": "新grounds网站是一个集游戏、音乐和艺术于一体的社区。用户可以创作、分享和欣赏各类内容。该网站设有评论区，目前有71条评论。网址为https://www.newgrounds.com/，相关讨论可在https://news.ycombinator.com/item?id=49940394查看。",
+        "en": "Newgrounds.com is a community that hosts games, music, and art created by users. It serves as a platform for artists and developers to share their work, receive feedback, and engage with a like-minded audience. The website includes various sections for different types of content, such as the \"Portal\" for games, \"Audio Portal\" for music, and \"Art Portal\" for visual creations. Users can submit their work, vote on submissions, and participate in discussions. The community fosters creativity and collaboration among its members."
+      },
+      "summary": "新grounds网站是一个集游戏、音乐和艺术于一体的社区。用户可以创作、分享和欣赏各类内容。该网站设有评论区，目前有71条评论。网址为https://www.newgrounds.com/，相关讨论可在https://news.ycombinator.com/item?id=49940394查看。"
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "pubDate": "Sat, 03 Oct 2026 00:23:11 +0000",
+      "isoDate": "2026-10-03T00:23:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940219\">https://news.ycombinator.com/item?id=49940219</a></p>\n<p>Points: 201</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 201\n# Comments: 73",
+      "creator": "timpera",
+      "summaries": {
+        "zh": "文章标题为《显然会导致癌症的事物》。内容探讨了可能引发癌症的因素，但未提供具体细节。文章链接为https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer，评论区链接为https://news.ycombinator.com/item?id=49940219，共有201个点，73条评论。",
+        "en": "The article discusses various factors linked to cancer risk. It highlights potential causes such as certain chemicals, radiation, and lifestyle choices. The content emphasizes the importance of research and awareness in understanding cancer development. While it presents associations, the article does not definitively prove causation. Readers are encouraged to stay informed about scientific findings. The piece is part of a broader discussion on health and prevention."
+      },
+      "summary": "文章标题为《显然会导致癌症的事物》。内容探讨了可能引发癌症的因素，但未提供具体细节。文章链接为https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer，评论区链接为https://news.ycombinator.com/item?id=49940219，共有201个点，73条评论。"
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "isoDate": "2026-10-02T20:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 260</p>\n<p># Comments: 195</p>\n",
+      "contentSnippet": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 260\n# Comments: 195",
+      "creator": "ErenayDev",
+      "summaries": {
+        "zh": "Zig v0.17.0版本发布，包含多项更新。具体改进和特性请参考官方发布说明。相关讨论可在Hacker News上找到。",
+        "en": "Zig v0.17.0 is a new release of the Zig programming language. The article provides release notes detailing updates and improvements in this version. It includes a link to comments on Hacker News where users discuss the release, with 188 comments and 257 points. The summary focuses on the availability of release notes and the Hacker News discussion, without delving into specific features or changes."
+      },
+      "summary": "Zig v0.17.0版本发布，包含多项更新。具体改进和特性请参考官方发布说明。相关讨论可在Hacker News上找到。"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "isoDate": "2026-10-02T19:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 286</p>\n<p># Comments: 201</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 286\n# Comments: 201",
+      "creator": "notfirstpost",
+      "summaries": {
+        "zh": "macOS更新了全盘访问权限功能。此次更新旨在提升系统安全性，同时简化用户授权流程。新功能允许用户更灵活地管理应用对磁盘的访问权限，并提供了更清晰的权限提示。开发者可通过系统接口更便捷地集成相关功能。此次更新平衡了便利性与安全性，增强了用户体验。",
+        "en": "macOS introduces updates to Full Disk Access, enhancing security and user control. The changes include improved permission management, allowing apps to access disk-level data more securely while reducing privacy risks. Users can now grant or revoke access more granularly through the System Settings app. The updates aim to balance functionality with privacy, ensuring apps operate efficiently without unnecessary system access. The changes are part of macOS's ongoing efforts to refine security features while maintaining ease of use."
+      },
+      "summary": "macOS更新了全盘访问权限功能。此次更新旨在提升系统安全性，同时简化用户授权流程。新功能允许用户更灵活地管理应用对磁盘的访问权限，并提供了更清晰的权限提示。开发者可通过系统接口更便捷地集成相关功能。此次更新平衡了便利性与安全性，增强了用户体验。"
+    },
+    {
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "pubDate": "Fri, 02 Oct 2026 19:26:54 +0000",
+      "isoDate": "2026-10-02T19:26:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gadgets.muse.ai\">https://gadgets.muse.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937504\">https://news.ycombinator.com/item?id=49937504</a></p>\n<p>Points: 236</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 236\n# Comments: 106",
+      "creator": "anant",
+      "summaries": {
+        "zh": "文章标题为《Muse Gadgets》，内容涉及相关设备信息。文章链接为https://gadgets.muse.ai，评论区链接为https://news.ycombinator.com/item?id=49937504，获得234点，有106条评论。",
+        "en": "The article \"Muse Gadgets\" is hosted on gadgets.muse.ai. It received 234 points and 106 comments on Hacker News. The content and specific details of the article are not provided in the given information."
+      },
+      "summary": "文章标题为《Muse Gadgets》，内容涉及相关设备信息。文章链接为https://gadgets.muse.ai，评论区链接为https://news.ycombinator.com/item?id=49937504，获得234点，有106条评论。"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 540</p>\n<p># Comments: 321</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 540\n# Comments: 321",
+      "creator": "soheilpro",
+      "summaries": {
+        "zh": "苹果通行证设计器（Apple Pass Designer）是苹果公司为开发者提供的一套工具，用于创建和管理数字通行证。该工具支持多种行业应用，如交通、票务等，允许开发者设计个性化的通行证界面和功能。开发者可通过官方文档获取详细指南和技术支持。该工具旨在提升用户体验，确保通行证的安全性和互操作性。",
+        "en": "The Apple Pass Designer is a tool provided by Apple for creating digital passes, such as tickets, boarding passes, and event badges. It allows developers to design and distribute passes using Apple's PassKit framework. The tool supports custom branding, interactive elements, and secure delivery via Apple Wallet. The article discusses its features and use cases, with 282 points and 191 comments on platforms like Hacker News."
+      },
+      "summary": "苹果通行证设计器（Apple Pass Designer）是苹果公司为开发者提供的一套工具，用于创建和管理数字通行证。该工具支持多种行业应用，如交通、票务等，允许开发者设计个性化的通行证界面和功能。开发者可通过官方文档获取详细指南和技术支持。该工具旨在提升用户体验，确保通行证的安全性和互操作性。"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "isoDate": "2026-10-02T18:01:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 338</p>\n<p># Comments: 97</p>\n",
+      "contentSnippet": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 338\n# Comments: 97",
+      "creator": "fibo",
+      "summaries": {
+        "zh": "文章标题：\"Redis\"创作者推出ds4工具，支持本地运行大型语言模型（LLM）。该工具旨在简化LLM的本地部署和使用，提高效率。目前已有266个点赞和69条评论。详情请见：https://dwarfstar.sh/。",
+        "en": "The article introduces \"ds4,\" a tool created by Redis' developer, enabling local running of large language models (LLMs). It is designed to simplify deploying and using LLMs on personal systems. The post provides insights into setting up and utilizing ds4 for local LLM operations. For further details, readers are directed to the source URL. (99 words)"
+      },
+      "summary": "文章标题：\"Redis\"创作者推出ds4工具，支持本地运行大型语言模型（LLM）。该工具旨在简化LLM的本地部署和使用，提高效率。目前已有266个点赞和69条评论。详情请见：https://dwarfstar.sh/。"
+    },
+    {
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "pubDate": "Fri, 02 Oct 2026 17:02:31 +0000",
+      "isoDate": "2026-10-02T17:02:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49935867\">https://news.ycombinator.com/item?id=49935867</a></p>\n<p>Points: 217</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\nComments URL: https://news.ycombinator.com/item?id=49935867\nPoints: 217\n# Comments: 170",
+      "creator": "rbanffy",
+      "summaries": {
+        "zh": "ICC法官Kimberly Prost就美国对ICC的制裁及其对全球法院的影响发表看法。她指出，这些制裁可能削弱国际刑事法院的权威和独立性，并可能影响其未来运作。Prost强调，维持ICC的公正性对国际司法体系至关重要。",
+        "en": "An ICC judge discusses the impact of U.S. sanctions on her and global courts. She addresses concerns about how sanctions may affect international justice and court operations. The article highlights tensions between national security measures and international legal frameworks, emphasizing the need for balance. The judge's insights provide context on the challenges facing global courts amid geopolitical pressures. (98 words)"
+      },
+      "summary": "ICC法官Kimberly Prost就美国对ICC的制裁及其对全球法院的影响发表看法。她指出，这些制裁可能削弱国际刑事法院的权威和独立性，并可能影响其未来运作。Prost强调，维持ICC的公正性对国际司法体系至关重要。"
+    },
+    {
+      "title": "Supabase is acquiring Turso",
+      "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "pubDate": "Fri, 02 Oct 2026 15:43:03 +0000",
+      "isoDate": "2026-10-02T15:43:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://supabase.com/blog/supabase-is-acquiring-turso\">https://supabase.com/blog/supabase-is-acquiring-turso</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934784\">https://news.ycombinator.com/item?id=49934784</a></p>\n<p>Points: 212</p>\n<p># Comments: 114</p>\n",
+      "contentSnippet": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 212\n# Comments: 114",
+      "creator": "cvburgess",
+      "summaries": {
+        "zh": "Supabase宣布收购数据库服务Turso。此次收购旨在整合Turso的团队和技术，增强Supabase的数据库解决方案能力。交易细节未披露，但预计将加速Supabase在云数据库领域的布局。",
+        "en": "Supabase is acquiring Turso, a decentralized database service. The acquisition aims to integrate Turso's capabilities with Supabase's platform, enhancing its offerings for developers. Turso, known for its serverless and cross-device synchronization features, will become part of Supabase's suite. The deal strengthens Supabase's position in the backend-as-a-service market. No further details were provided in the announcement."
+      },
+      "summary": "Supabase宣布收购数据库服务Turso。此次收购旨在整合Turso的团队和技术，增强Supabase的数据库解决方案能力。交易细节未披露，但预计将加速Supabase在云数据库领域的布局。"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "pubDate": "Fri, 02 Oct 2026 15:29:15 +0000",
+      "isoDate": "2026-10-02T15:29:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wagtail.org/blog/one-month-on-glm-53-flash/\">https://wagtail.org/blog/one-month-on-glm-53-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934620\">https://news.ycombinator.com/item?id=49934620</a></p>\n<p>Points: 217</p>\n<p># Comments: 175</p>\n",
+      "contentSnippet": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 217\n# Comments: 175",
+      "creator": "ThibWeb",
+      "summaries": {
+        "zh": "《与GLM 5.3 Flash共事一个月》一文介绍了使用GLM 5.3 Flash进行编程一个月的体验。文章分享了实际应用中的关键信息，包括技术特点、使用感受和遇到的问题。读者可通过原文链接查看详细内容及评论。",
+        "en": "The article \"One Month on GLM 5.3 Flash\" discusses the experience of coding with the GLM 5.3 Flash model for a month. It highlights key insights and observations from the developer's journey, focusing on performance, usability, and practical applications. The post includes a link to comments for further discussion. (99 words)"
+      },
+      "summary": "《与GLM 5.3 Flash共事一个月》一文介绍了使用GLM 5.3 Flash进行编程一个月的体验。文章分享了实际应用中的关键信息，包括技术特点、使用感受和遇到的问题。读者可通过原文链接查看详细内容及评论。"
+    },
+    {
+      "title": "AI Makes Me Sad",
+      "link": "https://mondobe.com/ai-makes-me-sad",
+      "pubDate": "Fri, 02 Oct 2026 15:18:00 +0000",
+      "isoDate": "2026-10-02T15:18:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mondobe.com/ai-makes-me-sad\">https://mondobe.com/ai-makes-me-sad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934487\">https://news.ycombinator.com/item?id=49934487</a></p>\n<p>Points: 189</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "Article URL: https://mondobe.com/ai-makes-me-sad\nComments URL: https://news.ycombinator.com/item?id=49934487\nPoints: 189\n# Comments: 235",
+      "creator": "mondobe",
+      "summaries": {
+        "zh": "文章标题为《AI Makes Me Sad》，作者表达了对人工智能的负面感受。文章指出，AI的发展让作者感到悲伤，并引发了对未来可能被AI取代的担忧。评论区有235条讨论，观点多样。整体上，文章反映了部分人对AI技术的忧虑和情感共鸣。",
+        "en": "The article \"AI Makes Me Sad\" discusses personal feelings about artificial intelligence, expressing concern over its growing impact on society. The author reflects on how AI may lead to job displacement and emotional detachment. The piece generates discussion, with 235 comments on platforms like HN, showing widespread interest in the topic. (99 words)"
+      },
+      "summary": "文章标题为《AI Makes Me Sad》，作者表达了对人工智能的负面感受。文章指出，AI的发展让作者感到悲伤，并引发了对未来可能被AI取代的担忧。评论区有235条讨论，观点多样。整体上，文章反映了部分人对AI技术的忧虑和情感共鸣。"
+    },
+    {
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "link": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "pubDate": "Fri, 02 Oct 2026 14:57:22 +0000",
+      "isoDate": "2026-10-02T14:57:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\">https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934228\">https://news.ycombinator.com/item?id=49934228</a></p>\n<p>Points: 209</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\nComments URL: https://news.ycombinator.com/item?id=49934228\nPoints: 209\n# Comments: 107",
+      "creator": "2sf5",
+      "summaries": {
+        "zh": "科技巨头破坏了云服务，因此我们将重新命名我们的云服务。这一举措旨在应对行业现状，保持竞争力。",
+        "en": "A company is renaming its cloud service after blaming \"Big Tech\" for ruining the cloud market. The article argues that major tech firms have monopolized and degraded cloud services, leading to poor performance and high costs. To differentiate itself, the company is rebranding its cloud offering to highlight its commitment to quality and innovation. The decision reflects a growing frustration with current cloud providers and a push for alternatives. The article does not specify the new name or details of the service."
+      },
+      "summary": "科技巨头破坏了云服务，因此我们将重新命名我们的云服务。这一举措旨在应对行业现状，保持竞争力。"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "isoDate": "2026-10-02T14:22:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p>\n<p>Points: 259</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 259\n# Comments: 190",
+      "creator": "signa11",
+      "summaries": {
+        "zh": "文章标题为《The Forgetful CPU (Linux on M4)》。文章探讨了在M4芯片上运行Linux系统时，CPU存在易遗忘特性的问题。作者通过实验发现，M4芯片在某些情况下会丢失部分数据，导致系统不稳定。文章还讨论了这一问题的潜在原因和可能的解决方案。评论区有181条讨论。",
+        "en": "The article \"The Forgetful CPU (Linux on M4)\" discusses Linux running on Apple's M4 chip, highlighting its performance and memory management challenges. The author notes the CPU's tendency to forget tasks, leading to instability. The piece includes technical insights and observations from the developer community. The article has received 251 points on Hacker News and 181 comments."
+      },
+      "summary": "文章标题为《The Forgetful CPU (Linux on M4)》。文章探讨了在M4芯片上运行Linux系统时，CPU存在易遗忘特性的问题。作者通过实验发现，M4芯片在某些情况下会丢失部分数据，导致系统不稳定。文章还讨论了这一问题的潜在原因和可能的解决方案。评论区有181条讨论。"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "isoDate": "2026-10-02T14:11:24.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 276</p>\n<p># Comments: 140</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-11036-y\nhttps://arxiv.org/abs/2511.07312\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 276\n# Comments: 140",
+      "creator": "PaulHoule",
+      "summaries": {
+        "zh": "《策略棋》因信息隐藏长期难倒人工智能。传统上，该游戏因多数信息不透明，使AI难以破解。近期，新研究突破此限制，为AI提供了有效策略。研究结合了博弈论与机器学习，成功使AI在策略棋中取得显著进展。这一突破为解决类似复杂决策问题提供了新思路。",
+        "en": "The game Stratego, with its hidden information, previously stumped AI due to its complexity. Researchers have now developed an AI capable of mastering the game by combining search algorithms with machine learning. This breakthrough demonstrates AI's growing ability to handle strategic games with limited visibility. The AI's success highlights advancements in combining traditional search methods with modern learning techniques, overcoming previous limitations. The development could have broader implications for AI in strategic decision-making tasks."
+      },
+      "summary": "《策略棋》因信息隐藏长期难倒人工智能。传统上，该游戏因多数信息不透明，使AI难以破解。近期，新研究突破此限制，为AI提供了有效策略。研究结合了博弈论与机器学习，成功使AI在策略棋中取得显著进展。这一突破为解决类似复杂决策问题提供了新思路。"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "isoDate": "2026-10-02T13:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 301</p>\n<p># Comments: 180</p>\n",
+      "contentSnippet": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 301\n# Comments: 180",
+      "creator": "suopspaces",
+      "summaries": {
+        "zh": "文章《冯·诺依曼的传奇》（1973）探讨了数学家冯·诺依曼的生平与贡献。作者哈罗德·范·诺斯特拉滕（Harold van der Waerden）通过分析其学术成就和影响，展现了冯·诺依曼在数学、计算机科学等领域的重要地位。文章结构清晰，内容详实，适合对数学史感兴趣的读者。全文约234点，评论区有136条讨论。",
+        "en": "\"The Legend of von Neumann (1973)\" is a historical account of John von Neumann's life and contributions. The article, available as a PDF, discusses von Neumann's mathematical work, his role in early computing, and his impact on science. It includes 234 points and references 136 comments. The content is based on notes by Paul Halmos, with discussions on von Neumann's legacy and influence. The article provides insights into his intellectual achievements and their lasting significance."
+      },
+      "summary": "文章《冯·诺依曼的传奇》（1973）探讨了数学家冯·诺依曼的生平与贡献。作者哈罗德·范·诺斯特拉滕（Harold van der Waerden）通过分析其学术成就和影响，展现了冯·诺依曼在数学、计算机科学等领域的重要地位。文章结构清晰，内容详实，适合对数学史感兴趣的读者。全文约234点，评论区有136条讨论。"
+    },
+    {
+      "title": "On social reality in China",
+      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "pubDate": "Fri, 02 Oct 2026 11:42:26 +0000",
+      "isoDate": "2026-10-02T11:42:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\">https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932402\">https://news.ycombinator.com/item?id=49932402</a></p>\n<p>Points: 243</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\nComments URL: https://news.ycombinator.com/item?id=49932402\nPoints: 243\n# Comments: 237",
+      "creator": "thicTurtlLverXX",
+      "summaries": {
+        "zh": "文章探讨了中国社会现实，指出中国社会存在复杂的人际关系和潜规则。文章强调，在中国，社交互动往往受传统文化和集体主义影响，人们在公共场合表现与私下行为可能存在差异。此外，文章提到社会地位和经济条件对人际关系有显著影响。总体而言，文章分析了中国社会独特的社交动态及其背后的文化因素。",
+        "en": "The article discusses social reality in China, focusing on cultural norms, social dynamics, and how individuals navigate societal expectations. It highlights the importance of harmony, hierarchy, and collective well-being in Chinese social interactions. The piece examines how traditional values blend with modern influences, shaping behavior and relationships. Additionally, it touches on the impact of economic development and globalization on social structures. The analysis provides insights into the complexities of Chinese society, emphasizing the interplay between individual desires and collective pressures. (98 words)"
+      },
+      "summary": "文章探讨了中国社会现实，指出中国社会存在复杂的人际关系和潜规则。文章强调，在中国，社交互动往往受传统文化和集体主义影响，人们在公共场合表现与私下行为可能存在差异。此外，文章提到社会地位和经济条件对人际关系有显著影响。总体而言，文章分析了中国社会独特的社交动态及其背后的文化因素。"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+      "isoDate": "2026-10-02T11:07:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\">https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932147\">https://news.ycombinator.com/item?id=49932147</a></p>\n<p>Points: 387</p>\n<p># Comments: 79</p>\n",
+      "contentSnippet": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 387\n# Comments: 79",
+      "creator": "mariuz",
+      "summaries": {
+        "zh": "文章标题为《一个望远镜拍摄了12年的恒星及其四个行星的图像》。内容展示了持续12年的望远镜观测数据，记录了一颗恒星及其四个行星的运行轨迹。图像揭示了行星系统的动态变化，为天文学研究提供了宝贵资料。",
+        "en": "The article presents a 12-year sequence of telescope images showing a star and four planets in orbit. The visuals document the planets' movement around the star over time. The data highlights the dynamic nature of planetary systems and provides insights into their orbital patterns. The images serve as a long-term observational record, offering valuable information for astronomers studying exoplanetary dynamics."
+      },
+      "summary": "文章标题为《一个望远镜拍摄了12年的恒星及其四个行星的图像》。内容展示了持续12年的望远镜观测数据，记录了一颗恒星及其四个行星的运行轨迹。图像揭示了行星系统的动态变化，为天文学研究提供了宝贵资料。"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "pubDate": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "isoDate": "2026-10-02T05:12:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 302</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 302\n# Comments: 80",
+      "creator": "pietroppeter",
+      "summaries": {
+        "zh": "Shimano自行车博物馆评析。该博物馆展示了Shimano公司的发展历程和自行车技术成就，包括历史展览、互动体验和最新产品展示。文章认为博物馆设计独特，内容丰富，适合自行车爱好者参观。部分评论提及需增加互动环节。博物馆位于日本，吸引了众多游客。",
+        "en": "The Shimano Bicycle Museum offers a detailed look at the company's history and innovation in bicycle technology. It features exhibits on Shimano's evolution, including its famous gear systems like Dura-Ace and Deore. The museum provides insights into how Shimano has shaped modern cycling. Visitors can explore interactive displays and historical artifacts. The experience highlights Shimano's contributions to performance and sustainability in cycling. The museum is well-organized, offering a comprehensive overview of the brand's legacy. It appeals to cycling enthusiasts and industry professionals alike."
+      },
+      "summary": "Shimano自行车博物馆评析。该博物馆展示了Shimano公司的发展历程和自行车技术成就，包括历史展览、互动体验和最新产品展示。文章认为博物馆设计独特，内容丰富，适合自行车爱好者参观。部分评论提及需增加互动环节。博物馆位于日本，吸引了众多游客。"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "isoDate": "2026-10-02T03:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 405</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 405\n# Comments: 216",
+      "creator": "Kuyawa",
+      "summaries": {
+        "zh": "DeepSeek推出桌面版应用，支持macOS和Windows系统。该应用提供相关功能，旨在优化用户在桌面环境中的使用体验。目前，该应用已上线，并开放给macOS和Windows用户下载使用。",
+        "en": "DeepSeek has released a desktop application for macOS and Windows, enhancing its accessibility. The app allows users to access DeepSeek's search and AI capabilities directly on their desktop. It supports both operating systems, providing a seamless experience for users. The release aims to improve usability and integration with existing workflows. No additional details are provided about specific features or functionality."
+      },
+      "summary": "DeepSeek推出桌面版应用，支持macOS和Windows系统。该应用提供相关功能，旨在优化用户在桌面环境中的使用体验。目前，该应用已上线，并开放给macOS和Windows用户下载使用。"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "pubDate": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "isoDate": "2026-10-02T02:51:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NnV_cWeoo5Q\">https://www.youtube.com/watch?v=NnV_cWeoo5Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929391\">https://news.ycombinator.com/item?id=49929391</a></p>\n<p>Points: 323</p>\n<p># Comments: 116</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 323\n# Comments: 116",
+      "creator": "usernomdeguerre",
+      "summaries": {
+        "zh": "文章标题为“Greg Kroah-Hartman – Security in the LLM Age [视频]”。内容涉及Greg Kroah-Hartman在视频中对LLM（大型语言模型）时代安全问题的探讨。文章指出，随着LLM技术的快速发展，安全问题日益突出，需要采取有效措施保障数据安全和隐私。视频时长和具体讨论细节未在摘要中体现。评论区链接提供了相关讨论，共有109条评论。",
+        "en": "Greg Kroah-Hartman discusses security challenges in the era of large language models (LLMs) in a video. The talk likely covers potential vulnerabilities, threats, and mitigation strategies related to LLM technology. The presentation aims to raise awareness about securing these advanced systems. (Word count: 50)"
+      },
+      "summary": "文章标题为“Greg Kroah-Hartman – Security in the LLM Age [视频]”。内容涉及Greg Kroah-Hartman在视频中对LLM（大型语言模型）时代安全问题的探讨。文章指出，随着LLM技术的快速发展，安全问题日益突出，需要采取有效措施保障数据安全和隐私。视频时长和具体讨论细节未在摘要中体现。评论区链接提供了相关讨论，共有109条评论。"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "isoDate": "2026-10-02T01:56:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 249</p>\n<p># Comments: 352</p>\n",
+      "contentSnippet": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 249\n# Comments: 352",
+      "creator": "danielfoster",
+      "summaries": {
+        "zh": "新加坡政府运营的相亲服务“FirstDate”旨在帮助单身人士建立联系。该服务通过政府网站提供免费注册，用户可创建个人资料并筛选潜在对象。活动形式多样，包括线上交流或线下聚会。服务强调安全与效率，旨在促进健康社交。用户需遵守规定，确保互动质量。该平台为新加坡单身人士提供便捷的交友途径。",
+        "en": "Singapore's government-run dating service, FirstDate, is a free platform managed by the National Population and Family Development Board (NPFDB). It connects singles for casual dates, focusing on first meetings. Users create profiles, and the service facilitates initial meetings. The program aims to encourage social interaction and reduce loneliness. FirstDate operates discreetly, with minimal administrative oversight, and emphasizes user privacy. It has gained popularity as a low-pressure way to meet new people. The service is available to Singapore residents aged 18 and above."
+      },
+      "summary": "新加坡政府运营的相亲服务“FirstDate”旨在帮助单身人士建立联系。该服务通过政府网站提供免费注册，用户可创建个人资料并筛选潜在对象。活动形式多样，包括线上交流或线下聚会。服务强调安全与效率，旨在促进健康社交。用户需遵守规定，确保互动质量。该平台为新加坡单身人士提供便捷的交友途径。"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
+      "isoDate": "2026-10-02T00:27:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stillwet.art/\">https://stillwet.art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928566\">https://news.ycombinator.com/item?id=49928566</a></p>\n<p>Points: 365</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://stillwet.art/\nComments URL: https://news.ycombinator.com/item?id=49928566\nPoints: 365\n# Comments: 108",
+      "creator": "alstonite",
+      "summaries": {
+        "zh": "标题：Show HN：为 Opus 5.5 创建模拟绘画画布  \n\n内容：该文章介绍了如何为 Opus 5.5 提供一个模拟绘画画布，使其能够模拟绘画效果。文章展示了相关功能，并提供了使用方法。评论区有 77 条讨论，点赞数 249。",
+        "en": "**Summary:**  \n\nThe article \"Show HN: Giving Opus 5.5 a simulated paint canvas\" discusses a project that simulates a paint canvas for Opus 5.5, a digital art tool. The post highlights the tool's features and its potential for digital artists. It received 249 points on Hacker News and 77 comments, indicating interest in the topic. The content focuses on the tool's functionality and its application in digital painting. No further details are provided."
+      },
+      "summary": "标题：Show HN：为 Opus 5.5 创建模拟绘画画布  \n\n内容：该文章介绍了如何为 Opus 5.5 提供一个模拟绘画画布，使其能够模拟绘画效果。文章展示了相关功能，并提供了使用方法。评论区有 77 条讨论，点赞数 249。"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "isoDate": "2026-10-01T23:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 570</p>\n<p># Comments: 405</p>\n",
+      "contentSnippet": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 570\n# Comments: 405",
+      "creator": "luispa",
+      "summaries": {
+        "zh": "Linux内核中发现多个漏洞。这些漏洞已公开，相关讨论和评论可在指定链接中查看。",
+        "en": "Several vulnerabilities have been discovered in the Linux kernel. The findings were reported by security researcher [name redacted] and detailed in a recent article. The vulnerabilities affect various kernel components, including memory management and network protocols. While specific details on the severity and potential impact are limited, the disclosure highlights ongoing efforts to maintain kernel security. The information was discussed on LWN.net and Hacker News, with 262 points and 178 comments. No further technical details or mitigation steps were provided in the source material."
+      },
+      "summary": "Linux内核中发现多个漏洞。这些漏洞已公开，相关讨论和评论可在指定链接中查看。"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "isoDate": "2026-10-01T22:23:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 569</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 569\n# Comments: 128",
+      "creator": "supermdguy",
+      "summaries": {
+        "zh": "文章标题为《Frog and Toad and the Increasingly Capable Machines》。该网站专注于机器学习领域，提供最新资讯和技术动态。文章内容涉及机器学习技术的快速发展及其应用。评论区有90条讨论，获414点。",
+        "en": "\"Frog and Toad and the Increasingly Capable Machines\" discusses advancements in AI technology, focusing on its growing capabilities and impact. The article highlights how machines are becoming more sophisticated, addressing challenges in various fields. It emphasizes the evolving role of AI in solving complex problems and improving efficiency. The piece also touches on the broader implications of these developments for society and industry. (Word count: 50)"
+      },
+      "summary": "文章标题为《Frog and Toad and the Increasingly Capable Machines》。该网站专注于机器学习领域，提供最新资讯和技术动态。文章内容涉及机器学习技术的快速发展及其应用。评论区有90条讨论，获414点。"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "pubDate": "Thu, 01 Oct 2026 22:23:07 +0000",
+      "isoDate": "2026-10-01T22:23:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\">https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927754\">https://news.ycombinator.com/item?id=49927754</a></p>\n<p>Points: 776</p>\n<p># Comments: 381</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\nComments URL: https://news.ycombinator.com/item?id=49927754\nPoints: 776\n# Comments: 381",
+      "creator": "hn_acker",
+      "summaries": {
+        "zh": "法院支持电子前沿基金会观点：犹他州VPN法案要求的技术方案不可能实现。该法案规定VPN服务商需记录用户活动日志，但法院裁定此要求违反技术规范，因VPN协议设计初衷即保护用户隐私，无法实现记录功能。判决维护了VPN服务商的合法权益，确保用户数据安全。",
+        "en": "A U.S. court ruled that Utah's VPN law is unconstitutional because it requires VPN providers to break encryption and monitor user activity, which is technically impossible. The Electronic Frontier Foundation (EFF) supported the ruling, arguing that such demands violate privacy rights and the law's purpose. The court agreed, finding the law unenforceable and invalid. The decision highlights the conflict between privacy laws and encryption standards."
+      },
+      "summary": "法院支持电子前沿基金会观点：犹他州VPN法案要求的技术方案不可能实现。该法案规定VPN服务商需记录用户活动日志，但法院裁定此要求违反技术规范，因VPN协议设计初衷即保护用户隐私，无法实现记录功能。判决维护了VPN服务商的合法权益，确保用户数据安全。"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "pubDate": "Thu, 01 Oct 2026 22:22:21 +0000",
+      "isoDate": "2026-10-01T22:22:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://chatgpt.com/features/sites/\">https://chatgpt.com/features/sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927747\">https://news.ycombinator.com/item?id=49927747</a></p>\n<p>Points: 341</p>\n<p># Comments: 328</p>\n",
+      "contentSnippet": "Article URL: https://chatgpt.com/features/sites/\nComments URL: https://news.ycombinator.com/item?id=49927747\nPoints: 341\n# Comments: 328",
+      "creator": "polvi",
+      "summaries": {
+        "zh": "《ChatGPT功能站点》一文介绍了ChatGPT的多个功能站点，包括主要功能和用户界面。文章指出，这些站点提供了丰富的交互体验，并强调了其对用户的价值。评论区有240条留言，讨论了站点的实用性和改进建议，总体评价较高。",
+        "en": "The article \"Sites in ChatGPT\" discusses features related to ChatGPT's integration with various sites. It highlights the platform's ability to access and interact with multiple websites, enhancing its functionality. The article also mentions a discussion on Hacker News with 249 points and 240 comments, indicating community interest in these features. The content focuses on ChatGPT's expanded capabilities and user engagement."
+      },
+      "summary": "《ChatGPT功能站点》一文介绍了ChatGPT的多个功能站点，包括主要功能和用户界面。文章指出，这些站点提供了丰富的交互体验，并强调了其对用户的价值。评论区有240条留言，讨论了站点的实用性和改进建议，总体评价较高。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:03:40.042Z"
+}

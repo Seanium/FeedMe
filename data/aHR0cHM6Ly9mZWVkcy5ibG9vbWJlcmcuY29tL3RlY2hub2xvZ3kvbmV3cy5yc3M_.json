@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
+      "pubDate": "Sat, 03 Oct 2026 17:12:02 GMT",
+      "isoDate": "2026-10-03T17:12:02.000Z",
+      "content": "US Treasury Secretary Scott Bessent criticized prominent artificial-intelligence figures’ warnings about existential risks posed by the technology as alarmist and unhelpful, calling on the industry to police itself and produce solutions.",
+      "contentSnippet": "US Treasury Secretary Scott Bessent criticized prominent artificial-intelligence figures’ warnings about existential risks posed by the technology as alarmist and unhelpful, calling on the industry to police itself and produce solutions.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "美国财政部长斯科特·贝森特批评了人工智能领域的知名人士对技术存在风险的警告，称其是危言耸听且无益的。他呼吁该行业加强自律，并主动提出解决方案。",
+        "en": "US Treasury Secretary Scott Bessent has criticized prominent AI figures for alarmist warnings about existential risks, calling them unhelpful. He urged the AI industry to take ownership of its risks and police itself, while also developing solutions. Bessent emphasized the need for self-regulation in addressing potential dangers posed by artificial intelligence."
+      },
+      "summary": "美国财政部长斯科特·贝森特批评了人工智能领域的知名人士对技术存在风险的警告，称其是危言耸听且无益的。他呼吁该行业加强自律，并主动提出解决方案。"
+    },
+    {
+      "title": "US Hackers Face $1,000 Monthly Pay Cut in Controversial Plan",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/us-hackers-face-1-000-a-month-pay-cuts-in-controversial-plan",
+      "pubDate": "Fri, 02 Oct 2026 17:56:43 GMT",
+      "isoDate": "2026-10-02T17:56:43.000Z",
+      "content": "US soldiers tasked with hacking American adversaries and defending the nation’s computers are set to see their incentive pay cut by as much as $12,000 a year as part of an overhaul that’s drawn ire from the ranks, according to documents reviewed by Bloomberg and people familiar with the situation.",
+      "contentSnippet": "US soldiers tasked with hacking American adversaries and defending the nation’s computers are set to see their incentive pay cut by as much as $12,000 a year as part of an overhaul that’s drawn ire from the ranks, according to documents reviewed by Bloomberg and people familiar with the situation.",
+      "creator": "Patrick Howell O'Neill and Jake Bleiberg",
+      "summaries": {
+        "zh": "据彭博社及知情人士披露，美国负责网络攻防的军人将面临一项改革计划，其月度奖金可能削减至1000美元，年削减总额高达1.2万美元。此举引发部队内部不满，但具体细节未明。",
+        "en": "US hackers face a controversial plan to cut their incentive pay by up to $12,000 annually, reducing their monthly earnings to around $1,000. The move, part of a broader overhaul, has drawn criticism from military personnel. The changes, reported by Bloomberg and confirmed by insiders, target soldiers responsible for hacking American adversaries and defending national computer systems."
+      },
+      "summary": "据彭博社及知情人士披露，美国负责网络攻防的军人将面临一项改革计划，其月度奖金可能削减至1000美元，年削减总额高达1.2万美元。此举引发部队内部不满，但具体细节未明。"
+    },
+    {
+      "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "pubDate": "Sat, 03 Oct 2026 13:13:42 GMT",
+      "isoDate": "2026-10-03T13:13:42.000Z",
+      "content": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
+      "contentSnippet": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
+      "creator": "Seth Fiegerman",
+      "summaries": {
+        "zh": "一位专注于AI安全的OpenAI员工已离职，并呼吁顶尖AI公司应加强核级别的安全措施以应对技术风险。此举反映了业内越来越多的员工对AI潜在危害的担忧。",
+        "en": "An OpenAI employee specializing in AI safety has resigned, urging stronger \"nuclear-level\" safeguards for artificial intelligence. The individual joins other industry insiders calling for greater risk mitigation efforts as top AI firms face growing concerns about the technology's potential dangers."
+      },
+      "summary": "一位专注于AI安全的OpenAI员工已离职，并呼吁顶尖AI公司应加强核级别的安全措施以应对技术风险。此举反映了业内越来越多的员工对AI潜在危害的担忧。"
+    },
+    {
+      "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/war-cyber-attack-could-trigger-next-financial-crisis-rbi-says",
+      "pubDate": "Sat, 03 Oct 2026 08:11:56 GMT",
+      "isoDate": "2026-10-03T08:11:56.000Z",
+      "content": "The next financial crisis could originate from a source outside the world of finance, Reserve Bank of India Governor Sanjay Malhotra said Saturday.",
+      "contentSnippet": "The next financial crisis could originate from a source outside the world of finance, Reserve Bank of India Governor Sanjay Malhotra said Saturday.",
+      "creator": "Anup Roy, Siddhartha Singh and Saikat Das",
+      "summaries": {
+        "zh": "印度储备银行行长Sanjay Malhotra表示，下一次金融危机可能源于金融领域之外，可能由战争或网络攻击引发。",
+        "en": "The Reserve Bank of India's Governor Sanjay Malhotra warned that the next financial crisis may stem from sources outside the financial sector, potentially triggered by war or cyberattacks."
+      },
+      "summary": "印度储备银行行长Sanjay Malhotra表示，下一次金融危机可能源于金融领域之外，可能由战争或网络攻击引发。"
+    },
+    {
+      "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/taiwan-foreign-minister-to-visit-arizona-to-deepen-economic-ties",
+      "pubDate": "Sat, 03 Oct 2026 03:27:54 GMT",
+      "isoDate": "2026-10-03T03:27:54.000Z",
+      "content": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+      "contentSnippet": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+      "creator": "Yian Lee",
+      "summaries": {
+        "zh": "台湾外长将赴亚利桑那州与当地官员及半导体企业会晤，旨在加强与美国的经济联系。此举凸显台北在特朗普总统寻求稳定中美关系背景下的努力。",
+        "en": "Taiwan's foreign minister will visit Arizona to meet with local officials and semiconductor firms, highlighting Taipei's efforts to strengthen economic ties with the U.S. The visit occurs as President Trump aims to stabilize relations with China. The trip focuses on economic collaboration, particularly in the semiconductor sector."
+      },
+      "summary": "台湾外长将赴亚利桑那州与当地官员及半导体企业会晤，旨在加强与美国的经济联系。此举凸显台北在特朗普总统寻求稳定中美关系背景下的努力。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:04:42.644Z"
+}

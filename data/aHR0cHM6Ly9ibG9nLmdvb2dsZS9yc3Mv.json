@@ -1,0 +1,513 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-02T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from September 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from September 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年9月，谷歌发布了最新的AI更新。",
+        "en": "Google announced its latest AI updates in September 2026. The updates focus on advancements in machine learning, natural language processing, and computational efficiency. New features include improved voice recognition, enhanced data analysis capabilities, and optimized algorithms for faster processing. These updates aim to enhance user experience across various applications. The developments reflect Google's ongoing commitment to innovation in artificial intelligence."
+      },
+      "summary": "2026年9月，谷歌发布了最新的AI更新。"
+    },
+    {
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "pubDate": "Thu, 01 Oct 2026 23:30:00 +0000",
+      "isoDate": "2026-10-01T23:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg\">Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+      "contentSnippet": "Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与Planet合作研发的Project Suncatcher原型卫星已搭乘SpaceX的Transporter-18拼单任务成功发射升空。",
+        "en": "Google's Project Suncatcher prototype satellite successfully launched into orbit aboard SpaceX's Transporter-18 rideshare mission, in partnership with Planet."
+      },
+      "summary": "谷歌与Planet合作研发的Project Suncatcher原型卫星已搭乘SpaceX的Transporter-18拼单任务成功发射升空。"
+    },
+    {
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "pubDate": "Thu, 01 Oct 2026 20:30:00 +0000",
+      "isoDate": "2026-10-01T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+      "contentSnippet": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了广告创意在YouTube广告中的作用。节目强调利用现有社交资产制作高影响力的广告，并指出创意对广告效果至关重要。内容围绕如何通过创意提升广告效果展开。",
+        "en": "This Ads Decoded episode focuses on ad creative for YouTube campaigns, emphasizing its critical role in success or failure. The discussion covers leveraging existing social assets to create high-impact YouTube ads, highlighting the importance of effective ad creative. The content aims to provide insights into optimizing ad performance through creative strategies."
+      },
+      "summary": "本文探讨了广告创意在YouTube广告中的作用。节目强调利用现有社交资产制作高影响力的广告，并指出创意对广告效果至关重要。内容围绕如何通过创意提升广告效果展开。"
+    },
+    {
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp\">Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "contentSnippet": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Isha Sheth"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Gemini Live"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Live的引导视觉功能与视障和低视力社区合作开发，提供实时视觉辅助。",
+        "en": "Guided Vision in Gemini Live provides real-time visual assistance, developed in collaboration with the blind and low-vision community. The feature aims to enhance accessibility for users with visual impairments."
+      },
+      "summary": "Gemini Live的引导视觉功能与视障和低视力社区合作开发，提供实时视觉辅助。"
+    },
+    {
+      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg\">1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
+      "contentSnippet": "1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
+      "creator": "",
+      "summaries": {
+        "zh": "1400名教育工作者参加了谷歌AI学习徽章日活动，获得了4000多个数字徽章。可在YouTube观看活动录播，并立即申领您的第一个徽章。",
+        "en": "1,400 educators participated in the Google Badge-a-thon, earning over 4,000 digital badges. On-demand sessions are available on YouTube, and participants can claim their first badge."
+      },
+      "summary": "1400名教育工作者参加了谷歌AI学习徽章日活动，获得了4000多个数字徽章。可在YouTube观看活动录播，并立即申领您的第一个徽章。"
+    },
+    {
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "link": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-01T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp\">Learn how Google Search can help you improve your morning cup of coffee.",
+      "contentSnippet": "Learn how Google Search can help you improve your morning cup of coffee.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索能助你优化家庭咖啡制作。通过搜索，可获取咖啡豆种类、冲泡技巧及设备推荐等信息，提升咖啡品质。",
+        "en": "Google Search offers five ways to enhance your at-home coffee routine. It helps find the best coffee beans, brewing methods, and recipes. Users can discover expert tips, reviews, and tutorials for brewing perfect coffee. Additionally, Search provides insights on equipment, flavor combinations, and storage techniques. By leveraging these resources, individuals can refine their coffee-making skills and enjoy a more satisfying morning ritual."
+      },
+      "summary": "谷歌搜索能助你优化家庭咖啡制作。通过搜索，可获取咖啡豆种类、冲泡技巧及设备推荐等信息，提升咖啡品质。"
+    },
+    {
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+      "pubDate": "Wed, 30 Sep 2026 21:30:00 +0000",
+      "isoDate": "2026-09-30T21:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp\">Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "contentSnippet": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Shamsi"
+        ],
+        "title": [
+          "Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌的科学AI模型在预测流感相关住院人数方面表现最佳，美国疾病控制与预防中心宣布。该模型在准确预测住院率方面优于其他方法，为公共卫生决策提供了有力支持。",
+        "en": "Google's science AI model ranked first in predicting flu-related hospital admissions, according to the CDC. The announcement highlights the model's effectiveness in forecasting such cases."
+      },
+      "summary": "谷歌的科学AI模型在预测流感相关住院人数方面表现最佳，美国疾病控制与预防中心宣布。该模型在准确预测住院率方面优于其他方法，为公共卫生决策提供了有力支持。"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "pubDate": "Wed, 30 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-30T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp\">Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+      "contentSnippet": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 4 Argon是即将推出的前沿模型，专为现实世界编程、企业知识工作和网络防御设计。该模型将助力推动前沿智能发展。",
+        "en": "Gemini 4 Argon is a new frontier model designed for real-world coding, enterprise knowledge work, and cyber defense. It is set to be released soon."
+      },
+      "summary": "Gemini 4 Argon是即将推出的前沿模型，专为现实世界编程、企业知识工作和网络防御设计。该模型将助力推动前沿智能发展。"
+    },
+    {
+      "title": "Google is supporting water resilience in Chile.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+      "pubDate": "Wed, 30 Sep 2026 18:34:00 +0000",
+      "isoDate": "2026-09-30T18:34:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp\">Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "contentSnippet": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben Townsend"
+        ],
+        "title": [
+          "Head of Infrastructure & Sustainability"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌向智利投资120万美元，用于修复Buin运河，每年可节约19亿加仑水，提升流域健康。",
+        "en": "Google is investing $1.2 million to line Chile's Unidos de Buin canal, aiming to save 1.9 billion gallons of water annually. The project enhances water resilience and supports watershed health in the region."
+      },
+      "summary": "谷歌向智利投资120万美元，用于修复Buin运河，每年可节约19亿加仑水，提升流域健康。"
+    },
+    {
+      "title": "More partners are joining the Alliance for America’s Skilled Trades.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
+      "pubDate": "Wed, 30 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-30T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_social.max-600x600.format-webp.webp\">The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+      "contentSnippet": "The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+      "creator": "",
+      "summaries": {
+        "zh": "美国技能工人工会联盟迎来14家新成员，旨在加速全国范围内的培训和职业发展。新成员的加入将扩大工会的影响力，促进技能工人的职业机会。",
+        "en": "The Alliance for America’s Skilled Trades has expanded by adding 14 new partners. This initiative aims to accelerate training and improve career access for skilled trades workers nationwide. The organization's growth reflects its commitment to developing the workforce in this sector."
+      },
+      "summary": "美国技能工人工会联盟迎来14家新成员，旨在加速全国范围内的培训和职业发展。新成员的加入将扩大工会的影响力，促进技能工人的职业机会。"
+    },
+    {
+      "title": "Supporting AI readiness in higher education",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
+      "pubDate": "Wed, 30 Sep 2026 16:43:00 +0000",
+      "isoDate": "2026-09-30T16:43:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ORG-44_Blog_Header_EDUCAUSE.max-600x600.format-webp.webp\">At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+      "contentSnippet": "At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌基金会（Google.org）在EDUCAUSE年会上宣布，将支持高等教育领域的三大倡议，以扩大符合伦理规范的AI能力建设，推动机构规划现代化。此举旨在提升高校在人工智能领域的准备水平，并促进相关技术的应用与发展。",
+        "en": "Google.org announced support for three higher education initiatives at the EDUCAUSE annual conference. The initiatives aim to scale ethical AI readiness and modernize institutional planning in higher education."
+      },
+      "summary": "谷歌基金会（Google.org）在EDUCAUSE年会上宣布，将支持高等教育领域的三大倡议，以扩大符合伦理规范的AI能力建设，推动机构规划现代化。此举旨在提升高校在人工智能领域的准备水平，并促进相关技术的应用与发展。"
+    },
+    {
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "link": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skills_thumbnail.max-600x600.format-webp.webp\">Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+      "contentSnippet": "Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Deven Tokuno"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini技能可帮助用户轻松自动化重复任务，通过可重用的自定义指令实现，将逐步取代宝石。",
+        "en": "Gemini introduces \"skills,\" reusable custom instructions to automate repetitive tasks, replacing \"gems.\" This feature simplifies task automation, enhancing efficiency. Skills are designed to streamline workflows by providing standardized, repeatable actions for common tasks."
+      },
+      "summary": "Gemini技能可帮助用户轻松自动化重复任务，通过可重用的自定义指令实现，将逐步取代宝石。"
+    },
+    {
+      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+      "link": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/International_Translate_Day_Blo.max-600x600.format-webp.webp\">On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+      "contentSnippet": "On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "国际翻译日之际，谷歌翻译团队分享了三位语言专家的故事。他们致力于为翻译增添文化内涵，以促进全球沟通。通过他们的努力，谷歌翻译在跨文化交流中发挥着重要作用。",
+        "en": "International Translation Day highlights Google Translate's linguistic experts who enhance the service with cultural nuance. These specialists ensure the tool effectively connects people worldwide by adapting language and context. Their work underscores the importance of translation in global communication."
+      },
+      "summary": "国际翻译日之际，谷歌翻译团队分享了三位语言专家的故事。他们致力于为翻译增添文化内涵，以促进全球沟通。通过他们的努力，谷歌翻译在跨文化交流中发挥着重要作用。"
+    },
+    {
+      "title": "Waze rolls out new features to support Breast Cancer Awareness Month.",
+      "link": "https://blog.google/waze/breast-cancer-awareness-month/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp\">This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+      "contentSnippet": "This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+      "creator": "",
+      "summaries": {
+        "zh": "十月份，Waze推出新功能，支持乳腺癌防治月。该功能将帮助驾驶员查找筛查诊所、评估健康风险，并安排常规检查。",
+        "en": "Waze is introducing new features this October to support Breast Cancer Awareness Month. The updates enable drivers to locate screening clinics, evaluate their health risks, and schedule routine checkups. The platform aims to increase accessibility to breast cancer detection resources during the awareness campaign."
+      },
+      "summary": "十月份，Waze推出新功能，支持乳腺癌防治月。该功能将帮助驾驶员查找筛查诊所、评估健康风险，并安排常规检查。"
+    },
+    {
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+      "pubDate": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp\">Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "contentSnippet": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind推出SynthID Bio技术，将水印技术应用于合成生物学，用于标记AI设计的蛋白质，同时保持其生物功能。详细研究报告请参阅原文。",
+        "en": "Google DeepMind introduces SynthID Bio, a new technology that applies watermarking to synthetic biology. The system embeds unique digital markers into AI-designed proteins, enabling their identification while preserving biological functionality. The innovation aims to enhance transparency and traceability in synthetic biology research. For further details, refer to the full research report."
+      },
+      "summary": "谷歌DeepMind推出SynthID Bio技术，将水印技术应用于合成生物学，用于标记AI设计的蛋白质，同时保持其生物功能。详细研究报告请参阅原文。"
+    },
+    {
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
+      "pubDate": "Tue, 29 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-29T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp\">Henry Cavill is partnering with Googlebook to build a video game, coming this November.",
+      "contentSnippet": "Henry Cavill is partnering with Googlebook to build a video game, coming this November.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Menaka Shroff"
+        ],
+        "title": [
+          "Vice President Marketing, Google – Global Android Ecosystem"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "亨利·卡维尔将与谷歌图书合作开发一款视频游戏，将于今年11月推出。",
+        "en": "Henry Cavill is collaborating with Googlebook to develop a video game set to release in November. The partnership aims to create an engaging gaming experience."
+      },
+      "summary": "亨利·卡维尔将与谷歌图书合作开发一款视频游戏，将于今年11月推出。"
+    },
+    {
+      "title": "Experience two artists’ perspectives on philosophy, science, and AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
+      "pubDate": "Tue, 29 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Titl.max-600x600.format-webp.webp\">Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab.",
+      "contentSnippet": "Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Freya Salway"
+        ],
+        "title": [
+          "Head of the Lab, Google Arts & Culture"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "艺术家徐刘和刘恩祖与LAS艺术基金会及谷歌艺术与文化实验室合作，利用谷歌AI创作新作品，探讨哲学、科学和AI的议题。",
+        "en": "Artists Xin Liu and Eunjo Lee collaborated with the LAS Art Foundation and Google Arts & Culture Lab to create new artworks using Google AI. The project explored the intersection of art, philosophy, science, and AI."
+      },
+      "summary": "艺术家徐刘和刘恩祖与LAS艺术基金会及谷歌艺术与文化实验室合作，利用谷歌AI创作新作品，探讨哲学、科学和AI的议题。"
+    },
+    {
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "pubDate": "Tue, 29 Sep 2026 14:15:00 +0000",
+      "isoDate": "2026-09-29T14:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G_gray_hero.max-600x600.format-webp_n4n8cbz.webp\">Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "contentSnippet": "Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jim Kelly"
+        ],
+        "title": [
+          "Vice President of Federal"
+        ],
+        "department": [
+          "Google Public Sector"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌成为美国国务院技术合作伙伴，通过其Gemini人工智能技术，助力美国联邦政府服务更快触达1亿用户。此举旨在提升公共服务的现代化水平，优化民众获取政府信息的效率。",
+        "en": "Google has partnered with America.gov to utilize its Gemini AI to assist 100 million people in accessing federal services more quickly. This collaboration aims to modernize public access to government resources."
+      },
+      "summary": "谷歌成为美国国务院技术合作伙伴，通过其Gemini人工智能技术，助力美国联邦政府服务更快触达1亿用户。此举旨在提升公共服务的现代化水平，优化民众获取政府信息的效率。"
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "contentSnippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "creator": "",
+      "summaries": {
+        "zh": "《未来愿景XPRIZE》获奖预告片《天赐》发布。该预告片展示了获奖作品，内容未详细说明。",
+        "en": "The winning trailer from the Future Vision XPRIZE is \"The Gifted.\" The announcement highlights the trailer as the selected winner, showcasing its creative and impactful presentation. The content focuses on the trailer's visual and storytelling elements, which were likely evaluated based on innovation and engagement. The XPRIZE initiative aims to recognize excellence in the field, and \"The Gifted\" trailer exemplifies this standard. The summary emphasizes the trailer's achievement and its alignment with the competition's goals."
+      },
+      "summary": "《未来愿景XPRIZE》获奖预告片《天赐》发布。该预告片展示了获奖作品，内容未详细说明。"
+    },
+    {
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "pubDate": "Mon, 28 Sep 2026 16:30:00 +0000",
+      "isoDate": "2026-09-28T16:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp\">Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+      "contentSnippet": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amit Sood"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Google Arts & Culture"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌艺术与文化平台迎来15周年，其应用程序进行升级。新版应用采用视觉优先的对话式搜索，优化了主页布局，增加了AI实验功能，并推出27个新城市指南，旨在提升用户探索艺术和文化的体验。",
+        "en": "Google Arts & Culture celebrated its 15th anniversary by updating its app with a visual-first conversation search, a redesigned home feed, new AI experiments, and 27 additional city guides. The enhancements aim to improve user engagement and exploration of art and culture."
+      },
+      "summary": "谷歌艺术与文化平台迎来15周年，其应用程序进行升级。新版应用采用视觉优先的对话式搜索，优化了主页布局，增加了AI实验功能，并推出27个新城市指南，旨在提升用户探索艺术和文化的体验。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:04:50.586Z"
+}

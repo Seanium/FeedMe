@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 153328<br>Forks: 8221",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 153328\nForks: 8221",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "标题：DietrichGebert/ponytail\n\n简介：该代码库使AI代理表现得像最懒散的老开发人员一样，强调“最好的代码就是不用写的代码”。使用JavaScript编写，目前有148,986个星标和8,012次分叉。",
+        "en": "The repository \"DietrichGebert/ponytail\" creates an AI agent that mimics a lazy senior developer's thought process. Its philosophy emphasizes that the best code is the code you avoid writing. The project is written in JavaScript and has gained significant popularity, with 148,986 stars and 8,012 forks on its platform."
+      },
+      "summary": "标题：DietrichGebert/ponytail\n\n简介：该代码库使AI代理表现得像最懒散的老开发人员一样，强调“最好的代码就是不用写的代码”。使用JavaScript编写，目前有148,986个星标和8,012次分叉。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e4f22a78b41bf662155d624c8c6c8ee480e219818f3b9abe208da902b0cb8675/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 75252<br>Forks: 4515",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 75252\nForks: 4515",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "标题为“pbakaus/impeccable”的内容介绍了一种设计语言，旨在提升AI在设计方面的表现。该工具使用JavaScript编写，拥有73321个星标和4426个分支。该设计语言能够优化AI的设计能力，使其更高效、精准。",
+        "en": "The article discusses \"pbakaus/impeccable,\" a design language for AI that enhances AI harness design. It is written in JavaScript and has garnered significant popularity, with 73,321 stars and 4,426 forks on its repository. The tool aims to improve AI design capabilities through its specific language framework."
+      },
+      "summary": "标题为“pbakaus/impeccable”的内容介绍了一种设计语言，旨在提升AI在设计方面的表现。该工具使用JavaScript编写，拥有73321个星标和4426个分支。该设计语言能够优化AI的设计能力，使其更高效、精准。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8605a658e42932f5f57f7bfea984f8f26a06f747a5a05f6e9e2ddcb30688ea1e/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 272204<br>Forks: 40647",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 272204\nForks: 40647",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统优化代理操作性能，涵盖技能、本能、记忆、安全及研究型开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获271781星和40588次分叉。",
+        "en": "The \"affaan-m/ECC\" repository is a performance optimization system for an agent harness. It focuses on enhancing skills, instincts, memory, security, and research-driven development for AI models like Claude Code, Codex, Opencode, Cursor, and future versions. The system is built using JavaScript and has garnered significant popularity, with 271,781 stars and 40,588 forks on its platform."
+      },
+      "summary": "该系统优化代理操作性能，涵盖技能、本能、记忆、安全及研究型开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获271781星和40588次分叉。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/51e8bedb6f6aa2bbb8b6037d009cdae58d79b6f17401e7060bbb45a5f436a47b/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16798<br>Forks: 813",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16798\nForks: 813",
+      "creator": "Effect-TS",
+      "summaries": {
+        "zh": "标题：Effect-TS/effect  \n简介：Effect-TS 是一款基于 TypeScript 的库，用于构建生产级应用程序。该库支持 TypeScript 语言，目前拥有 16505 个星标和 798 个分支。",
+        "en": "The article \"Effect-TS/effect\" focuses on building production-ready applications using TypeScript. It is a popular project with 16,505 stars and 798 forks on platforms like GitHub. The content emphasizes leveraging TypeScript for robust and scalable application development."
+      },
+      "summary": "标题：Effect-TS/effect  \n简介：Effect-TS 是一款基于 TypeScript 的库，用于构建生产级应用程序。该库支持 TypeScript 语言，目前拥有 16505 个星标和 798 个分支。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14c070cc224ac9c2125e2e3e15cfb08f7c251472a5dfe98821ef4520c7b466ea/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 109515<br>Forks: 6334",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 109515\nForks: 6334",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "标题：JuliusBrussee/caveman  \n简介：该项目探讨为何少量代币也能实现效果，提出一种通过模仿原始人语言进行编码代理的病毒式技巧，可减少65%的代币使用。项目在Go语言社区获得约109万星标和6315次分叉，技术方案简洁高效。",
+        "en": "The article discusses using a \"caveman\" language approach to reduce token usage by 65% in coding agents. It highlights the effectiveness of simple, repetitive language (few tokens) for achieving results, suggesting a viral skill combined with proxy coding methods. The project, titled \"JuliusBrussee/caveman,\" has 109,028 GoStars and 6,315 forks."
+      },
+      "summary": "标题：JuliusBrussee/caveman  \n简介：该项目探讨为何少量代币也能实现效果，提出一种通过模仿原始人语言进行编码代理的病毒式技巧，可减少65%的代币使用。项目在Go语言社区获得约109万星标和6315次分叉，技术方案简洁高效。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23709a67c3eacfe69c455a5a3e08699fe39e3994e082fd6486ca62dc9dec49cf/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89752<br>Forks: 7895",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89752\nForks: 7895",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong（Agent-Reach）是一款命令行工具，可赋予AI代理浏览互联网的能力。它支持阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该工具使用Python开发，获得88450星标和7789次分叉。",
+        "en": "Panniantong/Agent-Reach is a Python-based CLI tool that enables AI agents to access and process content from multiple online platforms, including Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. It reads and searches data across these platforms without requiring API fees. The tool has 88,450 stars and 7,789 forks on GitHub."
+      },
+      "summary": "Panniantong（Agent-Reach）是一款命令行工具，可赋予AI代理浏览互联网的能力。它支持阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该工具使用Python开发，获得88450星标和7789次分叉。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8d0908d884c88f50f8acb40f7e3f371a555cabf84b2b2330290c091f30ff637b/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 24660<br>Forks: 6436",
+      "contentSnippet": "Language: TypeScript\nStars: 24660\nForks: 6436",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "标题：pingdotgg/t3code  \n简介：该 TypeScript 项目在 GitHub 上拥有 24,431 个星标和 6,385 个分支，是一个受欢迎的开源项目。",
+        "en": "The article \"pingdotgg/t3code\" is about a TypeScript repository. It has 24,431 stars and 6,385 forks, indicating significant popularity and community engagement. The content focuses on the repository's metrics, providing no additional details."
+      },
+      "summary": "标题：pingdotgg/t3code  \n简介：该 TypeScript 项目在 GitHub 上拥有 24,431 个星标和 6,385 个分支，是一个受欢迎的开源项目。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 95550<br>Forks: 8458",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 95550\nForks: 8458",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该工具为每个代理提供跨会话的持久上下文管理。它记录代理会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等。在GitHub上拥有95262个星标和8440个分支。",
+        "en": "The project \"thedotmack/claude-mem\" enables persistent context across sessions for various AI agents. It records agent activities, compresses data using AI, and injects relevant context into future sessions. Compatible with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, and OpenCode. Has 95,262 stars and 8,440 forks."
+      },
+      "summary": "该工具为每个代理提供跨会话的持久上下文管理。它记录代理会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等。在GitHub上拥有95262个星标和8440个分支。"
+    },
+    {
+      "title": "cloudflare/cloudflare-os",
+      "link": "https://github.com/cloudflare/cloudflare-os",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7bb738279e90e64092d35b74dddd27f25dee33a893120240afb7cf35adc12b40/cloudflare/cloudflare-os\" referrerpolicy=\"no-referrer\"><br>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.<br><br>Language: TypeScript<br>Stars: 10549<br>Forks: 1283",
+      "contentSnippet": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.\nLanguage: TypeScript\nStars: 10549\nForks: 1283",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "基于 Cloudflare Workers 的代理工作空间，用于创建文档、构建应用程序和运行具有公司上下文和系统的代理。使用 TypeScript 开发，获得 10396 个星标和 1278 次分叉。",
+        "en": "The project \"cloudflare/cloudflare-os\" is an agent workspace built on Cloudflare Workers. It enables users to create documents, build applications, and run agents using their company's context and systems. The platform is developed using TypeScript and has gained significant popularity, boasting 10,396 stars and 1,278 forks on its repository."
+      },
+      "summary": "基于 Cloudflare Workers 的代理工作空间，用于创建文档、构建应用程序和运行具有公司上下文和系统的代理。使用 TypeScript 开发，获得 10396 个星标和 1278 次分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/74eb0f318abe6e984cf0c4f68ff9d9507bfa18a47792c06762e68f9d2eb8dcb0/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 100821<br>Forks: 10593",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 100821\nForks: 10593",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "《addyosmani/agent-skills》项目提供用于AI编码代理的成熟级工程技能，使用JavaScript开发。该项目在GitHub上获得超过10万星标和1万次分叉，展示了其广泛的应用和影响力。",
+        "en": "The repository \"addyosmani/agent-skills\" provides production-ready engineering skills for AI coding agents, primarily using JavaScript. It has 100,675 stars and 10,580 forks on its hosting platform. The content focuses on developing robust and efficient AI agents for coding tasks."
+      },
+      "summary": "《addyosmani/agent-skills》项目提供用于AI编码代理的成熟级工程技能，使用JavaScript开发。该项目在GitHub上获得超过10万星标和1万次分叉，展示了其广泛的应用和影响力。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32d59ac3f865aa9e3fbace5f36f984f81112e546e0a5ff286e82d03e920a1510/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 294898<br>Forks: 26354",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 294898\nForks: 26354",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该框架是一种自主技能框架和软件开发方法，适用于实际工作。语言：Shell。在GitHub上，该项目的星级评价为293,701，分支数为26,272。",
+        "en": "The article discusses an agentic skills framework and software development methodology designed to enhance productivity. It is supported by a community with 293,701 ShellStars and 26,272 Forks, indicating significant adoption and interest. The framework aims to streamline development processes while promoting efficiency and adaptability."
+      },
+      "summary": "该框架是一种自主技能框架和软件开发方法，适用于实际工作。语言：Shell。在GitHub上，该项目的星级评价为293,701，分支数为26,272。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/19e41461e3280d845f4458167fb1ba6b2ed941d464c46775dc47f2355d417fba/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 275336<br>Forks: 23104",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 275336\nForks: 23104",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "标题：mattpocock/skills  \n简介：该资源包含“真实工程师所需技能”，内容源自作者.mattpocock目录，使用Shell语言编写。该资源在GitHub上获得272,856个星标和22,953次分叉，备受关注。",
+        "en": "**Summary:**  \nThe article \"mattpocock/skills\" presents \"Skills for Real Engineers\" sourced from a .agents directory. It is written in Shell and has garnered 272,856 stars and 22,953 forks on the platform. The content focuses on practical engineering skills, as indicated by the title and technical context."
+      },
+      "summary": "标题：mattpocock/skills  \n简介：该资源包含“真实工程师所需技能”，内容源自作者.mattpocock目录，使用Shell语言编写。该资源在GitHub上获得272,856个星标和22,953次分叉，备受关注。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f77d884e80011283241e2321fddc0191b693c63d9cf753c2ac5621843f2088a5/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 25237<br>Forks: 1807",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 25237\nForks: 1807",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "\"mksglu/context-mode\" 是一个用于 AI 编码代理的上下文窗口优化工具。该工具通过沙盒工具输出减少 98% 的资源消耗，持久化会话内存，并通过 MCP 和钩子强制在 17 个平台上进行路由。使用 TypeScript 开发，目前有 24410 个星标和 1767 个分支。",
+        "en": "The \"mksglu/context-mode\" project optimizes context windows for AI coding agents. It features sandboxed tool output reduction (98%), persistent session memory, and enforces routing across 17 platforms using MCP and hooks. Developed in TypeScript, it has 24,410 stars and 1,767 forks."
+      },
+      "summary": "\"mksglu/context-mode\" 是一个用于 AI 编码代理的上下文窗口优化工具。该工具通过沙盒工具输出减少 98% 的资源消耗，持久化会话内存，并通过 MCP 和钩子强制在 17 个平台上进行路由。使用 TypeScript 开发，目前有 24410 个星标和 1767 个分支。"
+    },
+    {
+      "title": "earendil-works/pi",
+      "link": "https://github.com/earendil-works/pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fcb6bc4847c7c1e0f66523b66f590df714de9590c9b38dc09dc7767590c16fc8/earendil-works/pi\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI<br><br>Language: TypeScript<br>Stars: 112133<br>Forks: 14228",
+      "contentSnippet": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI\nLanguage: TypeScript\nStars: 112133\nForks: 14228",
+      "creator": "earendil-works",
+      "summaries": {
+        "zh": "该工具包是一个AI代理工具集，提供统一的LLM API、代理循环和TUI界面，并包含编程代理CLI。支持TypeScript语言。在GitHub上拥有11万1千9百56颗星和1万4千2百2个分支。",
+        "en": "The article introduces an AI agent toolkit featuring a unified LLM API, agent loop, and TUI. It includes a coding agent and is written in TypeScript. The project has 111,956 stars and 14,202 forks on its repository."
+      },
+      "summary": "该工具包是一个AI代理工具集，提供统一的LLM API、代理循环和TUI界面，并包含编程代理CLI。支持TypeScript语言。在GitHub上拥有11万1千9百56颗星和1万4千2百2个分支。"
+    },
+    {
+      "title": "getsentry/sentry",
+      "link": "https://github.com/getsentry/sentry",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c8e0ca5dd9127483d497a9b02659c58ffe1fa80659b831159c31a5c1ff490145/getsentry/sentry\" referrerpolicy=\"no-referrer\"><br>Developer-first error tracking and performance monitoring<br><br>Language: Python<br>Stars: 45197<br>Forks: 4898",
+      "contentSnippet": "Developer-first error tracking and performance monitoring\nLanguage: Python\nStars: 45197\nForks: 4898",
+      "creator": "getsentry",
+      "summaries": {
+        "zh": "Sentry 是一款面向开发者的错误追踪和性能监控工具，使用 Python 开发。该项目在 GitHub 上拥有 45008 个星标和 4888 个分支。",
+        "en": "Sentry is a developer-first error tracking and performance monitoring tool. It supports Python and offers robust features for tracking and analyzing application errors and performance issues. The project has 45,008 stars and 4,888 forks on its repository, indicating significant community interest and adoption."
+      },
+      "summary": "Sentry 是一款面向开发者的错误追踪和性能监控工具，使用 Python 开发。该项目在 GitHub 上拥有 45008 个星标和 4888 个分支。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ee74a7ef5501a901c173aa9bea1631ae153a0f30eea022b6a63a4f7c3a98f7dd/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 149210<br>Forks: 25351",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 149210\nForks: 25351",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code是一款终端中的智能编码工具，通过自然语言指令理解代码库，执行常规任务、解释复杂代码及管理Git工作流，提升编码效率。基于TypeScript开发，该工具在GitHub上拥有149,044个星标和25,290次分叉。",
+        "en": "Claude Code is an agentic coding tool that operates in the terminal, integrating with codebases to enhance productivity. It automates routine tasks, explains complex code, and manages git workflows using natural language commands. The tool is built in TypeScript and has garnered significant popularity, with 149,044 stars and 25,290 forks on platforms like GitHub."
+      },
+      "summary": "Claude Code是一款终端中的智能编码工具，通过自然语言指令理解代码库，执行常规任务、解释复杂代码及管理Git工作流，提升编码效率。基于TypeScript开发，该工具在GitHub上拥有149,044个星标和25,290次分叉。"
+    },
+    {
+      "title": "jamwithai/production-agentic-rag-course",
+      "link": "https://github.com/jamwithai/production-agentic-rag-course",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b2858797264e874968be2420706d7326eb23231982533e3cba74290414b82800/jamwithai/production-agentic-rag-course\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 9389<br>Forks: 2068",
+      "contentSnippet": "Language: Python\nStars: 9389\nForks: 2068",
+      "creator": "jamwithai",
+      "summaries": {
+        "zh": "该开源项目名为\"jamwithai/production-agentic-rag-course\"，使用Python开发。项目在GitHub上获得9281个星标和2056次分叉，表明其具有较高的社区认可度和活跃度。内容聚焦于生产级智能体和检索增强生成（RAG）技术的课程或教程，但具体细节未在摘要中展开。",
+        "en": "The article \"jamwithai/production-agentic-rag-course\" is a Python-based project focused on production-level agentic RAG (Retrieval-Augmented Generation) systems. It features 9,281 stars and 2,056 forks on platforms like GitHub. The content likely covers implementation techniques, best practices, and tools for developing scalable agentic AI solutions. The project appears popular within the AI community, indicating its relevance and utility for developers working on advanced language models."
+      },
+      "summary": "该开源项目名为\"jamwithai/production-agentic-rag-course\"，使用Python开发。项目在GitHub上获得9281个星标和2056次分叉，表明其具有较高的社区认可度和活跃度。内容聚焦于生产级智能体和检索增强生成（RAG）技术的课程或教程，但具体细节未在摘要中展开。"
+    },
+    {
+      "title": "meituan-longcat/LongCat-Video",
+      "link": "https://github.com/meituan-longcat/LongCat-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/84a64b6a4f36d1742e96cfb831aadf3d7ba7efd560aefd11cb72c45fa1dc4c5d/meituan-longcat/LongCat-Video\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 8720<br>Forks: 1523",
+      "contentSnippet": "Language: Python\nStars: 8720\nForks: 1523",
+      "creator": "meituan-longcat",
+      "summaries": {
+        "zh": "《meituan-longcat/LongCat-Video》是一个使用Python开发的开源项目。该项目在GitHub上拥有8605个星标和1518次分叉，表明其具有一定的影响力和社区认可度。具体功能或内容未详细说明。",
+        "en": "The project \"LongCat-Video\" is a Python-based repository on Meituan with 8,605 stars and 1,518 forks. It appears to be a popular open-source initiative, though the specific details of its functionality or purpose are not provided in the given information."
+      },
+      "summary": "《meituan-longcat/LongCat-Video》是一个使用Python开发的开源项目。该项目在GitHub上拥有8605个星标和1518次分叉，表明其具有一定的影响力和社区认可度。具体功能或内容未详细说明。"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7117a3b85da9063a5c99ceed46cda4c40be15a2875fb2c3929e35a566ece775/OpenCut-app/OpenCut\" referrerpolicy=\"no-referrer\"><br>The open-source CapCut alternative<br><br>Language: TypeScript<br>Stars: 91588<br>Forks: 9055",
+      "contentSnippet": "The open-source CapCut alternative\nLanguage: TypeScript\nStars: 91588\nForks: 9055",
+      "creator": "OpenCut-app",
+      "summaries": {
+        "zh": "OpenCut-app/OpenCut是一个开源的CapCut替代品，使用TypeScript开发。该项目在GitHub上拥有91348个星标和9040个分支。它为用户提供了一个免费且功能丰富的视频编辑工具，可作为CapCut的替代方案。",
+        "en": "OpenCut is an open-source alternative to CapCut, written in TypeScript. It has gained significant popularity, with 91,348 stars and 9,040 forks on its repository. The platform offers similar video editing capabilities as CapCut, catering to users seeking a free and customizable editing solution. Its active community and growing support make it a notable option in the video editing software landscape."
+      },
+      "summary": "OpenCut-app/OpenCut是一个开源的CapCut替代品，使用TypeScript开发。该项目在GitHub上拥有91348个星标和9040个分支。它为用户提供了一个免费且功能丰富的视频编辑工具，可作为CapCut的替代方案。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:06:56.708Z"
+}
