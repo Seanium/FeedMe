@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 67577<br>Forks: 14254",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 67577\nForks: 14254",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "\"morluto/rea\" 是一个使用 TypeScript 开发的逆向工程工具，支持通过智能代理分析应用程序行为，直至原生二进制文件。该工具在 GitHub 上拥有 7507 个星标和 831 次分叉，主要用于逆向工程任务。",
+        "en": "The project \"morluto/rea\" enables reverse engineering of various software using agents, covering app behavior to native binaries. Developed in TypeScript, it has 7,507 stars and 831 forks on its repository."
+      },
+      "summary": "\"morluto/rea\" 是一个使用 TypeScript 开发的逆向工程工具，支持通过智能代理分析应用程序行为，直至原生二进制文件。该工具在 GitHub 上拥有 7507 个星标和 831 次分叉，主要用于逆向工程任务。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c3d86076fe8f16989c44fc3128492d88a86e0ed3fa85f0c14a3078ed75cc0140/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 25832<br>Forks: 2154",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 25832\nForks: 2154",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "该工具名为 boykopovar/AnyPS5，用于将 PS5 可执行文件自动移植到 Linux 和 Windows 系统。使用 C++ 语言开发，获得 4961 次星标和 368 次分叉。",
+        "en": "The tool \"boykopovar/AnyPS5\" automates the process of porting PS5 executables to Linux and Windows. Developed in C++, it has 4,961 stars and 368 forks on its repository. The tool facilitates cross-platform compatibility for PlayStation 5 games."
+      },
+      "summary": "该工具名为 boykopovar/AnyPS5，用于将 PS5 可执行文件自动移植到 Linux 和 Windows 系统。使用 C++ 语言开发，获得 4961 次星标和 368 次分叉。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fb202fc26480a440088c54a39c94be8192b44648e9509d6eb5e89a4cdd187c17/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 13763<br>Forks: 2145",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 13763\nForks: 2145",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性创作引擎，使用Rust语言开发。该引擎在GitHub上拥有6621个星标和870个分支。",
+        "en": "ArtCraft is an intentional crafting engine designed for artists, designers, and filmmakers. Developed in Rust, it offers a specialized toolset for creative professionals. The project has gained significant traction, with 6,621 stars and 870 forks on its repository."
+      },
+      "summary": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性创作引擎，使用Rust语言开发。该引擎在GitHub上拥有6621个星标和870个分支。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3b32be0fafda86eebea41ac66c5111ff6d952a377e554b14f0a88ae14e60d7c2/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 48719<br>Forks: 3074",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 48719\nForks: 3074",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "标题：cathrynlavery/diagram-design\n\n内容：该工具提供针对 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑图表设计，包含 42 种图表类型。支持自包含 HTML + SVG 格式，无阴影，无 Mermaid 瑕疵。目前获得 43741 摘星和 2831 指令。",
+        "en": "The article discusses an editorial diagram design tool for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. It offers 42 diagram types, uses self-contained HTML + SVG, and avoids shadows and Mermaid issues. The tool has 43,741 stars and 2,831 forks on GitHub."
+      },
+      "summary": "标题：cathrynlavery/diagram-design\n\n内容：该工具提供针对 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑图表设计，包含 42 种图表类型。支持自包含 HTML + SVG 格式，无阴影，无 Mermaid 瑕疵。目前获得 43741 摘星和 2831 指令。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/563741027c34eaa85a5c8a06c0228339eaa961ca9f286052ef34706420772c48/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 26194<br>Forks: 1884",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 26194\nForks: 1884",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "mksglu/context-mode是一个用于AI编程代理的上下文窗口优化工具。它通过沙盒工具输出减少98%的干扰，持久化会话内存，并通过MCP和钩子强制在17个平台上进行路由。该工具使用TypeScript编写，获得26194个星标和1884次分叉。",
+        "en": "The \"mksglu/context-mode\" project optimizes context windows for AI coding agents. It features sandboxed tool output reduction (98%), persistent session memory, and enforces routing across 17 platforms using MCP and hooks. Developed in TypeScript, it has 26,194 stars and 1,884 forks."
+      },
+      "summary": "mksglu/context-mode是一个用于AI编程代理的上下文窗口优化工具。它通过沙盒工具输出减少98%的干扰，持久化会话内存，并通过MCP和钩子强制在17个平台上进行路由。该工具使用TypeScript编写，获得26194个星标和1884次分叉。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8bd7e429e89a356282420442d31d7e43eef02be75dd7da1da14ad97998b1106/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 284108<br>Forks: 23790",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 284108\nForks: 23790",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "文章标题为“mattpocock/skills”，内容介绍这是一个关于“真实工程师所需技能”的Shell脚本目录，来自作者的个人仓库。该目录语言为Shell，拥有277,699个星标和23,262个分支。",
+        "en": "The article \"mattpocock/skills\" focuses on essential engineering skills, sourced from the author's `.agents` directory. It is a Shell-based guide with 277,699 stars and 23,262 forks, indicating its popularity and utility in the engineering community. The content likely provides practical, real-world skills for engineers."
+      },
+      "summary": "文章标题为“mattpocock/skills”，内容介绍这是一个关于“真实工程师所需技能”的Shell脚本目录，来自作者的个人仓库。该目录语言为Shell，拥有277,699个星标和23,262个分支。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179401<br>Forks: 33554",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179401\nForks: 33554",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "Flutter是一款基于Dart语言的跨平台移动应用开发框架，可快速构建美观的移动和桌面应用。该框架拥有179,401个星标和33,554个分支，因其高效和易用性受到开发者青睐。",
+        "en": "Flutter is a framework for building cross-platform mobile and web applications using the Dart programming language. It enables developers to create visually appealing apps quickly and efficiently. The framework has gained significant popularity, with 179,401 stars and 33,554 forks on its repository. Flutter's ease of use and performance make it a preferred choice for developers aiming to deploy apps on multiple platforms."
+      },
+      "summary": "Flutter是一款基于Dart语言的跨平台移动应用开发框架，可快速构建美观的移动和桌面应用。该框架拥有179,401个星标和33,554个分支，因其高效和易用性受到开发者青睐。"
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1fd937267204c12bd7967db4f84baf37f2c58e2b1429dffcd534ad6b24ff7701/tensorflow/tensorflow\" referrerpolicy=\"no-referrer\"><br>An Open Source Machine Learning Framework for Everyone<br><br>Language: C++<br>Stars: 200669<br>Forks: 78918",
+      "contentSnippet": "An Open Source Machine Learning Framework for Everyone\nLanguage: C++\nStars: 200669\nForks: 78918",
+      "creator": "tensorflow",
+      "summaries": {
+        "zh": "TensorFlow是一个开源的机器学习框架，采用C++语言编写。该框架广受欢迎，拥有200,669个星标和78,918个分支。",
+        "en": "TensorFlow is an open-source machine learning framework written in C++. It is designed for broad use and has 200,669 stars and 78,918 forks on its repository."
+      },
+      "summary": "TensorFlow是一个开源的机器学习框架，采用C++语言编写。该框架广受欢迎，拥有200,669个星标和78,918个分支。"
+    },
+    {
+      "title": "hugohe3/ppt-master",
+      "link": "https://github.com/hugohe3/ppt-master",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b06f0407002eb63cb9eb5664e00fc375f4438b051433965790070ff51fd0feab/hugohe3/ppt-master\" referrerpolicy=\"no-referrer\"><br>AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He<br><br>Language: Python<br>Stars: 59251<br>Forks: 4669",
+      "contentSnippet": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\nLanguage: Python\nStars: 59251\nForks: 4669",
+      "creator": "hugohe3",
+      "summaries": {
+        "zh": "标题：hugohe3/ppt-master\n\n简介：该工具利用AI将文档或主题转换为真实的PowerPoint演示文稿，支持本土化形状、过渡和动画，自动生成数据图表与表格，并可将演讲者笔记转为音频旁白。同时兼容自定义.pptx模板。由Hugo He开发，使用Python语言，GitHub上获5.9万星和4669次分叉。",
+        "en": "The \"hugohe3/ppt-master\" tool uses AI to convert documents or topics into native PowerPoint decks. It includes features like native shapes, transitions, animations, data-driven charts, audio narration from speaker notes, and support for custom .pptx templates. The tool is built in Python and has 59,251 stars and 4,669 forks on its repository."
+      },
+      "summary": "标题：hugohe3/ppt-master\n\n简介：该工具利用AI将文档或主题转换为真实的PowerPoint演示文稿，支持本土化形状、过渡和动画，自动生成数据图表与表格，并可将演讲者笔记转为音频旁白。同时兼容自定义.pptx模板。由Hugo He开发，使用Python语言，GitHub上获5.9万星和4669次分叉。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4e40d21b5e138abf83a29926b8ca5fd55051e43a102c277be529e37422bebd5c/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 104089<br>Forks: 31917",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 104089\nForks: 31917",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "标题：pytorch/pytorch  \n简介：PyTorch 是一款基于 Python 的张量库，支持动态神经网络，具有强大的 GPU 加速功能。该库在 GitHub 上拥有超过 104 万颗星和 3.2 万个分支，是深度学习领域广泛使用的工具之一。",
+        "en": "PyTorch is a Python library for tensors and dynamic neural networks, offering strong GPU acceleration. It is widely used for machine learning and deep learning tasks. The library has 104,089 stars and 31,917 forks on its GitHub repository."
+      },
+      "summary": "标题：pytorch/pytorch  \n简介：PyTorch 是一款基于 Python 的张量库，支持动态神经网络，具有强大的 GPU 加速功能。该库在 GitHub 上拥有超过 104 万颗星和 3.2 万个分支，是深度学习领域广泛使用的工具之一。"
+    },
+    {
+      "title": "huggingface/transformers",
+      "link": "https://github.com/huggingface/transformers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e\" referrerpolicy=\"no-referrer\"><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <br><br>Language: Python<br>Stars: 167133<br>Forks: 34796",
+      "contentSnippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. \nLanguage: Python\nStars: 167133\nForks: 34796",
+      "creator": "huggingface",
+      "summaries": {
+        "zh": "Transformers 是由 Hugging Face 开发的模型定义框架，支持文本、视觉、音频和多模态机器学习模型，适用于推理和训练。该框架使用 Python 编写，拥有 167133 个星标和 34796 个分支。",
+        "en": "**Summary:**  \nThe 🤗 Transformers framework is a Python-based tool for defining state-of-the-art machine learning models in text, vision, audio, and multimodal domains. It supports both inference and training. The repository has 167,133 stars and 34,796 forks."
+      },
+      "summary": "Transformers 是由 Hugging Face 开发的模型定义框架，支持文本、视觉、音频和多模态机器学习模型，适用于推理和训练。该框架使用 Python 编写，拥有 167133 个星标和 34796 个分支。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/80dd6647bb7f7ec94e4f344f195084b820fe7cd76018a8104ef4dd85e58499af/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 28699<br>Forks: 3270",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 28699\nForks: 3270",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "开源仓库anthropics/knowledge-work-plugins，主要为知识工作者设计，适用于Claude Cowork，使用Python开发。该插件库包含27340个星标和3184个分支。",
+        "en": "The open-source repository \"anthropics/knowledge-work-plugins\" offers plugins designed for knowledge workers, compatible with Claude Cowork. The tools are primarily built in Python. The project has garnered 27,340 stars and 3,184 forks on its platform."
+      },
+      "summary": "开源仓库anthropics/knowledge-work-plugins，主要为知识工作者设计，适用于Claude Cowork，使用Python开发。该插件库包含27340个星标和3184个分支。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/07d86b580a8b43b177316b918116395b0ab37db931e88a22db43d73aad33cc6a/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 218073<br>Forks: 21973",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 218073\nForks: 21973",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "该文件名为\"multica-ai/andrej-karpathy-skills\"，包含改进Claude代码行为的CLAUDE.md文件，源自Andrei Karpathy对大型语言模型（LLM）编码陷阱的观察。该文件获得218,073个星标和21,973次分叉。",
+        "en": "The article介绍 a CLAUDE.md file designed to enhance Claude Code's performance, based on Andrej Karpathy's insights into LLM coding challenges. The file is supported by 218,073 stars and 21,973 forks on its repository."
+      },
+      "summary": "该文件名为\"multica-ai/andrej-karpathy-skills\"，包含改进Claude代码行为的CLAUDE.md文件，源自Andrei Karpathy对大型语言模型（LLM）编码陷阱的观察。该文件获得218,073个星标和21,973次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:37:19.724Z"
+}

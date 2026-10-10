@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-09T07:00:00.000Z",
+      "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "contentSnippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "creator": "",
+      "summaries": {
+        "zh": "Sophos通过使用OpenAI的Daybreak技术，将网络安全威胁调查时间缩短了96%，并将MDR案件自动化了52%。该技术保留了人工监督，提升了工作效率。",
+        "en": "Sophos has reduced cyber-threat investigation time by 96% using OpenAI's Daybreak. The AI tool automates 52% of Managed Detection and Response (MDR) cases while maintaining human oversight. This significantly speeds up threat analysis and response processes."
+      },
+      "summary": "Sophos通过使用OpenAI的Daybreak技术，将网络安全威胁调查时间缩短了96%，并将MDR案件自动化了52%。该技术保留了人工监督，提升了工作效率。"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-09T07:00:00.000Z",
+      "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "contentSnippet": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "creator": "",
+      "summaries": {
+        "zh": "Asana通过在Codex中使用GPT-6 Astra，将其浏览器代理的成本降低了76倍，速度提升了5倍。这一改进使Asana能够为客户提供更强大的模型。",
+        "en": "Asana reduced its browser agent costs by 76x and improved its speed by 5x during tests using GPT-6.1 Astra in Codex. The company achieved this to provide customers with more capable models."
+      },
+      "summary": "Asana通过在Codex中使用GPT-6 Astra，将其浏览器代理的成本降低了76倍，速度提升了5倍。这一改进使Asana能够为客户提供更强大的模型。"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-08T16:00:00.000Z",
+      "content": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "contentSnippet": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "creator": "",
+      "summaries": {
+        "zh": "甲骨文公司通过ChatGPT Work和Codex，将招聘、工程和运营等领域的专业知识转化为快速、可重复的工作流程，将数天的工作时间缩短至几分钟。",
+        "en": "Oracle leverages ChatGPT Work and Codex to transform specialist knowledge into efficient, repeatable workflows across recruiting, engineering, and operations, significantly reducing work time from days to minutes."
+      },
+      "summary": "甲骨文公司通过ChatGPT Work和Codex，将招聘、工程和运营等领域的专业知识转化为快速、可重复的工作流程，将数天的工作时间缩短至几分钟。"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "contentSnippet": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "creator": "",
+      "summaries": {
+        "zh": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5等技术，帮助创作者将创意转化为详细图像和电影式视频广告。该平台通过先进的人工智能工具，将大胆的想法转化为具体的营销活动。",
+        "en": "Pollo AI leverages OpenAI's GPT-5.6, GPT-6 Astra, and GPT-Image-2.5 to assist creators in transforming creative concepts into detailed images and cinematic video ads. The platform facilitates the production of visual and video campaign content using advanced AI tools."
+      },
+      "summary": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5等技术，帮助创作者将创意转化为详细图像和电影式视频广告。该平台通过先进的人工智能工具，将大胆的想法转化为具体的营销活动。"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "contentSnippet": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "creator": "",
+      "summaries": {
+        "zh": "LegalOn通过优化资源分配和预算管理，将Codex的每日成本降低了65%，同时保持了开发速度。该公司成功匹配了Astra、Sol和Luna的任务，并采取了战略性的预算控制措施。",
+        "en": "LegalOn reduced Codex's estimated daily costs by 65% while preserving development speed. The company matched Astra, Sol, and Luna to tasks and strategically managed budgets."
+      },
+      "summary": "LegalOn通过优化资源分配和预算管理，将Codex的每日成本降低了65%，同时保持了开发速度。该公司成功匹配了Astra、Sol和Luna的任务，并采取了战略性的预算控制措施。"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "contentSnippet": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI成功打击了两个利用AI技术进行虚假宣传的影响行动。这些行动通过伪装成记者和智库的假身份，传播地缘政治信息。",
+        "en": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. The operations were identified and countered by OpenAI."
+      },
+      "summary": "OpenAI成功打击了两个利用AI技术进行虚假宣传的影响行动。这些行动通过伪装成记者和智库的假身份，传播地缘政治信息。"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-07T12:00:00.000Z",
+      "content": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "contentSnippet": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "creator": "",
+      "summaries": {
+        "zh": "《ChatGPT青少年版》将推出“大学规划”功能，协助学生管理大学申请。同时新增闪卡、测验及青少年AI顾问，旨在帮助青少年学习、规划未来，并参与人工智能的发展。",
+        "en": "The College Planner feature is being added to ChatGPT for Teens to assist students with managing college applications. New flashcards, quizzes, and a teen AI council are also being introduced to support learning and engagement. These tools aim to help teens plan for their future and shape the development of AI."
+      },
+      "summary": "《ChatGPT青少年版》将推出“大学规划”功能，协助学生管理大学申请。同时新增闪卡、测验及青少年AI顾问，旨在帮助青少年学习、规划未来，并参与人工智能的发展。"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-07T07:00:00.000Z",
+      "content": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "contentSnippet": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "creator": "",
+      "summaries": {
+        "zh": "瑞达森酒店集团与埃森哲合作，利用OpenAI技术打造ChatGPT插件，协助旅行者在规划行程时查找、比较和预订酒店。该插件通过智能对话功能，提升酒店发现效率，优化旅行体验。",
+        "en": "Radisson Hotel Group has partnered with Accenture to develop a ChatGPT plugin using OpenAI technology. The plugin assists travelers in discovering, comparing, and booking hotels during trip planning. This collaboration aims to enhance the travel experience by integrating hotel search functionality directly into the popular AI chatbot."
+      },
+      "summary": "瑞达森酒店集团与埃森哲合作，利用OpenAI技术打造ChatGPT插件，协助旅行者在规划行程时查找、比较和预订酒店。该插件通过智能对话功能，提升酒店发现效率，优化旅行体验。"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "contentSnippet": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6已在全球ChatGPT中推出，配备智能界面，提供更快的响应速度，并支持图文交互体验，用户可直接探索和使用。",
+        "en": "GPT-6 is now available globally in ChatGPT, featuring an Intelligent UI. It offers faster responses, integrates visuals, and provides interactive experiences that users can explore and utilize directly."
+      },
+      "summary": "GPT-6已在全球ChatGPT中推出，配备智能界面，提供更快的响应速度，并支持图文交互体验，用户可直接探索和使用。"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-06T12:00:00.000Z",
+      "content": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "contentSnippet": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "creator": "",
+      "summaries": {
+        "zh": "Jump Trading利用OpenAI扩展量化研究。通过整合多数据源与人工审核，其AI工作流程实现规模化。",
+        "en": "Jump Trading leverages OpenAI's ChatGPT to enhance quantitative research. The firm integrates AI into its workflows, combining multiple data sources with human oversight for more efficient analysis. This approach enables scalable and advanced research processes."
+      },
+      "summary": "Jump Trading利用OpenAI扩展量化研究。通过整合多数据源与人工审核，其AI工作流程实现规模化。"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-06T12:00:00.000Z",
+      "content": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "contentSnippet": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布内部前沿模型在数学开放问题上的新成果，并在GitHub上分享Lean证明形式化及研究细节。",
+        "en": "OpenAI has released new findings on mathematical open problems from its internal frontier model. The company has also shared Lean proof formalizations and research details on GitHub. The updates aim to advance mathematical research by providing accessible tools and insights."
+      },
+      "summary": "OpenAI发布内部前沿模型在数学开放问题上的新成果，并在GitHub上分享Lean证明形式化及研究细节。"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "isoDate": "2026-10-06T10:00:00.000Z",
+      "content": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "contentSnippet": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI和Ironclad合作，通过训练和评估AI代理在复杂合同工作流程中的应用，推动专业工作中计算机技术的进步。",
+        "en": "OpenAI and Ironclad are collaborating to train and evaluate AI agents on complex contracting workflows. Their goal is to enhance computer use for professional tasks. The partnership focuses on improving AI performance in specialized business processes. This effort aims to advance the practical application of AI in professional environments. The work involves developing AI systems capable of handling intricate contracting tasks efficiently."
+      },
+      "summary": "OpenAI和Ironclad合作，通过训练和评估AI代理在复杂合同工作流程中的应用，推动专业工作中计算机技术的进步。"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "contentSnippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "creator": "",
+      "summaries": {
+        "zh": "Atlassian与OpenAI扩大合作，将前沿模型与企业知识相结合，助力团队规划、构建和交付工作。此次合作旨在通过技术整合，提升企业知识转化为实际行动的效率，优化团队协作流程。双方将继续深化合作，推动企业知识管理的创新与发展。",
+        "en": "Atlassian and OpenAI are expanding their partnership to integrate frontier models with enterprise knowledge, enabling teams to plan, build, and deliver work more effectively. The collaboration aims to enhance productivity by leveraging advanced AI capabilities."
+      },
+      "summary": "Atlassian与OpenAI扩大合作，将前沿模型与企业知识相结合，助力团队规划、构建和交付工作。此次合作旨在通过技术整合，提升企业知识转化为实际行动的效率，优化团队协作流程。双方将继续深化合作，推动企业知识管理的创新与发展。"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "isoDate": "2026-10-05T15:00:00.000Z",
+      "content": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "contentSnippet": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了OpenAI针对欧盟文本溯源规则的水印技术方案。内容涵盖水印适用范围、检测方法及研究人员的优先访问权。方案旨在确保文本来源可追溯，同时保障研究人员的早期参与。",
+        "en": "OpenAI outlines its approach to EU text watermarking rules. The summary explains where watermarks apply, how detection functions, and emphasizes that access begins with researchers. The content focuses on compliance and technical details without additional commentary."
+      },
+      "summary": "本文介绍了OpenAI针对欧盟文本溯源规则的水印技术方案。内容涵盖水印适用范围、检测方法及研究人员的优先访问权。方案旨在确保文本来源可追溯，同时保障研究人员的早期参与。"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "isoDate": "2026-10-05T10:00:00.000Z",
+      "content": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "contentSnippet": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出ChatGPT新视觉广告格式，并扩展了广告测量工具、归因合作及品牌适用性，以适应用户使用AI的方式。",
+        "en": "OpenAI has introduced a new visual ad format in ChatGPT, expanding measurement tools, attribution partnerships, and brand suitability options for advertisers. These updates aim to enhance advertising effectiveness by aligning with how people use AI. The changes provide more precise tracking and better targeting, while ensuring ads meet brand safety standards. The enhancements are designed to improve ad performance and user experience in the AI-driven advertising space."
+      },
+      "summary": "OpenAI推出ChatGPT新视觉广告格式，并扩展了广告测量工具、归因合作及品牌适用性，以适应用户使用AI的方式。"
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "isoDate": "2026-10-02T16:15:00.000Z",
+      "content": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "contentSnippet": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文为GPT-6系列模型使用指南，旨在帮助初创企业选择GPT-6模型，调整推理力度，优化提示与技能，协调工具，并准备生产工作流程。内容涵盖模型选择、参数调优、提示工程及工具协同等关键信息，为初创企业高效利用GPT-6提供实用方法。",
+        "en": "The article provides a guide for startups on selecting GPT-6 models, adjusting reasoning effort, enhancing prompts and skills, coordinating tools, and preparing workflows for production. It offers insights into optimizing GPT-6 usage for efficient and effective implementation."
+      },
+      "summary": "本文为GPT-6系列模型使用指南，旨在帮助初创企业选择GPT-6模型，调整推理力度，优化提示与技能，协调工具，并准备生产工作流程。内容涵盖模型选择、参数调优、提示工程及工具协同等关键信息，为初创企业高效利用GPT-6提供实用方法。"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-02T00:00:00.000Z",
+      "content": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "contentSnippet": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "creator": "",
+      "summaries": {
+        "zh": "查塔姆金融公司利用OpenAI的Codex和GPT-5.6技术，优化工作流程并构建新系统，将交易验证时间从30分钟缩短至不到4分钟。此举旨在提升资本市场领域的专业能力。",
+        "en": "Chatham Financial leverages OpenAI's Codex and GPT-5.6 to develop technology and streamline workflows, reducing trade validation time from 30 minutes to under 4. The company enhances its capital markets expertise through these AI tools."
+      },
+      "summary": "查塔姆金融公司利用OpenAI的Codex和GPT-5.6技术，优化工作流程并构建新系统，将交易验证时间从30分钟缩短至不到4分钟。此举旨在提升资本市场领域的专业能力。"
+    },
+    {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "isoDate": "2026-10-01T17:00:00.000Z",
+      "content": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "contentSnippet": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《永恒的补充》。内容指出，高级人工智能对突破性想法背后的常规工作至关重要。文章探讨了执行如何塑造下一经济形态及进步速度。",
+        "en": "Advanced AI is crucial for the routine work supporting breakthrough ideas, potentially shaping the future economy and progress pace. The focus is on execution, which may drive the next economic era."
+      },
+      "summary": "文章标题为《永恒的补充》。内容指出，高级人工智能对突破性想法背后的常规工作至关重要。文章探讨了执行如何塑造下一经济形态及进步速度。"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "contentSnippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "creator": "",
+      "summaries": {
+        "zh": "阿尔伯森公司正利用ChatGPT企业版和OpenAI API，通过提升团队效率，简化数百万顾客的购物体验，重新构想零售业。",
+        "en": "Albertsons Cos. is implementing ChatGPT Enterprise and the OpenAI API to enhance team productivity and improve the grocery shopping experience for customers. The technology aims to streamline operations and provide better service."
+      },
+      "summary": "阿尔伯森公司正利用ChatGPT企业版和OpenAI API，通过提升团队效率，简化数百万顾客的购物体验，重新构想零售业。"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "contentSnippet": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《The Den》利用ChatGPT Work节省时间发展业务\n\n文章内容摘要：\nThe Den通过使用ChatGPT Work，将新地点的拨款申请准备时间从3天缩短至2小时，酒类许可证材料准备时间从4天缩短至3小时，每周节省10-15小时，从而提升业务发展效率。",
+        "en": "The Den, a social club, has significantly reduced its administrative workload by using ChatGPT Work. With the AI tool, it now prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days. This efficiency translates to freeing up 10-15 hours weekly, allowing the club to expand as it opens a new location."
+      },
+      "summary": "文章标题：《The Den》利用ChatGPT Work节省时间发展业务\n\n文章内容摘要：\nThe Den通过使用ChatGPT Work，将新地点的拨款申请准备时间从3天缩短至2小时，酒类许可证材料准备时间从4天缩短至3小时，每周节省10-15小时，从而提升业务发展效率。"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "pubDate": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "isoDate": "2026-09-30T10:30:00.000Z",
+      "content": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "contentSnippet": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI成功干扰了一场针对受保护模型推理的协同模型蒸馏活动，并增强了对抗性蒸馏的防御能力。通过这一行动，OpenAI提升了模型安全防护水平，有效阻止了对手非法获取模型核心信息。",
+        "en": "OpenAI disrupted an effort to extract protected model reasoning through coordinated model distillation. The company strengthened defenses against adversarial distillation, enhancing security measures. The incident highlights advancements in protecting AI models from unauthorized data extraction."
+      },
+      "summary": "OpenAI成功干扰了一场针对受保护模型推理的协同模型蒸馏活动，并增强了对抗性蒸馏的防御能力。通过这一行动，OpenAI提升了模型安全防护水平，有效阻止了对手非法获取模型核心信息。"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "pubDate": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-30T10:00:00.000Z",
+      "content": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "contentSnippet": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与美国小企业发展中心合作，旨在扩大面向小企业的AI实操培训及本地支持。同时，发布了一份报告，探讨小团队如何运用AI。此举旨在帮助小企业更好地应用AI技术。",
+        "en": "OpenAI is collaborating with America’s Small Business Development Center (SBDC) to enhance AI training and local support for small businesses. The partnership includes a new report detailing how small teams are effectively utilizing AI. The initiative aims to equip small businesses with practical AI skills and resources."
+      },
+      "summary": "OpenAI与美国小企业发展中心合作，旨在扩大面向小企业的AI实操培训及本地支持。同时，发布了一份报告，探讨小团队如何运用AI。此举旨在帮助小企业更好地应用AI技术。"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-29T10:00:00.000Z",
+      "content": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "contentSnippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "creator": "",
+      "summaries": {
+        "zh": "DevDay 2026回顾：介绍了OpenAI DevDay 2026的20多项发布，涵盖GPT-6 Astra、ChatGPT、Codex、APIs、安全及为开发者推出的新工具。",
+        "en": "DevDay 2026 featured over 20 announcements from OpenAI, covering GPT-6 Astra, ChatGPT, Codex, APIs, security enhancements, and new tools for developers. The event highlighted advancements in AI technology and developer resources."
+      },
+      "summary": "DevDay 2026回顾：介绍了OpenAI DevDay 2026的20多项发布，涵盖GPT-6 Astra、ChatGPT、Codex、APIs、安全及为开发者推出的新工具。"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-29T10:00:00.000Z",
+      "content": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "contentSnippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6.1 Sol 是一款接近 Astra 智能水平的人工智能模型，适用于编程、计算机使用和专业人士工作。其标准 API 输入和输出代币价格仅为 Astra 的五分之一。",
+        "en": "GPT-6.1 Sol is introduced as a near-Astra intelligence model designed for coding, computer use, and professional tasks. It offers significant cost advantages, providing performance comparable to Astra while using only one-fifth of the standard API input and output token prices."
+      },
+      "summary": "GPT-6.1 Sol 是一款接近 Astra 智能水平的人工智能模型，适用于编程、计算机使用和专业人士工作。其标准 API 输入和输出代币价格仅为 Astra 的五分之一。"
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "contentSnippet": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的Dots是一款主动式助手，能在复杂项目和日常任务中持续工作。它帮助用户在任务推进时保持掌控力。",
+        "en": "\"Dots by OpenAI is a proactive assistant designed to support complex projects and everyday tasks. It enables users to stay in control as work progresses, ensuring seamless continuity across various activities. The tool aims to enhance productivity by maintaining context and managing tasks efficiently.\""
+      },
+      "summary": "OpenAI的Dots是一款主动式助手，能在复杂项目和日常任务中持续工作。它帮助用户在任务推进时保持掌控力。"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "contentSnippet": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI就涉及澳大利亚政府网站的事件道歉，并承诺加强安全措施和支持，以提升澳大利亚的网络安全防御能力。",
+        "en": "OpenAI apologizes for incidents targeting Australian government websites and commits to enhancing cybersecurity safeguards. The organization pledges increased support to bolster Australia’s digital defenses, addressing past vulnerabilities and preventing future breaches."
+      },
+      "summary": "OpenAI就涉及澳大利亚政府网站的事件道歉，并承诺加强安全措施和支持，以提升澳大利亚的网络安全防御能力。"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "contentSnippet": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《迈向前沿人工智能训练的安全案例》  \n文章内容摘要：本文提出的早期安全指南涵盖前沿AI训练中的技术保障措施、操作实践以及错位事件调查。指南旨在通过明确的技术和操作手段，确保AI训练过程的安全性和可控性。",
+        "en": "The article outlines early guidelines for safety cases in frontier AI training, focusing on technical safeguards, operational practices, and investigating misalignment incidents. These guidelines aim to ensure safety and alignment in advanced AI systems. The content provides a foundational framework for addressing potential risks associated with frontier AI training."
+      },
+      "summary": "文章标题：《迈向前沿人工智能训练的安全案例》  \n文章内容摘要：本文提出的早期安全指南涵盖前沿AI训练中的技术保障措施、操作实践以及错位事件调查。指南旨在通过明确的技术和操作手段，确保AI训练过程的安全性和可控性。"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "isoDate": "2026-09-28T07:00:00.000Z",
+      "content": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "contentSnippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "creator": "",
+      "summaries": {
+        "zh": "莱文斯特学院扩大了与OpenAI合作的标志性项目，获得500万美元资金支持，并提供高达500万美元的软件积分和工程支持。该项目旨在促进人工智能领域的合作与创新。",
+        "en": "The Lenfest Institute has expanded its AI Collaborative and Fellowship Program with additional support from OpenAI. The partnership includes $5 million in funding, up to $5 million in software credits, and engineering support. This enhancement aims to further develop and advance the program's goals."
+      },
+      "summary": "莱文斯特学院扩大了与OpenAI合作的标志性项目，获得500万美元资金支持，并提供高达500万美元的软件积分和工程支持。该项目旨在促进人工智能领域的合作与创新。"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "contentSnippet": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们正在收集使用Codex进行创新建设的建设者、改造者、研究人员和创作者的真实故事。若想成为Codex Originals项目的下一章参与者，请通过下方链接分享您的故事和项目。",
+        "en": "The article invites builders, tinkerers, researchers, and creators using Codex to share their stories and projects to join the Codex Originals program. It encourages submissions to contribute to the program's next chapter. (50 words)"
+      },
+      "summary": "我们正在收集使用Codex进行创新建设的建设者、改造者、研究人员和创作者的真实故事。若想成为Codex Originals项目的下一章参与者，请通过下方链接分享您的故事和项目。"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "contentSnippet": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "creator": "",
+      "summaries": {
+        "zh": "Basis公司使用GPT-6 Astra完成了一份包含50个标签的税务工作簿，速度是GPT-5.6 Sol的两倍。GPT-6 Astra对用户意图的理解更强，使Basis在现实应用中更有信心。",
+        "en": "Basis achieved a 50-tab tax workbook completion rate twice as fast with GPT-6 Astra compared to GPT-5.6 Sol. GPT-6 Astra's improved understanding of user intent also enhances Basis's confidence in real-world applications."
+      },
+      "summary": "Basis公司使用GPT-6 Astra完成了一份包含50个标签的税务工作簿，速度是GPT-5.6 Sol的两倍。GPT-6 Astra对用户意图的理解更强，使Basis在现实应用中更有信心。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:35:26.192Z"
+}

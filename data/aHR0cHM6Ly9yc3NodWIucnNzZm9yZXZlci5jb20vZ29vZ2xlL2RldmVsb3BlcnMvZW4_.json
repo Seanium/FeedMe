@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "link": "https://developers.googleblog.com/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift enables developers to build real-time, interactive ML experiences, from sophisticated video effects to generative AI, across mobile and desktop platforms.",
+      "contentSnippet": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift enables developers to build real-time, interactive ML experiences, from sophisticated video effects to generative AI, across mobile and desktop platforms.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI Edge推出ML Drift，这是一个高性能的通用GPU计算框架，旨在加速边缘设备的AI和机器学习推理。ML Drift通过抽象硬件和低级API（如OpenGL ES、OpenCL、Metal和WebGPU）的复杂性，使开发者能够为移动和桌面平台构建实时交互式ML体验，涵盖视频特效和生成式AI等领域。",
+        "en": "ML Drift is a high-performance GPU compute framework by Google AI Edge for on-device AI/ML inference. It abstracts hardware complexities like OpenGL ES, OpenCL, Metal, and WebGPU, allowing developers to create real-time ML experiences, such as video effects and generative AI, across mobile and desktop platforms."
+      },
+      "summary": "谷歌AI Edge推出ML Drift，这是一个高性能的通用GPU计算框架，旨在加速边缘设备的AI和机器学习推理。ML Drift通过抽象硬件和低级API（如OpenGL ES、OpenCL、Metal和WebGPU）的复杂性，使开发者能够为移动和桌面平台构建实时交互式ML体验，涵盖视频特效和生成式AI等领域。"
+    },
+    {
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "link": "https://developers.googleblog.com/en/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot.",
+      "contentSnippet": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《外环洞察：一种环境质量代理，诊断您的生产代理》开源了AQuA（环境质量代理），这是一个在Google Cloud中运行于生产代理旁边的参考实现。它通过检查对话记录和失败集群来验证问题，并定位到具体部署的源快照，从而诊断根本原因。",
+        "en": "AQuA (Ambient Quality Agent) is an open-source tool designed to improve AI agents after they reach 80% performance in production. Running alongside the production agent in Google Cloud, AQuA monitors and verifies failure clusters by analyzing conversation transcripts. It pinpoints root causes tied to specific deployed source snapshots, helping diagnose silent quality regressions that return HTTP 200 OK responses."
+      },
+      "summary": "《外环洞察：一种环境质量代理，诊断您的生产代理》开源了AQuA（环境质量代理），这是一个在Google Cloud中运行于生产代理旁边的参考实现。它通过检查对话记录和失败集群来验证问题，并定位到具体部署的源快照，从而诊断根本原因。"
+    },
+    {
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "link": "https://developers.googleblog.com/en/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google’s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "contentSnippet": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google’s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出开发者知识API及MCP服务器，面向公众开放预览。该工具集提供标准化的机器可读方式，使AI助手和智能平台能搜索并获取Firebase、Google Cloud、Android等领域的最新文档。通过官方MCP服务器，开发者可直接连接谷歌文档库，确保AI生成的代码和指导基于权威实时信息。",
+        "en": "Google is launching the Developer Knowledge API and MCP Server in public preview. The toolset offers a canonical, machine-readable method for AI assistants and agentic platforms to access up-to-date documentation across Firebase, Google Cloud, Android, and other services. Developers can use the official MCP server to connect tools directly to Google’s documentation corpus, ensuring AI-generated code and guidance are based on authoritative, real-time context."
+      },
+      "summary": "谷歌推出开发者知识API及MCP服务器，面向公众开放预览。该工具集提供标准化的机器可读方式，使AI助手和智能平台能搜索并获取Firebase、Google Cloud、Android等领域的最新文档。通过官方MCP服务器，开发者可直接连接谷歌文档库，确保AI生成的代码和指导基于权威实时信息。"
+    },
+    {
+      "title": "EmbeddingGemma 2: The Developer Guide",
+      "link": "https://developers.googleblog.com/en/embeddinggemma-2-the-developer-guide/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to selectively load modular modality encoders—ranging from 270M to 740M parameters—to optimize memory usage. Additionally, Matryoshka Representation Learning enables dynamic dimension truncation down to 128d, significantly reducing vector database storage requirements while maintaining high retrieval performance.",
+      "contentSnippet": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to selectively load modular modality encoders—ranging from 270M to 740M parameters—to optimize memory usage. Additionally, Matryoshka Representation Learning enables dynamic dimension truncation down to 128d, significantly reducing vector database storage requirements while maintaining high retrieval performance.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "嵌入式Gemma 2是一款紧凑型开源多模态嵌入模型，可将文本、代码、图像、视频和音频映射到统一的768维空间。开发者可通过sentence-transformers库选择性加载参数量270M至740M的模块化模态编码器，以优化内存使用。此外，Matryoshka表示学习技术支持动态维度截断至128d，在保持高检索性能的同时显著降低向量数据库存储需求。",
+        "en": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a 768-dimensional space. Developers can use the sentence-transformers library to load modular modality encoders (270M–740M parameters) for optimized memory usage. Matryoshka Representation Learning allows dynamic dimension truncation to 128d, reducing vector database storage while maintaining high retrieval performance."
+      },
+      "summary": "嵌入式Gemma 2是一款紧凑型开源多模态嵌入模型，可将文本、代码、图像、视频和音频映射到统一的768维空间。开发者可通过sentence-transformers库选择性加载参数量270M至740M的模块化模态编码器，以优化内存使用。此外，Matryoshka表示学习技术支持动态维度截断至128d，在保持高检索性能的同时显著降低向量数据库存储需求。"
+    },
+    {
+      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "link": "https://developers.googleblog.com/en/google-ai-edge-with-embeddinggemma-2/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grained performance across CPU, GPU, and NPU accelerators with LiteRT. The model enables ultra-low-latency local solutions like search-as-you-type media retrieval, keyframe video moments finding, and zero-shot intent routing.",
+      "contentSnippet": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grained performance across CPU, GPU, and NPU accelerators with LiteRT. The model enables ultra-low-latency local solutions like search-as-you-type media retrieval, keyframe video moments finding, and zero-shot intent routing.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "EmbeddingGemma 2 是一款740M参数的开源多模态模型，可将文本、图像、视频和音频映射到统一向量空间，实现隐私保护、本地设备检索。开发者可通过 MediaPipe Tasks 跨平台集成功能，或使用 LiteRT 优化 CPU、GPU 和 NPU 加速器的细粒度性能。该模型支持超低延迟的本地解决方案，如即时媒体检索、关键帧视频查找和零样本意图路由。",
+        "en": "EmbeddingGemma 2 is a 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can integrate its capabilities cross-platform via MediaPipe Tasks or optimize performance across CPU, GPU, and NPU accelerators using LiteRT. The model supports ultra-low-latency local solutions, including search-as-you-type media retrieval, keyframe video moment finding, and zero-shot intent routing."
+      },
+      "summary": "EmbeddingGemma 2 是一款740M参数的开源多模态模型，可将文本、图像、视频和音频映射到统一向量空间，实现隐私保护、本地设备检索。开发者可通过 MediaPipe Tasks 跨平台集成功能，或使用 LiteRT 优化 CPU、GPU 和 NPU 加速器的细粒度性能。该模型支持超低延迟的本地解决方案，如即时媒体检索、关键帧视频查找和零样本意图路由。"
+    },
+    {
+      "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+      "link": "https://developers.googleblog.com/en/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+      "pubDate": "Tue, 29 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-29T16:00:00.000Z",
+      "content": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks. Translating this algorithmic sparsity into physical hardware speedups on TPUs required optimizing the Splash Attention kernel by bypassing empty memory tiles, restricting exact coordinate masking strictly to boundary tiles, and permuting token memory layouts into temporal-major order for contiguous access. By aligning these sparse masks with actual hardware tile execution, the combined optimizations significantly reduced wasted matrix operations and achieved up to a 1.69x end-to-end inference speedup for 1440p video generation.",
+      "contentSnippet": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks. Translating this algorithmic sparsity into physical hardware speedups on TPUs required optimizing the Splash Attention kernel by bypassing empty memory tiles, restricting exact coordinate masking strictly to boundary tiles, and permuting token memory layouts into temporal-major order for contiguous access. By aligning these sparse masks with actual hardware tile execution, the combined optimizations significantly reduced wasted matrix operations and achieved up to a 1.69x end-to-end inference speedup for 1440p video generation.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "针对高分辨率视频扩散模型中自注意力机制的二次延迟瓶颈，研究人员通过动态路由注意力头至高度结构化的时空稀疏掩码，实现了稀疏视频生成（SVG）。为在TPU上实现硬件加速，需优化Splash注意力核，包括绕过空内存块、严格限制边界块坐标掩码，并将标记内存布局调整为时间主序以实现连续访问。通过将稀疏掩码与硬件执行块对齐，这些优化显著减少了无效矩阵运算，使1440p视频生成的端到端推理速度提升达1.69倍。",
+        "en": "The article discusses addressing the quadratic latency bottleneck in self-attention for high-resolution video diffusion models using Sparse VideoGen (SVG). SVG dynamically routes attention to spatial or temporal sparse masks. To optimize TPUs, developers modified the Splash Attention kernel: bypassing empty memory tiles, restricting coordinate masking to boundary tiles, and reordering token memory into temporal-major order for contiguous access. These sparse mask alignments with hardware execution reduced wasted operations, achieving up to a 1.69x end-to-end inference speedup for 1440p video generation."
+      },
+      "summary": "针对高分辨率视频扩散模型中自注意力机制的二次延迟瓶颈，研究人员通过动态路由注意力头至高度结构化的时空稀疏掩码，实现了稀疏视频生成（SVG）。为在TPU上实现硬件加速，需优化Splash注意力核，包括绕过空内存块、严格限制边界块坐标掩码，并将标记内存布局调整为时间主序以实现连续访问。通过将稀疏掩码与硬件执行块对齐，这些优化显著减少了无效矩阵运算，使1440p视频生成的端到端推理速度提升达1.69倍。"
+    },
+    {
+      "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+      "link": "https://developers.googleblog.com/en/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure.",
+      "contentSnippet": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云API网关现可作为原生远程模型上下文协议（MCP）服务器，无需构建和维护自定义中间件即可将REST API暴露给AI代理。通过在现有的OpenAPI 3.x规范中添加特定注解（如x-google-api-management.mcp），开发者可即时将标准REST操作转换为AI代理可发现的工具。网关自动将传入的MCP JSON-RPC请求转换为REST调用，确保现有认证、配额和日志策略无缝应用于代理流量，无需新建基础设施。",
+        "en": "Google Cloud API Gateway now supports Model Context Protocol (MCP) as a native remote server, enabling developers to expose REST APIs to AI agents without custom middleware. By adding annotations like `x-google-api-management.mcp` to OpenAPI 3.x specs, REST operations become agent-ready tools. The gateway transcodes MCP JSON-RPC requests to REST, applying existing authentication, quotas, and logging policies to agent traffic, eliminating the need for new infrastructure."
+      },
+      "summary": "谷歌云API网关现可作为原生远程模型上下文协议（MCP）服务器，无需构建和维护自定义中间件即可将REST API暴露给AI代理。通过在现有的OpenAPI 3.x规范中添加特定注解（如x-google-api-management.mcp），开发者可即时将标准REST操作转换为AI代理可发现的工具。网关自动将传入的MCP JSON-RPC请求转换为REST调用，确保现有认证、配额和日志策略无缝应用于代理流量，无需新建基础设施。"
+    },
+    {
+      "title": "Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+      "link": "https://developers.googleblog.com/en/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "The MaxText team successfully reproduced Ai2’s Olmo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved up to 57.4% Model Flops Utilization (MFU) and demonstrated robust infrastructure portability by surviving mid-run cluster resizes and cross-generation TPU shifts without requiring recipe alterations. Crucially, the exercise proved the necessity of comprehensive held-out validation by catching a silent data-loader memorization bug that artificially depressed training loss and would have otherwise faked a performance win.",
+      "contentSnippet": "The MaxText team successfully reproduced Ai2’s Olmo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved up to 57.4% Model Flops Utilization (MFU) and demonstrated robust infrastructure portability by surviving mid-run cluster resizes and cross-generation TPU shifts without requiring recipe alterations. Crucially, the exercise proved the necessity of comprehensive held-out validation by catching a silent data-loader memorization bug that artificially depressed training loss and would have otherwise faked a performance win.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "MaxText团队成功在Google Cloud TPUs上使用JAX/XLA从零复现了AI2的OLMo 3 7B语言模型，并在预训练和中期训练阶段所有独立评估中与原始PyTorch-on-GPU参考完全匹配。该实现最高达到57.4%的模型浮点运算利用率（MFU），并展示了强大的基础设施可移植性，在中期运行时集群调整和跨代TPU迁移中无需修改配置即可稳定运行。关键在于，该实验证明了全面独立验证的必要性，通过捕获一个数据加载器记忆错误，避免了虚假的性能提升。",
+        "en": "The MaxText team successfully replicated AI2’s OLMo 3 7B model on Google Cloud TPUs using JAX/XLA, matching PyTorch-on-GPU performance. The implementation reached 57.4% Model Flops Utilization (MFU) and showed resilience to infrastructure changes. A key finding was the importance of held-out validation, which uncovered a data-loader bug that would have misrepresented performance gains. The study highlights effective large-scale training practices on TPUs."
+      },
+      "summary": "MaxText团队成功在Google Cloud TPUs上使用JAX/XLA从零复现了AI2的OLMo 3 7B语言模型，并在预训练和中期训练阶段所有独立评估中与原始PyTorch-on-GPU参考完全匹配。该实现最高达到57.4%的模型浮点运算利用率（MFU），并展示了强大的基础设施可移植性，在中期运行时集群调整和跨代TPU迁移中无需修改配置即可稳定运行。关键在于，该实验证明了全面独立验证的必要性，通过捕获一个数据加载器记忆错误，避免了虚假的性能提升。"
+    },
+    {
+      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+      "link": "https://developers.googleblog.com/en/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+      "pubDate": "Tue, 22 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-22T16:00:00.000Z",
+      "content": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—directly on-device. Furthermore, the SDK provides drop-in support for OpenAI-compatible inference servers like Ollama and vLLM, enabling the seamless creation of privacy-first, autonomous local utilities.",
+      "contentSnippet": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—directly on-device. Furthermore, the SDK provides drop-in support for OpenAI-compatible inference servers like Ollama and vLLM, enabling the seamless creation of privacy-first, autonomous local utilities.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌Antigravity SDK现已支持本地AI模型，如Gemma 4 26B A4B，通过LiteRT执行离线智能工作流。该更新支持混合编排架构，云模型作为轻量级规划器，本地模型在设备上安全处理代码审计等密集型任务。此外，SDK提供对Ollama和vLLM等OpenAI兼容推理服务的一站式支持，实现隐私优先的自主本地工具创建。",
+        "en": "The Google Antigravity SDK now supports local AI models like Gemma 4 26B A4B via LiteRT, enabling offline, agentic workflows. This allows cloud models to act as lightweight planners while local models securely handle token-intensive tasks, such as code auditing, on-device. The SDK also supports OpenAI-compatible inference servers like Ollama and vLLM, facilitating the creation of privacy-first, autonomous local utilities."
+      },
+      "summary": "谷歌Antigravity SDK现已支持本地AI模型，如Gemma 4 26B A4B，通过LiteRT执行离线智能工作流。该更新支持混合编排架构，云模型作为轻量级规划器，本地模型在设备上安全处理代码审计等密集型任务。此外，SDK提供对Ollama和vLLM等OpenAI兼容推理服务的一站式支持，实现隐私优先的自主本地工具创建。"
+    },
+    {
+      "title": "Colab is now part of your Google AI plan",
+      "link": "https://developers.googleblog.com/en/colab-is-now-part-of-your-google-ai-plan/",
+      "pubDate": "Mon, 21 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-21T16:00:00.000Z",
+      "content": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+      "contentSnippet": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI计划现包含Colab。订阅用户可解锁高级Colab计算资源，包括优先加速器、Premium GPU和后台执行，以支持长时间训练。",
+        "en": "Google Colab is now included in the Google AI plan. Subscribers receive premium features, such as priority access to accelerators, Premium GPUs, and background execution for extended training tasks. The update enhances computational capabilities for users."
+      },
+      "summary": "谷歌AI计划现包含Colab。订阅用户可解锁高级Colab计算资源，包括优先加速器、Premium GPU和后台执行，以支持长时间训练。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:36:04.475Z"
+}

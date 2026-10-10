@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "<p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/\">Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.\nThe post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first on Microsoft Research.",
+      "creator": "Zhiyuan He, Yuqing Yang",
+      "summaries": {
+        "zh": "Agent Lightning v1.0是一款轻量级智能体强化学习框架，包含3500行代码。该框架通过连接现有智能体与强化学习训练，简化了智能体改进流程，无需重新构建即可提升性能。它解决了传统复杂框架在工具、上下文和决策管理上的难题，使智能体训练更高效。该框架由微软研究院开发。",
+        "en": "Agent Lightning v1.0 is a lightweight, 3,500-line agentic RL framework designed to simplify training AI agents with reinforcement learning. It connects existing agents to RL training, enabling improvements without rebuilding them. The framework addresses challenges in managing tools, context, and decision-making within complex frameworks. It facilitates agent enhancement using real harnesses. The post was originally published by Microsoft Research."
+      },
+      "summary": "Agent Lightning v1.0是一款轻量级智能体强化学习框架，包含3500行代码。该框架通过连接现有智能体与强化学习训练，简化了智能体改进流程，无需重新构建即可提升性能。它解决了传统复杂框架在工具、上下文和决策管理上的难题，使智能体训练更高效。该框架由微软研究院开发。"
+    },
+    {
+      "title": "What AI gets wrong and what failure teaches us",
+      "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "pubDate": "Tue, 06 Oct 2026 16:19:06 +0000",
+      "isoDate": "2026-10-06T16:19:06.000Z",
+      "content": "<p>Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/\">What AI gets wrong and what failure teaches us</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. \nThe post What AI gets wrong and what failure teaches us appeared first on Microsoft Research.",
+      "creator": "Chad Atalla, Jennifer Neville",
+      "summaries": {
+        "zh": "文章标题：《AI的失误与失败所教我们的》\n\n内容总结：Jennifer Neville本不想进入计算机科学领域，却意外进入该领域。她讲述了职业道路的起伏，并专注于识别AI难以处理复杂性的“意外失误”。文章探讨了AI的局限性以及失败带来的启示。",
+        "en": "Jennifer Neville, who initially disliked computer science, found success in the field by identifying \"surprising failures\" that make AI struggle with complexity. Her work highlights the challenges AI faces in handling intricate tasks, as discussed in the article \"What AI gets wrong and what failure teaches us,\" published by Microsoft Research."
+      },
+      "summary": "文章标题：《AI的失误与失败所教我们的》\n\n内容总结：Jennifer Neville本不想进入计算机科学领域，却意外进入该领域。她讲述了职业道路的起伏，并专注于识别AI难以处理复杂性的“意外失误”。文章探讨了AI的局限性以及失败带来的启示。"
+    },
+    {
+      "title": "Forecasting space weather risks on power grids",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<p>Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/\">Forecasting space weather risks on power grids</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.\nThe post Forecasting space weather risks on power grids appeared first on Microsoft Research.",
+      "creator": "Rohan Kannan",
+      "summaries": {
+        "zh": "极端空间天气事件可能损害地球电力系统，降低GPS精度并影响卫星运行。一种新的机器学习系统能在风暴来临前30-60分钟预测潜在损害地点。该研究由微软研究院发布。",
+        "en": "Extreme space-weather events pose risks to power grids, GPS accuracy, and satellite operations. A new machine learning system developed by Microsoft Research can predict potential damage locations 30-60 minutes before a storm arrives, enhancing early warning capabilities. The system aims to mitigate the impact of space weather on critical infrastructure."
+      },
+      "summary": "极端空间天气事件可能损害地球电力系统，降低GPS精度并影响卫星运行。一种新的机器学习系统能在风暴来临前30-60分钟预测潜在损害地点。该研究由微软研究院发布。"
+    },
+    {
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "pubDate": "Tue, 29 Sep 2026 14:00:02 +0000",
+      "isoDate": "2026-09-29T14:00:02.000Z",
+      "content": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/\">Introducing Quine: An AI research system designed for the complexity of biology</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.\nThe post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research.",
+      "creator": "Nicolo Fusi, Jonathan M. Carlson",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/QUINE-Visual1_Lite_FinalComp_V2_FIG-1.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "Quine是一款专为生物学复杂性设计的AI研究系统。该系统旨在构建多模态生物学世界模型，通过整合不同尺度和模态的生物学见解，帮助科学家在直觉难以覆盖的广阔空间中进行计算搜索，并在实验前优先排序假设。实验结果为研究人员提供重要反馈，以优化未来研究方向。Quine由微软研究院开发，旨在打破生物学研究的孤立状态。",
+        "en": "Quine is an AI research system developed by Microsoft Research to model the complexity of biology. It creates a multimodal world model by integrating insights across different biological scales and modalities. Quine enables scientists to computationally search vast hypothesis spaces and prioritize research before experimentation. Experimental feedback is used to refine future research directions, enhancing the efficiency of biological studies. The system aims to bridge gaps in biological understanding by connecting diverse data types."
+      },
+      "summary": "Quine是一款专为生物学复杂性设计的AI研究系统。该系统旨在构建多模态生物学世界模型，通过整合不同尺度和模态的生物学见解，帮助科学家在直觉难以覆盖的广阔空间中进行计算搜索，并在实验前优先排序假设。实验结果为研究人员提供重要反馈，以优化未来研究方向。Quine由微软研究院开发，旨在打破生物学研究的孤立状态。"
+    },
+    {
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "pubDate": "Mon, 28 Sep 2026 21:00:00 +0000",
+      "isoDate": "2026-09-28T21:00:00.000Z",
+      "content": "<p>Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/\">One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.\nThe post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research.",
+      "creator": "Microsoft Research Team",
+      "summaries": {
+        "zh": "微软亚洲研究院新加坡实验室成立一年来，已奠定坚实基础，深化了政府、学界和产业界的合作，并探索了前沿人工智能研究如何创造实际价值。",
+        "en": "Microsoft Research Asia—Singapore, launched a year ago, has built a strong foundation, strengthened partnerships with government, academia, and industry, and investigated how cutting-edge AI research can deliver practical value. The lab continues to advance research, foster talent, and drive real-world impact through collaboration."
+      },
+      "summary": "微软亚洲研究院新加坡实验室成立一年来，已奠定坚实基础，深化了政府、学界和产业界的合作，并探索了前沿人工智能研究如何创造实际价值。"
+    },
+    {
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "pubDate": "Wed, 23 Sep 2026 16:01:36 +0000",
+      "isoDate": "2026-09-23T16:01:36.000Z",
+      "content": "<p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/\">Offloaded inference for real-world physical AI robotics</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.\nThe post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research.",
+      "creator": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/SO101-handover-1.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "微软研究院研究发现，将AI推理任务从机器人硬件中卸载到外部设备，可提升任务成功率、提高效率，并支持更复杂的物理AI应用。这一技术有助于缓解机器人硬件与AI智能发展不匹配的问题，推动物理AI在现实场景中的进步。",
+        "en": "Microsoft Research finds that offloading AI inference to external hardware enhances robot performance, efficiency, and supports advanced physical AI tasks. This approach allows robots to handle more complex workloads while improving task success."
+      },
+      "summary": "微软研究院研究发现，将AI推理任务从机器人硬件中卸载到外部设备，可提升任务成功率、提高效率，并支持更复杂的物理AI应用。这一技术有助于缓解机器人硬件与AI智能发展不匹配的问题，推动物理AI在现实场景中的进步。"
+    },
+    {
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "pubDate": "Mon, 21 Sep 2026 15:30:19 +0000",
+      "isoDate": "2026-09-21T15:30:19.000Z",
+      "content": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/\">Improving synthesis prediction of small molecules at scale with RetroChimera</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules.\nThe post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research.",
+      "creator": "Felix Pultar, John Gardner, Guoqing Liu, Marwin Segler",
+      "summaries": {
+        "zh": "《Nature》杂志发表的一篇新论文介绍了RetroChimera，一种预测模型，旨在加速小分子的化学合成。该模型有助于研究人员探索多种分子，从而推动药物、材料和农业领域的创新。RetroChimera通过提高合成预测的准确性，降低了定制分子的生产成本和时间，为科研提供了重要工具。",
+        "en": "RetroChimera, a predictive model developed by Microsoft Research, is featured in a Nature paper for accelerating small-molecule synthesis. It helps researchers explore diverse molecules by improving synthesis prediction at scale, addressing the slow and costly production of custom-made molecules used in medicine, materials, and agriculture. The model enhances efficiency in chemical research."
+      },
+      "summary": "《Nature》杂志发表的一篇新论文介绍了RetroChimera，一种预测模型，旨在加速小分子的化学合成。该模型有助于研究人员探索多种分子，从而推动药物、材料和农业领域的创新。RetroChimera通过提高合成预测的准确性，降低了定制分子的生产成本和时间，为科研提供了重要工具。"
+    },
+    {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-31T16:00:00.000Z",
+      "content": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/\">GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.\nThe post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
+      "creator": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
+      "summaries": {
+        "zh": "GigaPath-Flash和GigaTIME-Flash是高效的病理基础模型，通过降低计算需求同时保持高性能，为大规模研究提供了可能。这些模型有助于更广泛的病理学探索，推动群体层面的发现。",
+        "en": "GigaPath-Flash and GigaTIME-Flash are efficient pathology foundation models developed by Microsoft Research. These models reduce computational demands while maintaining strong performance, enabling larger-scale studies and broader exploration. They aim to advance population-scale discovery in pathology by optimizing resource usage without sacrificing accuracy. The innovations in these models facilitate more extensive research and analysis in the field."
+      },
+      "summary": "GigaPath-Flash和GigaTIME-Flash是高效的病理基础模型，通过降低计算需求同时保持高性能，为大规模研究提供了可能。这些模型有助于更广泛的病理学探索，推动群体层面的发现。"
+    },
+    {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT ",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-20T16:00:00.000Z",
+      "content": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/\">Broadening access to Skala creates a faster path to predictive DFT </a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. \nThe post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.",
+      "creator": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+      "summaries": {
+        "zh": "微软研究院发布的深度学习交换关联函数更新版Skala 1.1，提高了精度，扩展了计算化学生态系统的可访问性，并作为动态基准来追踪计算性能。该更新有助于加速预测性密度泛函理论的发展。",
+        "en": "Skala 1.1, an updated deep-learning exchange-correlation functional from Microsoft Research, enhances accuracy and expands accessibility within the computational chemistry ecosystem. It serves as a living benchmark to monitor performance, facilitating faster progress toward predictive density functional theory (DFT). The release aims to improve widespread adoption and efficiency in computational chemistry."
+      },
+      "summary": "微软研究院发布的深度学习交换关联函数更新版Skala 1.1，提高了精度，扩展了计算化学生态系统的可访问性，并作为动态基准来追踪计算性能。该更新有助于加速预测性密度泛函理论的发展。"
+    },
+    {
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-12T16:00:00.000Z",
+      "content": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/\">MindTopo reveals VLMs&#8217; spatial reasoning abilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.\nThe post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research.",
+      "creator": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
+      "summaries": {
+        "zh": "MindTopo通过测试路径、栅栏和结等拓扑关系，展示了视觉语言模型（VLMs）的空间推理能力，为提升AI的空间推理和规划能力提供了新方向。该成果由微软研究院发布。",
+        "en": "MindTopo has established a new benchmark for evaluating how AI systems understand topological relationships. The tool highlights advancements in spatial reasoning and planning for Vision-Language Models (VLMs). It demonstrates the potential to enhance AI's ability to interpret spatial contexts, such as identifying paths, fences, and knots. The findings are presented by Microsoft Research."
+      },
+      "summary": "MindTopo通过测试路径、栅栏和结等拓扑关系，展示了视觉语言模型（VLMs）的空间推理能力，为提升AI的空间推理和规划能力提供了新方向。该成果由微软研究院发布。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:36:37.227Z"
+}

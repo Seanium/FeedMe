@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "link": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "pubDate": "Thu, 08 Oct 2026 22:30:00 +0000",
+      "isoDate": "2026-10-08T22:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp\">A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "contentSnippet": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mike Schaekermann"
+        ],
+        "title": [
+          "Research Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "《柳叶刀》发表的一项同行评审研究表明，谷歌的AMIE医疗AI在真实世界初级保健诊所中应用，可能有助于改善医患关系。该研究评估了AI在初级医疗中的实际效果。",
+        "en": "A study in *The Lancet* examines Google's AMIE medical AI in a real-world primary care setting. The peer-reviewed research evaluates the AI's potential to improve patient-physician relationships. The findings contribute to understanding how AI tools can be integrated into healthcare practices."
+      },
+      "summary": "《柳叶刀》发表的一项同行评审研究表明，谷歌的AMIE医疗AI在真实世界初级保健诊所中应用，可能有助于改善医患关系。该研究评估了AI在初级医疗中的实际效果。"
+    },
+    {
+      "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
+      "pubDate": "Thu, 08 Oct 2026 15:30:00 +0000",
+      "isoDate": "2026-10-08T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp\">Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
+      "contentSnippet": "Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Paul Feng"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Google Play Engineering, Product, UX"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "活动Play Fest将于10月13日启动，提供抽奖大奖、全球电竞联赛和每周谷歌应用商店优惠。活动期间将有多重奖励和赛事，吸引玩家参与。",
+        "en": "Play Fest begins October 13, offering sweepstakes prizes, global gaming leagues, and major Google Play deals throughout the week."
+      },
+      "summary": "活动Play Fest将于10月13日启动，提供抽奖大奖、全球电竞联赛和每周谷歌应用商店优惠。活动期间将有多重奖励和赛事，吸引玩家参与。"
+    },
+    {
+      "title": "Sign in quickly and securely with passkeys.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
+      "pubDate": "Thu, 08 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-08T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp\">Learn how to set up a passkey for your Google Account.",
+      "contentSnippet": "Learn how to set up a passkey for your Google Account.",
+      "creator": "",
+      "summaries": {
+        "zh": "快速安全地使用密钥登录谷歌账号。本文介绍了如何为谷歌账号设置密钥。",
+        "en": "Passkeys offer a quick and secure way to sign in to your Google Account. The article explains how to set up a passkey for enhanced account protection. This method simplifies the login process while improving security compared to traditional passwords. Users can follow the provided steps to enable passkeys, ensuring a more seamless and secure experience."
+      },
+      "summary": "快速安全地使用密钥登录谷歌账号。本文介绍了如何为谷歌账号设置密钥。"
+    },
+    {
+      "title": "Google Cloud introduces the Gemini agent.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "pubDate": "Thu, 08 Oct 2026 12:05:00 +0000",
+      "isoDate": "2026-10-08T12:05:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp\">Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
+      "contentSnippet": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌云推出Gemini代理，该代理通过连接企业系统实现工作流程自动化，可在单条指令中简化企业任务。",
+        "en": "Google Cloud has introduced the Gemini agent, a new tool designed to automate workflows by connecting with business systems. It streamlines enterprise tasks through a single prompt, enhancing efficiency and productivity. The agent facilitates seamless integration and task management, simplifying complex processes for organizations."
+      },
+      "summary": "谷歌云推出Gemini代理，该代理通过连接企业系统实现工作流程自动化，可在单条指令中简化企业任务。"
+    },
+    {
+      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp\">Use these built-in Google Maps features to navigate your food journey all year long.",
+      "contentSnippet": "Use these built-in Google Maps features to navigate your food journey all year long.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌地图内置功能助您全年畅享美食之旅。通过这些实用工具，您可以轻松规划餐饮路线，发现美食目的地，并优化用餐体验。",
+        "en": "Google Maps offers three built-in features to enhance culinary navigation. It helps users find dining spots, plan routes to restaurants, and explore food-related locations throughout the year. The tool provides essential information like reviews, ratings, and menus, making it easier to discover new eateries and navigate food adventures efficiently."
+      },
+      "summary": "谷歌地图内置功能助您全年畅享美食之旅。通过这些实用工具，您可以轻松规划餐饮路线，发现美食目的地，并优化用餐体验。"
+    },
+    {
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp\">We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.",
+      "contentSnippet": "We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Andrew Duchi"
+        ],
+        "title": [
+          "Director of Product"
+        ],
+        "department": [
+          "Google Maps"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌地图分析了10座美食城市一年的数据，揭示了顶级餐饮趋势和热门餐厅。报告基于谷歌地图数据，总结了各城市餐饮流行趋势及受欢迎的餐厅。",
+        "en": "Google Maps analyzed a year of data to reveal top food trends and popular restaurants in 10 cities. The findings highlight emerging culinary trends and favorite dining spots across major culinary hubs."
+      },
+      "summary": "谷歌地图分析了10座美食城市一年的数据，揭示了顶级餐饮趋势和热门餐厅。报告基于谷歌地图数据，总结了各城市餐饮流行趋势及受欢迎的餐厅。"
+    },
+    {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "pubDate": "Thu, 08 Oct 2026 00:01:00 +0000",
+      "isoDate": "2026-10-08T00:01:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp\">Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze. Search for fuel stations near you to save money. See the latest rates.",
+      "contentSnippet": "Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze. Search for fuel stations near you to save money. See the latest rates.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah-Jayne Williams"
+        ],
+        "title": [
+          "Global Product Partnerships Director at Google Maps & Waze"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "冬季使用谷歌地图和Waze查找英国最低汽油和柴油价格。搜索附近加油站以节省费用，查看最新油价。",
+        "en": "This winter, Google Maps and Waze can help users find the cheapest petrol and diesel prices in the UK. By searching for fuel stations near them, individuals can save money and view the latest rates. The tools provide convenient access to price information for better fuel planning."
+      },
+      "summary": "冬季使用谷歌地图和Waze查找英国最低汽油和柴油价格。搜索附近加油站以节省费用，查看最新油价。"
+    },
+    {
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-07T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp\">We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "contentSnippet": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Pushmeet Kohli"
+        ],
+        "title": [
+          "VP, Science and Strategic Initiatives"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们将推出独立平台，帮助用户轻松识别在线内容是否由谷歌AI或合作伙伴工具生成。该平台旨在提升全球范围内AI生成内容的可识别性。",
+        "en": "Google is launching a standalone platform to help users identify AI-generated content online, specifically content created by Google AI or tools from its industry partners. The platform aims to enhance transparency and make it easier for people to distinguish between human-made and AI-generated material globally."
+      },
+      "summary": "我们将推出独立平台，帮助用户轻松识别在线内容是否由谷歌AI或合作伙伴工具生成。该平台旨在提升全球范围内AI生成内容的可识别性。"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "pubDate": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-07T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp\">Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "contentSnippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maryam Karimzadehgan"
+        ],
+        "title": [
+          "Software Engineer"
+        ],
+        "department": [
+          "AI Innovation + Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Playground 是一个全新的实验性游戏平台，用户可以在其中创建、游玩和分享自定义游戏。该平台旨在为玩家提供更灵活的游戏体验，支持个性化内容创作与分享。",
+        "en": "Playground is an experimental gaming platform that enables users to create, play, and share custom games. It provides a space for developers and players to design unique gaming experiences and engage with others. The platform supports the creation and distribution of personalized games, fostering a community around user-generated content."
+      },
+      "summary": "Playground 是一个全新的实验性游戏平台，用户可以在其中创建、游玩和分享自定义游戏。该平台旨在为玩家提供更灵活的游戏体验，支持个性化内容创作与分享。"
+    },
+    {
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+      "pubDate": "Tue, 06 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-06T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp\">By pairing AI with “blind sweep” ultrasounds, Google researchers found a way to get more people the prenatal ultrasounds they need.",
+      "contentSnippet": "By pairing AI with “blind sweep” ultrasounds, Google researchers found a way to get more people the prenatal ultrasounds they need.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lindsey Lanquist"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌研究人员通过将AI技术与“盲扫”超声波结合，发现了一种帮助更多孕妇获得产前超声波检查的方法。该方法提升了超声波图像质量，使资源匮乏地区或医疗条件有限的孕妇也能获得必要的检查。",
+        "en": "Google researchers have developed AI technology to enhance \"blind sweep\" ultrasounds, improving access to prenatal care for more women. The innovation uses AI to analyze ultrasound data, making it easier to obtain necessary prenatal ultrasounds. This approach aims to address shortages in ultrasound services, ensuring better prenatal monitoring for expectant mothers. The technology represents a significant advancement in reproductive healthcare accessibility."
+      },
+      "summary": "谷歌研究人员通过将AI技术与“盲扫”超声波结合，发现了一种帮助更多孕妇获得产前超声波检查的方法。该方法提升了超声波图像质量，使资源匮乏地区或医疗条件有限的孕妇也能获得必要的检查。"
+    },
+    {
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp\">Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "contentSnippet": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Flow音乐平台允许音乐制作人使用“vibe code”功能，通过Spaces功能构建个性化的音乐制作工具，以匹配不同的创作流程。",
+        "en": "Google Flow Music now allows producers to customize their music production tools using Spaces. This feature enables creators to build custom instruments and workflows tailored to their individual creative processes."
+      },
+      "summary": "谷歌Flow音乐平台允许音乐制作人使用“vibe code”功能，通过Spaces功能构建个性化的音乐制作工具，以匹配不同的创作流程。"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp\">Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "contentSnippet": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sahil Dua"
+        ],
+        "title": [
+          "Research Engineer"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "EmbeddingGemma 2是一款面向隐私优先用例的开源多模态嵌入模型。该模型具有开放性和轻量化特点，适用于隐私保护场景。",
+        "en": "EmbeddingGemma 2 is an open, lightweight multimodal embedding model designed for privacy-first applications. It enables efficient and secure processing of diverse data types while maintaining accessibility. The model is optimized for tasks requiring minimal computational resources, making it suitable for edge devices and low-power environments. Its open nature allows for broader adoption and customization. EmbeddingGemma 2 focuses on balancing performance with privacy, ensuring data integrity without compromising functionality. The model supports integration into various systems where multimodal input is needed."
+      },
+      "summary": "EmbeddingGemma 2是一款面向隐私优先用例的开源多模态嵌入模型。该模型具有开放性和轻量化特点，适用于隐私保护场景。"
+    },
+    {
+      "title": "Making global public health more proactive with Google Earth AI",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+      "pubDate": "Tue, 06 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-06T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp\">Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+      "contentSnippet": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shravya Shetty"
+        ],
+        "title": [
+          "Distinguished Software Engineer"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌利用人工智能技术，协助卫生领导者克服报告滞后问题，预测疾病爆发，并为弱势社区提供医疗服务，从而提升全球公共卫生的主动性。",
+        "en": "Google is assisting health leaders in enhancing global public health by addressing reporting delays, predicting disease outbreaks, and improving care delivery to vulnerable populations using AI-enhanced Google Earth tools."
+      },
+      "summary": "谷歌利用人工智能技术，协助卫生领导者克服报告滞后问题，预测疾病爆发，并为弱势社区提供医疗服务，从而提升全球公共卫生的主动性。"
+    },
+    {
+      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+      "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-06T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartUps_Hero.max-600x600.format-webp.webp\">Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+      "contentSnippet": "Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Darren Mowry"
+        ],
+        "title": [
+          "VP, Global Startups"
+        ],
+        "department": [
+          "Google Cloud"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "超过100家初创公司将参加11月在山景城的谷歌启动计划Gemini初创企业论坛，共同塑造人工智能的未来。",
+        "en": "Over 100 startups are participating in the Google for Startups Gemini Startup Forum in Mountain View this November. The event aims to foster innovation and shape the future of artificial intelligence. The global startups will collaborate and engage in discussions to drive advancements in the AI sector."
+      },
+      "summary": "超过100家初创公司将参加11月在山景城的谷歌启动计划Gemini初创企业论坛，共同塑造人工智能的未来。"
+    },
+    {
+      "title": "Meet the artist who built a giant spider for a virtual world",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+      "pubDate": "Tue, 06 Oct 2026 13:30:00 +0000",
+      "isoDate": "2026-10-06T13:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp\">Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+      "contentSnippet": "Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Eva Langret"
+        ],
+        "title": [
+          "Director of EMEA"
+        ],
+        "department": [
+          "Frieze"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "艺术家Theo Triantafyllidis因在虚拟世界中创作巨型蜘蛛作品，获得2026年Frieze艺术家奖，该奖项由Google Arts & Culture支持。",
+        "en": "Theo Triantafyllidis, an artist, won the 2026 Frieze Artist Award, supported by Google Arts & Culture. The award recognizes his work, which includes creating a giant spider for a virtual world."
+      },
+      "summary": "艺术家Theo Triantafyllidis因在虚拟世界中创作巨型蜘蛛作品，获得2026年Frieze艺术家奖，该奖项由Google Arts & Culture支持。"
+    },
+    {
+      "title": "Why we're backing America's existing nuclear plants",
+      "link": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0000",
+      "isoDate": "2026-10-06T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp\">Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+      "contentSnippet": "Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amanda Peterson Corio"
+        ],
+        "title": [
+          "Global Head of Data Center Energy"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们与康斯特拉尔能源的新协议使美国能源系统通过升级和重启新增的核电容量达到1.5吉瓦。此举旨在支持现有核电站，提升其运行能力，为美国能源供应提供稳定支持。",
+        "en": "The article highlights a new agreement with Constellation Energy, which increases the total new nuclear capacity enabled for the U.S. energy system through uprates and restarts to over 1.5 GW. The focus is on supporting existing nuclear plants to enhance the country's energy supply."
+      },
+      "summary": "我们与康斯特拉尔能源的新协议使美国能源系统通过升级和重启新增的核电容量达到1.5吉瓦。此举旨在支持现有核电站，提升其运行能力，为美国能源供应提供稳定支持。"
+    },
+    {
+      "title": "I use technology to give students a voice and become critical digital citizens.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp\">Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+      "contentSnippet": "Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rebecca Braun"
+        ],
+        "title": [
+          "Year 7-9 Teacher, Digital Innovator, Democracy Developer and Central Education Developer –  Innovitaskolan, Helsingborg, Sweden"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "使用Google Sites、Gemini和Vids等技术工具，培养学生批判性思维和表达能力。这些工具帮助学生找到自己的声音，成为负责任的数字公民。",
+        "en": "The article discusses using Google Sites, Gemini, and Vids to empower students, enhancing their critical thinking skills. These tools help students find their voice and develop into informed digital citizens. The focus is on leveraging technology for educational growth and civic engagement."
+      },
+      "summary": "使用Google Sites、Gemini和Vids等技术工具，培养学生批判性思维和表达能力。这些工具帮助学生找到自己的声音，成为负责任的数字公民。"
+    },
+    {
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp\">Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "contentSnippet": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tori Engel"
+        ],
+        "title": [
+          "Middle School Computer Science and Technology  – Carriel Junior High, O’Fallon, IL, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "八年级学生使用Gemini和Google Docs从零开始制作了学校的新闻节目《山猫骚乱》。他们通过这些工具优化了制作流程。",
+        "en": "Eighth-grade students created \"The Cougar Rumble\" newscast using Gemini and Google Docs, streamlining their production workflow. The project involved building the school's newscast from scratch."
+      },
+      "summary": "八年级学生使用Gemini和Google Docs从零开始制作了学校的新闻节目《山猫骚乱》。他们通过这些工具优化了制作流程。"
+    },
+    {
+      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp\">Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "contentSnippet": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michelle Bruno"
+        ],
+        "title": [
+          "10-12th grade Video Media Production, Media Print, and Business Writing – William Allen High School, PA, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "学生利用Google Drive管理视频素材，用Sheets制定生产时间表，以应对紧迫的截止日期。这些技术工具有效提升了课堂产出效率，帮助学生平衡创意与时间压力。",
+        "en": "Students leverage Google Drive for video assets and Google Sheets for production timelines to balance creative projects with tight deadlines. These tools enhance classroom productivity by organizing resources and managing schedules efficiently."
+      },
+      "summary": "学生利用Google Drive管理视频素材，用Sheets制定生产时间表，以应对紧迫的截止日期。这些技术工具有效提升了课堂产出效率，帮助学生平衡创意与时间压力。"
+    },
+    {
+      "title": "Here’s how I use technology to bring science to life in my classroom.",
+      "link": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chanel.max-600x600.format-webp.webp\">See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.",
+      "contentSnippet": "See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chanel Johnson"
+        ],
+        "title": [
+          "Gifted 8th Grade Physical Science Teacher – Cedar Grove Middle School, Decatur, Georgia, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "该教师利用Gemini和Gemini Notebook技术，在课堂中引入科学内容，提升学生的数字素养，并优化教案设计。文章介绍了其具体应用方法，供其他教师参考借鉴。",
+        "en": "The article describes a teacher using Gemini and Gemini Notebook to enhance digital literacy and improve lesson plans in the classroom. The teacher leverages technology to bring science to life, making learning more engaging. The piece aims to provide insights for educators to enhance their teaching methods."
+      },
+      "summary": "该教师利用Gemini和Gemini Notebook技术，在课堂中引入科学内容，提升学生的数字素养，并优化教案设计。文章介绍了其具体应用方法，供其他教师参考借鉴。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:35:27.766Z"
+}

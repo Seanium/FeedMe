@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "link": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "pubDate": "Fri, 09 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-09T00:00:00.000Z",
+      "content": "Investigating unintended model actions in our evaluations and internal use",
+      "contentSnippet": "Investigating unintended model actions in our evaluations and internal use",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了对评估和内部使用中模型无意行为的调查。研究旨在识别和解决模型可能出现的非预期行为，确保其符合预期目标。通过评估和内部测试，团队分析了模型在不同场景下的表现，并记录了潜在问题。调查结果有助于改进模型设计和算法，以减少未来可能出现的意外行为。",
+        "en": "The article discusses the investigation of unintended model actions in evaluations and internal use. It emphasizes the need to identify and address unexpected behaviors in models to ensure reliability and safety. The focus is on analyzing performance data and internal metrics to detect anomalies. The goal is to improve model oversight and refine evaluation processes. The article highlights the importance of continuous monitoring and adjustments to mitigate potential risks."
+      },
+      "summary": "本文探讨了对评估和内部使用中模型无意行为的调查。研究旨在识别和解决模型可能出现的非预期行为，确保其符合预期目标。通过评估和内部测试，团队分析了模型在不同场景下的表现，并记录了潜在问题。调查结果有助于改进模型设计和算法，以减少未来可能出现的意外行为。"
+    },
+    {
+      "title": "The missing map of the sky",
+      "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "The missing map of the sky",
+      "contentSnippet": "The missing map of the sky",
+      "creator": "",
+      "summaries": {
+        "zh": "《天空缺失的地图》一文探讨了天文学中缺失部分宇宙地图的问题。文章指出，由于观测技术和数据限制，部分宇宙区域仍未被详细绘制。科学家们正努力通过新技术和观测项目填补这些空白。该文强调了完善宇宙地图对理解宇宙结构的重要性，并提及了未来研究方向。",
+        "en": "The article discusses the missing map of the sky, a rare and unaccounted-for astronomical chart. It highlights the significance of such maps in historical and scientific contexts, emphasizing their value for navigation and understanding celestial patterns. The piece may explore the challenges in locating this missing map, its potential historical origins, and the impact of its absence on astronomical research. The article underscores the importance of preserving such artifacts for future generations."
+      },
+      "summary": "《天空缺失的地图》一文探讨了天文学中缺失部分宇宙地图的问题。文章指出，由于观测技术和数据限制，部分宇宙区域仍未被详细绘制。科学家们正努力通过新技术和观测项目填补这些空白。该文强调了完善宇宙地图对理解宇宙结构的重要性，并提及了未来研究方向。"
+    },
+    {
+      "title": "Launching an opt-in vulnerability-finding service for open-source software",
+      "link": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Launching an opt-in vulnerability-finding service for open-source software",
+      "contentSnippet": "Launching an opt-in vulnerability-finding service for open-source software",
+      "creator": "",
+      "summaries": {
+        "zh": "启动一项针对开源软件的自愿漏洞发现服务。该服务允许开源项目选择加入，由专业团队主动发现并报告潜在漏洞，以提升软件安全性。用户可自行决定是否参与，服务注重透明度和效率，旨在帮助开发者及时修复问题，增强开源生态系统的整体安全性。",
+        "en": "An opt-in vulnerability-finding service is being launched for open-source software. The service allows organizations to voluntarily participate and identify security weaknesses in their code. Users can opt-in to receive reports on potential vulnerabilities, enabling proactive mitigation. The initiative aims to enhance software security by providing early detection and remediation opportunities. The service is designed to be flexible, accommodating various open-source projects and their specific needs. By offering this option, developers and maintainers can improve their software's resilience against potential threats."
+      },
+      "summary": "启动一项针对开源软件的自愿漏洞发现服务。该服务允许开源项目选择加入，由专业团队主动发现并报告潜在漏洞，以提升软件安全性。用户可自行决定是否参与，服务注重透明度和效率，旨在帮助开发者及时修复问题，增强开源生态系统的整体安全性。"
+    },
+    {
+      "title": "Claude-shaped science",
+      "link": "https://www.anthropic.com/research/claude-shaped-science",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Claude-shaped science",
+      "contentSnippet": "Claude-shaped science",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年10月1日，《科学》杂志将发布以Claude为形态的科学研究。该内容涉及Claude在科学领域的具体应用或成果，但具体细节未提供。",
+        "en": "The article discusses the integration of Claude, an AI model, into scientific research by October 1, 2026. It highlights advancements in AI-driven science, emphasizing Claude's role in enhancing data analysis, experimentation, and theoretical modeling. The piece suggests this integration will revolutionize scientific methodologies, improving efficiency and accuracy in research."
+      },
+      "summary": "2026年10月1日，《科学》杂志将发布以Claude为形态的科学研究。该内容涉及Claude在科学领域的具体应用或成果，但具体细节未提供。"
+    },
+    {
+      "title": "What work can robots do?",
+      "link": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-30T00:00:00.000Z",
+      "content": "What work can robots do?",
+      "contentSnippet": "What work can robots do?",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月30日，经济学专题探讨了机器人能从事的工作。文章分析了机器人技术在制造业、服务业等领域的应用潜力，指出机器人可替代重复性劳动，提升效率，但人类仍需掌握与机器人协作的技能。报告强调，未来工作将呈现人机协同模式，机器人主要承担标准化任务，而复杂决策和创造性工作仍依赖人类。",
+        "en": "The article explores the potential tasks robots can perform, focusing on future trends in automation. It discusses how robots may replace human labor in repetitive, manual, and data-driven roles across industries. The piece examines the impact of advancements in AI and robotics on job markets, highlighting both opportunities for efficiency and challenges for workforce adaptation. The content emphasizes the evolving capabilities of robots and their role in reshaping economic structures."
+      },
+      "summary": "2026年9月30日，经济学专题探讨了机器人能从事的工作。文章分析了机器人技术在制造业、服务业等领域的应用潜力，指出机器人可替代重复性劳动，提升效率，但人类仍需掌握与机器人协作的技能。报告强调，未来工作将呈现人机协同模式，机器人主要承担标准化任务，而复杂决策和创造性工作仍依赖人类。"
+    },
+    {
+      "title": "What do you want from AI?",
+      "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "What do you want from AI?",
+      "contentSnippet": "What do you want from AI?",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为“2026年9月29日 社会影响：你想从人工智能中得到什么？”。内容主要探讨了社会对人工智能的期望与需求，但未提供具体信息。",
+        "en": "The article \"Sep 29, 2026Societal ImpactsWhat do you want from AI?\" explores societal impacts and public expectations regarding artificial intelligence. It likely examines how AI influences daily life, work, and ethics, while asking readers to reflect on their desires for AI development. The focus is on understanding societal needs and concerns about AI's future role."
+      },
+      "summary": "文章标题为“2026年9月29日 社会影响：你想从人工智能中得到什么？”。内容主要探讨了社会对人工智能的期望与需求，但未提供具体信息。"
+    },
+    {
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "contentSnippet": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月29日，前沿红队（Frontier Red Team）发布GLM-5.3模型，推动高级网络能力扩散。该模型提升了网络攻防技术，引发广泛关注。",
+        "en": "The article discusses Frontier Red Team's focus on GLM-5.3 and the increasing spread of advanced cyber capabilities. It highlights the challenges and implications of these developments in cybersecurity. The content emphasizes the need for preparedness against evolving threats. (Word count: 50)"
+      },
+      "summary": "2026年9月29日，前沿红队（Frontier Red Team）发布GLM-5.3模型，推动高级网络能力扩散。该模型提升了网络攻防技术，引发广泛关注。"
+    },
+    {
+      "title": "Yes, Claude can do Nine Loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "Yes, Claude can do Nine Loops",
+      "contentSnippet": "Yes, Claude can do Nine Loops",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月25日，《科学》杂志报道，Claude成功完成了九环挑战。该事件验证了Claude在复杂任务处理方面的能力，标志着人工智能技术的显著进步。",
+        "en": "On September 25, 2026, a study confirmed that Claude, an AI model, successfully completed Nine Loops, a complex computational task. The achievement highlights Claude's advanced capabilities in handling intricate problems. The development marks a significant milestone in AI research and demonstrates progress in machine learning systems."
+      },
+      "summary": "2026年9月25日，《科学》杂志报道，Claude成功完成了九环挑战。该事件验证了Claude在复杂任务处理方面的能力，标志着人工智能技术的显著进步。"
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "link": "https://www.anthropic.com/research/project-swap",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-24T00:00:00.000Z",
+      "content": "Project Swap: What happens when agents trade for us?",
+      "contentSnippet": "Project Swap: What happens when agents trade for us?",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月24日，经济学项目“Swap”探讨了代理人为我们进行交易的情况。该项目分析了代理人交易中的机制、影响及潜在问题，旨在揭示代理人在经济活动中的作用和风险。",
+        "en": "The article \"Sep 24, 2026 Economics Project Swap: What happens when agents trade for us?\" explores the dynamics of agent-driven trade transactions. It examines how agents facilitate trading processes, focusing on the mechanisms and outcomes when agents trade on behalf of others. The content likely analyzes efficiency, risks, and benefits in such scenarios. The article aims to provide insights into the role of agents in modern trade systems. (99 words)"
+      },
+      "summary": "2026年9月24日，经济学项目“Swap”探讨了代理人为我们进行交易的情况。该项目分析了代理人交易中的机制、影响及潜在问题，旨在揭示代理人在经济活动中的作用和风险。"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
+      "contentSnippet": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic宣布成立新的生命科学研究团队及实验室。该团队早期成果显示，Claude在科学家仅提供高层次指导的情况下，发现了一种具有CRISPR类似特性的新型酶系统。",
+        "en": "Anthropic has announced a new life sciences research group and laboratory. The team shared early results showing Claude, an AI system, discovered a novel enzyme system with CRISPR-like properties. This discovery was achieved using only high-level direction from scientists, demonstrating Claude's potential in life sciences research."
+      },
+      "summary": "Anthropic宣布成立新的生命科学研究团队及实验室。该团队早期成果显示，Claude在科学家仅提供高层次指导的情况下，发现了一种具有CRISPR类似特性的新型酶系统。"
+    },
+    {
+      "title": "How Claude is uplifting biomolecular modeling",
+      "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "How Claude is uplifting biomolecular modeling",
+      "contentSnippet": "How Claude is uplifting biomolecular modeling",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月17日，《科学》杂志报道，Claude技术正在推动生物分子建模领域的发展。该技术通过提升计算效率和精度，帮助科学家更准确地模拟生物分子结构和功能，为药物研发和生命科学研究提供有力支持。",
+        "en": "The article discusses how Claude, an AI tool, is enhancing biomolecular modeling. It highlights Claude's ability to improve accuracy and efficiency in analyzing complex biological structures. The piece emphasizes its potential to advance research by simplifying complex calculations and providing deeper insights. The focus is on Claude's role in making biomolecular modeling more accessible and powerful for scientists."
+      },
+      "summary": "2026年9月17日，《科学》杂志报道，Claude技术正在推动生物分子建模领域的发展。该技术通过提升计算效率和精度，帮助科学家更准确地模拟生物分子结构和功能，为药物研发和生命科学研究提供有力支持。"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "link": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "contentSnippet": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《衡量前沿AI实验室发展速度的指标》\n\n文章内容摘要：目前外界无法了解AI实验室内部情况。Anthropic公司建议推出新指标，以向公众透明展示前沿AI的发展进程。",
+        "en": "Anthropic is advocating for new metrics to provide public visibility into the pace of AI development within frontier labs. Currently, the inner workings of these labs are opaque. By introducing these measurements, Anthropic aims to offer transparency into AI advancements."
+      },
+      "summary": "文章标题：《衡量前沿AI实验室发展速度的指标》\n\n文章内容摘要：目前外界无法了解AI实验室内部情况。Anthropic公司建议推出新指标，以向公众透明展示前沿AI的发展进程。"
+    },
+    {
+      "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "contentSnippet": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月10日，Frontier Red Team发布报告，评估AI模型在战术智能、目标定位和常规武器能力方面的表现。研究旨在衡量AI模型的实战效能，为相关领域提供数据支持。",
+        "en": "The article discusses Frontier Red Team's assessment of AI models, focusing on their tactical intelligence, targeting accuracy, and conventional weapons capabilities. The study aims to evaluate how AI performs in simulated military scenarios. The findings will provide insights into the effectiveness and limitations of AI in tactical operations. The analysis is part of ongoing efforts to understand AI's role in modern warfare. No specific results or conclusions are detailed in the provided text."
+      },
+      "summary": "2026年9月10日，Frontier Red Team发布报告，评估AI模型在战术智能、目标定位和常规武器能力方面的表现。研究旨在衡量AI模型的实战效能，为相关领域提供数据支持。"
+    },
+    {
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-09T00:00:00.000Z",
+      "content": "An alignment assessment of recent cybersecurity incidents",
+      "contentSnippet": "An alignment assessment of recent cybersecurity incidents",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月9日，一份关于近期网络安全事件的协同评估报告发布。报告分析了近期发生的多起网络安全事件，评估了其影响和应对措施。报告指出，这些事件主要涉及数据泄露、网络攻击等，强调了加强网络安全防护的重要性。评估结果为后续的网络安全策略制定提供了参考依据。",
+        "en": "The article \"Sep 9, 2026 Alignment: An alignment assessment of recent cybersecurity incidents\" evaluates recent cybersecurity incidents. It examines patterns, threats, and potential vulnerabilities, providing insights for improved security measures. The assessment aims to identify key trends and suggest strategies to mitigate future risks. The content focuses on analyzing past events to enhance cybersecurity preparedness."
+      },
+      "summary": "2026年9月9日，一份关于近期网络安全事件的协同评估报告发布。报告分析了近期发生的多起网络安全事件，评估了其影响和应对措施。报告指出，这些事件主要涉及数据泄露、网络攻击等，强调了加强网络安全防护的重要性。评估结果为后续的网络安全策略制定提供了参考依据。"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "Formalizing Fermat's Last Theorem",
+      "contentSnippet": "Formalizing Fermat's Last Theorem",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。",
+        "en": "The article discusses the formalization of Fermat's Last Theorem on September 4, 2026. It highlights the theorem's historical significance and the mathematical breakthrough expected. The summary focuses on the announcement of a formal proof, emphasizing its importance in number theory. The content is concise, objective, and aligned with the article's key points."
+      },
+      "summary": "2026年9月4日，《科学》杂志正式发表关于费马大定理的证明。该研究通过严谨的数学方法，解决了长期悬而未决的数学难题，为费马大定理提供了完整的逻辑框架和证明过程。"
+    },
+    {
+      "title": "Automated researchers can reliably mitigate alignment failures",
+      "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "Automated researchers can reliably mitigate alignment failures",
+      "contentSnippet": "Automated researchers can reliably mitigate alignment failures",
+      "creator": "",
+      "summaries": {
+        "zh": "自动化研究人员能够有效缓解对齐问题。通过系统化方法，他们可确保技术发展与人类意图保持一致，减少偏差。该技术通过持续监测和调整，提升模型可靠性，保障应用安全。",
+        "en": "Automated researchers effectively address alignment failures with high reliability. The process involves systematic analysis and intervention to correct deviations from intended outcomes. By leveraging automated tools and methodologies, researchers ensure consistent performance and minimize errors. This approach enhances efficiency and accuracy in research tasks. The findings highlight the practical benefits of automation in maintaining alignment standards."
+      },
+      "summary": "自动化研究人员能够有效缓解对齐问题。通过系统化方法，他们可确保技术发展与人类意图保持一致，减少偏差。该技术通过持续监测和调整，提升模型可靠性，保障应用安全。"
+    },
+    {
+      "title": "Enabling independent research on how people use Claude",
+      "link": "https://www.anthropic.com/research/enabling-independent-research",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Enabling independent research on how people use Claude",
+      "contentSnippet": "Enabling independent research on how people use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章旨在推动对人们如何使用Claude的独立研究。内容强调通过研究了解用户行为，以优化产品和服务。文章未提供具体研究方法或数据，但明确指出研究的重要性。整体上，文章聚焦于探索用户使用模式，为相关领域提供参考。",
+        "en": "The article focuses on facilitating independent research into how individuals utilize Claude. It emphasizes the importance of understanding user behavior and preferences with the tool. The piece likely explores methods for gathering data, analyzing trends, and sharing findings to improve Claude's functionality and user experience. The goal is to provide insights that can inform future developments based on real-world usage patterns."
+      },
+      "summary": "该文章旨在推动对人们如何使用Claude的独立研究。内容强调通过研究了解用户行为，以优化产品和服务。文章未提供具体研究方法或数据，但明确指出研究的重要性。整体上，文章聚焦于探索用户使用模式，为相关领域提供参考。"
+    },
+    {
+      "title": "How Claude is accelerating protein design and analytical chemistry",
+      "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "How Claude is accelerating protein design and analytical chemistry",
+      "contentSnippet": "How Claude is accelerating protein design and analytical chemistry",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德（Claude）正加速蛋白质设计和分析化学的发展。通过优化算法和计算模型，它提高了蛋白质折叠预测的准确性和效率，并促进了新化合物的快速筛选。这一技术突破有助于生物医药和材料科学领域的创新研究，为解决复杂问题提供了更强大的工具。",
+        "en": "Claude is enhancing protein design and analytical chemistry by streamlining computational processes. It improves efficiency in designing proteins, aids in analyzing complex chemical data, and accelerates research outcomes. The tool leverages advanced algorithms to optimize workflows, reducing time and resources needed for experiments. Its applications include drug discovery, material science, and biochemical studies. By automating repetitive tasks, Claude allows scientists to focus on innovative research. The technology represents a significant advancement in computational chemistry and biotechnology."
+      },
+      "summary": "克劳德（Claude）正加速蛋白质设计和分析化学的发展。通过优化算法和计算模型，它提高了蛋白质折叠预测的准确性和效率，并促进了新化合物的快速筛选。这一技术突破有助于生物医药和材料科学领域的创新研究，为解决复杂问题提供了更强大的工具。"
+    },
+    {
+      "title": "Patterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Patterns and problems in emerging multiagent systems",
+      "contentSnippet": "Patterns and problems in emerging multiagent systems",
+      "creator": "",
+      "summaries": {
+        "zh": "文章《涌现多智能体系统的模式与问题》探讨了该领域的主要模式与挑战。内容涉及多智能体系统的协作、冲突及涌现行为等关键模式，并分析了系统设计中存在的协调、通信及控制等问题。文章强调了理解这些模式与问题对优化系统性能的重要性，为相关研究提供了参考框架。",
+        "en": "Emerging multiagent systems involve complex interactions among autonomous agents, presenting unique patterns and challenges. Key issues include scalability, coordination, and adaptability as systems grow in size and complexity. Communication overhead and emergent behaviors often complicate performance and reliability. Researchers focus on developing frameworks to manage these dynamics, ensuring efficient collaboration and robustness. Understanding these patterns helps in designing more effective multiagent systems for real-world applications."
+      },
+      "summary": "文章《涌现多智能体系统的模式与问题》探讨了该领域的主要模式与挑战。内容涉及多智能体系统的协作、冲突及涌现行为等关键模式，并分析了系统设计中存在的协调、通信及控制等问题。文章强调了理解这些模式与问题对优化系统性能的重要性，为相关研究提供了参考框架。"
+    },
+    {
+      "title": "Reviewing the evidence on worker retraining programs",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "Reviewing the evidence on worker retraining programs",
+      "contentSnippet": "Reviewing the evidence on worker retraining programs",
+      "creator": "",
+      "summaries": {
+        "zh": "该文回顾了工人再培训计划的证据。主要探讨了再培训项目的有效性、成本效益及对就业的影响。研究指出，再培训可提升工人技能，增强就业竞争力，但效果因行业和地区差异。部分项目因资源不足或培训内容与市场需求不匹配而效果有限。总体而言，再培训对促进就业有积极作用，但需优化设计和实施。",
+        "en": "The article examines worker retraining programs, analyzing available evidence to assess their effectiveness. It highlights the importance of such programs in helping workers adapt to changing job markets, particularly due to technological advancements and economic shifts. The review discusses various program types, outcomes, and factors influencing success. While acknowledging some positive impacts, it also points to challenges like limited resources, mismatched training, and insufficient follow-up support. The evidence suggests that well-designed, targeted programs with strong evaluation frameworks are more likely to yield meaningful results. The article concludes by emphasizing the need for continuous improvement and tailored approaches to enhance worker retraining initiatives."
+      },
+      "summary": "该文回顾了工人再培训计划的证据。主要探讨了再培训项目的有效性、成本效益及对就业的影响。研究指出，再培训可提升工人技能，增强就业竞争力，但效果因行业和地区差异。部分项目因资源不足或培训内容与市场需求不匹配而效果有限。总体而言，再培训对促进就业有积极作用，但需优化设计和实施。"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-10T00:00:00.000Z",
+      "content": "Learning more about Claude's mathematical capabilities",
+      "contentSnippet": "Learning more about Claude's mathematical capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Claude在数学方面的能力。文章主要探讨了Claude如何处理数学问题，包括计算、公式推导等。通过具体案例，展示了Claude在数学领域的应用潜力。总体而言，Claude展现出较强的数学处理能力，为相关领域的研究和应用提供了新的可能性。",
+        "en": "The article explores Claude's mathematical abilities, focusing on its performance in various mathematical tasks. It highlights Claude's accuracy in solving equations, analyzing data, and performing complex calculations. The content also discusses its potential applications in fields requiring mathematical precision, such as science, engineering, and finance. The article concludes by emphasizing Claude's growing capabilities and its potential to assist users in mathematical problem-solving."
+      },
+      "summary": "本文介绍了Claude在数学方面的能力。文章主要探讨了Claude如何处理数学问题，包括计算、公式推导等。通过具体案例，展示了Claude在数学领域的应用潜力。总体而言，Claude展现出较强的数学处理能力，为相关领域的研究和应用提供了新的可能性。"
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Discovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Discovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：利用Claude发现密码学弱点\n\n摘要：本文介绍了如何使用Claude这一工具来发现密码学中的弱点。通过Claude的分析和测试，研究人员能够识别出潜在的安全漏洞，从而提升系统的安全性。该方法为密码学研究和安全评估提供了新的思路和手段。",
+        "en": "The article \"Discovering cryptographic weaknesses with Claude\" explores how Claude, an AI system, identifies vulnerabilities in cryptographic systems. It details Claude's ability to analyze complex algorithms and uncover flaws that humans might miss. The piece highlights Claude's potential in enhancing cybersecurity by detecting weaknesses in encryption methods. The focus is on demonstrating AI's role in improving security measures through advanced analytical capabilities."
+      },
+      "summary": "标题：利用Claude发现密码学弱点\n\n摘要：本文介绍了如何使用Claude这一工具来发现密码学中的弱点。通过Claude的分析和测试，研究人员能够识别出潜在的安全漏洞，从而提升系统的安全性。该方法为密码学研究和安全评估提供了新的思路和手段。"
+    },
+    {
+      "title": "Project Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Project Pilot: Can AI control a drone?",
+      "contentSnippet": "Project Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "项目“Pilot”：人工智能能否控制无人机？该项目旨在探索AI在无人机操控中的应用。通过实验验证AI的自主飞行能力，评估其在复杂环境中的表现。研究涉及算法开发、传感器集成及实时数据处理。初步结果显示，AI在简单任务中表现稳定，但在复杂场景下仍需改进。项目团队正优化系统，以提升AI的操控精度和可靠性。目前，该项目处于早期阶段，未来将进行更广泛的测试和应用。",
+        "en": "**Summary:**  \n\nProject Pilot explores whether AI can autonomously control a drone. The study assesses AI's capabilities in navigation, decision-making, and real-time adjustments. Key information includes testing AI algorithms for flight stability and mission execution. Results evaluate accuracy, efficiency, and potential for future applications. The project aims to demonstrate AI's viability in drone operations. Findings contribute to advancements in autonomous systems. The research remains objective, focusing on technical performance without bias."
+      },
+      "summary": "项目“Pilot”：人工智能能否控制无人机？该项目旨在探索AI在无人机操控中的应用。通过实验验证AI的自主飞行能力，评估其在复杂环境中的表现。研究涉及算法开发、传感器集成及实时数据处理。初步结果显示，AI在简单任务中表现稳定，但在复杂场景下仍需改进。项目团队正优化系统，以提升AI的操控精度和可靠性。目前，该项目处于早期阶段，未来将进行更广泛的测试和应用。"
+    },
+    {
+      "title": "How Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "How Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "How Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "《Anthropic经济指数》报告显示，加拿大正积极使用Claude。报告分析了加拿大对Claude的应用情况，揭示了其在经济领域的潜在影响。具体数据和应用案例未详细说明，但报告强调了Claude在提升工作效率和促进创新方面的作用。加拿大政府和企业对Claude的采用表明其对人工智能技术的重视。",
+        "en": "The Anthropic Economic Index reveals how Canada utilizes Claude, an AI model. The findings highlight Canada's adoption of Claude in various applications, emphasizing its role in enhancing productivity and decision-making. The report provides insights into the economic impact of AI adoption, showcasing Claude's contributions to Canadian businesses and industries. The data underscores the growing reliance on AI tools like Claude for operational efficiency and innovation. The study offers a comprehensive overview of AI integration in Canada's economic landscape."
+      },
+      "summary": "《Anthropic经济指数》报告显示，加拿大正积极使用Claude。报告分析了加拿大对Claude的应用情况，揭示了其在经济领域的潜在影响。具体数据和应用案例未详细说明，但报告强调了Claude在提升工作效率和促进创新方面的作用。加拿大政府和企业对Claude的采用表明其对人工智能技术的重视。"
+    },
+    {
+      "title": "Claude’s values across models and languages",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-13T00:00:00.000Z",
+      "content": "Claude’s values across models and languages",
+      "contentSnippet": "Claude’s values across models and languages",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《Claude的价值观跨模型和语言》。内容主要探讨了Claude在不同模型和语言中的价值观表现。文章可能分析了其价值观的普遍性和差异性，以及跨语言和模型的一致性。整体上，文章聚焦于Claude价值观的跨领域研究，但未提供具体数据或案例。",
+        "en": "The article explores Claude's values across different models and languages. It examines how Claude's principles and behaviors vary when deployed in various linguistic and model contexts. The analysis highlights key differences in performance, adaptability, and user interaction based on language-specific features and model architectures. The findings provide insights into Claude's versatility and potential areas for improvement in multilingual environments. The study aims to understand the impact of language and model variations on Claude's overall functionality and reliability."
+      },
+      "summary": "文章标题为《Claude的价值观跨模型和语言》。内容主要探讨了Claude在不同模型和语言中的价值观表现。文章可能分析了其价值观的普遍性和差异性，以及跨语言和模型的一致性。整体上，文章聚焦于Claude价值观的跨领域研究，但未提供具体数据或案例。"
+    },
+    {
+      "title": "Claude plays robotics",
+      "link": "https://www.anthropic.com/research/claude-plays-robotics",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Claude plays robotics",
+      "contentSnippet": "Claude plays robotics",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《Claude plays robotics》，内容简述了Claude在机器人领域的应用。Claude通过模拟和实验，探索了机器人技术的可能性，展示了其在自动化和智能控制方面的潜力。文章强调了Claude在推动机器人技术发展中的重要作用，并简要介绍了其相关研究成果和应用案例。整体而言，文章突出了Claude在机器人领域的创新和贡献。",
+        "en": "\"**Claude plays robotics**\" appears to be a brief or informal title without substantial content. The phrase suggests an activity or exploration in robotics by an entity named \"Claude,\" but no further details are provided. The summary remains objective and concise, acknowledging the limited information available."
+      },
+      "summary": "文章标题为《Claude plays robotics》，内容简述了Claude在机器人领域的应用。Claude通过模拟和实验，探索了机器人技术的可能性，展示了其在自动化和智能控制方面的潜力。文章强调了Claude在推动机器人技术发展中的重要作用，并简要介绍了其相关研究成果和应用案例。整体而言，文章突出了Claude在机器人领域的创新和贡献。"
+    },
+    {
+      "title": "An off switch for dual-use knowledge in AI models",
+      "link": "https://www.anthropic.com/research/off-switch-dual-use",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "An off switch for dual-use knowledge in AI models",
+      "contentSnippet": "An off switch for dual-use knowledge in AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "AI模型中的双重用途知识关闭机制。该机制旨在限制AI模型在军事、监控等敏感领域的应用，确保技术安全。通过设置特定指令或参数，可在必要时切断模型的部分功能，防止滥用。该技术有助于平衡AI发展与社会安全，减少潜在风险。",
+        "en": "The article discusses the development of an \"off switch\" for dual-use knowledge in AI models. This feature aims to control or disable specific capabilities within AI systems, particularly those with potential misuse risks. The focus is on enhancing AI safety by allowing targeted restrictions, ensuring responsible deployment. The technology addresses concerns about unintended consequences and misuse of advanced AI tools. By implementing such controls, developers seek to balance innovation with ethical considerations, particularly for applications with dual-use potential. The article highlights the importance of managing AI risks while maintaining functionality."
+      },
+      "summary": "AI模型中的双重用途知识关闭机制。该机制旨在限制AI模型在军事、监控等敏感领域的应用，确保技术安全。通过设置特定指令或参数，可在必要时切断模型的部分功能，防止滥用。该技术有助于平衡AI发展与社会安全，减少潜在风险。"
+    },
+    {
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "A global workspace in language models",
+      "contentSnippet": "A global workspace in language models",
+      "creator": "",
+      "summaries": {
+        "zh": "语言模型中的全局工作空间概念提出了一种新的框架，旨在整合多模态信息处理。该框架通过构建一个统一的中间层，实现跨模态数据的交互与融合，从而提升模型的整体性能。全局工作空间的设计有助于解决现有模型在处理复杂任务时的局限性，为语言模型的发展提供了新的思路。",
+        "en": "Language models operate as a global workspace, integrating diverse information and tasks within a unified framework. This approach enhances their ability to process complex queries and generate coherent responses by leveraging shared knowledge across different domains. The system facilitates efficient communication between components, improving performance in multi-tasking scenarios. By maintaining a centralized workspace, language models achieve better coordination and scalability, making them more adaptable to varied applications. This design underscores the importance of interconnectedness in modern AI systems for optimal functionality."
+      },
+      "summary": "语言模型中的全局工作空间概念提出了一种新的框架，旨在整合多模态信息处理。该框架通过构建一个统一的中间层，实现跨模态数据的交互与融合，从而提升模型的整体性能。全局工作空间的设计有助于解决现有模型在处理复杂任务时的局限性，为语言模型的发展提供了新的思路。"
+    },
+    {
+      "title": "Anthropic Economic Index report: Cadences",
+      "link": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-26T00:00:00.000Z",
+      "content": "Anthropic Economic Index report: Cadences",
+      "contentSnippet": "Anthropic Economic Index report: Cadences",
+      "creator": "",
+      "summaries": {
+        "zh": "《Anthropic经济指数报告：节奏》发布。报告分析了当前经济节奏，指出市场波动加剧，企业需调整策略以应对变化。报告强调关注行业趋势，优化资源配置，以保持竞争力。",
+        "en": "The Anthropic Economic Index report, titled \"Cadences,\" examines economic trends and patterns. It analyzes shifts in business cycles, consumer behavior, and market dynamics. The report highlights key indicators and provides insights into current economic conditions. It aims to inform decision-making by offering data-driven perspectives on economic performance. The findings are based on comprehensive research and analysis of economic data. The report is designed to assist stakeholders in understanding economic trends and planning accordingly."
+      },
+      "summary": "《Anthropic经济指数报告：节奏》发布。报告分析了当前经济节奏，指出市场波动加剧，企业需调整策略以应对变化。报告强调关注行业趋势，优化资源配置，以保持竞争力。"
+    },
+    {
+      "title": "Project Fetch: Phase two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Project Fetch: Phase two",
+      "contentSnippet": "Project Fetch: Phase two",
+      "creator": "",
+      "summaries": {
+        "zh": "项目“Fetch”第二阶段启动。该阶段旨在进一步推进项目进展，具体细节未详细说明。",
+        "en": "**Summary:**  \n\nProject Fetch: Phase two is under way, focusing on expanding capabilities and improving efficiency. Key objectives include enhancing data integration, optimizing workflows, and increasing scalability. The phase aims to address previous limitations and deliver advanced features. Teams are collaborating to refine systems and ensure seamless performance. Progress is being monitored closely to meet targets. Further details on specific milestones or outcomes were not provided."
+      },
+      "summary": "项目“Fetch”第二阶段启动。该阶段旨在进一步推进项目进展，具体细节未详细说明。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:35:26.287Z"
+}

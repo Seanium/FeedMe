@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/55e1cea0d6bc266c146421f800c3d0303109a8301aa0c97269ee4f6d8dfc9fe6/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 25833<br>Forks: 2154",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 25833\nForks: 2154",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6168个星标和456次分叉。",
+        "en": "The tool \"boykopovar/AnyPS5\" automates the process of porting PS5 executables to Linux and Windows. Developed in C++, it has 6,168 stars and 456 forks on its repository. The tool facilitates cross-platform compatibility for PlayStation 5 software."
+      },
+      "summary": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6168个星标和456次分叉。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8bd7e429e89a356282420442d31d7e43eef02be75dd7da1da14ad97998b1106/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 284108<br>Forks: 23790",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 284108\nForks: 23790",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "标题：mattpocock/skills  \n简介：该资源提供真实工程师所需技能，内容来自作者.mattpocock的agents目录，使用Shell语言编写。资源在GitHub上获得280,836个星标和23,524次分叉，广受欢迎。",
+        "en": "The article \"mattpocock/skills\" focuses on essential engineering skills, sourced from the author's `.agents` directory. It is presented in Shell format, gaining 280,836 stars and 23,524 forks. The content emphasizes practical, real-world engineering competencies."
+      },
+      "summary": "标题：mattpocock/skills  \n简介：该资源提供真实工程师所需技能，内容来自作者.mattpocock的agents目录，使用Shell语言编写。资源在GitHub上获得280,836个星标和23,524次分叉，广受欢迎。"
+    },
+    {
+      "title": "EpicGames/raddebugger",
+      "link": "https://github.com/EpicGames/raddebugger",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/53d716a59e9c98aa4df2990430a68f44a0d95490ac0caf855c483c9b93cac19a/EpicGames/raddebugger\" referrerpolicy=\"no-referrer\"><br>A native, user-mode, multi-process, graphical debugger.<br><br>Language: C<br>Stars: 8318<br>Forks: 401",
+      "contentSnippet": "A native, user-mode, multi-process, graphical debugger.\nLanguage: C\nStars: 8318\nForks: 401",
+      "creator": "EpicGames",
+      "summaries": {
+        "zh": "raddebugger是一款原生用户模式的图形化多进程调试器，使用C语言开发。该工具在GitHub上拥有8017个星标和390个分支。",
+        "en": "The Epic Games/raddebugger is a native, user-mode, multi-process graphical debugger written in C. It supports debugging across multiple processes and features a graphical interface. The project has 8017 stars and 390 forks on its repository."
+      },
+      "summary": "raddebugger是一款原生用户模式的图形化多进程调试器，使用C语言开发。该工具在GitHub上拥有8017个星标和390个分支。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 99169<br>Forks: 8683",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 99169\nForks: 8683",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该工具为每个智能体提供跨会话的持久上下文管理。它记录智能体在会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中，以提供更连贯的交互体验。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种平台。在GitHub上获得97070星和8556次分叉。",
+        "en": "The project \"thedotmack/claude-mem\" provides persistent context across sessions for various AI agents, including Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, and OpenCode. It captures agent activities during sessions, compresses the data using AI, and injects relevant context into future sessions. The tool supports multiple AI frameworks and has gained significant popularity with 97,070 stars and 8,556 forks on platforms like GitHub."
+      },
+      "summary": "该工具为每个智能体提供跨会话的持久上下文管理。它记录智能体在会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中，以提供更连贯的交互体验。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种平台。在GitHub上获得97070星和8556次分叉。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/07624dedb6ef572d98bbae75cd045be88ef2e4919df292aff0e04825d8253266/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 60268<br>Forks: 5379",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 60268\nForks: 5379",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。",
+        "en": "The article introduces Heygen's Hyperframes, a tool for creating HTML and rendering video, built for agents using TypeScript. It has gained significant popularity with 55,698 stars and 5,040 forks on its repository. The content focuses on its technical foundation and community engagement, highlighting its utility for developers and agents."
+      },
+      "summary": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。"
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "link": "https://github.com/mvschwarz/openrig",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1\" referrerpolicy=\"no-referrer\"><br>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.<br><br>Language: TypeScript<br>Stars: 6684<br>Forks: 491",
+      "contentSnippet": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\nLanguage: TypeScript\nStars: 6684\nForks: 491",
+      "creator": "mvschwarz",
+      "summaries": {
+        "zh": "mvschwarz/openrig 项目使用 Claude Code、Codex 和 Pi 构建 Agent 网络，支持持久团队、角色分配、共享上下文和工作分配。基于 TypeScript 开发，该项目在 GitHub 上获得 4925 个星标和 354 次分叉。",
+        "en": "The project \"mvschwarz/openrig\" allows users to build a persistent network of agents using Claude Code, Codex, and Pi. These agents operate in teams with defined roles, share context, and manage their own tasks. The platform is developed in TypeScript and has gained significant popularity, with 4,925 stars and 354 forks on its repository."
+      },
+      "summary": "mvschwarz/openrig 项目使用 Claude Code、Codex 和 Pi 构建 Agent 网络，支持持久团队、角色分配、共享上下文和工作分配。基于 TypeScript 开发，该项目在 GitHub 上获得 4925 个星标和 354 次分叉。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e29198f3147b570863604320f749d84d586c2140e9ed987462e20b39bb1bb53/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 10721<br>Forks: 1022",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 10721\nForks: 1022",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "标题：cursor/plugins  \n内容：本文介绍了cursor插件规范及官方插件，使用TypeScript开发，获得9965星和939次分叉。",
+        "en": "The article discusses the \"cursor/plugins\" topic, focusing on the specification and official plugins. It is written in TypeScript and has received significant popularity, with 9,965 stars and 939 forks on its repository. The content likely provides guidelines and examples for developing cursor-related plugins."
+      },
+      "summary": "标题：cursor/plugins  \n内容：本文介绍了cursor插件规范及官方插件，使用TypeScript开发，获得9965星和939次分叉。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30f52de33cd6a20cf9acb101a26d56842d74e780298070fec4a3f92756a48932/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>Give your agent CAD superpowers.<br><br>Language: Python<br>Stars: 18950<br>Forks: 1869",
+      "contentSnippet": "Give your agent CAD superpowers.\nLanguage: Python\nStars: 18950\nForks: 1869",
+      "creator": "earthtojake",
+      "summaries": {
+        "zh": "本文介绍了名为“earthtojake/text-to-cad”的Python工具，旨在为智能代理赋予CAD（计算机辅助设计）功能。该工具在GitHub上获得18395个星标和1826次分叉，显示出其较高的受欢迎程度和实用性。",
+        "en": "The article introduces \"earthtojake/text-to-cad,\" a Python tool that grants CAD superpowers to agents. It has 18,395 stars and 1,826 forks on its repository. The content focuses on enhancing CAD capabilities through text-based input."
+      },
+      "summary": "本文介绍了名为“earthtojake/text-to-cad”的Python工具，旨在为智能代理赋予CAD（计算机辅助设计）功能。该工具在GitHub上获得18395个星标和1826次分叉，显示出其较高的受欢迎程度和实用性。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179401<br>Forks: 33554",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179401\nForks: 33554",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "Flutter是一款基于Dart语言的跨平台应用开发框架，可快速构建美观的移动应用及其他平台应用。该框架广受欢迎，拥有179,313个星标和33,541个分支，便于高效开发高质量应用。",
+        "en": "Flutter is a framework for building cross-platform mobile and web applications using the Dart programming language. It enables developers to create visually appealing apps quickly and efficiently. The framework has gained significant popularity, with 179,313 stars and 33,541 forks on platforms like GitHub. Flutter's ease of use and performance make it a preferred choice for developers seeking to deploy apps on multiple devices."
+      },
+      "summary": "Flutter是一款基于Dart语言的跨平台应用开发框架，可快速构建美观的移动应用及其他平台应用。该框架广受欢迎，拥有179,313个星标和33,541个分支，便于高效开发高质量应用。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7446281bf6010eebbb53584906d27934136638bde11ba6be9d1ccb2583f92e89/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 26775<br>Forks: 7007",
+      "contentSnippet": "Language: TypeScript\nStars: 26775\nForks: 7007",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "标题：pingdotgg/t3code  \n简介：该仓库使用TypeScript开发，拥有26,592个星标和6,939个分支。",
+        "en": "The repository \"pingdotgg/t3code\" is written in TypeScript. It has 26,592 stars and 6,939 forks on its platform."
+      },
+      "summary": "标题：pingdotgg/t3code  \n简介：该仓库使用TypeScript开发，拥有26,592个星标和6,939个分支。"
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0348fe8dd2aab002b01ab0a1e0e7907ba0b83242f8619a8f53e8951dfe2d7501/ranxianglei/billion-context\" referrerpolicy=\"no-referrer\"><br>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need<br><br>Language: TypeScript<br>Stars: 761<br>Forks: 73",
+      "contentSnippet": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need\nLanguage: TypeScript\nStars: 761\nForks: 73",
+      "creator": "ranxianglei",
+      "summaries": {
+        "zh": "标题：ranxianglei/billion-context\n\n简介：billion-context 是一款适用于小上下文窗口（100K 足够）的上下文压缩插件。它通过减少 token 使用量（节省5倍）和实现超长会话（数月内支持数十亿 token 单次会话），有效提升效率。该插件使用 TypeScript 开发，获得 747 星和 73 次分叉。",
+        "en": "The \"billion-context\" plugin is a context-compression tool designed for small context windows, requiring only 100K context. It offers significant token savings (5x fewer tokens) and supports extended single sessions of billions of tokens, lasting for months. The plugin is written in TypeScript and has gained popularity with 747 stars and 73 forks on its repository."
+      },
+      "summary": "标题：ranxianglei/billion-context\n\n简介：billion-context 是一款适用于小上下文窗口（100K 足够）的上下文压缩插件。它通过减少 token 使用量（节省5倍）和实现超长会话（数月内支持数十亿 token 单次会话），有效提升效率。该插件使用 TypeScript 开发，获得 747 星和 73 次分叉。"
+    },
+    {
+      "title": "DuarteSantos8/openGym",
+      "link": "https://github.com/DuarteSantos8/openGym",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/60f69529a8df3c931b378f44c24333cd780345b4cab83fc57eba37a0d13d1d38/DuarteSantos8/openGym\" referrerpolicy=\"no-referrer\"><br>Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.<br><br>Language: JavaScript<br>Stars: 9121<br>Forks: 1131",
+      "contentSnippet": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.\nLanguage: JavaScript\nStars: 9121\nForks: 1131",
+      "creator": "DuarteSantos8",
+      "summaries": {
+        "zh": "开源健身房与自身体重追踪器，支持制定训练计划、记录训练（含超级组、热身、有氧），显示肌肉训练、疲劳或退化状态，可导入FitNotes/Strong/Hevy数据，采用一次性密码登录。用户数据存储在自建服务器上。使用JavaScript开发，获得5496星和759次分叉。",
+        "en": "DuarteSantos8/openGym is a self-hosted gym and body-weight tracker app. It allows users to plan routines, log workouts (including supersets, warm-ups, and cardio), and monitor muscle status (trained, fatigued, or detrained). The app supports data import from FitNotes, Strong, and Hevy, with passkey login for security. Users can host their own server, ensuring data privacy. It is built with JavaScript and has 5,496 stars and 759 forks on its repository."
+      },
+      "summary": "开源健身房与自身体重追踪器，支持制定训练计划、记录训练（含超级组、热身、有氧），显示肌肉训练、疲劳或退化状态，可导入FitNotes/Strong/Hevy数据，采用一次性密码登录。用户数据存储在自建服务器上。使用JavaScript开发，获得5496星和759次分叉。"
+    },
+    {
+      "title": "tester-army/e2e",
+      "link": "https://github.com/tester-army/e2e",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1308631234/358e34a0-4e46-4400-b092-63a397fe9d48\" referrerpolicy=\"no-referrer\"><br>Next generation e2e testing framework for web and mobile apps.<br><br>Language: TypeScript<br>Stars: 8654<br>Forks: 417",
+      "contentSnippet": "Next generation e2e testing framework for web and mobile apps.\nLanguage: TypeScript\nStars: 8654\nForks: 417",
+      "creator": "tester-army",
+      "summaries": {
+        "zh": "这是一个面向Web和移动应用的下一代端到端测试框架，使用TypeScript编写。该框架目前获得8592个星标和410个分支。",
+        "en": "The \"tester-army/e2e\" repository introduces a next-generation end-to-end testing framework for web and mobile apps, developed using TypeScript. It has garnered significant popularity, boasting 8,592 stars and 410 forks on platforms like GitHub. The framework aims to streamline testing processes for developers working on web and mobile applications."
+      },
+      "summary": "这是一个面向Web和移动应用的下一代端到端测试框架，使用TypeScript编写。该框架目前获得8592个星标和410个分支。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:37:50.749Z"
+}

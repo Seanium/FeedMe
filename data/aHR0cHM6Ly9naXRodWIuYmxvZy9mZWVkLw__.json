@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-09T16:00:00.000Z",
+      "content": "<p>The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/\">Hack the World: Why hackathons are still the best place to learn to build</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.\nThe post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog.",
+      "creator": "Ed Summers",
+      "summaries": {
+        "zh": "文章指出，如今构建软件的门槛已大幅降低，人人皆可参与。而黑客松（hackathons）仍是学习构建的最佳途径。通过参与黑客松，人们可以快速掌握相关技能。GitHub博客发布此文。",
+        "en": "Hackathons remain the best place to learn software development due to the lowered barriers to building. They provide an accessible environment for beginners to gain practical experience and skills. The GitHub Blog highlights their value in fostering learning and creativity."
+      },
+      "summary": "文章指出，如今构建软件的门槛已大幅降低，人人皆可参与。而黑客松（hackathons）仍是学习构建的最佳途径。通过参与黑客松，人们可以快速掌握相关技能。GitHub博客发布此文。"
+    },
+    {
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "pubDate": "Thu, 08 Oct 2026 17:02:52 +0000",
+      "isoDate": "2026-10-08T17:02:52.000Z",
+      "content": "<p>As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.</p>\n<p>The post <a href=\"https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/\">How one bug bounty researcher chooses the features they investigate</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
+      "creator": "Shilpa Kumari",
+      "summaries": {
+        "zh": "GitHub Bug Bounty团队在网络安全意识月期间介绍了漏洞赏金研究员@vaib25vicky，探讨其选择调查GitHub功能的方法、技术和经验。文章标题为《一位漏洞赏金研究员如何选择调查的功能》。",
+        "en": "The GitHub Bug Bounty team highlights @vaib25vicky, a bug bounty researcher, during Cybersecurity Awareness Month. The article explores their methodology, techniques, and experiences hacking on GitHub, focusing on how they select features to investigate. The insights provide a behind-the-scenes look at the process of identifying and assessing potential vulnerabilities in software."
+      },
+      "summary": "GitHub Bug Bounty团队在网络安全意识月期间介绍了漏洞赏金研究员@vaib25vicky，探讨其选择调查GitHub功能的方法、技术和经验。文章标题为《一位漏洞赏金研究员如何选择调查的功能》。"
+    },
+    {
+      "title": "Secret protection must scale with software",
+      "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "pubDate": "Wed, 07 Oct 2026 17:45:34 +0000",
+      "isoDate": "2026-10-07T17:45:34.000Z",
+      "content": "<p>Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/\">Secret protection must scale with software</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with software appeared first on The GitHub Blog.",
+      "creator": "Erin Havens",
+      "summaries": {
+        "zh": "文章标题：《秘密保护必须与软件规模相匹配》\n\n文章内容摘要：开发者并非变得粗心，而是被发展速度甩在身后。让开发者能创建更多软件的工具，也应承担更多保护软件的工作。",
+        "en": "The article argues that as developers create more software, the tools they use must also improve secret protection to keep pace. It states that developers are not becoming less careful but are overwhelmed due to the increasing complexity of software development. The key message is that secret protection must scale with software to ensure security remains effective. The article emphasizes the need for enhanced protective tools to support developers in safeguarding their work."
+      },
+      "summary": "文章标题：《秘密保护必须与软件规模相匹配》\n\n文章内容摘要：开发者并非变得粗心，而是被发展速度甩在身后。让开发者能创建更多软件的工具，也应承担更多保护软件的工作。"
+    },
+    {
+      "title": "Building Git infrastructure for agent-scale development",
+      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "pubDate": "Tue, 06 Oct 2026 20:57:56 +0000",
+      "isoDate": "2026-10-06T20:57:56.000Z",
+      "content": "<p>We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/\">Building Git infrastructure for agent-scale development</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.\nThe post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
+      "creator": "Brian Celenza",
+      "summaries": {
+        "zh": "GitHub正在重建其Git基础设施，同时保持GitHub正常运行，为规模化开发（agent-scale）的软件开发奠定基础。此举旨在提升大规模开发效率和稳定性。",
+        "en": "GitHub is rebuilding its Git infrastructure to support agent-scale software development while maintaining ongoing operations. The initiative aims to create a robust foundation for future growth and scalability. The announcement was originally published on The GitHub Blog."
+      },
+      "summary": "GitHub正在重建其Git基础设施，同时保持GitHub正常运行，为规模化开发（agent-scale）的软件开发奠定基础。此举旨在提升大规模开发效率和稳定性。"
+    },
+    {
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "pubDate": "Mon, 05 Oct 2026 15:59:40 +0000",
+      "isoDate": "2026-10-05T15:59:40.000Z",
+      "content": "<p>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/\">ReviewBench: An open benchmark for AI code review</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nThe post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.",
+      "creator": "Michelle Zhou",
+      "summaries": {
+        "zh": "ReviewBench 是一个面向 AI 代码审查的开放基准，基于 GitHub 拉取请求、多源标注数据、校准评估和与生产环境对齐的指标构建。该基准旨在为代码审查代理提供标准化测试平台。GitHub 官方博客发布此消息。",
+        "en": "ReviewBench is an open benchmark for AI code review, developed using representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. It provides a standardized way to assess the performance of code review agents. The initiative aims to improve the quality and reliability of AI-driven code review tools. The benchmark is publicly available for researchers and developers to use."
+      },
+      "summary": "ReviewBench 是一个面向 AI 代码审查的开放基准，基于 GitHub 拉取请求、多源标注数据、校准评估和与生产环境对齐的指标构建。该基准旨在为代码审查代理提供标准化测试平台。GitHub 官方博客发布此消息。"
+    },
+    {
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-02T15:00:00.000Z",
+      "content": "<p>Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/\">AI is changing developer work. Here are three skills to strengthen.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nThe post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+      "creator": "Gwen Davis",
+      "summaries": {
+        "zh": "人工智能正在重塑开发者职业阶梯。本文介绍了三种方法，帮助开发者在AI变革中脱颖而出，提升职业发展。GitHub博客发布。",
+        "en": "AI is reshaping the developer career ladder, offering new opportunities for growth. To stand out, developers should focus on three key strategies to get noticed and advance their careers. The GitHub Blog highlights these approaches in its post, \"AI is rewriting the developer career ladder. Here’s how to stand out.\" The article emphasizes adapting to AI-driven changes in software development to thrive in the evolving tech landscape."
+      },
+      "summary": "人工智能正在重塑开发者职业阶梯。本文介绍了三种方法，帮助开发者在AI变革中脱颖而出，提升职业发展。GitHub博客发布。"
+    },
+    {
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "pubDate": "Thu, 01 Oct 2026 15:07:16 +0000",
+      "isoDate": "2026-10-01T15:07:16.000Z",
+      "content": "<p>From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/\">10 technical talks I’m excited about at GitHub Universe 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "GitHub Universe 2026将举办10场技术演讲，主题包括验证AI编写代码和保障npm依赖安全。这些演讲将成为演讲者构建议程的重点。",
+        "en": "The article lists 10 technical talks at GitHub Universe 2026, focusing on topics like verifying AI-written code and securing npm dependencies. The author highlights these sessions as key highlights for their agenda. The content emphasizes the importance of addressing AI in coding and dependency security."
+      },
+      "summary": "GitHub Universe 2026将举办10场技术演讲，主题包括验证AI编写代码和保障npm依赖安全。这些演讲将成为演讲者构建议程的重点。"
+    },
+    {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "pubDate": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-29T15:00:00.000Z",
+      "content": "<p>Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/\">Developer policy update: Transparency, state policy, and what’s ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
+      "creator": "Margaret Tucker",
+      "summaries": {
+        "zh": "GitHub发布最新透明度数据，并介绍影响开发者和开源项目的政策更新。文章强调政策透明度和国家政策的重要性，展望未来发展方向。内容涉及政策调整、透明度报告及对开发者的具体影响。",
+        "en": "GitHub released an update on its developer policy, emphasizing transparency and alignment with state policies. The article details new transparency data and upcoming policy changes affecting developers and open-source projects. The focus is on ensuring clarity and compliance while maintaining support for the open-source community. For more details, refer to the GitHub Blog."
+      },
+      "summary": "GitHub发布最新透明度数据，并介绍影响开发者和开源项目的政策更新。文章强调政策透明度和国家政策的重要性，展望未来发展方向。内容涉及政策调整、透明度报告及对开发者的具体影响。"
+    },
+    {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "<p>A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.</p>\n<p>The post <a href=\"https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/\">How we found 24 Android vulnerabilities using our open source AI security agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.\nThe post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+      "creator": "Kevin Stubbings",
+      "summaries": {
+        "zh": "本文介绍了如何利用开源AI安全代理发现24个Android漏洞。内容涵盖目标AI任务流程、关键Android漏洞类型以及如何在自身应用中运行该代理。该代理通过自动化分析识别安全风险，为开发者提供实用工具。文章信息来源于GitHub博客。",
+        "en": "The article details the discovery of 24 Android vulnerabilities using an open-source AI security agent. It explores the targeted AI taskflows behind these findings, highlights critical Android bugs identified, and provides guidance on running the same agent on other apps. The insights are shared by GitHub."
+      },
+      "summary": "本文介绍了如何利用开源AI安全代理发现24个Android漏洞。内容涵盖目标AI任务流程、关键Android漏洞类型以及如何在自身应用中运行该代理。该代理通过自动化分析识别安全风险，为开发者提供实用工具。文章信息来源于GitHub博客。"
+    },
+    {
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "pubDate": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "isoDate": "2026-09-28T17:23:33.000Z",
+      "content": "<p>The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-56/\">Highlights from Git 2.56</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+      "creator": "Elijah Newren",
+      "summaries": {
+        "zh": "Git 2.56已发布，GitHub介绍了其主要新特性和改进。此次更新包含多项优化和功能增强，具体亮点未详细列出。",
+        "en": "Git 2.56 has been released, with GitHub highlighting its key features and changes. The update includes notable improvements and new functionalities, enhancing the open-source version control system. The release builds on previous versions, offering users enhanced performance and usability. GitHub's overview emphasizes the significance of these updates for developers. For more details, readers are directed to the full announcement on The GitHub Blog."
+      },
+      "summary": "Git 2.56已发布，GitHub介绍了其主要新特性和改进。此次更新包含多项优化和功能增强，具体亮点未详细列出。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:36:23.407Z"
+}
