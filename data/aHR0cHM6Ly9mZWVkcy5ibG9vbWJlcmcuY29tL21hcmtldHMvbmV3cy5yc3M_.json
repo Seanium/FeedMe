@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/markets/news.rss",
+  "title": "Bloomberg Markets",
+  "description": "Bloomberg Markets",
+  "link": "http://bloomberg.com/markets/",
+  "items": [
+    {
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "pubDate": "Sat, 17 Oct 2026 14:35:04 GMT",
+      "isoDate": "2026-10-17T14:35:04.000Z",
+      "content": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+      "contentSnippet": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "《Bloomberg周报风险挑战题》推出策略性新闻问答，不仅考验参与者对新闻的了解，还测试其答案的自信度。Lisa Mateo、Christina Ruffini和David Gura参与其中。详情请访问Bloomberg.com。",
+        "en": "Pointed is a strategic news quiz that tests players' knowledge and confidence in their answers. Hosted by Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura, the quiz challenges participants to think critically. Viewers can join in by playing at Bloomberg.com."
+      },
+      "summary": "《Bloomberg周报风险挑战题》推出策略性新闻问答，不仅考验参与者对新闻的了解，还测试其答案的自信度。Lisa Mateo、Christina Ruffini和David Gura参与其中。详情请访问Bloomberg.com。"
+    },
+    {
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+      "pubDate": "Sat, 17 Oct 2026 14:27:13 GMT",
+      "isoDate": "2026-10-17T14:27:13.000Z",
+      "content": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.",
+      "contentSnippet": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.",
+      "creator": "Katherine Schwartz and Josie Reich",
+      "summaries": {
+        "zh": "标题：CoreWeave困境或致AI垃圾债市场关闭：信用周刊\n\n简述：由于CoreWeave公司的问题，科技初创企业寻求融资的垃圾债券买家正逐渐回避，这引发了关于人工智能公司如何获得资金的大规模疑问。",
+        "en": "CoreWeave Inc.'s financial struggles have led to a decline in junk bond investments for AI startups, as buyers become wary. This trend raises concerns about the funding options for AI companies."
+      },
+      "summary": "标题：CoreWeave困境或致AI垃圾债市场关闭：信用周刊\n\n简述：由于CoreWeave公司的问题，科技初创企业寻求融资的垃圾债券买家正逐渐回避，这引发了关于人工智能公司如何获得资金的大规模疑问。"
+    },
+    {
+      "title": "Northwell CEO Says Health Care Model Must Change",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
+      "pubDate": "Sat, 17 Oct 2026 14:03:47 GMT",
+      "isoDate": "2026-10-17T14:03:47.000Z",
+      "content": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prevention and chronic disease. Speaking with hosts David Gura and Lisa Mateo, D’Angelo discusses workforce shortages, the financial pressures facing nonprofit hospitals and how AI could reduce administrative burdens while preserving the human role in consequential medical decisions. (Source: Bloomberg)",
+      "contentSnippet": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prevention and chronic disease. Speaking with hosts David Gura and Lisa Mateo, D’Angelo discusses workforce shortages, the financial pressures facing nonprofit hospitals and how AI could reduce administrative burdens while preserving the human role in consequential medical decisions. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "北井健康总裁兼首席执行官约翰·达尼尔博士表示，美国传统医疗模式不可持续，降低医疗费用需要更注重健康、预防和慢性病管理。他还谈到医疗人员短缺、非营利医院面临的财务压力，以及人工智能如何减轻行政负担，同时保留人类在重大医疗决策中的作用。（来源：彭博社）",
+        "en": "Northwell Health CEO Dr. John D’Angelo tells Bloomberg that the traditional US health care model is unsustainable. He emphasizes the need to focus on wellness, prevention, and chronic disease to improve affordability. D’Angelo also discusses workforce shortages, financial pressures on nonprofit hospitals, and how AI could reduce administrative burdens while maintaining the human role in critical medical decisions. (Source: Bloomberg)"
+      },
+      "summary": "北井健康总裁兼首席执行官约翰·达尼尔博士表示，美国传统医疗模式不可持续，降低医疗费用需要更注重健康、预防和慢性病管理。他还谈到医疗人员短缺、非营利医院面临的财务压力，以及人工智能如何减轻行政负担，同时保留人类在重大医疗决策中的作用。（来源：彭博社）"
+    },
+    {
+      "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
+      "pubDate": "Sat, 17 Oct 2026 14:03:13 GMT",
+      "isoDate": "2026-10-17T14:03:13.000Z",
+      "content": "Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-level view of inflation pressures that may emerge before they are fully reflected in national data. (Source: Bloomberg)",
+      "contentSnippet": "Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-level view of inflation pressures that may emerge before they are fully reflected in national data. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "芝加哥联储主席古尔斯比赴伊利诺伊州农村地区，直接听取农民反映的农产品价格下跌及燃料、化肥等成本上涨问题。这些谈话为美联储提供了通胀压力的一线视角，这些压力可能在全面反映于国家数据前就已存在。（来源：彭博）",
+        "en": "The Chicago Fed President Austan Goolsbee visited rural Illinois to discuss inflation challenges faced by farmers, including low crop prices and rising costs for fuel and fertilizer. These firsthand accounts provide the Fed with early insights into inflationary pressures before they appear in national data. The visit highlights the Fed's effort to understand localized economic impacts."
+      },
+      "summary": "芝加哥联储主席古尔斯比赴伊利诺伊州农村地区，直接听取农民反映的农产品价格下跌及燃料、化肥等成本上涨问题。这些谈话为美联储提供了通胀压力的一线视角，这些压力可能在全面反映于国家数据前就已存在。（来源：彭博）"
+    },
+    {
+      "title": "Freeland Warns US Alliances Are Fraying",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+      "pubDate": "Sat, 17 Oct 2026 13:39:38 GMT",
+      "isoDate": "2026-10-17T13:39:38.000Z",
+      "content": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking with hosts David Gura and Christina Ruffini, Freeland discusses Alberta’s separatist movement, President Donald Trump’s approach to Russia and Ukraine, and lessons from her negotiations with the US that inform her new book, Unreliable Boyfriend. (Source: Bloomberg)",
+      "contentSnippet": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking with hosts David Gura and Christina Ruffini, Freeland discusses Alberta’s separatist movement, President Donald Trump’s approach to Russia and Ukraine, and lessons from her negotiations with the US that inform her new book, Unreliable Boyfriend. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "前加拿大副总理弗里兰在接受彭博社采访时警告称，加拿大及其他民主国家需减少对美国依赖，同时保持重建西方联盟的开放态度。她还讨论了阿尔伯塔省分离主义运动、特朗普政府对俄乌政策，以及与美国谈判的经验（来源：彭博社）。",
+        "en": "Former Canadian Deputy Prime Minister Chrystia Freeland warns that US alliances are fraying, urging Canada and other democracies to reduce reliance on the US while remaining open to rebuilding Western alliances. In a Bloomberg interview, she discusses Alberta’s separatist movement, President Trump’s approach to Russia and Ukraine, and insights from her US negotiations for her book, \"Unreliable Boyfriend.\" (Source: Bloomberg)"
+      },
+      "summary": "前加拿大副总理弗里兰在接受彭博社采访时警告称，加拿大及其他民主国家需减少对美国依赖，同时保持重建西方联盟的开放态度。她还讨论了阿尔伯塔省分离主义运动、特朗普政府对俄乌政策，以及与美国谈判的经验（来源：彭博社）。"
+    },
+    {
+      "title": "Sports Fashion Finds a Growing Female Audience ",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+      "pubDate": "Sat, 17 Oct 2026 13:17:32 GMT",
+      "isoDate": "2026-10-17T13:17:32.000Z",
+      "content": "Terez founder and CEO Zara Terez Tisch tells Bloomberg This Weekend how the growing number of women sports fans is creating new demand for fashionable team apparel and expanding opportunities for her company across professional sports.  (Source: Bloomberg)",
+      "contentSnippet": "Terez founder and CEO Zara Terez Tisch tells Bloomberg This Weekend how the growing number of women sports fans is creating new demand for fashionable team apparel and expanding opportunities for her company across professional sports.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "运动时尚正吸引越来越多的女性受众。Terez创始人兼CEO扎拉·泰雷兹·蒂施表示，女性体育迷数量的增长推动了时尚球队服装的需求，为公司拓展职业体育市场创造了新机遇。来源：彭博社。",
+        "en": "Sports fashion is gaining popularity among women, driving demand for stylish team apparel. Zara Terez Tisch, founder and CEO of Terez, notes this trend creates new opportunities for her company in professional sports, as more female fans seek fashionable sports gear. (Source: Bloomberg)"
+      },
+      "summary": "运动时尚正吸引越来越多的女性受众。Terez创始人兼CEO扎拉·泰雷兹·蒂施表示，女性体育迷数量的增长推动了时尚球队服装的需求，为公司拓展职业体育市场创造了新机遇。来源：彭博社。"
+    },
+    {
+      "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+      "pubDate": "Sat, 17 Oct 2026 02:34:29 GMT",
+      "isoDate": "2026-10-17T02:34:29.000Z",
+      "content": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over the country’s voter rolls keeps New Delhi on edge.",
+      "contentSnippet": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over the country’s voter rolls keeps New Delhi on edge.",
+      "creator": "Asmi Bhatia and Akriti Sharma",
+      "summaries": {
+        "zh": "印度“蟑螂”抗议运动发起人因选民名册争议被警方拘留，将于周六出庭。该事件引发印度首都紧张局势，抗议活动持续升级。",
+        "en": "The founder of India’s “Cockroach” protest movement faces court after police custody over a dispute about voter lists. The situation adds to tensions in New Delhi as the voter roll issue escalates."
+      },
+      "summary": "印度“蟑螂”抗议运动发起人因选民名册争议被警方拘留，将于周六出庭。该事件引发印度首都紧张局势，抗议活动持续升级。"
+    },
+    {
+      "title": "By The Way: Headlines You May Have Missed",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
+      "pubDate": "Sat, 17 Oct 2026 12:51:57 GMT",
+      "isoDate": "2026-10-17T12:51:57.000Z",
+      "content": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+      "contentSnippet": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "《顺便说说：你可能错过的头条新闻》一文回顾了特斯拉Roadster、扎克伯格与一夸脱威士忌的对比、退休人员减少娱乐消费以及AI产生虚假记忆等新闻。主持人Lisa Mateo、David Gura和Christina Ruffini对这些可能被忽略但值得关注的热点新闻进行了总结。来源：彭博社。",
+        "en": "The article highlights missed headlines including Tesla's Roadster, Zuckerberg's Guinness, retirees cutting pleasure spending, and AI creating false memories. Hosts Lisa Mateo, David Gura, and Christina Ruffini provide a roundup of these stories. (Source: Bloomberg)"
+      },
+      "summary": "《顺便说说：你可能错过的头条新闻》一文回顾了特斯拉Roadster、扎克伯格与一夸脱威士忌的对比、退休人员减少娱乐消费以及AI产生虚假记忆等新闻。主持人Lisa Mateo、David Gura和Christina Ruffini对这些可能被忽略但值得关注的热点新闻进行了总结。来源：彭博社。"
+    },
+    {
+      "title": "Global Aid Cuts Deepen Humanitarian Strain",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+      "pubDate": "Sat, 17 Oct 2026 12:44:18 GMT",
+      "isoDate": "2026-10-17T12:44:18.000Z",
+      "content": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises intensify around the world. Speaking with hosts David Gura and Christina Ruffini, Miliband discusses conditions in Ukraine, Yemen and Sudan, the challenge of containing disease outbreaks and the potential benefits and risks of AI in humanitarian work. (Source: Bloomberg)",
+      "contentSnippet": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises intensify around the world. Speaking with hosts David Gura and Christina Ruffini, Miliband discusses conditions in Ukraine, Yemen and Sudan, the challenge of containing disease outbreaks and the potential benefits and risks of AI in humanitarian work. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "美国和欧洲援助削减加剧全球人道主义危机。国际救援委员会主席戴维·米利班德表示，随着冲突和危机加剧，援助削减削弱了人道主义响应能力。他还讨论了乌克兰、也门和苏丹局势，疾病防控及人工智能在人道工作中的利弊。(源自彭博社)",
+        "en": "Cuts in US and European aid are weakening global humanitarian efforts as conflicts and crises intensify, according to International Rescue Committee CEO David Miliband. He highlighted challenges in Ukraine, Yemen, and Sudan, disease outbreaks, and AI's role in humanitarian work during a Bloomberg interview. The reductions in funding strain relief operations worldwide."
+      },
+      "summary": "美国和欧洲援助削减加剧全球人道主义危机。国际救援委员会主席戴维·米利班德表示，随着冲突和危机加剧，援助削减削弱了人道主义响应能力。他还讨论了乌克兰、也门和苏丹局势，疾病防控及人工智能在人道工作中的利弊。(源自彭博社)"
+    },
+    {
+      "title": "Rockstar Rebuilt Itself to Make GTA VI",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
+      "pubDate": "Sat, 17 Oct 2026 12:15:53 GMT",
+      "isoDate": "2026-10-17T12:15:53.000Z",
+      "content": "Bloomberg News video game reporter Jason Schreier tells Bloomberg This Weekend how Rockstar Games nearly doubled its workforce and overhauled its production culture while building the highly anticipated Grand Theft Auto VI. Speaking with hosts Christina Ruffini and Lisa Mateo, Schreier explains Rockstar’s efforts to curb excessive overtime, the extraordinary commercial expectations for the game and why the company believes its next major release could take less time to develop. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg News video game reporter Jason Schreier tells Bloomberg This Weekend how Rockstar Games nearly doubled its workforce and overhauled its production culture while building the highly anticipated Grand Theft Auto VI. Speaking with hosts Christina Ruffini and Lisa Mateo, Schreier explains Rockstar’s efforts to curb excessive overtime, the extraordinary commercial expectations for the game and why the company believes its next major release could take less time to develop. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "报道指出，Rockstar Games为开发备受期待的《侠盗猎车手VI》，几乎将员工数量翻了一番，并彻底改革了生产文化。据Bloomberg记者Jason Schreier介绍，公司着力控制过度加班，并寄予游戏极高的商业期望。Rockstar认为，下一款大作的开发周期可能更短。",
+        "en": "Rockstar Games rebuilt itself to develop Grand Theft Auto VI by nearly doubling its workforce and overhauling its production culture. The company focused on curbing excessive overtime and set high commercial expectations for the game. Rockstar believes its next major release could take less time to develop. (Source: Bloomberg)"
+      },
+      "summary": "报道指出，Rockstar Games为开发备受期待的《侠盗猎车手VI》，几乎将员工数量翻了一番，并彻底改革了生产文化。据Bloomberg记者Jason Schreier介绍，公司着力控制过度加班，并寄予游戏极高的商业期望。Rockstar认为，下一款大作的开发周期可能更短。"
+    },
+    {
+      "title": "Trump Puts New Russia Sanctions on Hold",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
+      "pubDate": "Sat, 17 Oct 2026 11:49:42 GMT",
+      "isoDate": "2026-10-17T11:49:42.000Z",
+      "content": "Bloomberg News Russia economy and government editor Anthony Halpin and White House correspondent Jeff Mason tell Bloomberg This Weekend that President Donald Trump’s waiver of new Russia sanctions could offer Moscow economic and diplomatic opportunities while adding pressure on Ukraine. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg News Russia economy and government editor Anthony Halpin and White House correspondent Jeff Mason tell Bloomberg This Weekend that President Donald Trump’s waiver of new Russia sanctions could offer Moscow economic and diplomatic opportunities while adding pressure on Ukraine. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "特朗普暂停实施对俄新制裁。据彭博报道，此举可能为莫斯科带来经济和外交机遇，同时增加对乌克兰的压力。",
+        "en": "President Donald Trump has put new Russia sanctions on hold, according to Bloomberg News. The waiver could provide economic and diplomatic benefits for Moscow while increasing pressure on Ukraine. The decision was reported by White House correspondent Jeff Mason and Russia economy editor Anthony Halpin."
+      },
+      "summary": "特朗普暂停实施对俄新制裁。据彭博报道，此举可能为莫斯科带来经济和外交机遇，同时增加对乌克兰的压力。"
+    },
+    {
+      "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
+      "pubDate": "Sat, 17 Oct 2026 11:08:37 GMT",
+      "isoDate": "2026-10-17T11:08:37.000Z",
+      "content": "Stellantis NV Chief Engineering and Technology Officer Ned Curic plans to continue hiring more engineers as the automaker rolls out dozens of new models as part of its turnaround plan.",
+      "contentSnippet": "Stellantis NV Chief Engineering and Technology Officer Ned Curic plans to continue hiring more engineers as the automaker rolls out dozens of new models as part of its turnaround plan.",
+      "creator": "Albertina Torsoli",
+      "summaries": {
+        "zh": "斯泰兰蒂斯计划在欧洲和美国再招聘数百名工程师。公司首席工程与技术官内德·库里奇表示，随着斯泰兰蒂斯推出数十款新车型，作为其转型计划的一部分，将继续扩大工程师团队。",
+        "en": "Stellantis NV aims to hire hundreds more engineers in Europe and the US. The automaker is expanding its workforce as part of a turnaround plan, which includes launching dozens of new models. The hiring initiative is led by Chief Engineering and Technology Officer Ned Curic."
+      },
+      "summary": "斯泰兰蒂斯计划在欧洲和美国再招聘数百名工程师。公司首席工程与技术官内德·库里奇表示，随着斯泰兰蒂斯推出数十款新车型，作为其转型计划的一部分，将继续扩大工程师团队。"
+    },
+    {
+      "title": "Oil Trader Yaoyao Liu Who Made Billions for Vitol Is Leaving",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
+      "pubDate": "Sat, 17 Oct 2026 10:31:20 GMT",
+      "isoDate": "2026-10-17T10:31:20.000Z",
+      "content": "Yaoyao Liu, whose trading in oil derivatives made billions of dollars for Vitol Group over a career marked by dramatic highs and lows, is leaving the commodities trading giant.",
+      "contentSnippet": "Yaoyao Liu, whose trading in oil derivatives made billions of dollars for Vitol Group over a career marked by dramatic highs and lows, is leaving the commodities trading giant.",
+      "creator": "Alfred Cang, Archie Hunter, Lucia Kassai and Jack Farchy",
+      "summaries": {
+        "zh": "刘瑶瑶，这位在石油衍生品交易中为维多集团赚取数十亿美元的油商，已离开这家商品交易巨头。她职业生涯充满戏剧性起伏，如今选择离开。",
+        "en": "Yaoyao Liu, a successful oil trader for Vitol Group who generated billions in profits through oil derivatives trading, is departing the commodities trading company. Her career at Vitol was marked by significant achievements and challenges."
+      },
+      "summary": "刘瑶瑶，这位在石油衍生品交易中为维多集团赚取数十亿美元的油商，已离开这家商品交易巨头。她职业生涯充满戏剧性起伏，如今选择离开。"
+    },
+    {
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+      "pubDate": "Sat, 17 Oct 2026 08:00:00 GMT",
+      "isoDate": "2026-10-17T08:00:00.000Z",
+      "content": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded as the great American novel. Or the work of economist Hyman Minsky, which became influential a decade after his death, when the 2008 financial crisis made “the Minsky Moment”a mainstream term. These are just a couple of the things we talk about with the legendary musician David Byrne on today’s podcast. Byrne’s new book",
+      "contentSnippet": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded as the great American novel. Or the work of economist Hyman Minsky, which became influential a decade after his death, when the 2008 financial crisis made “the Minsky Moment”a mainstream term. These are just a couple of the things we talk about with the legendary musician David Byrne on today’s podcast. Byrne’s new book",
+      "creator": "Joe Weisenthal and Tracy Alloway",
+      "summaries": {
+        "zh": "历史中不乏被遗忘又被重新拾起的想法。例如《白鲸》在作者时代被忽视，如今被视为美国伟大小说；经济学家海曼·明斯基的学说在2008年金融危机后成为主流术语。传奇音乐人大卫·伯恩在最新播客中探讨了这一现象，并分享了其新书籍的相关内容。",
+        "en": "David Byrne discusses how forgotten ideas resurface in history, citing examples like *Moby-Dick* and economist Hyman Minsky’s theories. Minsky’s work gained prominence posthumously during the 2008 financial crisis, highlighting the cyclical nature of overlooked concepts. Byrne explores this phenomenon in his new book, reflecting on past innovations and their eventual revival. The conversation underscores the recurring relevance of previously dismissed ideas."
+      },
+      "summary": "历史中不乏被遗忘又被重新拾起的想法。例如《白鲸》在作者时代被忽视，如今被视为美国伟大小说；经济学家海曼·明斯基的学说在2008年金融危机后成为主流术语。传奇音乐人大卫·伯恩在最新播客中探讨了这一现象，并分享了其新书籍的相关内容。"
+    },
+    {
+      "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
+      "pubDate": "Sat, 17 Oct 2026 05:35:22 GMT",
+      "isoDate": "2026-10-17T05:35:22.000Z",
+      "content": "China’s top anti-graft authorities warned that officials who engage in corruption cannot expect a “safe landing,” regardless of their rank, past contributions or whether they’ve retired, according to a commentary from the CPC Central Commission for Discipline Inspection and National Commission of Supervision.",
+      "contentSnippet": "China’s top anti-graft authorities warned that officials who engage in corruption cannot expect a “safe landing,” regardless of their rank, past contributions or whether they’ve retired, according to a commentary from the CPC Central Commission for Discipline Inspection and National Commission of Supervision.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国最高反腐机构发表评论称，无论官员级别、贡献大小或是否已退休，腐败者均无法逃脱惩罚，不会得到“安全着陆”。该警告来自中共中央纪律检查委员会和国家监察委员会。",
+        "en": "China's top anti-graft authorities have issued a warning that corrupt officials will not receive a \"safe landing.\" The warning, from the CPC Central Commission for Discipline Inspection and National Commission of Supervision, states that officials of any rank, past contributions, or retirement status are not immune from consequences. The commentary emphasizes that corruption will not be tolerated, and officials engaging in such behavior can expect legal action."
+      },
+      "summary": "中国最高反腐机构发表评论称，无论官员级别、贡献大小或是否已退休，腐败者均无法逃脱惩罚，不会得到“安全着陆”。该警告来自中共中央纪律检查委员会和国家监察委员会。"
+    },
+    {
+      "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+      "pubDate": "Sat, 17 Oct 2026 05:22:12 GMT",
+      "isoDate": "2026-10-17T05:22:12.000Z",
+      "content": "Japanese Prime Minister Sanae Takaichi said she plans to attend the APEC leaders summit hosted by China if parliament permits, confirming her willingness to visit amid a deep freeze of ties between the two Asian economies.",
+      "contentSnippet": "Japanese Prime Minister Sanae Takaichi said she plans to attend the APEC leaders summit hosted by China if parliament permits, confirming her willingness to visit amid a deep freeze of ties between the two Asian economies.",
+      "creator": "Sakura Murakami",
+      "summaries": {
+        "zh": "日本首相高桥礼子表示，若国会批准，她将出席中国主办亚太经合组织领导人峰会。此举显示，在两国亚洲经济关系冻结的背景下，她仍有意访华。",
+        "en": "Japanese Prime Minister Sanae Takaichi plans to attend the APEC leaders summit in China, contingent on parliamentary approval. Her intention to visit comes as relations between Japan and China remain strained. The summit is hosted by China, and Takaichi's participation would signal a potential thaw in diplomatic ties, though no details on policy changes were provided. The decision reflects Japan's cautious approach to engaging with China amid ongoing economic and political tensions."
+      },
+      "summary": "日本首相高桥礼子表示，若国会批准，她将出席中国主办亚太经合组织领导人峰会。此举显示，在两国亚洲经济关系冻结的背景下，她仍有意访华。"
+    },
+    {
+      "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
+      "pubDate": "Sat, 17 Oct 2026 04:55:30 GMT",
+      "isoDate": "2026-10-17T04:55:30.000Z",
+      "content": "Canadian billionaire Prem Watsa is betting that his Fairfax Financial Holdings Ltd.’s acquisition of IDBI Bank Ltd. will pay off given India’s growth prospects, the Economic Times reported.",
+      "contentSnippet": "Canadian billionaire Prem Watsa is betting that his Fairfax Financial Holdings Ltd.’s acquisition of IDBI Bank Ltd. will pay off given India’s growth prospects, the Economic Times reported.",
+      "creator": "Siddhi Nayak",
+      "summaries": {
+        "zh": "加拿大亿万富翁Prem Watsa预计，鉴于印度的增长前景，Fairfax Financial Holdings Ltd.收购IDBI Bank Ltd.将获得回报。经济时报报道。",
+        "en": "Prem Watsa of Fairfax Financial Holdings is betting on the success of its IDBI Bank acquisition amid India's growing economy, according to the Economic Times. The report highlights Watsa's confidence in the payoff, driven by India's growth prospects. No further details are provided."
+      },
+      "summary": "加拿大亿万富翁Prem Watsa预计，鉴于印度的增长前景，Fairfax Financial Holdings Ltd.收购IDBI Bank Ltd.将获得回报。经济时报报道。"
+    },
+    {
+      "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
+      "pubDate": "Sat, 17 Oct 2026 04:50:55 GMT",
+      "isoDate": "2026-10-17T04:50:55.000Z",
+      "content": "India has ordered state-owned fuel retailers to stop procuring ethanol made from sugar and key sugarcane-based feedstocks in move that may help keep a lid on prices of the sweetener.",
+      "contentSnippet": "India has ordered state-owned fuel retailers to stop procuring ethanol made from sugar and key sugarcane-based feedstocks in move that may help keep a lid on prices of the sweetener.",
+      "creator": "Rakesh Sharma and Pratik Parija",
+      "summaries": {
+        "zh": "印度政府已下令国有燃料零售商停止采购糖类和甘蔗原料制成的乙醇，此举旨在帮助稳定糖价。该决定与厄尔尼诺现象导致农作物受损有关。",
+        "en": "India has halted the diversion of sugar to ethanol production, instructing state-owned fuel retailers to cease procuring ethanol made from sugar and sugarcane-based feedstocks. This decision aims to stabilize sugar prices, which have been affected by crop losses caused by the El Niño weather phenomenon. The move is expected to help maintain market balance and prevent further price increases in the sugar sector."
+      },
+      "summary": "印度政府已下令国有燃料零售商停止采购糖类和甘蔗原料制成的乙醇，此举旨在帮助稳定糖价。该决定与厄尔尼诺现象导致农作物受损有关。"
+    },
+    {
+      "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
+      "pubDate": "Sat, 17 Oct 2026 03:38:15 GMT",
+      "isoDate": "2026-10-17T03:38:15.000Z",
+      "content": "China is encouraging cinemas to screen major sporting events, host sports activities and sell sports lottery tickets as part of a drive to link moviegoing with sports consumption, according to a notice from the National Film Administration and General Administration of Sport.",
+      "contentSnippet": "China is encouraging cinemas to screen major sporting events, host sports activities and sell sports lottery tickets as part of a drive to link moviegoing with sports consumption, according to a notice from the National Film Administration and General Administration of Sport.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国电影局和国家体育总局联合发文，鼓励影院播放重大体育赛事、举办体育活动并销售体育彩票，旨在将观影与体育消费相结合。此举旨在推动影院多元化经营，提升观众体验。",
+        "en": "China's National Film Administration and General Administration of Sport are urging cinemas to integrate sports events, activities, and lottery sales to boost sports consumption alongside movie screenings. The initiative aims to combine entertainment and sports experiences for audiences."
+      },
+      "summary": "中国电影局和国家体育总局联合发文，鼓励影院播放重大体育赛事、举办体育活动并销售体育彩票，旨在将观影与体育消费相结合。此举旨在推动影院多元化经营，提升观众体验。"
+    },
+    {
+      "title": "Indonesia Unveils $117 Million in Fines After MSCI Warning",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
+      "pubDate": "Fri, 16 Oct 2026 09:40:58 GMT",
+      "isoDate": "2026-10-16T09:40:58.000Z",
+      "content": "Indonesia announced about $117 million in fines tied to manipulative market practices involving three companies, hours after global index provider MSCI Inc. said it was weighing a downgrade of the country’s stock market over investability concerns.",
+      "contentSnippet": "Indonesia announced about $117 million in fines tied to manipulative market practices involving three companies, hours after global index provider MSCI Inc. said it was weighing a downgrade of the country’s stock market over investability concerns.",
+      "creator": "Prima Wirayani and Norman Harsono",
+      "summaries": {
+        "zh": "印尼宣布对三家公司处以约1.17亿美元的罚款，涉及操纵市场行为。此举发生在MSCI公司考虑下调印尼股市评级，因担忧其投资价值之际。",
+        "en": "Indonesia announced fines totaling $117 million for manipulative market practices involving three companies. This followed a warning from MSCI Inc., which is considering downgrading Indonesia's stock market due to investability concerns. The fines highlight regulatory action amid growing scrutiny over market integrity."
+      },
+      "summary": "印尼宣布对三家公司处以约1.17亿美元的罚款，涉及操纵市场行为。此举发生在MSCI公司考虑下调印尼股市评级，因担忧其投资价值之际。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:11.405Z"
+}

@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "The next developer interface is ambient intelligence",
+      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "pubDate": "Thu, 15 Oct 2026 19:39:27 +0000",
+      "isoDate": "2026-10-15T19:39:27.000Z",
+      "content": "<p>AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/\">The next developer interface is ambient intelligence</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.\nThe post The next developer interface is ambient intelligence appeared first on The GitHub Blog.",
+      "creator": "Martin Woodward",
+      "summaries": {
+        "zh": "下一代开发者界面将是环境智能。人工智能、代理、语音和物理控制正将软件开发从工具转变为表达意图，帮助开发者更专注地构建。",
+        "en": "The next developer interface is ambient intelligence, blending AI, agents, voice, and physical controls to shift software development from tool-based operations to intent-driven creation. This approach helps developers focus on building while leveraging advanced technologies for a more intuitive and efficient workflow."
+      },
+      "summary": "下一代开发者界面将是环境智能。人工智能、代理、语音和物理控制正将软件开发从工具转变为表达意图，帮助开发者更专注地构建。"
+    },
+    {
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-15T18:00:00.000Z",
+      "content": "<p>Put native GitHub features to work to review outside collaborator access and archive stale repositories.</p>\n<p>The post <a href=\"https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/\">Staying Evergreen: How we automated secure access and repo hygiene in a shared org</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
+      "creator": "Greg Mohler",
+      "summaries": {
+        "zh": "本文介绍了如何利用GitHub原生功能自动化管理共享组织中的安全访问和仓库维护。通过审查外部协作者的访问权限和归档过期仓库，实现了持续的安全性和仓库整洁。",
+        "en": "The article \"Staying Evergreen: How we automated secure access and repo hygiene in a shared org\" discusses using native GitHub features to review external collaborator access and archive stale repositories. The goal is to improve security and organization efficiency in a shared GitHub environment. The methods leverage built-in tools to automate these processes."
+      },
+      "summary": "本文介绍了如何利用GitHub原生功能自动化管理共享组织中的安全访问和仓库维护。通过审查外部协作者的访问权限和归档过期仓库，实现了持续的安全性和仓库整洁。"
+    },
+    {
+      "title": "GitHub availability report: September 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "pubDate": "Wed, 14 Oct 2026 20:01:35 +0000",
+      "isoDate": "2026-10-14T20:01:35.000Z",
+      "content": "<p>In September, we experienced two incidents that resulted in degraded performance across GitHub services.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-september-2026/\">GitHub availability report: September 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summaries": {
+        "zh": "2026年9月GitHub可用性报告显示，该月发生两次事件导致服务性能下降。报告来自GitHub博客。",
+        "en": "GitHub reported two incidents in September 2026 that caused degraded performance across its services. The availability report confirmed these events, noting their impact on service reliability during the month. No further details on the incidents or resolutions were provided."
+      },
+      "summary": "2026年9月GitHub可用性报告显示，该月发生两次事件导致服务性能下降。报告来自GitHub博客。"
+    },
+    {
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "pubDate": "Wed, 14 Oct 2026 19:11:33 +0000",
+      "isoDate": "2026-10-14T19:11:33.000Z",
+      "content": "<p>Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/\">From 2,500 requests to 24: Rebuilding star history without the stargazers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
+      "creator": "Taylor Cuilty",
+      "summaries": {
+        "zh": "新发布的星标历史API通过不返回个人身份和避免无界数据库工作，实现了趋势分析。该API通过工程权衡优化了性能，将请求量从2500次减少至24次。GitHub博客发布了题为《从2500请求到24：无需星标者重建星标历史》的文章，介绍了相关技术细节。",
+        "en": "The GitHub Blog announces a new repo star history API that delivers trends without exposing individual user identities or relying on unlimited database queries. The article details the engineering tradeoffs made to optimize performance, reducing requests from 2,500 to 24. This update enhances efficiency while maintaining functionality."
+      },
+      "summary": "新发布的星标历史API通过不返回个人身份和避免无界数据库工作，实现了趋势分析。该API通过工程权衡优化了性能，将请求量从2500次减少至24次。GitHub博客发布了题为《从2500请求到24：无需星标者重建星标历史》的文章，介绍了相关技术细节。"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "pubDate": "Tue, 13 Oct 2026 17:56:33 +0000",
+      "isoDate": "2026-10-13T17:56:33.000Z",
+      "content": "<p>GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/\">GitHub’s model for secret detection: Finding more secrets with less noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
+      "creator": "Batu Ozturkler",
+      "summaries": {
+        "zh": "GitHub推出了一种上下文感知的秘密分类器，通过减少噪音提高了检测质量，将加权接受率提升了11.5%，并将中位数扫描执行时间缩短了86%。该技术有效提升了秘密检测的效率和准确性。",
+        "en": "GitHub introduced a context-aware secret classifier to enhance secret detection. The model improves detection quality, increases weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The update aims to identify more secrets while minimizing false positives. The announcement was made on The GitHub Blog."
+      },
+      "summary": "GitHub推出了一种上下文感知的秘密分类器，通过减少噪音提高了检测质量，将加权接受率提升了11.5%，并将中位数扫描执行时间缩短了86%。该技术有效提升了秘密检测的效率和准确性。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "pubDate": "Mon, 12 Oct 2026 17:43:59 +0000",
+      "isoDate": "2026-10-12T17:43:59.000Z",
+      "content": "<p>Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/\">GitHub Copilot app for Beginners: How to teach Copilot about your codebase</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "GitHub Copilot应用入门：如何教会Copilot了解您的代码库。本文介绍了如何为仓库添加自定义指令和技能，使用自定义代理，以及连接MCP服务器（如Playwright）。",
+        "en": "The article \"GitHub Copilot app for Beginners: How to teach Copilot about your codebase\" from The GitHub Blog explains how to customize GitHub Copilot for a specific codebase. It covers adding custom instructions and skills to repositories, using custom agents, and integrating MCP servers like Playwright. These methods help tailor Copilot's suggestions to fit the project's unique requirements."
+      },
+      "summary": "GitHub Copilot应用入门：如何教会Copilot了解您的代码库。本文介绍了如何为仓库添加自定义指令和技能，使用自定义代理，以及连接MCP服务器（如Playwright）。"
+    },
+    {
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-09T16:00:00.000Z",
+      "content": "<p>The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/\">Hack the World: Why hackathons are still the best place to learn to build</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.\nThe post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog.",
+      "creator": "Ed Summers",
+      "summaries": {
+        "zh": "文章指出，如今构建软件的门槛已大幅降低，人人皆可参与。而黑客松（hackathons）仍是学习构建的最佳途径。通过参与黑客松，人们可以快速掌握相关技能。GitHub博客发布此文。",
+        "en": "Hackathons remain the best place to learn software development due to the lowered barriers to building. They provide an accessible environment for beginners to gain practical experience and skills. The GitHub Blog highlights their value in fostering learning and creativity."
+      },
+      "summary": "文章指出，如今构建软件的门槛已大幅降低，人人皆可参与。而黑客松（hackathons）仍是学习构建的最佳途径。通过参与黑客松，人们可以快速掌握相关技能。GitHub博客发布此文。"
+    },
+    {
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "pubDate": "Thu, 08 Oct 2026 17:02:52 +0000",
+      "isoDate": "2026-10-08T17:02:52.000Z",
+      "content": "<p>As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.</p>\n<p>The post <a href=\"https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/\">How one bug bounty researcher chooses the features they investigate</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
+      "creator": "Shilpa Kumari",
+      "summaries": {
+        "zh": "GitHub Bug Bounty团队在网络安全意识月期间介绍了漏洞赏金研究员@vaib25vicky，探讨其选择调查GitHub功能的方法、技术和经验。文章标题为《一位漏洞赏金研究员如何选择调查的功能》。",
+        "en": "The GitHub Bug Bounty team highlights @vaib25vicky, a bug bounty researcher, during Cybersecurity Awareness Month. The article explores their methodology, techniques, and experiences hacking on GitHub, focusing on how they select features to investigate. The insights provide a behind-the-scenes look at the process of identifying and assessing potential vulnerabilities in software."
+      },
+      "summary": "GitHub Bug Bounty团队在网络安全意识月期间介绍了漏洞赏金研究员@vaib25vicky，探讨其选择调查GitHub功能的方法、技术和经验。文章标题为《一位漏洞赏金研究员如何选择调查的功能》。"
+    },
+    {
+      "title": "Secret protection must scale with software",
+      "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "pubDate": "Wed, 07 Oct 2026 17:45:34 +0000",
+      "isoDate": "2026-10-07T17:45:34.000Z",
+      "content": "<p>Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/\">Secret protection must scale with software</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with software appeared first on The GitHub Blog.",
+      "creator": "Erin Havens",
+      "summaries": {
+        "zh": "文章标题：《秘密保护必须与软件规模相匹配》\n\n文章内容摘要：开发者并非变得粗心，而是被发展速度甩在身后。让开发者能创建更多软件的工具，也应承担更多保护软件的工作。",
+        "en": "The article argues that as developers create more software, the tools they use must also improve secret protection to keep pace. It states that developers are not becoming less careful but are overwhelmed due to the increasing complexity of software development. The key message is that secret protection must scale with software to ensure security remains effective. The article emphasizes the need for enhanced protective tools to support developers in safeguarding their work."
+      },
+      "summary": "文章标题：《秘密保护必须与软件规模相匹配》\n\n文章内容摘要：开发者并非变得粗心，而是被发展速度甩在身后。让开发者能创建更多软件的工具，也应承担更多保护软件的工作。"
+    },
+    {
+      "title": "Building Git infrastructure for agent-scale development",
+      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "pubDate": "Tue, 06 Oct 2026 20:57:56 +0000",
+      "isoDate": "2026-10-06T20:57:56.000Z",
+      "content": "<p>We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/\">Building Git infrastructure for agent-scale development</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.\nThe post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
+      "creator": "Brian Celenza",
+      "summaries": {
+        "zh": "GitHub正在重建其Git基础设施，同时保持GitHub正常运行，为规模化开发（agent-scale）的软件开发奠定基础。此举旨在提升大规模开发效率和稳定性。",
+        "en": "GitHub is rebuilding its Git infrastructure to support agent-scale software development while maintaining ongoing operations. The initiative aims to create a robust foundation for future growth and scalability. The announcement was originally published on The GitHub Blog."
+      },
+      "summary": "GitHub正在重建其Git基础设施，同时保持GitHub正常运行，为规模化开发（agent-scale）的软件开发奠定基础。此举旨在提升大规模开发效率和稳定性。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:24.124Z"
+}

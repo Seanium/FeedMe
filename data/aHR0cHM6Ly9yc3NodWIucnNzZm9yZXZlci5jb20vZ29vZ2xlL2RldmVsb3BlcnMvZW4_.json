@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Three layers, one repo: a tour of google/adk-recipes",
+      "link": "https://developers.googleblog.com/en/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "pubDate": "Wed, 14 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-14T16:00:00.000Z",
+      "content": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure.",
+      "contentSnippet": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌的/adk-recipes仓库将代理开发工具包（ADK）资源整合为三个结构化层级：核心层、插件层和贡献层，作为构建AI代理的单一事实来源。开发者可利用参考模式，将模块化垂直技能（如零售产品搜索和虚拟试穿）直接安装到代码助手中，并在多种语言环境中部署生产就绪服务。这种统一结构简化了从初始脚手架到在Google云基础设施上完整部署的整个工作流程。",
+        "en": "The google/adk-recipes repository organizes Agent Development Kit (ADK) resources into three layers: core/, plugins/, and contrib/. It provides a unified source for building AI agents, enabling developers to use reference patterns, integrate modular skills (e.g., retail search, virtual try-on), and deploy production-ready services across multiple languages. The structured approach simplifies workflow from scaffolding to deployment on Google Cloud."
+      },
+      "summary": "谷歌的/adk-recipes仓库将代理开发工具包（ADK）资源整合为三个结构化层级：核心层、插件层和贡献层，作为构建AI代理的单一事实来源。开发者可利用参考模式，将模块化垂直技能（如零售产品搜索和虚拟试穿）直接安装到代码助手中，并在多种语言环境中部署生产就绪服务。这种统一结构简化了从初始脚手架到在Google云基础设施上完整部署的整个工作流程。"
+    },
+    {
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "link": "https://developers.googleblog.com/en/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "pubDate": "Wed, 14 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-14T16:00:00.000Z",
+      "content": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+      "contentSnippet": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌OAuth平台现支持DPoP协议，用于约束刷新令牌，可防御信息窃取和中间人攻击。DPoP通过加密绑定长寿命刷新令牌，同时保持标准短寿命访问令牌，实现强安全性的凭证管理，且不增加API性能负担。此外，集成多代理或模型上下文协议（MCP）的开发者可使用Google Cloud STS服务处理代理链中的安全令牌委托。",
+        "en": "Google OAuth now supports DPoP for securely binding refresh tokens to senders, mitigating Infostealer malware and MITM attacks. This cryptographically links long-lived refresh tokens while keeping short-lived access tokens standard. Developers gain robust credential security without high-QPS API performance costs. For multi-agent or MCP workloads, Google Cloud STS enables secure token delegation across agent chains."
+      },
+      "summary": "谷歌OAuth平台现支持DPoP协议，用于约束刷新令牌，可防御信息窃取和中间人攻击。DPoP通过加密绑定长寿命刷新令牌，同时保持标准短寿命访问令牌，实现强安全性的凭证管理，且不增加API性能负担。此外，集成多代理或模型上下文协议（MCP）的开发者可使用Google Cloud STS服务处理代理链中的安全令牌委托。"
+    },
+    {
+      "title": "Evaluating AI agents: moving past the vibe check",
+      "link": "https://developers.googleblog.com/en/evaluating-ai-agents-moving-past-the-vibe-check/",
+      "pubDate": "Wed, 14 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-14T16:00:00.000Z",
+      "content": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+      "contentSnippet": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文提供了一种实用工程指南和参考架构，用于利用Gemini Enterprise Agent Platform、Google ADK和OpenInference标准建立多轮AI代理的持续评估流程。重点在于构建自动化评估系统，确保AI代理的性能和可靠性。",
+        "en": "The article provides a practical engineering guide and reference architecture for continuous evaluation of multi-turn AI agents. It utilizes the Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards to move beyond subjective \"vibe checks\" and establish robust evaluation pipelines. The focus is on systematic assessment for improved reliability and performance."
+      },
+      "summary": "本文提供了一种实用工程指南和参考架构，用于利用Gemini Enterprise Agent Platform、Google ADK和OpenInference标准建立多轮AI代理的持续评估流程。重点在于构建自动化评估系统，确保AI代理的性能和可靠性。"
+    },
+    {
+      "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+      "link": "https://developers.googleblog.com/en/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
+      "contentSnippet": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Apigee hybrid 1.17.0版本引入了原生Model Context Protocol（MCP）支持，允许MCP数据平面直接运行在用户自有的Kubernetes集群中。该架构确保AI代理请求流量和工具执行完全保留在用户基础设施内，同时从控制平面获取配置更新。开发者可暴露OpenAPI 3.0.x规范作为可发现的MCP工具，利用现有安全策略和API产品，并使用W3C trace context头部进行端到端请求追踪。",
+        "en": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, allowing the MCP data plane to run within your Kubernetes cluster. This setup keeps AI agent traffic and tool execution within your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as MCP tools, use existing security policies and API products, and trace requests with W3C trace context headers."
+      },
+      "summary": "Apigee hybrid 1.17.0版本引入了原生Model Context Protocol（MCP）支持，允许MCP数据平面直接运行在用户自有的Kubernetes集群中。该架构确保AI代理请求流量和工具执行完全保留在用户基础设施内，同时从控制平面获取配置更新。开发者可暴露OpenAPI 3.0.x规范作为可发现的MCP工具，利用现有安全策略和API产品，并使用W3C trace context头部进行端到端请求追踪。"
+    },
+    {
+      "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "link": "https://developers.googleblog.com/en/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "pubDate": "Mon, 12 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-12T16:00:00.000Z",
+      "content": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+      "contentSnippet": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了谷歌工程团队如何通过在开源Python Agent Development Kit (ADK)中不夜不眠运行Gemini 4 Argon，优化了20万行Python代码库。利用.agents/skills和/goal模式，内存会话准备开销降低了40%，冷启动导入速度提升了21%。",
+        "en": "The engineering team optimized a 200,000-line Python codebase using Gemini 4 Argon by running it unattended overnight in /agents/skills and /goal mode. This reduced in-memory session prep overhead by 40% in long sessions and sped up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK). The improvements were achieved without manual intervention."
+      },
+      "summary": "本文介绍了谷歌工程团队如何通过在开源Python Agent Development Kit (ADK)中不夜不眠运行Gemini 4 Argon，优化了20万行Python代码库。利用.agents/skills和/goal模式，内存会话准备开销降低了40%，冷启动导入速度提升了21%。"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://developers.googleblog.com/en/gemini-4-argon-for-robotics/",
+      "pubDate": "Mon, 12 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-12T16:00:00.000Z",
+      "content": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's developer platforms—including Google AI Studio, the Gemini API, and Google Antigravity—to build and test sophisticated robotic applications. By leveraging simulation tools like MuJoCo and code-as-policies, engineers can seamlessly transition from real-world data or sketches to physically verified robot control and self-improvement workflows.",
+      "contentSnippet": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's developer platforms—including Google AI Studio, the Gemini API, and Google Antigravity—to build and test sophisticated robotic applications. By leveraging simulation tools like MuJoCo and code-as-policies, engineers can seamlessly transition from real-world data or sketches to physically verified robot control and self-improvement workflows.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Gemini 4 Argon是一款通用物理推理模型，旨在通过物理理解、代码生成和视觉语义推理能力提升机器人工作流程。开发者可通过Google AI Studio、Gemini API和Google Antigravity等平台访问并集成Argon，构建和测试复杂机器人应用。结合MuJoCo等仿真工具和代码策略，工程师能将真实数据或草图无缝转换为物理验证的机器人控制和自改进流程。",
+        "en": "Gemini 4 Argon is a general-purpose physical reasoning model designed to improve robotics workflows. It offers advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can integrate Argon via Google's developer platforms, including Google AI Studio, the Gemini API, and Google Antigravity, to build and test complex robotic applications. The model enables seamless transitions from real-world data or sketches to physically verified robot control and self-improvement workflows, leveraging simulation tools like MuJoCo and code-as-policies."
+      },
+      "summary": "Gemini 4 Argon是一款通用物理推理模型，旨在通过物理理解、代码生成和视觉语义推理能力提升机器人工作流程。开发者可通过Google AI Studio、Gemini API和Google Antigravity等平台访问并集成Argon，构建和测试复杂机器人应用。结合MuJoCo等仿真工具和代码策略，工程师能将真实数据或草图无缝转换为物理验证的机器人控制和自改进流程。"
+    },
+    {
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "link": "https://developers.googleblog.com/en/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot.",
+      "contentSnippet": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《外环洞察：一种环境质量代理，诊断您的生产代理》开源了AQuA（环境质量代理），这是一个在Google Cloud中运行于生产代理旁边的参考实现。它通过检查对话记录和失败集群来验证问题，并定位到具体部署的源快照，从而诊断根本原因。",
+        "en": "AQuA (Ambient Quality Agent) is an open-source tool designed to improve AI agents after they reach 80% performance in production. Running alongside the production agent in Google Cloud, AQuA monitors and verifies failure clusters by analyzing conversation transcripts. It pinpoints root causes tied to specific deployed source snapshots, helping diagnose silent quality regressions that return HTTP 200 OK responses."
+      },
+      "summary": "《外环洞察：一种环境质量代理，诊断您的生产代理》开源了AQuA（环境质量代理），这是一个在Google Cloud中运行于生产代理旁边的参考实现。它通过检查对话记录和失败集群来验证问题，并定位到具体部署的源快照，从而诊断根本原因。"
+    },
+    {
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "link": "https://developers.googleblog.com/en/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift enables developers to build real-time, interactive ML experiences, from sophisticated video effects to generative AI, across mobile and desktop platforms.",
+      "contentSnippet": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift enables developers to build real-time, interactive ML experiences, from sophisticated video effects to generative AI, across mobile and desktop platforms.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI Edge推出ML Drift，这是一个高性能的通用GPU计算框架，旨在加速边缘设备的AI和机器学习推理。ML Drift通过抽象硬件和低级API（如OpenGL ES、OpenCL、Metal和WebGPU）的复杂性，使开发者能够为移动和桌面平台构建实时交互式ML体验，涵盖视频特效和生成式AI等领域。",
+        "en": "ML Drift is a high-performance GPU compute framework by Google AI Edge for on-device AI/ML inference. It abstracts hardware complexities like OpenGL ES, OpenCL, Metal, and WebGPU, allowing developers to create real-time ML experiences, such as video effects and generative AI, across mobile and desktop platforms."
+      },
+      "summary": "谷歌AI Edge推出ML Drift，这是一个高性能的通用GPU计算框架，旨在加速边缘设备的AI和机器学习推理。ML Drift通过抽象硬件和低级API（如OpenGL ES、OpenCL、Metal和WebGPU）的复杂性，使开发者能够为移动和桌面平台构建实时交互式ML体验，涵盖视频特效和生成式AI等领域。"
+    },
+    {
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "link": "https://developers.googleblog.com/en/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google’s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "contentSnippet": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google’s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出开发者知识API及MCP服务器，面向公众开放预览。该工具集提供标准化的机器可读方式，使AI助手和智能平台能搜索并获取Firebase、Google Cloud、Android等领域的最新文档。通过官方MCP服务器，开发者可直接连接谷歌文档库，确保AI生成的代码和指导基于权威实时信息。",
+        "en": "Google is launching the Developer Knowledge API and MCP Server in public preview. The toolset offers a canonical, machine-readable method for AI assistants and agentic platforms to access up-to-date documentation across Firebase, Google Cloud, Android, and other services. Developers can use the official MCP server to connect tools directly to Google’s documentation corpus, ensuring AI-generated code and guidance are based on authoritative, real-time context."
+      },
+      "summary": "谷歌推出开发者知识API及MCP服务器，面向公众开放预览。该工具集提供标准化的机器可读方式，使AI助手和智能平台能搜索并获取Firebase、Google Cloud、Android等领域的最新文档。通过官方MCP服务器，开发者可直接连接谷歌文档库，确保AI生成的代码和指导基于权威实时信息。"
+    },
+    {
+      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "link": "https://developers.googleblog.com/en/google-ai-edge-with-embeddinggemma-2/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grained performance across CPU, GPU, and NPU accelerators with LiteRT. The model enables ultra-low-latency local solutions like search-as-you-type media retrieval, keyframe video moments finding, and zero-shot intent routing.",
+      "contentSnippet": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grained performance across CPU, GPU, and NPU accelerators with LiteRT. The model enables ultra-low-latency local solutions like search-as-you-type media retrieval, keyframe video moments finding, and zero-shot intent routing.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "EmbeddingGemma 2 是一款740M参数的开源多模态模型，可将文本、图像、视频和音频映射到统一向量空间，实现隐私保护、本地设备检索。开发者可通过 MediaPipe Tasks 跨平台集成功能，或使用 LiteRT 优化 CPU、GPU 和 NPU 加速器的细粒度性能。该模型支持超低延迟的本地解决方案，如即时媒体检索、关键帧视频查找和零样本意图路由。",
+        "en": "EmbeddingGemma 2 is a 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can integrate its capabilities cross-platform via MediaPipe Tasks or optimize performance across CPU, GPU, and NPU accelerators using LiteRT. The model supports ultra-low-latency local solutions, including search-as-you-type media retrieval, keyframe video moment finding, and zero-shot intent routing."
+      },
+      "summary": "EmbeddingGemma 2 是一款740M参数的开源多模态模型，可将文本、图像、视频和音频映射到统一向量空间，实现隐私保护、本地设备检索。开发者可通过 MediaPipe Tasks 跨平台集成功能，或使用 LiteRT 优化 CPU、GPU 和 NPU 加速器的细粒度性能。该模型支持超低延迟的本地解决方案，如即时媒体检索、关键帧视频查找和零样本意图路由。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:19.262Z"
+}

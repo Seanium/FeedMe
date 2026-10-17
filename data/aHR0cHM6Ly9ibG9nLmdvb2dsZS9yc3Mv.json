@@ -1,0 +1,561 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp\">Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "contentSnippet": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Oguike"
+        ],
+        "title": [
+          "Education team"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Gemini Notebook推出三项新功能助您高效学习：60秒视频概览和互动问答。用户可通过notebook.google体验这些学习工具，以提升备考效率。",
+        "en": "Google Gemini Notebook offers three tips to study smarter, including 60-second video overviews and interactive quizzes. These tools help users master exams more effectively. Access them at notebook.google."
+      },
+      "summary": "谷歌Gemini Notebook推出三项新功能助您高效学习：60秒视频概览和互动问答。用户可通过notebook.google体验这些学习工具，以提升备考效率。"
+    },
+    {
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-15T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp\">In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "contentSnippet": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Emma Rosenfeld"
+        ],
+        "title": [
+          "Research Scientist, Google Quantum AI"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌在《科学》杂志发表论文，证实其量子计算硬件上实现了魔态培养技术，突破了量子计算瓶颈。该技术有助于提升量子比特的相干性和稳定性，推动量子计算发展。",
+        "en": "Google has demonstrated that Magic State Cultivation, a technique to address quantum computing errors, functions on its Quantum AI hardware, as reported in a paper published in *Science*. The breakthrough addresses a significant bottleneck in quantum computing by enabling more stable and reliable operations."
+      },
+      "summary": "谷歌在《科学》杂志发表论文，证实其量子计算硬件上实现了魔态培养技术，突破了量子计算瓶颈。该技术有助于提升量子比特的相干性和稳定性，推动量子计算发展。"
+    },
+    {
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "pubDate": "Thu, 15 Oct 2026 17:30:00 +0000",
+      "isoDate": "2026-10-15T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp\">Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "contentSnippet": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用Google的“圈搜索”功能分析可疑短信以识别诈骗。长按主屏幕按钮获取AI分析结果，了解其工作原理。",
+        "en": "To check if a text message is a scam, use Google Circle to Search. Long-press the home button to get AI insights on suspicious texts, which helps identify potential scams."
+      },
+      "summary": "使用Google的“圈搜索”功能分析可疑短信以识别诈骗。长按主屏幕按钮获取AI分析结果，了解其工作原理。"
+    },
+    {
+      "title": "How we're helping the world prepare for natural disasters",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "contentSnippet": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yossi Matias"
+        ],
+        "title": [
+          "VP, Google & GM, Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本文旨在帮助全球应对自然灾害。核心目标是确保无人因自然灾害而措手不及。通过简明而雄心勃勃的指导方针，文章强调预防与准备的重要性，以减少灾害带来的影响。",
+        "en": "The article outlines a goal to ensure no one is caught off guard by natural disasters. It emphasizes preparedness as a key focus, aiming to help the world better anticipate and mitigate the impact of such events. The approach is centered on proactive measures to reduce surprise and enhance readiness."
+      },
+      "summary": "本文旨在帮助全球应对自然灾害。核心目标是确保无人因自然灾害而措手不及。通过简明而雄心勃勃的指导方针，文章强调预防与准备的重要性，以减少灾害带来的影响。"
+    },
+    {
+      "title": "Android earthquake alerts now available in more than 200 regions",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp\">Android earthquake alerts are now available in more than 200 countries and regions.",
+      "contentSnippet": "Android earthquake alerts are now available in more than 200 countries and regions.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Boone Spooner"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Earthquake Alerts"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "安卓地震预警功能现已覆盖200多个国家和地区。",
+        "en": "Android earthquake alerts are now available in over 200 countries and regions, expanding their reach significantly. The service provides real-time notifications to users about seismic activity, enhancing safety and preparedness. This widespread availability ensures more people can receive timely warnings, contributing to better disaster response. The development reflects ongoing efforts to improve public safety through technology."
+      },
+      "summary": "安卓地震预警功能现已覆盖200多个国家和地区。"
+    },
+    {
+      "title": "400 publications are now partnering with us on our News AI pilot program.",
+      "link": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp\">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "contentSnippet": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "creator": "",
+      "summaries": {
+        "zh": "已有400家出版机构参与我们的新闻AI试点项目。面对快速变化的信息习惯，各规模平台和出版商正积极应对。为应对这一趋势，我们正不断完善相关服务。",
+        "en": "A News AI pilot program now involves 400 publications. The initiative aims to assist platforms and publishers in adapting to evolving information habits. The program supports their navigation through current changes in the industry."
+      },
+      "summary": "已有400家出版机构参与我们的新闻AI试点项目。面对快速变化的信息习惯，各规模平台和出版商正积极应对。为应对这一趋势，我们正不断完善相关服务。"
+    },
+    {
+      "title": "More ways to connect with the web from Search",
+      "link": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp\">We’re updating AI Mode and AI Overviews to include clearer links, context about sources, and more.",
+      "contentSnippet": "We’re updating AI Mode and AI Overviews to include clearer links, context about sources, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Hema Budaraju"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product Management"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "AI Mode和AI Overviews将更新，增加更清晰的链接、来源信息及更多内容。",
+        "en": "The article announces updates to AI Mode and AI Overviews, enhancing user connectivity with the web. These updates include clearer links and additional context about sources, improving the user experience."
+      },
+      "summary": "AI Mode和AI Overviews将更新，增加更清晰的链接、来源信息及更多内容。"
+    },
+    {
+      "title": "Making your Pixel devices last longer through design, repair, and reuse",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+      "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-15T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp\">On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.",
+      "contentSnippet": "On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Steven Nickel"
+        ],
+        "title": [
+          "Director of Operations"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "在国际维修日，文章强调谷歌如何通过设计、维修和再利用提升Pixel设备的耐用性。公司致力于延长产品寿命，并使维修和再利用更加便捷。",
+        "en": "The article emphasizes designing Pixel devices for longevity and improving repair and reuse accessibility. On International Repair Day, it highlights efforts to extend device lifespan and make maintenance more feasible. The focus is on sustainability and user convenience through enhanced design, repair options, and reuse initiatives."
+      },
+      "summary": "在国际维修日，文章强调谷歌如何通过设计、维修和再利用提升Pixel设备的耐用性。公司致力于延长产品寿命，并使维修和再利用更加便捷。"
+    },
+    {
+      "title": "An intelligent new shopping cart",
+      "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-15T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp\">Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
+      "contentSnippet": "Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Suresh Ganapathy"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Product Management, Consumer Shopping"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "智能购物车“通用车”问世，旨在简化假日购物体验。该产品现已在美国通过搜索和Gemini应用提供。",
+        "en": "The Universal Cart simplifies holiday shopping and is now available in the U.S. through Search and the Gemini app."
+      },
+      "summary": "智能购物车“通用车”问世，旨在简化假日购物体验。该产品现已在美国通过搜索和Gemini应用提供。"
+    },
+    {
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-15T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp\">TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "contentSnippet": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "creator": "",
+      "summaries": {
+        "zh": "TIME将谷歌SynthID评为2026年最佳发明之一，因其开创性的AI水印和验证技术。该技术显著提升了数字内容的版权保护能力，在AI生成内容领域具有里程碑意义。",
+        "en": "TIME has named Google SynthID one of the Best Inventions of 2026. The recognition highlights SynthID's innovative technology for AI watermarking and verification, which enhances digital content protection. The award underscores its significance in advancing secure and reliable AI applications."
+      },
+      "summary": "TIME将谷歌SynthID评为2026年最佳发明之一，因其开创性的AI水印和验证技术。该技术显著提升了数字内容的版权保护能力，在AI生成内容领域具有里程碑意义。"
+    },
+    {
+      "title": "Data-backed secrets to smarter holiday shopping",
+      "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-15T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp\">Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.",
+      "contentSnippet": "Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本文介绍了如何利用数据分析进行更聪明的假日购物。新发布的《何时购买指南》通过整合谷歌搜索和折扣数据，揭示了假日促销的高峰时段，帮助消费者把握最佳购买时机。",
+        "en": "The article offers a \"When to Buy Guide\" that leverages Google Search and discount data to identify peak times for holiday deals. It aims to help shoppers make smarter purchasing decisions by highlighting the best times to buy during the holiday season."
+      },
+      "summary": "本文介绍了如何利用数据分析进行更聪明的假日购物。新发布的《何时购买指南》通过整合谷歌搜索和折扣数据，揭示了假日促销的高峰时段，帮助消费者把握最佳购买时机。"
+    },
+    {
+      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+      "pubDate": "Wed, 14 Oct 2026 16:15:00 +0000",
+      "isoDate": "2026-10-14T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp\">We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
+      "contentSnippet": "We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Research"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "《Research@2026》分享了最新成果，展示了为专家提供的先进AI能力和智能。",
+        "en": "The article \"Research@ 2026: Novel capabilities and intelligence\" highlights the sharing of latest milestones and advanced AI capabilities being introduced for experts. The focus is on showcasing new developments in AI intelligence."
+      },
+      "summary": "《Research@2026》分享了最新成果，展示了为专家提供的先进AI能力和智能。"
+    },
+    {
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-14T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp\">New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
+      "contentSnippet": "New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tal Akabas"
+        ],
+        "title": [
+          "Director of Product Management, Google Ads"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌广告推出新功能，允许营销人员按优先级对渠道分组进行分类，并更好地控制预算分配。这些新控件有助于优化广告活动支出。",
+        "en": "Google Ads introduces new priority and allocation features, enabling marketers to categorize channel groupings by priority. This update allows for better control over budget allocation, optimizing campaign spending. The enhancements aim to provide more efficient management of ad spend across different channels."
+      },
+      "summary": "谷歌广告推出新功能，允许营销人员按优先级对渠道分组进行分类，并更好地控制预算分配。这些新控件有助于优化广告活动支出。"
+    },
+    {
+      "title": "Check out this year’s buzziest Halloween trends.",
+      "link": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp\">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "contentSnippet": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenny Lee"
+        ],
+        "title": [
+          "Google Trends Analyst"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "今年万圣节最热门的潮流趋势已揭晓。谷歌推出年度互动网站“谷歌惊悚节”，展示万圣节相关搜索热点。用户可通过该平台了解今年流行的万圣节主题和活动，为节日做准备。",
+        "en": "This year's Halloween trends are highlighted by Google Frightgeist, an annual interactive website showcasing top trending searches related to the holiday. The platform helps users prepare for spooky season by identifying popular themes, costumes, and activities. The article emphasizes the importance of staying updated with current trends to plan a memorable Halloween."
+      },
+      "summary": "今年万圣节最热门的潮流趋势已揭晓。谷歌推出年度互动网站“谷歌惊悚节”，展示万圣节相关搜索热点。用户可通过该平台了解今年流行的万圣节主题和活动，为节日做准备。"
+    },
+    {
+      "title": "6 ways to trick-or-treat yourself to the ultimate Halloween with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp\">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.",
+      "contentSnippet": "Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "External Communications Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌提供六种方法，帮助你用搜索功能完成万圣节装扮和观影准备。无论是急需万圣节服装，还是想获取恐怖电影片单，谷歌都能帮你高效完成万圣节筹备。",
+        "en": "Google offers six ways to trick-or-treat yourself for Halloween, including finding last-minute costumes and creating scary movie watchlists. The platform helps streamline Halloween prep, making it easier to plan and enjoy the holiday."
+      },
+      "summary": "谷歌提供六种方法，帮助你用搜索功能完成万圣节装扮和观影准备。无论是急需万圣节服装，还是想获取恐怖电影片单，谷歌都能帮你高效完成万圣节筹备。"
+    },
+    {
+      "title": "17 organizations using AI to accelerate scientific breakthroughs",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
+      "pubDate": "Wed, 14 Oct 2026 09:30:00 +0000",
+      "isoDate": "2026-10-14T09:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp\">These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.",
+      "contentSnippet": "These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maggie Johnson"
+        ],
+        "title": [
+          "Global Head and VP"
+        ],
+        "department": [
+          "Google.org"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "17个组织通过谷歌的\"AI for Science\"影响力挑战赛获得3600万美元资助，利用AI加速科学突破。",
+        "en": "Seventeen organizations are using AI to accelerate scientific breakthroughs, supported by $36 million from the Google.org Impact Challenge: AI for Science. The initiative aims to leverage artificial intelligence for advancements in research and discovery."
+      },
+      "summary": "17个组织通过谷歌的\"AI for Science\"影响力挑战赛获得3600万美元资助，利用AI加速科学突破。"
+    },
+    {
+      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 +0000",
+      "isoDate": "2026-10-14T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp\">Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…",
+      "contentSnippet": "Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maureen Costello"
+        ],
+        "title": [
+          "Vice President, UK, Ireland and Sub-Saharan Africa, Google Cloud"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌DeepMind和谷歌云为200名欧洲顶尖科研人员提供先进AI计算和前沿模型支持，并资助300万美元。此举旨在助力欧洲科学发现，通过直接访问前沿模型和计算资源，加速科研进程。",
+        "en": "Google DeepMind and Google Cloud are providing direct access to their advanced AI models and $3 million in computing resources for up to 200 top European scientists. This initiative aims to support cutting-edge research and scientific discovery across Europe. The collaboration will enable researchers to leverage frontier AI technology for their projects."
+      },
+      "summary": "谷歌DeepMind和谷歌云为200名欧洲顶尖科研人员提供先进AI计算和前沿模型支持，并资助300万美元。此举旨在助力欧洲科学发现，通过直接访问前沿模型和计算资源，加速科研进程。"
+    },
+    {
+      "title": "Enabling an AI-first European economy",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 +0000",
+      "isoDate": "2026-10-14T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp\">Announcing Google’s European Economic Impact Report",
+      "contentSnippet": "Announcing Google’s European Economic Impact Report",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Debbie Weinstein"
+        ],
+        "title": [
+          "President"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google EMEA"
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌发布《欧洲经济影响报告》，强调人工智能（AI）在欧洲经济发展中的核心作用。报告旨在展示AI如何推动欧洲经济增长、创新和就业。通过数据和分析，报告突出了AI技术对欧洲经济的积极影响，并呼吁进一步发展AI生态体系。",
+        "en": "Google announces the European Economic Impact Report, focusing on enabling an AI-first European economy. The report highlights key initiatives and investments aimed at fostering AI-driven growth across the continent. It underscores the role of artificial intelligence in transforming industries and creating economic opportunities. The document provides insights into Google's commitment to supporting European economic development through AI innovation and collaboration with local stakeholders."
+      },
+      "summary": "谷歌发布《欧洲经济影响报告》，强调人工智能（AI）在欧洲经济发展中的核心作用。报告旨在展示AI如何推动欧洲经济增长、创新和就业。通过数据和分析，报告突出了AI技术对欧洲经济的积极影响，并呼吁进一步发展AI生态体系。"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-13T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp\">Learn more about our approach to safety and security for Gemini 4 Argon.",
+      "contentSnippet": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anca Dragan"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "AI Safety & Behavior"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 4 Argon的安全与安全开发方法。",
+        "en": "The article discusses the responsible and safe development of Gemini 4 Argon, emphasizing the company's approach to safety and security. It highlights the importance of adhering to best practices to ensure reliability and user trust. The content focuses on the technical and ethical considerations involved in creating the product. (98 words)"
+      },
+      "summary": "Gemini 4 Argon的安全与安全开发方法。"
+    },
+    {
+      "title": "New on Google Play: More ways to create, discover, and play",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+      "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-13T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp\">Take a look at everything that’s new across Google Play.",
+      "contentSnippet": "Take a look at everything that’s new across Google Play.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sam Bright"
+        ],
+        "title": [
+          "Vice President and General Manager"
+        ],
+        "department": [
+          "Google Play + Developer Ecosystem"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Play新增功能，提供更多创建、发现和游戏方式。",
+        "en": "Google Play has introduced updates to enhance creativity, discovery, and gameplay. The platform now offers more tools and features for users to create, explore, and enjoy content. These changes aim to improve the overall experience for consumers."
+      },
+      "summary": "谷歌Play新增功能，提供更多创建、发现和游戏方式。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:17.389Z"
+}

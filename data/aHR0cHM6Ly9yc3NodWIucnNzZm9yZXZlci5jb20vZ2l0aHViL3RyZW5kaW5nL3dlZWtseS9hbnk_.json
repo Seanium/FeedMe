@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 302245<br>Forks: 76469",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 302245\nForks: 76469",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "该工具使用智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。基于TypeScript开发，目前拥有240,481个星标和59,801个分叉。",
+        "en": "The Morluto/Rea project enables reverse engineering of various software, including apps and native binaries, using agents. It is developed in TypeScript and has garnered significant popularity, with 240,481 stars and 59,801 forks on its repository. The tool supports detailed analysis of app behavior and native code."
+      },
+      "summary": "该工具使用智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。基于TypeScript开发，目前拥有240,481个星标和59,801个分叉。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8db15587976d5771a143131a68450753ec92e6f2171d27331b2bf04a5c9ffd3c/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 31399<br>Forks: 4979",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 31399\nForks: 4979",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性创作引擎，使用Rust语言开发。该引擎在GitHub上拥有29874颗星和4740个分支。",
+        "en": "ArtCraft is an intentional crafting engine designed for artists, designers, and filmmakers, built in Rust. It has 29,874 stars and 4,740 forks on its repository."
+      },
+      "summary": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性创作引擎，使用Rust语言开发。该引擎在GitHub上拥有29874颗星和4740个分支。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2fc00f39343002ef1579397074b65d7c4004e0154c8e2bdb2298f88b0334b1c5/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 40890<br>Forks: 3670",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 40890\nForks: 3670",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6168个星标和456次分叉。",
+        "en": "The tool \"boykopovar/AnyPS5\" automates the process of porting PS5 executables to Linux and Windows. Developed in C++, it has 6,168 stars and 456 forks on its repository. The tool facilitates cross-platform compatibility for PlayStation 5 software."
+      },
+      "summary": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6168个星标和456次分叉。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23d5592696d0d22d2109a107eb9932297e760c2eeb1b815ebf29228dd73e5e4e/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 56802<br>Forks: 3613",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 56802\nForks: 3613",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "文章介绍了 cathrynlavery/diagram-design 项目，这是一个用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑图表设计工具。该项目包含 44 种图表类型，采用自包含的 HTML + SVG 格式，不使用阴影，且无 Mermaid 拖沓问题。该项目在 GitHub 上获得 53386 个星标和 3383 个分支。",
+        "en": "This article discusses an editorial diagram design tool for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. It offers 44 diagram types, self-contained HTML + SVG format, and avoids shadows or Mermaid issues. The tool has 53,386 stars and 3,383 forks on GitHub."
+      },
+      "summary": "文章介绍了 cathrynlavery/diagram-design 项目，这是一个用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑图表设计工具。该项目包含 44 种图表类型，采用自包含的 HTML + SVG 格式，不使用阴影，且无 Mermaid 拖沓问题。该项目在 GitHub 上获得 53386 个星标和 3383 个分支。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30a6181b0d63de8eecec566d731e2693c98e45711eed3535cc567835a41411f1/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 41324<br>Forks: 4446",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 41324\nForks: 4446",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Anthropic官方管理的Claude代码插件目录，提供高质量Python插件。该目录包含39768个星标和4357个分支。",
+        "en": "The Anthropic-managed directory offers high-quality Claude Code Plugins, primarily in Python. It features 39,768 stars and 4,357 forks, serving as an official resource for these plugins."
+      },
+      "summary": "Anthropic官方管理的Claude代码插件目录，提供高质量Python插件。该目录包含39768个星标和4357个分支。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8811b44ef525a1a5440913ced3bd226309aa1865966ef850fa287f4b2bff3451/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 65735<br>Forks: 5930",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 65735\nForks: 5930",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。",
+        "en": "The article introduces Heygen's Hyperframes, a tool for creating HTML and rendering video, built for agents using TypeScript. It has gained significant popularity with 55,698 stars and 5,040 forks on its repository. The content focuses on its technical foundation and community engagement, highlighting its utility for developers and agents."
+      },
+      "summary": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/292f66e3d4acfd8435e66822c176bdce2e3992eb059272f15e7ce48af0a5bf35/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 30447<br>Forks: 2183",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 30447\nForks: 2183",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "\"mksglu/context-mode\" 是一个针对 AI 编码代理的上下文窗口优化工具。该工具通过沙盒工具输出减少 98% 的数据，持久化会话内存，并通过 MCP 和钩子强制在 17 个平台上进行路由。使用 TypeScript 开发，获得 29990 个星标和 2109 次分叉。",
+        "en": "The \"mksglu/context-mode\" project optimizes context windows for AI coding agents. It reduces sandbox tool output by 98%, persists session memory, and enforces routing across 17 platforms using MCP and hooks. Developed in TypeScript, it has 29,990 stars and 2,109 forks."
+      },
+      "summary": "\"mksglu/context-mode\" 是一个针对 AI 编码代理的上下文窗口优化工具。该工具通过沙盒工具输出减少 98% 的数据，持久化会话内存，并通过 MCP 和钩子强制在 17 个平台上进行路由。使用 TypeScript 开发，获得 29990 个星标和 2109 次分叉。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/135b9334f8eea8ed5deff2470df504fbcbff26449abc9991d28fa06e4b1c030b/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 90050<br>Forks: 10072",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 90050\nForks: 10072",
+      "creator": "NationalSecurityAgency",
+      "summaries": {
+        "zh": "Ghidra是一款由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，采用Java语言编写。该框架具有87431个星标和9761个分支，广泛应用于逆向分析领域。",
+        "en": "Ghidra is a software reverse engineering (SRE) framework developed by the National Security Agency (NSA). It is written in Java and is designed for analyzing and understanding complex software systems. Ghidra supports various file formats and architectures, making it a versatile tool for cybersecurity professionals. The framework has a large community, with 87,431 stars and 9,761 forks on platforms like GitHub, indicating its popularity and utility in the field."
+      },
+      "summary": "Ghidra是一款由美国国家安全局（NSA）开发的软件逆向工程（SRE）框架，采用Java语言编写。该框架具有87431个星标和9761个分支，广泛应用于逆向分析领域。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d98d72f3bb4511d970b9abfa09b9ae22aa44c8346a1ec9b45b18bf53c4ca7dc2/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 294720<br>Forks: 24717",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 294720\nForks: 24717",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "标题：mattpocock/skills  \n简介：该资源提供真实工程师所需技能，内容来自作者.mattpocock的agents目录，使用Shell语言编写。资源在GitHub上获得280,836个星标和23,524次分叉，广受欢迎。",
+        "en": "The article \"mattpocock/skills\" focuses on essential engineering skills, sourced from the author's `.agents` directory. It is presented in Shell format, gaining 280,836 stars and 23,524 forks. The content emphasizes practical, real-world engineering competencies."
+      },
+      "summary": "标题：mattpocock/skills  \n简介：该资源提供真实工程师所需技能，内容来自作者.mattpocock的agents目录，使用Shell语言编写。资源在GitHub上获得280,836个星标和23,524次分叉，广受欢迎。"
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/795076ae6a24ac5ab923e5dd10ee2a15794f0bea3ed12178db46b46a173beb09/ranxianglei/billion-context\" referrerpolicy=\"no-referrer\"><br>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need<br><br>Language: TypeScript<br>Stars: 1655<br>Forks: 136",
+      "contentSnippet": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need\nLanguage: TypeScript\nStars: 1655\nForks: 136",
+      "creator": "ranxianglei",
+      "summaries": {
+        "zh": "\"billion-context\"是一款适用于小窗口上下文（100K即可）的压缩插件，能节省5倍token，支持长达数月的数十亿token单次会话。该插件使用TypeScript开发，获得1320星和112次分叉。",
+        "en": "The \"billion-context\" plugin is a context-compression tool designed for small context windows (100K), offering significant token savings (5x fewer tokens) and enabling long-running sessions (billions of tokens). It is written in TypeScript and has 1,320 stars and 112 forks."
+      },
+      "summary": "\"billion-context\"是一款适用于小窗口上下文（100K即可）的压缩插件，能节省5倍token，支持长达数月的数十亿token单次会话。该插件使用TypeScript开发，获得1320星和112次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:34:34.294Z"
+}
