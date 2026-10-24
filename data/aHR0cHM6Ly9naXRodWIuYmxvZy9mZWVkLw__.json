@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "pubDate": "Thu, 22 Oct 2026 17:21:30 +0000",
+      "isoDate": "2026-10-22T17:21:30.000Z",
+      "content": "<p>As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.</p>\n<p>The post <a href=\"https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/\">How bug bounty sharpens one researcher’s security skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.\nThe post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.",
+      "creator": "Shilpa Kumari",
+      "summaries": {
+        "zh": "GitHub Bug Bounty团队在网络安全意识月期间聚焦研究者@r31n，探讨其研究方法、偏好的漏洞类型及对新手黑客的建议。文章标题为《如何通过漏洞赏金提升安全技能》，源自GitHub博客。",
+        "en": "The GitHub Bug Bounty team highlights researcher @r31n during Cybersecurity Awareness Month, discussing their bug bounty research approach, preferred bug classes, and advice for aspiring hackers. The article, featured on The GitHub Blog, explores how participating in bug bounty programs enhances a researcher's security skills."
+      },
+      "summary": "GitHub Bug Bounty团队在网络安全意识月期间聚焦研究者@r31n，探讨其研究方法、偏好的漏洞类型及对新手黑客的建议。文章标题为《如何通过漏洞赏金提升安全技能》，源自GitHub博客。"
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "<p>We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\">The bridge to agent-scale Git infrastructure</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
+      "creator": "Eleanor White",
+      "summaries": {
+        "zh": "我们已将 GitHub 99.99999% 的仓库迁移至 Azure。本文介绍了如何通过参考级别多数投票机制（per-reference quorums）迁移剩余部分，以及如何利用对象存储实现读写分离的扩展。文章来源：GitHub 博客。",
+        "en": "We migrated 99.99999% of GitHub's repositories to Azure. The remaining 0.00001% will be transferred using per-reference quorums. Object storage enables independent scaling of reads. The details were first published on The GitHub Blog."
+      },
+      "summary": "我们已将 GitHub 99.99999% 的仓库迁移至 Azure。本文介绍了如何通过参考级别多数投票机制（per-reference quorums）迁移剩余部分，以及如何利用对象存储实现读写分离的扩展。文章来源：GitHub 博客。"
+    },
+    {
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "pubDate": "Tue, 20 Oct 2026 16:05:03 +0000",
+      "isoDate": "2026-10-20T16:05:03.000Z",
+      "content": "<p>Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/\">How 3 Java Champions are using GitHub Copilot for increased productivity</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
+      "creator": "Julien Dubois",
+      "summaries": {
+        "zh": "三位Java专家分享了他们如何使用GitHub Copilot解决问题、加速开发，并强调人类仍需对结果负责。该文章来自GitHub博客。",
+        "en": "Three Java Champions discuss their use of GitHub Copilot to enhance productivity, solve problems, and speed up development while maintaining human oversight for final outcomes. The insights are shared on The GitHub Blog."
+      },
+      "summary": "三位Java专家分享了他们如何使用GitHub Copilot解决问题、加速开发，并强调人类仍需对结果负责。该文章来自GitHub博客。"
+    },
+    {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "pubDate": "Mon, 19 Oct 2026 18:47:22 +0000",
+      "isoDate": "2026-10-19T18:47:22.000Z",
+      "content": "<p>Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/\">How to continue a GitHub Copilot app session in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "GitHub Copilot 应用会话如何在 VS Code 中继续：本文介绍了如何将 GitHub Copilot 应用的会话无缝迁移到 VS Code 中，确保对话记录、代码修改和工作上下文不丢失。操作步骤详见 The GitHub Blog 发布的文章。",
+        "en": "This article explains how to transfer a GitHub Copilot app session into VS Code while preserving the conversation, code changes, and working context. The process ensures seamless continuity without losing progress. For more details, refer to the original post on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot 应用会话如何在 VS Code 中继续：本文介绍了如何将 GitHub Copilot 应用的会话无缝迁移到 VS Code 中，确保对话记录、代码修改和工作上下文不丢失。操作步骤详见 The GitHub Blog 发布的文章。"
+    },
+    {
+      "title": "The next developer interface is ambient intelligence",
+      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "pubDate": "Thu, 15 Oct 2026 19:39:27 +0000",
+      "isoDate": "2026-10-15T19:39:27.000Z",
+      "content": "<p>AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/\">The next developer interface is ambient intelligence</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.\nThe post The next developer interface is ambient intelligence appeared first on The GitHub Blog.",
+      "creator": "Martin Woodward",
+      "summaries": {
+        "zh": "下一代开发者界面将是环境智能。人工智能、代理、语音和物理控制正将软件开发从工具转变为表达意图，帮助开发者更专注地构建。",
+        "en": "The next developer interface is ambient intelligence, blending AI, agents, voice, and physical controls to shift software development from tool-based operations to intent-driven creation. This approach helps developers focus on building while leveraging advanced technologies for a more intuitive and efficient workflow."
+      },
+      "summary": "下一代开发者界面将是环境智能。人工智能、代理、语音和物理控制正将软件开发从工具转变为表达意图，帮助开发者更专注地构建。"
+    },
+    {
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-15T18:00:00.000Z",
+      "content": "<p>Put native GitHub features to work to review outside collaborator access and archive stale repositories.</p>\n<p>The post <a href=\"https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/\">Staying Evergreen: How we automated secure access and repo hygiene in a shared org</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
+      "creator": "Greg Mohler",
+      "summaries": {
+        "zh": "本文介绍了如何利用GitHub原生功能自动化管理共享组织中的安全访问和仓库维护。通过审查外部协作者的访问权限和归档过期仓库，实现了持续的安全性和仓库整洁。",
+        "en": "The article \"Staying Evergreen: How we automated secure access and repo hygiene in a shared org\" discusses using native GitHub features to review external collaborator access and archive stale repositories. The goal is to improve security and organization efficiency in a shared GitHub environment. The methods leverage built-in tools to automate these processes."
+      },
+      "summary": "本文介绍了如何利用GitHub原生功能自动化管理共享组织中的安全访问和仓库维护。通过审查外部协作者的访问权限和归档过期仓库，实现了持续的安全性和仓库整洁。"
+    },
+    {
+      "title": "GitHub availability report: September 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "pubDate": "Wed, 14 Oct 2026 20:01:35 +0000",
+      "isoDate": "2026-10-14T20:01:35.000Z",
+      "content": "<p>In September, we experienced two incidents that resulted in degraded performance across GitHub services.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-september-2026/\">GitHub availability report: September 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summaries": {
+        "zh": "2026年9月GitHub可用性报告显示，该月发生两次事件导致服务性能下降。报告来自GitHub博客。",
+        "en": "GitHub reported two incidents in September 2026 that caused degraded performance across its services. The availability report confirmed these events, noting their impact on service reliability during the month. No further details on the incidents or resolutions were provided."
+      },
+      "summary": "2026年9月GitHub可用性报告显示，该月发生两次事件导致服务性能下降。报告来自GitHub博客。"
+    },
+    {
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "pubDate": "Wed, 14 Oct 2026 19:11:33 +0000",
+      "isoDate": "2026-10-14T19:11:33.000Z",
+      "content": "<p>Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/\">From 2,500 requests to 24: Rebuilding star history without the stargazers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
+      "creator": "Taylor Cuilty",
+      "summaries": {
+        "zh": "新发布的星标历史API通过不返回个人身份和避免无界数据库工作，实现了趋势分析。该API通过工程权衡优化了性能，将请求量从2500次减少至24次。GitHub博客发布了题为《从2500请求到24：无需星标者重建星标历史》的文章，介绍了相关技术细节。",
+        "en": "The GitHub Blog announces a new repo star history API that delivers trends without exposing individual user identities or relying on unlimited database queries. The article details the engineering tradeoffs made to optimize performance, reducing requests from 2,500 to 24. This update enhances efficiency while maintaining functionality."
+      },
+      "summary": "新发布的星标历史API通过不返回个人身份和避免无界数据库工作，实现了趋势分析。该API通过工程权衡优化了性能，将请求量从2500次减少至24次。GitHub博客发布了题为《从2500请求到24：无需星标者重建星标历史》的文章，介绍了相关技术细节。"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "pubDate": "Tue, 13 Oct 2026 17:56:33 +0000",
+      "isoDate": "2026-10-13T17:56:33.000Z",
+      "content": "<p>GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/\">GitHub’s model for secret detection: Finding more secrets with less noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
+      "creator": "Batu Ozturkler",
+      "summaries": {
+        "zh": "GitHub推出了一种上下文感知的秘密分类器，通过减少噪音提高了检测质量，将加权接受率提升了11.5%，并将中位数扫描执行时间缩短了86%。该技术有效提升了秘密检测的效率和准确性。",
+        "en": "GitHub introduced a context-aware secret classifier to enhance secret detection. The model improves detection quality, increases weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The update aims to identify more secrets while minimizing false positives. The announcement was made on The GitHub Blog."
+      },
+      "summary": "GitHub推出了一种上下文感知的秘密分类器，通过减少噪音提高了检测质量，将加权接受率提升了11.5%，并将中位数扫描执行时间缩短了86%。该技术有效提升了秘密检测的效率和准确性。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "pubDate": "Mon, 12 Oct 2026 17:43:59 +0000",
+      "isoDate": "2026-10-12T17:43:59.000Z",
+      "content": "<p>Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/\">GitHub Copilot app for Beginners: How to teach Copilot about your codebase</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "GitHub Copilot应用入门：如何教会Copilot了解您的代码库。本文介绍了如何为仓库添加自定义指令和技能，使用自定义代理，以及连接MCP服务器（如Playwright）。",
+        "en": "The article \"GitHub Copilot app for Beginners: How to teach Copilot about your codebase\" from The GitHub Blog explains how to customize GitHub Copilot for a specific codebase. It covers adding custom instructions and skills to repositories, using custom agents, and integrating MCP servers like Playwright. These methods help tailor Copilot's suggestions to fit the project's unique requirements."
+      },
+      "summary": "GitHub Copilot应用入门：如何教会Copilot了解您的代码库。本文介绍了如何为仓库添加自定义指令和技能，使用自定义代理，以及连接MCP服务器（如Playwright）。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:51.472Z"
+}

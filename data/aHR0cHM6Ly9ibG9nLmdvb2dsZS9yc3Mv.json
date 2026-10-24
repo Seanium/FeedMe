@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "See what 5 builders are making with Gemini 4 Argon",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+      "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp\">See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.",
+      "contentSnippet": "See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kimberly Fusaro"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章标题：《看看五个构建者如何使用Gemini 4 Argon》\n\n内容摘要：本文介绍了五位构建者如何运用Gemini 4 Argon进行创作，并为他们未来的构建项目提供灵感。内容展示了该工具在不同领域的应用实例，帮助读者了解其功能和潜力。",
+        "en": "Five builders showcase their projects using Gemini 4 Argon, offering inspiration for others. The article highlights their work with the technology, emphasizing creativity and practical applications."
+      },
+      "summary": "文章标题：《看看五个构建者如何使用Gemini 4 Argon》\n\n内容摘要：本文介绍了五位构建者如何运用Gemini 4 Argon进行创作，并为他们未来的构建项目提供灵感。内容展示了该工具在不同领域的应用实例，帮助读者了解其功能和潜力。"
+    },
+    {
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
+      "link": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-22T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp\">Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
+      "contentSnippet": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Glenn Thrope"
+        ],
+        "title": [
+          "Product Director"
+        ],
+        "department": [
+          "Display & Video 360"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌营销平台每月更新，提供最新资讯，助您优化客户全旅程的ROI。内容涵盖各类营销信息。",
+        "en": "The Google Marketing Platform Drops is a monthly series that provides updates to help optimize ROI across the customer journey. The series covers various topics to enhance marketing strategies."
+      },
+      "summary": "谷歌营销平台每月更新，提供最新资讯，助您优化客户全旅程的ROI。内容涵盖各类营销信息。"
+    },
+    {
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+      "pubDate": "Thu, 22 Oct 2026 11:30:00 +0000",
+      "isoDate": "2026-10-22T11:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp\">Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.",
+      "contentSnippet": "Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌与Voltus合作建设一座1吉瓦虚拟电厂，旨在提升为6700万人供电的电网可靠性。该项目通过整合分布式能源资源，优化电力调度，增强电网稳定性。",
+        "en": "Google and Voltus are developing a 1-gigawatt virtual power plant to enhance grid reliability for 67 million people. The project aims to improve energy distribution and efficiency."
+      },
+      "summary": "谷歌与Voltus合作建设一座1吉瓦虚拟电厂，旨在提升为6700万人供电的电网可靠性。该项目通过整合分布式能源资源，优化电力调度，增强电网稳定性。"
+    },
+    {
+      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-21T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp\">Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
+      "contentSnippet": "Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prune Nourry"
+        ],
+        "title": [
+          "Artist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与专家合作，重现19世纪女性雕塑家的工作室，使其成就重获关注。该项目旨在通过数字技术还原这些已消失的工作空间，让公众更了解这些艺术家的创作环境与历史贡献。",
+        "en": "Google collaborated with experts to digitally recreate the studios of 19th-century women sculptors, highlighting their contributions. The project aims to restore their legacies by showcasing their workspaces."
+      },
+      "summary": "谷歌与专家合作，重现19世纪女性雕塑家的工作室，使其成就重获关注。该项目旨在通过数字技术还原这些已消失的工作空间，让公众更了解这些艺术家的创作环境与历史贡献。"
+    },
+    {
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-21T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp\">Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "contentSnippet": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌“广告解码”最新一期播客介绍了新的竞标和预算工具，为即将到来的假日广告策略提供实用见解。",
+        "en": "The latest episode of Google's \"Ads Decoded\" podcast provides actionable insights on bidding and budgeting tools to enhance holiday ad strategies. The discussion focuses on new tools designed to optimize performance and efficiency during peak advertising periods."
+      },
+      "summary": "谷歌“广告解码”最新一期播客介绍了新的竞标和预算工具，为即将到来的假日广告策略提供实用见解。"
+    },
+    {
+      "title": "Drive with “The Cat in the Hat” on Waze.",
+      "link": "https://blog.google/waze/waze-the-cat-in-the-hat/",
+      "pubDate": "Wed, 21 Oct 2026 11:39:00 +0000",
+      "isoDate": "2026-10-21T11:39:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp\">Ready to turn your daily commute into a high-octane joyride? Waze is bringing the connoisseur of happy chaos to your passenger seat for the arrival of The Cat in the Hat…",
+      "contentSnippet": "Ready to turn your daily commute into a high-octane joyride? Waze is bringing the connoisseur of happy chaos to your passenger seat for the arrival of The Cat in the Hat…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Waze"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Waze将推出“穿猫帽的猫”主题功能，让用户在通勤途中体验充满欢乐的驾驶体验。该功能旨在为日常出行增添趣味，通过个性化主题为驾驶者带来快乐。",
+        "en": "Waze is introducing \"The Cat in the Hat\" for a fun commute. Users can enjoy a high-energy ride experience with the character's theme. The feature is designed to add excitement to daily commutes."
+      },
+      "summary": "Waze将推出“穿猫帽的猫”主题功能，让用户在通勤途中体验充满欢乐的驾驶体验。该功能旨在为日常出行增添趣味，通过个性化主题为驾驶者带来快乐。"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "pubDate": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "isoDate": "2026-10-21T04:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "contentSnippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nitin Gajria"
+        ],
+        "title": [
+          "Managing Director"
+        ],
+        "department": [
+          "Southeast Asia and South Asia Frontier Markets"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "东南亚数字经济预计将在2026年达到3680亿美元，并在2035年达到1万亿美元。人工智能的广泛应用是推动其增长的主要动力。",
+        "en": "Southeast Asia's digital economy is expected to reach $368 billion by 2026 and $1 trillion by 2035, driven by widespread AI adoption. The growth highlights the region's expanding digital sector and future potential."
+      },
+      "summary": "东南亚数字经济预计将在2026年达到3680亿美元，并在2035年达到1万亿美元。人工智能的广泛应用是推动其增长的主要动力。"
+    },
+    {
+      "title": "Get hands-free personalized help on the road with Gemini",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "isoDate": "2026-10-20T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp\">Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road.",
+      "contentSnippet": "Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karan Daryanani"
+        ],
+        "title": [
+          "Sr. Product Manager"
+        ],
+        "department": [
+          "Gemini"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "吉尼在全球范围内提供车载个性化服务。通过个人智能系统，用户在驾驶时能获得定制化帮助，同时保持视线专注前方。",
+        "en": "Gemini offers hands-free, personalized assistance in cars worldwide. Its Personal Intelligence feature provides tailored support, allowing drivers to stay focused on the road."
+      },
+      "summary": "吉尼在全球范围内提供车载个性化服务。通过个人智能系统，用户在驾驶时能获得定制化帮助，同时保持视线专注前方。"
+    },
+    {
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp\">AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
+      "contentSnippet": "AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lindsey Lanquist"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "AI系统AMIE可通过聊天方式在预约前收集患者信息，确保信息安全，从而节省医生时间，使其能投入更多协作护理。",
+        "en": "AMIE, an AI chatbot, helps doctors save time before appointments by securely collecting patient information. This allows doctors to focus more on collaborative care with patients during visits."
+      },
+      "summary": "AI系统AMIE可通过聊天方式在预约前收集患者信息，确保信息安全，从而节省医生时间，使其能投入更多协作护理。"
+    },
+    {
+      "title": "New Gemini tools for small business owners",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp\">We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
+      "contentSnippet": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vishnu Sivaji"
+        ],
+        "title": [
+          "Senior Director, Gemini App"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们宣布为Gemini推出新工具，包括专门的企业落地页，旨在帮助全球小企业主。这些新功能将提供更便捷的服务，支持小企业发展。",
+        "en": "New Gemini tools are being introduced to assist small business owners globally. These tools include a dedicated business landing page, designed to provide support and resources for entrepreneurs. The announcement highlights the initiative to enhance accessibility and functionality for small businesses worldwide."
+      },
+      "summary": "我们宣布为Gemini推出新工具，包括专门的企业落地页，旨在帮助全球小企业主。这些新功能将提供更便捷的服务，支持小企业发展。"
+    },
+    {
+      "title": "Expanding our defenses against financial scam ads",
+      "link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "pubDate": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-20T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada.max-600x600.format-webp.webp\">We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+      "contentSnippet": "We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keerat Sharma"
+        ],
+        "title": [
+          "VP & General Manager"
+        ],
+        "department": [
+          "Ads Privacy and Safety"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们将于2027年初推出新的安全措施，以帮助保护美国和加拿大民众免受金融诈骗广告的侵害。",
+        "en": "The company is introducing new safeguards in early 2027 to combat financial scam ads, targeting users in the U.S. and Canada. These measures aim to enhance protection against fraudulent financial schemes. The updates are part of an effort to improve online security and prevent deceptive advertising practices. No further details on the specific safeguards are provided."
+      },
+      "summary": "我们将于2027年初推出新的安全措施，以帮助保护美国和加拿大民众免受金融诈骗广告的侵害。"
+    },
+    {
+      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+      "pubDate": "Mon, 19 Oct 2026 20:15:00 +0000",
+      "isoDate": "2026-10-19T20:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp\">Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+      "contentSnippet": "Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "自宣布在阿肯色州西孟菲斯建设计划以来，我们持续与当地社区成员合作，共同加强电网建设，支持地方发展。",
+        "en": "The company has been collaborating with community members in West Memphis, Arkansas, since announcing plans to build there. The focus has been on strengthening the grid and supporting local communities."
+      },
+      "summary": "自宣布在阿肯色州西孟菲斯建设计划以来，我们持续与当地社区成员合作，共同加强电网建设，支持地方发展。"
+    },
+    {
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "pubDate": "Mon, 19 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp\">Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "contentSnippet": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Viraj Doshi"
+        ],
+        "title": [
+          "Senior Product Manager, Gemini Notebook"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Notebook赋予用户更多创意控制权，用于制作幻灯片和视频概览。",
+        "en": "Gemini Notebook enhances slide and video creation by providing greater creative control. Users can now shape their presentations and video overviews more effectively, streamlining the design process. The tool offers improved flexibility, allowing for more personalized and engaging content."
+      },
+      "summary": "Gemini Notebook赋予用户更多创意控制权，用于制作幻灯片和视频概览。"
+    },
+    {
+      "title": "4 tips for styling outfits with Gemini",
+      "link": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp\">Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.",
+      "contentSnippet": "Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah Armstrong"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "悉尼·博登拉罗运动员造型师使用Gemini为客户搭配造型，以下是她的四点技巧。文章介绍了如何利用Gemini打造个人造型，内容简洁实用，适合学习。",
+        "en": "Sydney Bordonaro, an athlete stylist, demonstrates using Gemini to create stylish outfits for clients. The article provides four tips on how individuals can replicate this process to build their own outfits. The focus is on leveraging Gemini's capabilities for fashion styling."
+      },
+      "summary": "悉尼·博登拉罗运动员造型师使用Gemini为客户搭配造型，以下是她的四点技巧。文章介绍了如何利用Gemini打造个人造型，内容简洁实用，适合学习。"
+    },
+    {
+      "title": "See the top style searches from people in big fashion capitals.",
+      "link": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp\">We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+      "contentSnippet": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+      "creator": "",
+      "summaries": {
+        "zh": "本文通过Google趋势分析了七个主要时尚之都的人们在服装风格搜索方面的偏好。研究旨在了解这些城市居民如何通过搜索获取独特的时尚灵感，以展现其独特的时尚品味。",
+        "en": "The article examines Google Trends to identify popular fashion search trends in seven major fashion capitals. It aims to understand what people in these cities look for to achieve their unique style. The analysis focuses on revealing the key trends that contribute to their distinctive sartorial sense."
+      },
+      "summary": "本文通过Google趋势分析了七个主要时尚之都的人们在服装风格搜索方面的偏好。研究旨在了解这些城市居民如何通过搜索获取独特的时尚灵感，以展现其独特的时尚品味。"
+    },
+    {
+      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+      "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-19T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp\">Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+      "contentSnippet": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Randy Spock"
+        ],
+        "title": [
+          "Head of Carbon Removal"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与巴西Working Trees合作，通过在巴西实施可持续的林牧复合系统，支持自然恢复。该项目计划移除27万吨二氧化碳，同时修复土地和牧场生态。",
+        "en": "Google is collaborating with Working Trees to implement silvopasture in Brazil, aiming to remove 270,000 tons of CO2. This sustainable farming method combines trees and livestock to restore land and improve ranching practices. The project supports nature restoration while reducing carbon emissions."
+      },
+      "summary": "谷歌与巴西Working Trees合作，通过在巴西实施可持续的林牧复合系统，支持自然恢复。该项目计划移除27万吨二氧化碳，同时修复土地和牧场生态。"
+    },
+    {
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp\">Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "contentSnippet": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Oguike"
+        ],
+        "title": [
+          "Education team"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Gemini Notebook推出三项新功能助您高效学习：60秒视频概览和互动问答。用户可通过notebook.google体验这些学习工具，以提升备考效率。",
+        "en": "Google Gemini Notebook offers three tips to study smarter, including 60-second video overviews and interactive quizzes. These tools help users master exams more effectively. Access them at notebook.google."
+      },
+      "summary": "谷歌Gemini Notebook推出三项新功能助您高效学习：60秒视频概览和互动问答。用户可通过notebook.google体验这些学习工具，以提升备考效率。"
+    },
+    {
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-15T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp\">In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "contentSnippet": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Emma Rosenfeld"
+        ],
+        "title": [
+          "Research Scientist, Google Quantum AI"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌在《科学》杂志发表论文，证实其量子计算硬件上实现了魔态培养技术，突破了量子计算瓶颈。该技术有助于提升量子比特的相干性和稳定性，推动量子计算发展。",
+        "en": "Google has demonstrated that Magic State Cultivation, a technique to address quantum computing errors, functions on its Quantum AI hardware, as reported in a paper published in *Science*. The breakthrough addresses a significant bottleneck in quantum computing by enabling more stable and reliable operations."
+      },
+      "summary": "谷歌在《科学》杂志发表论文，证实其量子计算硬件上实现了魔态培养技术，突破了量子计算瓶颈。该技术有助于提升量子比特的相干性和稳定性，推动量子计算发展。"
+    },
+    {
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "pubDate": "Thu, 15 Oct 2026 17:30:00 +0000",
+      "isoDate": "2026-10-15T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp\">Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "contentSnippet": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用Google的“圈搜索”功能分析可疑短信以识别诈骗。长按主屏幕按钮获取AI分析结果，了解其工作原理。",
+        "en": "To check if a text message is a scam, use Google Circle to Search. Long-press the home button to get AI insights on suspicious texts, which helps identify potential scams."
+      },
+      "summary": "使用Google的“圈搜索”功能分析可疑短信以识别诈骗。长按主屏幕按钮获取AI分析结果，了解其工作原理。"
+    },
+    {
+      "title": "400 publications are now partnering with us on our News AI pilot program.",
+      "link": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp\">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "contentSnippet": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+      "creator": "",
+      "summaries": {
+        "zh": "已有400家出版机构参与我们的新闻AI试点项目。面对快速变化的信息习惯，各规模平台和出版商正积极应对。为应对这一趋势，我们正不断完善相关服务。",
+        "en": "A News AI pilot program now involves 400 publications. The initiative aims to assist platforms and publishers in adapting to evolving information habits. The program supports their navigation through current changes in the industry."
+      },
+      "summary": "已有400家出版机构参与我们的新闻AI试点项目。面对快速变化的信息习惯，各规模平台和出版商正积极应对。为应对这一趋势，我们正不断完善相关服务。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:41.060Z"
+}

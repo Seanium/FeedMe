@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+      "link": "https://developers.googleblog.com/en/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+      "contentSnippet": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何利用Google Cloud的Gemini企业代理平台、代理开发工具包（ADK）、BigQuery及四层纵深防御安全体系（模型防护、云KMS、二进制授权和OPA）构建受监管、可自进化的AI代理。该项目名为Chrysalis，通过这些技术实现AI代理在1.8秒内自动修复生产环境故障。",
+        "en": "Project Chrysalis integrates Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-layer security framework (Model Armor, Cloud KMS, Binary Authorization, OPA) to create governed, self-evolving AI agents. These agents can resolve live production outages in 1.8 seconds. The system leverages these tools to ensure secure, efficient, and autonomous AI operations."
+      },
+      "summary": "本文介绍了如何利用Google Cloud的Gemini企业代理平台、代理开发工具包（ADK）、BigQuery及四层纵深防御安全体系（模型防护、云KMS、二进制授权和OPA）构建受监管、可自进化的AI代理。该项目名为Chrysalis，通过这些技术实现AI代理在1.8秒内自动修复生产环境故障。"
+    },
+    {
+      "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+      "link": "https://developers.googleblog.com/en/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+      "contentSnippet": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "API网关现已支持实时流，包括Server-Sent Events、WebSockets、gRPC和分块传输编码，无需修改现有API规范。此次更新允许开发者通过网关路由长寿命双向流和AI工作负载，同时保持一致的认证、速率限制和可观察性。此外，网关新增确定性默认主机名，简化了环境部署和基础设施即代码管理。",
+        "en": "API Gateway now supports real-time streaming (Server-Sent Events, WebSockets, gRPC, chunked transfer encoding) in Public Preview without requiring spec changes. This enables routing long-lived, bi-directional streams and AI workloads while preserving authentication, rate limiting, and observability. The update also introduces deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management."
+      },
+      "summary": "API网关现已支持实时流，包括Server-Sent Events、WebSockets、gRPC和分块传输编码，无需修改现有API规范。此次更新允许开发者通过网关路由长寿命双向流和AI工作负载，同时保持一致的认证、速率限制和可观察性。此外，网关新增确定性默认主机名，简化了环境部署和基础设施即代码管理。"
+    },
+    {
+      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+      "link": "https://developers.googleblog.com/en/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+      "contentSnippet": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了 Agents CLI 扩展系统，该系统支持开发者使用 LangChain、LangGraph 等框架或自定义企业堆栈，同时保持统一的部署和评估流程。文章详细说明了一个官方 LangChain 模板，该模板可搭建、运行和部署代理，无需依赖 Agent Development Kit (ADK)。此外，还展示了平台团队如何编写自定义扩展，以在部署期间强制执行自动化软件物料清单 (SBOM) 扫描等策略。",
+        "en": "The Agents CLI Extension System allows developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while maintaining a unified deployment and evaluation workflow. It introduces a first-party LangChain template that simplifies agent scaffolding, running, and deployment without requiring the Agent Development Kit (ADK). The system also enables platform teams to create custom extensions for policies, such as automated software bill of materials (SBOM) scans during deployment. This approach enhances flexibility and integration across diverse agent development environments."
+      },
+      "summary": "本文介绍了 Agents CLI 扩展系统，该系统支持开发者使用 LangChain、LangGraph 等框架或自定义企业堆栈，同时保持统一的部署和评估流程。文章详细说明了一个官方 LangChain 模板，该模板可搭建、运行和部署代理，无需依赖 Agent Development Kit (ADK)。此外，还展示了平台团队如何编写自定义扩展，以在部署期间强制执行自动化软件物料清单 (SBOM) 扫描等策略。"
+    },
+    {
+      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+      "link": "https://developers.googleblog.com/en/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-source IREE/MLIR compiler allows developers to take models from JAX, PyTorch, and TensorFlow straight to Coral NPU hardware without writing custom assembly. Developers can now prototype and deploy these multimodal edge applications using new hardware options like the Synaptics Astra SR200 MCU series and globally available Coralboard devkits.12",
+      "contentSnippet": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-source IREE/MLIR compiler allows developers to take models from JAX, PyTorch, and TensorFlow straight to Coral NPU hardware without writing custom assembly. Developers can now prototype and deploy these multimodal edge applications using new hardware options like the Synaptics Astra SR200 MCU series and globally available Coralboard devkits.12",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌研究团队发布了32位开源Coral NPU RISC-V架构，其Matrix Execution Unit提供高达1 TOPS性能，平均功耗仅为10 mW，适用于边缘推理。同时推出v1.0开源IREE/MLIR编译器，支持将JAX、PyTorch、TensorFlow等模型直接部署到Coral NPU硬件，无需编写自定义汇编代码。开发者可通过Synaptics Astra SR200 MCU系列等新硬件及Coralboard开发套件，快速原型设计和部署多模态边缘应用。",
+        "en": "Google Research has introduced the open-source 32-bit Coral NPU RISC-V architecture with its Matrix Execution Unit, offering up to 1 TOPS performance at an average power of 10 mW for edge inference. The v1.0 open-source IREE/MLIR compiler enables developers to deploy models from JAX, PyTorch, and TensorFlow on Coral NPU hardware without custom assembly. New hardware options, such as the Synaptics Astra SR200 MCU series and Coralboard devkits, are now available for prototyping and deploying multimodal edge applications."
+      },
+      "summary": "谷歌研究团队发布了32位开源Coral NPU RISC-V架构，其Matrix Execution Unit提供高达1 TOPS性能，平均功耗仅为10 mW，适用于边缘推理。同时推出v1.0开源IREE/MLIR编译器，支持将JAX、PyTorch、TensorFlow等模型直接部署到Coral NPU硬件，无需编写自定义汇编代码。开发者可通过Synaptics Astra SR200 MCU系列等新硬件及Coralboard开发套件，快速原型设计和部署多模态边缘应用。"
+    },
+    {
+      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+      "link": "https://developers.googleblog.com/en/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels that achieve high Model Flops Utilization (MFU) across dense and MoE architectures. Developers can leverage these battle-tested optimization playbooks, recipes, and the Hugging Face modeling backend to efficiently scale their own workloads on TPU infrastructure.",
+      "contentSnippet": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels that achieve high Model Flops Utilization (MFU) across dense and MoE architectures. Developers can leverage these battle-tested optimization playbooks, recipes, and the Hugging Face modeling backend to efficiently scale their own workloads on TPU infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "TorchTPU将原生torch.device(\"tpu\")后端直接集成到PyTorch中，使开发者能在Google Cloud TPU上训练大规模模型，无需重写为JAX代码。TorchTitan TPU分支进一步优化，通过SimpleFSDP、Graph Trainer和自定义Pallas内核等生产级扩展原语，在密集和MoE架构中实现高MFU。开发者可利用这些经过验证的优化方案、食谱及Hugging Face建模后端，高效扩展TPU工作负载。",
+        "en": "TorchTPU integrates a torch.device(\"tpu\") backend into PyTorch, enabling TPU training without JAX code changes. TorchTitan enhances this with production primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels for high MFU in dense and MoE models. Developers can use optimization playbooks, recipes, and Hugging Face support to scale workloads efficiently on TPUs."
+      },
+      "summary": "TorchTPU将原生torch.device(\"tpu\")后端直接集成到PyTorch中，使开发者能在Google Cloud TPU上训练大规模模型，无需重写为JAX代码。TorchTitan TPU分支进一步优化，通过SimpleFSDP、Graph Trainer和自定义Pallas内核等生产级扩展原语，在密集和MoE架构中实现高MFU。开发者可利用这些经过验证的优化方案、食谱及Hugging Face建模后端，高效扩展TPU工作负载。"
+    },
+    {
+      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+      "link": "https://developers.googleblog.com/en/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
+      "contentSnippet": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI边缘模型探针现支持自定义编译器中间表示及开源适配器（如TOSA、VGF、PTE），可在设备上调试机器学习模型。开发者可利用层级图可视化、分屏视图和逐节点追踪覆盖等功能，检测导出回归并验证硬件委派。这些工具使工程团队能透明调试执行图，并本地定位周期级延迟瓶颈。",
+        "en": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can use hierarchical graph visualization, split-pane views, and per-node trace overlays to debug execution graphs, detect export regressions, and verify hardware delegation. These tools help engineering teams identify cycle-level latency bottlenecks locally for transparent debugging."
+      },
+      "summary": "谷歌AI边缘模型探针现支持自定义编译器中间表示及开源适配器（如TOSA、VGF、PTE），可在设备上调试机器学习模型。开发者可利用层级图可视化、分屏视图和逐节点追踪覆盖等功能，检测导出回归并验证硬件委派。这些工具使工程团队能透明调试执行图，并本地定位周期级延迟瓶颈。"
+    },
+    {
+      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+      "link": "https://developers.googleblog.com/en/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-19T16:00:00.000Z",
+      "content": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source project maintainers, these engines include optimized TPU kernel implementations, production-ready features like KV cache management with TPU Sync, and disaggregated serving. Public benchmarks demonstrate state-of-the-art performance and industry-leading cost efficiency on Ironwood TPU across long-context and agentic workloads.",
+      "contentSnippet": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source project maintainers, these engines include optimized TPU kernel implementations, production-ready features like KV cache management with TPU Sync, and disaggregated serving. Public benchmarks demonstrate state-of-the-art performance and industry-leading cost efficiency on Ironwood TPU across long-context and agentic workloads.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文宣布推出基于TPU的原生PyTorch后端vLLM和SGLang推理引擎，支持开发者使用PyTorch工具运行和优化服务工作负载。这些引擎与开源项目维护者合作开发，包含优化的TPU内核实现、TPU Sync的KV缓存管理及解耦服务功能。公开基准测试显示，在Ironwood TPU上，这些引擎在长上下文和智能体工作负载中表现卓越，兼具行业领先性能和成本效率。",
+        "en": "The article announces native PyTorch backends for vLLM and SGLang, optimized for TPU using TorchTPU. Developed with open-source maintainers, these engines feature TPU kernel implementations, KV cache management with TPU Sync, and disaggregated serving. Benchmarks show state-of-the-art performance and cost efficiency on Ironwood TPU for long-context and agentic workloads."
+      },
+      "summary": "本文宣布推出基于TPU的原生PyTorch后端vLLM和SGLang推理引擎，支持开发者使用PyTorch工具运行和优化服务工作负载。这些引擎与开源项目维护者合作开发，包含优化的TPU内核实现、TPU Sync的KV缓存管理及解耦服务功能。公开基准测试显示，在Ironwood TPU上，这些引擎在长上下文和智能体工作负载中表现卓越，兼具行业领先性能和成本效率。"
+    },
+    {
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "link": "https://developers.googleblog.com/en/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-18T16:00:00.000Z",
+      "content": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+      "contentSnippet": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "使用开源的 Agent Development Kit (ADK) 和 gemini-3.8-live，开发者可通过 Python 实现非阻塞工具，构建响应灵敏的语音代理。利用流式工具可获取进度更新，或采用后台执行模式保持对话流畅。此外，配置 WHEN_IDLE、INTERRUPT 或 SILENT 等响应调度行为，使开发者能精确控制工具结果在对话中的呈现时机与方式。",
+        "en": "This guide explains how to build responsive voice agents using the open-source Agent Development Kit (ADK) and gemini-3.8-live. Developers implement non-blocking tools in Python to maintain conversation flow, using streaming tools for progress updates or background execution for long-running queries. Response scheduling behaviors like WHEN_IDLE, INTERRUPT, or SILENT allow precise control over tool result delivery. This approach ensures voice agents remain active and engaging."
+      },
+      "summary": "使用开源的 Agent Development Kit (ADK) 和 gemini-3.8-live，开发者可通过 Python 实现非阻塞工具，构建响应灵敏的语音代理。利用流式工具可获取进度更新，或采用后台执行模式保持对话流畅。此外，配置 WHEN_IDLE、INTERRUPT 或 SILENT 等响应调度行为，使开发者能精确控制工具结果在对话中的呈现时机与方式。"
+    },
+    {
+      "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+      "link": "https://developers.googleblog.com/en/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-18T16:00:00.000Z",
+      "content": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+      "contentSnippet": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "LiteRT Tensor API为开发者提供原生C++控制模型图的能力，旨在统一在异构边缘硬件上的端到端机器学习计算。该API使开发者能够更高效地部署和优化模型，提升边缘设备的性能和灵活性。",
+        "en": "The LiteRT Tensor API enables developers to use native C++ for model graph control, unifying end-to-end ML computations on heterogeneous edge hardware. This approach provides native C++ support for model authoring on edge devices."
+      },
+      "summary": "LiteRT Tensor API为开发者提供原生C++控制模型图的能力，旨在统一在异构边缘硬件上的端到端机器学习计算。该API使开发者能够更高效地部署和优化模型，提升边缘设备的性能和灵活性。"
+    },
+    {
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "link": "https://developers.googleblog.com/en/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "pubDate": "Wed, 14 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-14T16:00:00.000Z",
+      "content": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+      "contentSnippet": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌OAuth平台现支持DPoP协议，用于约束刷新令牌，可防御信息窃取和中间人攻击。DPoP通过加密绑定长寿命刷新令牌，同时保持标准短寿命访问令牌，实现强安全性的凭证管理，且不增加API性能负担。此外，集成多代理或模型上下文协议（MCP）的开发者可使用Google Cloud STS服务处理代理链中的安全令牌委托。",
+        "en": "Google OAuth now supports DPoP for securely binding refresh tokens to senders, mitigating Infostealer malware and MITM attacks. This cryptographically links long-lived refresh tokens while keeping short-lived access tokens standard. Developers gain robust credential security without high-QPS API performance costs. For multi-agent or MCP workloads, Google Cloud STS enables secure token delegation across agent chains."
+      },
+      "summary": "谷歌OAuth平台现支持DPoP协议，用于约束刷新令牌，可防御信息窃取和中间人攻击。DPoP通过加密绑定长寿命刷新令牌，同时保持标准短寿命访问令牌，实现强安全性的凭证管理，且不增加API性能负担。此外，集成多代理或模型上下文协议（MCP）的开发者可使用Google Cloud STS服务处理代理链中的安全令牌委托。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:44.536Z"
+}

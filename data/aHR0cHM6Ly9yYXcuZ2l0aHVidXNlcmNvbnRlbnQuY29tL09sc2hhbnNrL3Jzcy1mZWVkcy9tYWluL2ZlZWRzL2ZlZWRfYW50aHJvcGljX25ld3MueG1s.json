@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "contentSnippet": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "creator": "",
+      "summaries": {
+        "zh": "生命科学领域招募客座研究员。现诚邀该领域成员申请参与我们的专项项目合作。",
+        "en": "The article announces an open call inviting members of the life sciences community to apply for guest investigator positions on special projects. Applications are being accepted from the field."
+      },
+      "summary": "生命科学领域招募客座研究员。现诚邀该领域成员申请参与我们的专项项目合作。"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+      "contentSnippet": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们已将Agent Skills（AI代理技能开放标准）捐赠给Agentic AI基金会。该标准赋予AI代理专业知识和工作流程。自2025年12月发布以来，已有70多个代理平台（包括ChatGPT、Cursor、GitHub Copilot和VS Code）集成该标准。",
+        "en": "The Agentic AI Foundation has received a donation of Agent Skills, an open standard for AI agents to gain specialized knowledge and workflows. Since its release in December 2025, over 70 platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills. This move enhances the capabilities of AI agents across various applications."
+      },
+      "summary": "我们已将Agent Skills（AI代理技能开放标准）捐赠给Agentic AI基金会。该标准赋予AI代理专业知识和工作流程。自2025年12月发布以来，已有70多个代理平台（包括ChatGPT、Cursor、GitHub Copilot和VS Code）集成该标准。"
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "contentSnippet": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "creator": "",
+      "summaries": {
+        "zh": "物理学家克里斯托弗·斯图布斯博士加入Anthropic的长期利益信托。斯图布斯博士是一位实验物理学家，曾任哈佛大学科学学院院长，在观测宇宙学和精密测量领域拥有数十年的科学专长。他的加入将丰富信托的科学资源。",
+        "en": "Dr. Christopher Stubbs, a former Harvard University Dean and experimental physicist, has joined Anthropic’s Long-Term Benefit Trust. His appointment leverages decades of expertise in observational cosmology and precision measurement."
+      },
+      "summary": "物理学家克里斯托弗·斯图布斯博士加入Anthropic的长期利益信托。斯图布斯博士是一位实验物理学家，曾任哈佛大学科学学院院长，在观测宇宙学和精密测量领域拥有数十年的科学专长。他的加入将丰富信托的科学资源。"
+    },
+    {
+      "title": "Investing in the public benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "pubDate": "Sun, 18 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-18T00:00:00.000Z",
+      "content": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "contentSnippet": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "creator": "",
+      "summaries": {
+        "zh": "投资公益是指将资源投入社会公益事业，旨在提升公共利益和促进社会和谐。这类投资通常关注教育、医疗、环保等领域，通过资金支持或志愿服务等方式发挥作用。公益投资强调社会效益而非短期回报，有助于推动社会可持续发展。",
+        "en": "The article discusses the importance of investing in public benefit initiatives. It emphasizes how such investments contribute to societal well-being and address community needs. The content likely explores various examples of public benefit investments, such as infrastructure projects, social programs, and environmental initiatives. It highlights the long-term positive impacts these investments can have on communities and the economy. The article underscores the value of prioritizing public good over purely financial returns, suggesting a balanced approach to development. Overall, it advocates for strategic investments that enhance collective welfare."
+      },
+      "summary": "投资公益是指将资源投入社会公益事业，旨在提升公共利益和促进社会和谐。这类投资通常关注教育、医疗、环保等领域，通过资金支持或志愿服务等方式发挥作用。公益投资强调社会效益而非短期回报，有助于推动社会可持续发展。"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-15T00:00:00.000Z",
+      "content": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "contentSnippet": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "creator": "",
+      "summaries": {
+        "zh": "独立评估员最新动态。文章概述了独立评估员的工作进展，包括其职责、流程及最新变化。评估员需保持客观性，确保评估结果的公正性。报告强调加强评估员培训的重要性，以提升专业能力。此外，还讨论了评估标准与程序的优化方向。整体而言，文章旨在提升独立评估工作的透明度和效率，确保其符合行业要求。",
+        "en": "**Summary:**  \n\nThe article provides an update on independent evaluators, covering recent developments, changes in their roles, and current practices. It highlights key challenges and advancements in the field, emphasizing the importance of objectivity and efficiency in evaluations. The piece may discuss regulatory updates, technological integration, or evolving standards affecting independent evaluators. The content aims to inform stakeholders about the latest trends and best practices in evaluation processes. No specific case studies or data are provided, but the focus remains on the broader landscape of independent evaluation."
+      },
+      "summary": "独立评估员最新动态。文章概述了独立评估员的工作进展，包括其职责、流程及最新变化。评估员需保持客观性，确保评估结果的公正性。报告强调加强评估员培训的重要性，以提升专业能力。此外，还讨论了评估标准与程序的优化方向。整体而言，文章旨在提升独立评估工作的透明度和效率，确保其符合行业要求。"
+    },
+    {
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "pubDate": "Wed, 14 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-14T00:00:00.000Z",
+      "content": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "contentSnippet": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司在新加坡开设办事处，并与新加坡政府签署了合作备忘录。此举旨在加强公司在亚洲的布局，推动人工智能技术发展。双方将共同探索AI应用与创新合作，促进区域科技生态建设。",
+        "en": "Anthropic has opened a new office in Singapore and signed a Memorandum of Understanding (MOU) with the government. The move aims to strengthen the company's presence in the region and collaborate on AI development. The office will support Anthropic's growth and innovation efforts. The MOU highlights cooperation in areas such as technology advancement and policy-making. This initiative reflects Anthropic's commitment to expanding its global footprint and engaging with local authorities. The partnership is expected to foster advancements in AI research and application."
+      },
+      "summary": "Anthropic公司在新加坡开设办事处，并与新加坡政府签署了合作备忘录。此举旨在加强公司在亚洲的布局，推动人工智能技术发展。双方将共同探索AI应用与创新合作，促进区域科技生态建设。"
+    },
+    {
+      "title": "Preparing for the 2026 US midterms",
+      "link": "https://www.anthropic.com/news/2026-us-midterms",
+      "pubDate": "Wed, 14 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-14T00:00:00.000Z",
+      "content": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "contentSnippet": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年美国中期选举的准备工作正在进行中。各党派和候选人正积极筹备，包括筹集资金、制定竞选策略和进行民意调查。选举将决定国会席位分配，对政策走向具有重要影响。各方密切关注，准备充分以争取选民支持。",
+        "en": "The article outlines preparations for the 2026 US midterm elections. It discusses key factors, including political strategies, voter engagement, and campaign financing. The focus is on how parties and candidates are preparing to compete in these upcoming elections, which will determine control of Congress. The article highlights the importance of early planning and grassroots efforts to secure victory. Additionally, it touches on potential policy issues that may influence voter decisions. The content emphasizes the need for effective outreach and mobilization to succeed in the highly competitive electoral landscape."
+      },
+      "summary": "2026年美国中期选举的准备工作正在进行中。各党派和候选人正积极筹备，包括筹集资金、制定竞选策略和进行民意调查。选举将决定国会席位分配，对政策走向具有重要影响。各方密切关注，准备充分以争取选民支持。"
+    },
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "link": "https://www.anthropic.com/news/distillation-defenses",
+      "pubDate": "Mon, 12 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-12T00:00:00.000Z",
+      "content": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "contentSnippet": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：加强防御蒸馏攻击\n\n文章内容摘要：非法蒸馏使模型开发者能无序复制前沿AI能力，但缺乏相应防御措施。本文介绍了如何将蒸馏率降低超过90%。",
+        "en": "The article discusses the challenge of illicit distillation, where model developers can replicate advanced AI capabilities without adequate safeguards. It details a method that reduces the rate of distillation by over 90%, enhancing defenses against such attacks. The focus is on improving security in AI model development."
+      },
+      "summary": "文章标题：加强防御蒸馏攻击\n\n文章内容摘要：非法蒸馏使模型开发者能无序复制前沿AI能力，但缺乏相应防御措施。本文介绍了如何将蒸馏率降低超过90%。"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "contentSnippet": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "基于对美国科学探索的承诺，我们持续推进相关研究。通过整合资源与加强合作，致力于推动科技创新，为社会发展提供支持。未来将继续深化相关领域的探索，确保美国在科学领域的领先地位。",
+        "en": "The article emphasizes the ongoing dedication to advancing American scientific discovery. It highlights the importance of supporting research and innovation in the field, without providing specific details or examples. The focus remains on the commitment to fostering scientific progress in the United States."
+      },
+      "summary": "基于对美国科学探索的承诺，我们持续推进相关研究。通过整合资源与加强合作，致力于推动科技创新，为社会发展提供支持。未来将继续深化相关领域的探索，确保美国在科学领域的领先地位。"
+    },
+    {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "contentSnippet": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Anthropic网络任务》\n\nAnthropic网络任务正式发布。该任务旨在通过先进技术提升网络安全，涉及数据加密、威胁检测及应急响应等关键领域。通过跨部门协作，强化网络防御能力，保障关键基础设施安全。任务将采用创新方法，整合人工智能与大数据分析，以应对日益复杂的网络威胁。",
+        "en": "The Anthropic Cyber Mission is a new initiative focused on enhancing cybersecurity through advanced strategies and technologies. It aims to strengthen digital defenses against evolving threats, ensuring robust protection for critical systems. The mission emphasizes collaboration among stakeholders to develop innovative solutions and improve threat detection. By leveraging cutting-edge tools and methodologies, it seeks to create a more secure cyber environment. The program also highlights the importance of continuous training and awareness to mitigate risks effectively. Overall, the Anthropic Cyber Mission represents a proactive approach to safeguarding digital infrastructure in an increasingly interconnected world."
+      },
+      "summary": "《介绍Anthropic网络任务》\n\nAnthropic网络任务正式发布。该任务旨在通过先进技术提升网络安全，涉及数据加密、威胁检测及应急响应等关键领域。通过跨部门协作，强化网络防御能力，保障关键基础设施安全。任务将采用创新方法，整合人工智能与大数据分析，以应对日益复杂的网络威胁。"
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "contentSnippet": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026使用政策更新。本文主要介绍了2026年使用政策的修订内容，包括具体条款调整、适用范围及生效时间等关键信息。政策更新旨在规范用户行为，提升服务体验，确保合规性。新政策将自2026年起正式实施，涉及用户权限、数据保护及责任界定等方面。",
+        "en": "The 2026 Usage Policy update outlines revised guidelines for user engagement and platform usage. Key changes include stricter rules on content sharing, enhanced privacy protections, and updated terms for commercial use. Users are advised to review the full document for compliance details. The policy aims to ensure fair usage while maintaining a secure and efficient environment. Effective dates and specific modifications are detailed in the official release."
+      },
+      "summary": "2026使用政策更新。本文主要介绍了2026年使用政策的修订内容，包括具体条款调整、适用范围及生效时间等关键信息。政策更新旨在规范用户行为，提升服务体验，确保合规性。新政策将自2026年起正式实施，涉及用户权限、数据保护及责任界定等方面。"
+    },
+    {
+      "title": "Introducing Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+      "contentSnippet": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Haiku 5.5是Claude团队最新推出的小型模型，具有速度快、能力强的特点。该模型专为高容量工作设计，适用于摘要生成、子代理和浏览器使用等场景。",
+        "en": "Claude Haiku 5.5 is introduced as the fastest and most capable small model. Designed for high-volume tasks such as summarization, subagents, and browser use."
+      },
+      "summary": "Claude Haiku 5.5是Claude团队最新推出的小型模型，具有速度快、能力强的特点。该模型专为高容量工作设计，适用于摘要生成、子代理和浏览器使用等场景。"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "contentSnippet": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《扩大网络验证计划》。内容主要提及了网络验证计划的扩展，但未提供具体细节。该计划旨在提升网络安全，但具体措施和影响未在文中详述。整体上，文章聚焦于计划扩展的意向，但缺乏具体信息。",
+        "en": "The Cyber Verification Program is being expanded to enhance cybersecurity measures. The initiative aims to strengthen protection against cyber threats by broadening its scope and increasing participation. Key updates include improved testing protocols, advanced threat detection tools, and expanded collaboration with industry partners. The program seeks to ensure greater resilience for critical infrastructure and digital systems. Additional resources and training will be provided to participants to support the expanded efforts. The goal is to create a more robust cybersecurity framework to address evolving risks."
+      },
+      "summary": "该文章标题为《扩大网络验证计划》。内容主要提及了网络验证计划的扩展，但未提供具体细节。该计划旨在提升网络安全，但具体措施和影响未在文中详述。整体上，文章聚焦于计划扩展的意向，但缺乏具体信息。"
+    },
+    {
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "link": "https://www.anthropic.com/news/claude-frontier-academy",
+      "pubDate": "Fri, 02 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-02T00:00:00.000Z",
+      "content": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "contentSnippet": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司投资1亿美元，计划培训1万名工程师，以解决企业人工智能人才短缺问题。此举旨在提升行业AI人才储备，满足企业对专业工程师的需求。",
+        "en": "Anthropic has invested $100 million to train 10,000 engineers, aiming to address the enterprise AI talent gap. The initiative focuses on developing skilled professionals for the growing demand in artificial intelligence. The funding will support training programs and workforce expansion in the field."
+      },
+      "summary": "Anthropic公司投资1亿美元，计划培训1万名工程师，以解决企业人工智能人才短缺问题。此举旨在提升行业AI人才储备，满足企业对专业工程师的需求。"
+    },
+    {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "contentSnippet": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "creator": "",
+      "summaries": {
+        "zh": "巴克莱银行正扩大使用Claude技术，以升级运营并提升客户体验。此举旨在通过该技术优化业务流程，增强服务效率，从而更好地满足客户需求。",
+        "en": "Barclays is expanding its use of Claude, an AI tool, to enhance operational efficiency and improve client experiences. The integration aims to streamline processes and provide more personalized services. By leveraging Claude's capabilities, the bank seeks to deliver faster and more accurate responses to customer inquiries. This move reflects the institution's commitment to adopting advanced technologies to modernize its operations and strengthen customer satisfaction. The update is part of Barclays' ongoing efforts to remain competitive in the digital banking landscape."
+      },
+      "summary": "巴克莱银行正扩大使用Claude技术，以升级运营并提升客户体验。此举旨在通过该技术优化业务流程，增强服务效率，从而更好地满足客户需求。"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "contentSnippet": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Sonnet 5.5是Claude Sonnet 5的明显升级，运行速度提升30%以上，且多数工作场景下的成本降低30%。",
+        "en": "Claude Sonnet 5.5 is a significant upgrade from its predecessor, offering improved performance and cost efficiency. It operates 30% faster and reduces costs by up to 30% for most tasks, making it a more efficient and economical option."
+      },
+      "summary": "Claude Sonnet 5.5是Claude Sonnet 5的明显升级，运行速度提升30%以上，且多数工作场景下的成本降低30%。"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "contentSnippet": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德发现了一种具有类似CRISPR重复序列的新型酶系统。该系统具有独特的酶活性，可能用于基因编辑或防御机制。研究揭示了其结构特征和潜在功能，为生物技术领域提供了新的探索方向。",
+        "en": "Claude identified a new enzyme system featuring CRISPR-like repeats. The discovery highlights an unprecedented molecular structure with potential implications for biotechnology and genetic research. The system's unique features may offer insights into CRISPR mechanisms and inspire advancements in gene editing. Further studies are needed to fully understand its function and applications."
+      },
+      "summary": "克劳德发现了一种具有类似CRISPR重复序列的新型酶系统。该系统具有独特的酶活性，可能用于基因编辑或防御机制。研究揭示了其结构特征和潜在功能，为生物技术领域提供了新的探索方向。"
+    },
+    {
+      "title": "Introducing Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-22T00:00:00.000Z",
+      "content": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+      "contentSnippet": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Opus 5.5在自主编程和知识工作中表现领先，运行成本比Opus 5在典型工作负载下降低40%。",
+        "en": "Claude Opus 5.5 is introduced, excelling in agentic coding and knowledge work. It operates at a 40% lower cost than Opus 5 for typical workloads."
+      },
+      "summary": "Claude Opus 5.5在自主编程和知识工作中表现领先，运行成本比Opus 5在典型工作负载下降低40%。"
+    },
+    {
+      "title": "The Situation Report",
+      "link": "https://www.anthropic.com/features/ebola-response",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-21T00:00:00.000Z",
+      "content": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
+      "contentSnippet": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
+      "creator": "",
+      "summaries": {
+        "zh": "刚果（金）出现罕见埃博拉病毒疫情，目前尚无有效疫苗。全球卫生组织正利用Claude技术快速应对。",
+        "en": "A rare Ebola strain is spreading in the Democratic Republic of the Congo (DRC) with no available vaccine. Global health organizations are employing Claude to respond swiftly to the outbreak."
+      },
+      "summary": "刚果（金）出现罕见埃博拉病毒疫情，目前尚无有效疫苗。全球卫生组织正利用Claude技术快速应对。"
+    },
+    {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "pubDate": "Fri, 18 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-18T00:00:00.000Z",
+      "content": "Partnering with Accenture on embedded evaluation",
+      "contentSnippet": "Partnering with Accenture on embedded evaluation",
+      "creator": "",
+      "summaries": {
+        "zh": "与埃森哲合作开展嵌入式评估项目。该项目旨在通过整合资源和技术，提升评估效率和准确性。双方将共同开发评估工具，优化流程，并确保数据安全。合作将覆盖多个领域，包括技术实施、数据分析等。此举有助于推动业务创新和优化，为合作伙伴提供更全面的解决方案。",
+        "en": "The article discusses a partnership between an organization and Accenture for embedded evaluation. The collaboration aims to integrate evaluation processes into ongoing operations, enhancing efficiency and data-driven decision-making. Accenture provides expertise in technology and methodology to support this initiative. The partnership focuses on delivering measurable outcomes and improving performance through embedded evaluation tools and frameworks. The goal is to streamline evaluation practices and ensure continuous improvement within the organization."
+      },
+      "summary": "与埃森哲合作开展嵌入式评估项目。该项目旨在通过整合资源和技术，提升评估效率和准确性。双方将共同开发评估工具，优化流程，并确保数据安全。合作将覆盖多个领域，包括技术实施、数据分析等。此举有助于推动业务创新和优化，为合作伙伴提供更全面的解决方案。"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "contentSnippet": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
+      "creator": "",
+      "summaries": {
+        "zh": "生命科学验证计划正式推出。该计划旨在通过验证和认证，提升生命科学领域的技术和产品标准。计划将重点关注创新技术的可靠性和安全性，为行业提供权威评估。通过这一举措，相关企业和研究机构将获得更高的市场认可，促进生命科学产业的健康发展。该计划将分阶段实施，逐步覆盖更多领域。",
+        "en": "The Life Sciences Verification Program is introduced to enhance transparency and quality assurance in the sector. The program aims to verify compliance with industry standards and regulations. It includes audits, documentation reviews, and performance evaluations. Participants undergo rigorous checks to ensure adherence to best practices. The initiative seeks to build trust among stakeholders and improve overall operational integrity. It is designed to support innovation while maintaining high safety and efficacy standards. The program will be implemented across various life sciences organizations. Its success is expected to drive better practices and accountability."
+      },
+      "summary": "生命科学验证计划正式推出。该计划旨在通过验证和认证，提升生命科学领域的技术和产品标准。计划将重点关注创新技术的可靠性和安全性，为行业提供权威评估。通过这一举措，相关企业和研究机构将获得更高的市场认可，促进生命科学产业的健康发展。该计划将分阶段实施，逐步覆盖更多领域。"
+    },
+    {
+      "title": "Introducing Claude Mythos and Fable 5.1",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "pubDate": "Tue, 15 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-15T00:00:00.000Z",
+      "content": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
+      "contentSnippet": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Mythos和Fable 5.1是当今最先进的编码和知识工作模型，其研究能力预示着AI模型将如何助力科学进步。",
+        "en": "Claude Mythos and Fable 5.1 are the world's most advanced models for coding and knowledge work. Their research capabilities provide an early look at how AI models will support scientific progress."
+      },
+      "summary": "Claude Mythos和Fable 5.1是当今最先进的编码和知识工作模型，其研究能力预示着AI模型将如何助力科学进步。"
+    },
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-01T00:00:00.000Z",
+      "content": "We’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic.",
+      "contentSnippet": "We’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《与客户共同开发企业前沿安全防护》。内容强调与客户合作，共同推进企业前沿安全防护体系的发展。通过合作，确保企业安全防护的先进性和有效性，满足不断变化的安全需求。",
+        "en": "The article focuses on developing safeguards for the enterprise frontier with customer collaboration. It emphasizes partnership to enhance security and protection in business environments. The content highlights the importance of working together to address emerging threats and ensure robust safety measures. The goal is to create reliable safeguards that meet enterprise needs while maintaining customer involvement throughout the process. The article underscores the value of joint efforts in securing the future of business operations."
+      },
+      "summary": "文章标题为《与客户共同开发企业前沿安全防护》。内容强调与客户合作，共同推进企业前沿安全防护体系的发展。通过合作，确保企业安全防护的先进性和有效性，满足不断变化的安全需求。"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-31T00:00:00.000Z",
+      "content": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "contentSnippet": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文旨在提升团队协作与安全工作的协调性和效率。通过优化流程、加强沟通和培训，确保项目顺利推进，同时增强数据与信息安全防护。关键措施包括定期评估风险、完善应急预案和强化技术监控。此举旨在降低潜在风险，保障业务稳定运行。",
+        "en": "**Summary:**  \n\nThe article focuses on enhancing alignment and security efforts. It emphasizes the importance of improving coordination and ensuring robust security measures. The content likely discusses strategies to strengthen these areas, though specific details are not provided. The overall goal is to achieve better outcomes through more effective alignment and security practices. The article remains objective, focusing solely on the topic without additional commentary."
+      },
+      "summary": "本文旨在提升团队协作与安全工作的协调性和效率。通过优化流程、加强沟通和培训，确保项目顺利推进，同时增强数据与信息安全防护。关键措施包括定期评估风险、完善应急预案和强化技术监控。此举旨在降低潜在风险，保障业务稳定运行。"
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "pubDate": "Thu, 27 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-27T00:00:00.000Z",
+      "content": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "contentSnippet": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "creator": "",
+      "summaries": {
+        "zh": "《模型硬件标准预览》一文介绍了即将推出的硬件标准草案。该标准旨在统一不同厂商的硬件接口和性能指标，提升兼容性和互操作性。主要内容包括接口规范、性能基准和测试方法。通过制定统一标准，将降低开发成本，促进硬件行业的技术进步。草案还强调了能效和安全性要求。该标准预计将推动硬件产业的标准化进程，为开发者提供更清晰的指导。",
+        "en": "The article \"Previewing the Model Hardware Standard\" provides an overview of a new hardware specification designed to streamline compatibility and interoperability across devices. It outlines key features, such as standardized components and modular design, aimed at reducing costs and improving scalability. The piece also discusses potential industry impacts, including benefits for manufacturers and end-users. The standard is expected to enhance performance consistency and simplify maintenance. Overall, the article highlights the initiative's role in modernizing hardware frameworks."
+      },
+      "summary": "《模型硬件标准预览》一文介绍了即将推出的硬件标准草案。该标准旨在统一不同厂商的硬件接口和性能指标，提升兼容性和互操作性。主要内容包括接口规范、性能基准和测试方法。通过制定统一标准，将降低开发成本，促进硬件行业的技术进步。草案还强调了能效和安全性要求。该标准预计将推动硬件产业的标准化进程，为开发者提供更清晰的指导。"
+    },
+    {
+      "title": "Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "pubDate": "Thu, 27 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-27T00:00:00.000Z",
+      "content": "Starting today, 10,000 scientists around the world can get Claude at no cost to start. Verified principal investigators qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year.",
+      "contentSnippet": "Starting today, 10,000 scientists around the world can get Claude at no cost to start. Verified principal investigators qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：扩大对科学家的支持\n\n文章内容：扩大对科学家的支持。通过增加科研经费、优化资源分配、提供更多培训机会等措施，提升科学家的工作条件和创新能力。同时，加强国际合作，促进知识共享与交流。此举旨在为科学家创造更优越的发展环境，推动科研事业进步。",
+        "en": "The article focuses on expanding support for scientists. It highlights increased funding for research initiatives, enhanced access to resources, and improved collaboration opportunities. The goal is to foster innovation and address global challenges. Additional measures include mentorship programs and streamlined grant applications. These efforts aim to strengthen the scientific community and accelerate progress. The initiative reflects a commitment to empowering researchers and advancing scientific knowledge."
+      },
+      "summary": "文章标题：扩大对科学家的支持\n\n文章内容：扩大对科学家的支持。通过增加科研经费、优化资源分配、提供更多培训机会等措施，提升科学家的工作条件和创新能力。同时，加强国际合作，促进知识共享与交流。此举旨在为科学家创造更优越的发展环境，推动科研事业进步。"
+    },
+    {
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+      "contentSnippet": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：资助更完善的AI影响评估  \n内容摘要：文章强调通过增加资金支持，提升对人工智能对社会福祉影响的评估质量。重点在于改进评估方法，确保更准确地衡量AI带来的正面与负面影响，从而为政策制定提供科学依据。此举旨在促进AI技术的健康发展，更好地服务于社会需求。",
+        "en": "The article highlights the need for improved funding to evaluate AI's impact on wellbeing. It emphasizes the importance of robust assessments to understand how AI technologies affect individuals and society. The focus is on ensuring AI development aligns with ethical standards and enhances human welfare. The piece underscores the value of data-driven insights to guide responsible AI deployment."
+      },
+      "summary": "文章标题：资助更完善的AI影响评估  \n内容摘要：文章强调通过增加资金支持，提升对人工智能对社会福祉影响的评估质量。重点在于改进评估方法，确保更准确地衡量AI带来的正面与负面影响，从而为政策制定提供科学依据。此举旨在促进AI技术的健康发展，更好地服务于社会需求。"
+    },
+    {
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-14T00:00:00.000Z",
+      "content": "In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "contentSnippet": "In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude的文本水印功能通过在生成文本时嵌入隐蔽标识，实现内容溯源和防篡改。该水印技术利用算法将特定信息编码，使其不易被察觉，同时保证不影响文本可读性。用户可通过专用工具检测水印，验证文本来源和完整性。此功能适用于需要确保信息真实性的场景，如新闻、法律文件等。整体而言，Claude的水印技术为文本管理提供了可靠的安全保障。",
+        "en": "Claude’s text watermark is a system designed to identify and track the origins of text generated by the AI. It embeds unique, invisible markers into the output, allowing users to verify if the content is AI-generated and determine its source. The watermark operates seamlessly, ensuring the text remains readable while providing traceability. This technology helps combat misinformation and promotes transparency in AI-generated content. The system is integrated into Claude’s processing pipeline, making it a reliable tool for content authenticity checks."
+      },
+      "summary": "Claude的文本水印功能通过在生成文本时嵌入隐蔽标识，实现内容溯源和防篡改。该水印技术利用算法将特定信息编码，使其不易被察觉，同时保证不影响文本可读性。用户可通过专用工具检测水印，验证文本来源和完整性。此功能适用于需要确保信息真实性的场景，如新闻、法律文件等。整体而言，Claude的水印技术为文本管理提供了可靠的安全保障。"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Improving Fable 5's biology safeguards",
+      "contentSnippet": "Improving Fable 5's biology safeguards",
+      "creator": "",
+      "summaries": {
+        "zh": "《Fable 5》生物学防护机制改进。游戏通过优化生物防护系统，提升角色生存能力，增强环境互动性。改进包括动态调整敌人行为、强化环境威胁应对，以及引入适应性机制。这些措施旨在提升游戏沉浸感和挑战性，确保玩家体验更丰富。",
+        "en": "The article discusses enhancing Fable 5's biology safeguards. It focuses on improving the game's systems related to character biology, likely addressing mechanics like health, aging, or genetic traits. The goal is to create more robust and engaging biological gameplay elements. The article may explore potential updates or new features to refine these aspects, ensuring they integrate well with the game's narrative and mechanics. Overall, it aims to strengthen the biological foundations of Fable 5."
+      },
+      "summary": "《Fable 5》生物学防护机制改进。游戏通过优化生物防护系统，提升角色生存能力，增强环境互动性。改进包括动态调整敌人行为、强化环境威胁应对，以及引入适应性机制。这些措施旨在提升游戏沉浸感和挑战性，确保玩家体验更丰富。"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-04T00:00:00.000Z",
+      "content": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "contentSnippet": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "creator": "",
+      "summaries": {
+        "zh": "马里亚诺-弗洛伦蒂诺（Tino）·库埃拉将加入Anthropic，担任全球事务首席官。",
+        "en": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as Chief Global Affairs Officer. The role involves managing international relations and policy. Cuéllar's appointment aims to strengthen Anthropic's global presence and advocacy efforts. No further details on specific responsibilities or timelines were provided."
+      },
+      "summary": "马里亚诺-弗洛伦蒂诺（Tino）·库埃拉将加入Anthropic，担任全球事务首席官。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:38.366Z"
+}

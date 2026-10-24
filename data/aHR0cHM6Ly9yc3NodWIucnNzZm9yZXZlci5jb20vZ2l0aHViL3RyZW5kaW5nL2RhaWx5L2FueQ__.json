@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/90f200b4e3dca508ea0781c6eb3dc5f96bc83a52561074207b21eccb7fd78605/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 44192<br>Forks: 2751",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 44192\nForks: 2751",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该技能是一种用于多阶段安全审计的编码代理，具有独立验证的机器可读发现结果。基于JavaScript开发，该技能在GitHub上获得33380个星标和2090次分叉，展示了其较高的社区认可度。",
+        "en": "The article introduces a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The tool has 33,380 stars and 2,090 forks on its repository."
+      },
+      "summary": "该技能是一种用于多阶段安全审计的编码代理，具有独立验证的机器可读发现结果。基于JavaScript开发，该技能在GitHub上获得33380个星标和2090次分叉，展示了其较高的社区认可度。"
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2c97a067dcb36bb352eeab0c812fb993b37474cb4f053d4e271bb3b739ecaf73/NVIDIA/OpenShell\" referrerpolicy=\"no-referrer\"><br>OpenShell is the safe, private runtime for autonomous AI agents.<br><br>Language: Rust<br>Stars: 19392<br>Forks: 1927",
+      "contentSnippet": "OpenShell is the safe, private runtime for autonomous AI agents.\nLanguage: Rust\nStars: 19392\nForks: 1927",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "OpenShell是一个安全、私密的自主AI代理运行时，使用Rust语言开发。该项目在GitHub上获得18341个星标和1855次分叉。",
+        "en": "OpenShell is a secure and private runtime designed for autonomous AI agents. It is built using Rust and has garnered significant community interest, with 18,341 stars and 1,855 forks on its repository. The platform aims to provide a robust environment for AI development while emphasizing safety and privacy."
+      },
+      "summary": "OpenShell是一个安全、私密的自主AI代理运行时，使用Rust语言开发。该项目在GitHub上获得18341个星标和1855次分叉。"
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "link": "https://github.com/aws/agent-toolkit-for-aws",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b18ebc96a1a3547f16f052f11c5f9c9c031dc4dd51f2507d4915d5deb3b6aff9/aws/agent-toolkit-for-aws\" referrerpolicy=\"no-referrer\"><br>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS<br><br>Language: Python<br>Stars: 3086<br>Forks: 395",
+      "contentSnippet": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\nLanguage: Python\nStars: 3086\nForks: 395",
+      "creator": "aws",
+      "summaries": {
+        "zh": "AWS官方支持的Agent Toolkit，提供MCP服务器、技能和插件，助力AI代理在AWS上构建。基于Python，获3000星，393次分叉。",
+        "en": "The AWS Agent Toolkit is an official, AWS-supported toolkit for building AI agents on AWS. It includes MCP servers, skills, and plugins. The toolkit is written in Python, has 3,000 stars, and 393 forks on its repository. It provides tools and resources to facilitate AI agent development within the AWS ecosystem."
+      },
+      "summary": "AWS官方支持的Agent Toolkit，提供MCP服务器、技能和插件，助力AI代理在AWS上构建。基于Python，获3000星，393次分叉。"
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9a341f3eea54996da07402197fb3fc9fdeb04bb7b2deda3dc4f292ba39eeef6a/Nutlope/hallmark\" referrerpolicy=\"no-referrer\"><br>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.<br><br>Language: CSS<br>Stars: 31992<br>Forks: 1644",
+      "contentSnippet": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\nLanguage: CSS\nStars: 31992\nForks: 1644",
+      "creator": "Nutlope",
+      "summaries": {
+        "zh": "标题：Nutlope/hallmark  \n内容：该项目提供针对Claude Code、Cursor和Codex的反AI垃圾设计技能，使用CSS实现。目前获得3.1万星标和1631次分叉。",
+        "en": "The article discusses an anti-AI-slop design skill for Claude Code, Cursor, and Codex, implemented in CSS. The project has received 31,634 stars and 1,631 forks on its repository. The focus is on improving code quality and reducing AI-generated errors."
+      },
+      "summary": "标题：Nutlope/hallmark  \n内容：该项目提供针对Claude Code、Cursor和Codex的反AI垃圾设计技能，使用CSS实现。目前获得3.1万星标和1631次分叉。"
+    },
+    {
+      "title": "luongnv89/claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3df1f4d351e1380d01235ba49b05c745bc6736df266d38e099945cedf12f4f90/luongnv89/claude-howto\" referrerpolicy=\"no-referrer\"><br>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.<br><br>Language: Python<br>Stars: 44439<br>Forks: 5485",
+      "contentSnippet": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\nLanguage: Python\nStars: 44439\nForks: 5485",
+      "creator": "luongnv89",
+      "summaries": {
+        "zh": "本文是一份视觉化、示例驱动的Claude Code指南，涵盖从基础概念到高级代理的内容，并提供可直接使用的复制粘贴模板。该指南以Python语言编写，获得44238个星标和5473次分叉。",
+        "en": "This guide provides a visual, example-driven approach to learning Claude Code, covering basic concepts to advanced agents. It includes copy-paste templates for immediate practical use, written in Python. The resource has gained significant popularity with 44,238 stars and 5,473 forks on its platform."
+      },
+      "summary": "本文是一份视觉化、示例驱动的Claude Code指南，涵盖从基础概念到高级代理的内容，并提供可直接使用的复制粘贴模板。该指南以Python语言编写，获得44238个星标和5473次分叉。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/722da8642911285eb0af44be0034fc9dee3036174133879f623772d70d589e21/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: Rust<br>Stars: 86270<br>Forks: 5151",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: Rust\nStars: 86270\nForks: 5151",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "标题：pbakaus/impeccable  \n简介：该设计语言使AI设计工具更高效，使用Rust语言开发，获得85964个星标和5139次分叉。",
+        "en": "The article discusses the \"pbakaus/impeccable\" project, a design language in Rust aimed at improving AI design capabilities. It has 85,964 stars and 5,139 forks on its repository. The focus is on enhancing AI harness design through this specific language."
+      },
+      "summary": "标题：pbakaus/impeccable  \n简介：该设计语言使AI设计工具更高效，使用Rust语言开发，获得85964个星标和5139次分叉。"
+    },
+    {
+      "title": "pollen-robotics/microduck",
+      "link": "https://github.com/pollen-robotics/microduck",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9165ed8a1cfa3307d2197d3ff345b864e0ea14ec9e578aa08cd5554ac080f153/pollen-robotics/microduck\" referrerpolicy=\"no-referrer\"><br>A Tiny biped duck robot 🦆<br><br>Language: Rust<br>Stars: 10891<br>Forks: 1398",
+      "contentSnippet": "A Tiny biped duck robot 🦆\nLanguage: Rust\nStars: 10891\nForks: 1398",
+      "creator": "pollen-robotics",
+      "summaries": {
+        "zh": "微型双足鸭型机器人“microduck”，采用 Rust 语言开发，目前获得 10709 个星标和 1385 次分叉。",
+        "en": "The \"Pollen-robotics/microduck\" is a small, bipedal duck-shaped robot developed using Rust programming language. It has gained significant popularity, with 10,709 stars and 1,385 forks on its repository. The robot's design and functionality are key highlights, though specific details about its capabilities or applications are not provided in the given information."
+      },
+      "summary": "微型双足鸭型机器人“microduck”，采用 Rust 语言开发，目前获得 10709 个星标和 1385 次分叉。"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "link": "https://github.com/google-gemini/gemini-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/968197216/8522a757-5632-4fa4-8d01-fcc121390cb1\" referrerpolicy=\"no-referrer\"><br>An open-source AI agent that brings the power of Gemini directly into your terminal.<br><br>Language: TypeScript<br>Stars: 107938<br>Forks: 14804",
+      "contentSnippet": "An open-source AI agent that brings the power of Gemini directly into your terminal.\nLanguage: TypeScript\nStars: 107938\nForks: 14804",
+      "creator": "google-gemini",
+      "summaries": {
+        "zh": "这是一个开源的AI代理工具，将Gemini AI直接集成到终端中，使用TypeScript开发。该工具在GitHub上获得超过107万星标和14787次分叉，广受欢迎。",
+        "en": "The open-source AI agent \"google-gemini/gemini-cli\" brings Gemini's capabilities to the terminal. Developed in TypeScript, it offers easy access to AI functionalities. The project has gained significant popularity, with 107,693 stars and 14,787 forks on platforms like GitHub."
+      },
+      "summary": "这是一个开源的AI代理工具，将Gemini AI直接集成到终端中，使用TypeScript开发。该工具在GitHub上获得超过107万星标和14787次分叉，广受欢迎。"
+    },
+    {
+      "title": "jbiaojerry/ebook-treasure-chest",
+      "link": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/22c98f088a144fc6d63477c534e8d233c9a2642aa6d5126296573ce78ca83fea/jbiaojerry/ebook-treasure-chest\" referrerpolicy=\"no-referrer\"><br>欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。<br><br>Language: Python<br>Stars: 22536<br>Forks: 3184",
+      "contentSnippet": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。\nLanguage: Python\nStars: 22536\nForks: 3184",
+      "creator": "jbiaojerry",
+      "summaries": {
+        "zh": "“电子书下载宝库”是一个提供各类电子书下载链接的网站，涵盖经典文学、经管励志、职场创业、技术手册等类型。该库整合了帆书、微信读书、京东读书、喜马拉雅等APP的电子书资源。项目使用Python开发，获得22384个星标和3176次分叉。",
+        "en": "The \"jbiaojerry/ebook-treasure-chest\" repository is a collection of download links for various ebooks. It covers genres like classic literature, business motivation, self-improvement, career entrepreneurship, and technical manuals. The repository includes links for reading apps such as FanShu (Fandeng Reading), WeChat Reading, JD Reading, and Ximalaya. It has 22,384 stars and 3,176 forks on GitHub."
+      },
+      "summary": "“电子书下载宝库”是一个提供各类电子书下载链接的网站，涵盖经典文学、经管励志、职场创业、技术手册等类型。该库整合了帆书、微信读书、京东读书、喜马拉雅等APP的电子书资源。项目使用Python开发，获得22384个星标和3176次分叉。"
+    },
+    {
+      "title": "makecindy/cindy",
+      "link": "https://github.com/makecindy/cindy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4e64bb9ca232d4770e9e9911694e5de6e0eb1cd77648c4b52e497b86444d0f25/makecindy/cindy\" referrerpolicy=\"no-referrer\"><br>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。<br><br>Language: TypeScript<br>Stars: 4016<br>Forks: 577",
+      "contentSnippet": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\nLanguage: TypeScript\nStars: 4016\nForks: 577",
+      "creator": "makecindy",
+      "summaries": {
+        "zh": "开源AI代理Makecindy/Cindy已发布，支持开箱即用。基于TypeScript开发，目前获得3819星标和567次分叉。该代理功能完善，易于部署，适用于多种场景。",
+        "en": "Cindy is an open-source AI agent designed to be ready to use without setup. Written in TypeScript, it has gained popularity with 3,819 stars and 567 forks on platforms like GitHub. The project emphasizes ease of use and immediate functionality for developers."
+      },
+      "summary": "开源AI代理Makecindy/Cindy已发布，支持开箱即用。基于TypeScript开发，目前获得3819星标和567次分叉。该代理功能完善，易于部署，适用于多种场景。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:49:15.471Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "isoDate": "2026-10-23T17:00:00.000Z",
+      "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "contentSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章《快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）》介绍了OpenAI如何通过可靠的租户隔离、全局缓存和Azure Cosmos DB等技术，成功扩展Habitat系统，使ChatGPT的读取速度提高了12倍。",
+        "en": "OpenAI scaled online storage for ChatGPT using Habitat, implementing reliable multi-tenancy, global caching, and Azure Cosmos DB. These measures enabled 12× faster reads, supporting over 1 billion users. The approach enhanced performance and reliability for the platform."
+      },
+      "summary": "文章《快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）》介绍了OpenAI如何通过可靠的租户隔离、全局缓存和Azure Cosmos DB等技术，成功扩展Habitat系统，使ChatGPT的读取速度提高了12倍。"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "pubDate": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "isoDate": "2026-10-23T10:00:00.000Z",
+      "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "contentSnippet": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI介绍了如何加强边界模型训练和评估的隔离措施，包括离线环境和高性能计算红队测试，以确保安全。",
+        "en": "OpenAI details measures to enhance containment in its frontier model training and evaluation processes. The updates include improved offline environments and high-compute red-teaming initiatives. These efforts aim to strengthen security and control during model development."
+      },
+      "summary": "OpenAI介绍了如何加强边界模型训练和评估的隔离措施，包括离线环境和高性能计算红队测试，以确保安全。"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-23T00:00:00.000Z",
+      "content": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "contentSnippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与波兰国家网络与信息安全局（NASK）合作，共同推进人工智能安全与技术研究。此举旨在加强安全防护，支持更具韧性的数字生态系统建设。双方将聚焦AI安全、安全及技术层面的合作，以提升整体防护水平。",
+        "en": "OpenAI and Poland’s NASK have partnered to advance AI safety and security through technical research. The collaboration aims to strengthen safeguards and support a more resilient digital ecosystem."
+      },
+      "summary": "OpenAI与波兰国家网络与信息安全局（NASK）合作，共同推进人工智能安全与技术研究。此举旨在加强安全防护，支持更具韧性的数字生态系统建设。双方将聚焦AI安全、安全及技术层面的合作，以提升整体防护水平。"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
+      "isoDate": "2026-10-22T19:00:00.000Z",
+      "content": "Fast, focused, low-cost decisions for any application.",
+      "contentSnippet": "Fast, focused, low-cost decisions for any application.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用决策API构建更响应迅速的应用。该API提供快速、专注且低成本的决策支持，适用于各类应用程序。",
+        "en": "The Decisions API enables developers to create more responsive applications by providing fast, focused, and low-cost decision-making capabilities. It is designed to streamline the integration of decision logic into any application, enhancing performance and efficiency. The API offers a scalable solution for handling complex decisions, making it suitable for a wide range of use cases. Its simplicity and cost-effectiveness make it an attractive option for developers seeking to optimize their app's decision-making processes."
+      },
+      "summary": "使用决策API构建更响应迅速的应用。该API提供快速、专注且低成本的决策支持，适用于各类应用程序。"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "isoDate": "2026-10-22T06:00:00.000Z",
+      "content": "What forward deployed engineering means at OpenAI",
+      "contentSnippet": "What forward deployed engineering means at OpenAI",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的“前哨部署工程”是指将工程团队直接派往项目现场，以快速响应需求、解决问题并加速开发进程。这种模式有助于提高效率，确保技术方案与实际应用紧密结合。",
+        "en": "**Summary:** Forward Deployed Engineering (FDE) at OpenAI refers to a specialized team that works closely with researchers and product teams to translate cutting-edge AI research into practical, scalable solutions. FDE engineers focus on deploying models in real-world applications, ensuring they meet performance, reliability, and safety standards. The role bridges the gap between theoretical advancements and operational deployment, supporting OpenAI's mission to develop and deploy beneficial AI technologies."
+      },
+      "summary": "OpenAI的“前哨部署工程”是指将工程团队直接派往项目现场，以快速响应需求、解决问题并加速开发进程。这种模式有助于提高效率，确保技术方案与实际应用紧密结合。"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "contentSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "优步已向3万余名员工推广OpenAI的ChatGPT工作版，该工具旨在协助团队进行调研、数据分析、演示文稿制作及完成复杂工作流程。",
+        "en": "Uber is expanding ChatGPT Work access to over 30,000 employees, enabling them to use OpenAI's tool for research, data analysis, presentation creation, and workflow management."
+      },
+      "summary": "优步已向3万余名员工推广OpenAI的ChatGPT工作版，该工具旨在协助团队进行调研、数据分析、演示文稿制作及完成复杂工作流程。"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "isoDate": "2026-10-21T17:00:00.000Z",
+      "content": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "contentSnippet": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "creator": "",
+      "summaries": {
+        "zh": "AT&T与OpenAI合作，旨在提升内部法律工作的效率。其LegalEdge团队通过引入新技术，重新设计案件受理流程，并扩大法律判断的规模，以实现法律知识的便捷获取。此举旨在优化内部法律服务，提高工作效率。",
+        "en": "AT&T collaborates with OpenAI to enhance access to legal knowledge. The LegalEdge team is redesigning intake processes and expanding legal judgment capabilities through this partnership. The initiative aims to streamline legal operations and improve efficiency."
+      },
+      "summary": "AT&T与OpenAI合作，旨在提升内部法律工作的效率。其LegalEdge团队通过引入新技术，重新设计案件受理流程，并扩大法律判断的规模，以实现法律知识的便捷获取。此举旨在优化内部法律服务，提高工作效率。"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "isoDate": "2026-10-21T21:00:00.000Z",
+      "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "contentSnippet": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与分销合作伙伴合作，通过持续的标准维护一致的保障措施，支持负责任的访问，并在使用政策中明确预期。",
+        "en": "OpenAI collaborates with distribution partners to maintain consistent standards, ensuring safeguards and responsible access. The company clarifies expectations through its Usage Policies. The partnership aims to uphold safety and accountability while facilitating broad access to AI technologies."
+      },
+      "summary": "OpenAI与分销合作伙伴合作，通过持续的标准维护一致的保障措施，支持负责任的访问，并在使用政策中明确预期。"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-21T12:00:00.000Z",
+      "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "contentSnippet": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与Google Cloud合作，将前沿模型和Codex工作流程引入Gemini模型花园，并通过Google Cloud Marketplace提供。这些服务现已在市场上可用，旨在为用户带来更强大的AI功能和开发工具。",
+        "en": "OpenAI and Google Cloud are integrating OpenAI models, including frontier models and Codex workflows, into Gemini’s Model Garden. These models will be accessible through Google Cloud Marketplace. The collaboration expands AI capabilities on Google Cloud, offering users advanced AI tools. The integration is part of a broader effort to provide enterprise-grade AI solutions."
+      },
+      "summary": "OpenAI与Google Cloud合作，将前沿模型和Codex工作流程引入Gemini模型花园，并通过Google Cloud Marketplace提供。这些服务现已在市场上可用，旨在为用户带来更强大的AI功能和开发工具。"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-21T07:00:00.000Z",
+      "content": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "contentSnippet": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "creator": "",
+      "summaries": {
+        "zh": "《修复地球》项目将安全研究员、维护者和事件响应人员连接起来，共同应对开源软件中的关键漏洞。该项目旨在通过协调全球响应，提升漏洞处理效率，保障开放源代码的安全性。",
+        "en": "\"Patch the Planet\" is a global initiative that links security researchers, maintainers, and incident responders to address critical vulnerabilities in open-source software. The program facilitates coordinated efforts to identify and fix security flaws, enhancing the overall security of open-source ecosystems."
+      },
+      "summary": "《修复地球》项目将安全研究员、维护者和事件响应人员连接起来，共同应对开源软件中的关键漏洞。该项目旨在通过协调全球响应，提升漏洞处理效率，保障开放源代码的安全性。"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-21T13:00:00.000Z",
+      "content": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "contentSnippet": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT广告平台已拓展至26个新国家，目前已有超过10万广告商使用该平台。无论是本地企业还是全球品牌，都能通过ChatGPT触达消费者，在用户探索、比较和决策购物过程时进行广告投放。",
+        "en": "ChatGPT Ads has expanded to 26 new countries, with over 100,000 advertisers utilizing the platform. The service enables businesses, both local and global, to connect with consumers as they research, compare, and make purchasing decisions within ChatGPT. This expansion increases reach, allowing advertisers to engage users effectively during the decision-making process."
+      },
+      "summary": "ChatGPT广告平台已拓展至26个新国家，目前已有超过10万广告商使用该平台。无论是本地企业还是全球品牌，都能通过ChatGPT触达消费者，在用户探索、比较和决策购物过程时进行广告投放。"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "isoDate": "2026-10-21T04:50:00.000Z",
+      "content": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "contentSnippet": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI、PerturbAI与斯克里普斯研究所利用分布式AI代理，分析数百万个脑细胞数据，发现新的科研线索。这些代理协同工作，从海量生物数据中提取有价值信息，为生物学研究提供新思路。",
+        "en": "OpenAI, PerturbAI, and Scripps Research employed distributed AI agents to analyze biological data from millions of brain cells, uncovering promising research leads. The approach leveraged AI to process vast datasets efficiently, identifying potential targets for further study. This method highlights the use of AI in accelerating biological research by handling complex data at scale."
+      },
+      "summary": "OpenAI、PerturbAI与斯克里普斯研究所利用分布式AI代理，分析数百万个脑细胞数据，发现新的科研线索。这些代理协同工作，从海量生物数据中提取有价值信息，为生物学研究提供新思路。"
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "contentSnippet": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "creator": "",
+      "summaries": {
+        "zh": "Cloudflare利用OpenAI的Daybreak工具检测漏洞并提出修复方案供审核，同时使用Codex提升代码开发效率和质量。",
+        "en": "Cloudflare partners with OpenAI to use its Daybreak service for vulnerability analysis and fix proposal. Developers leverage Codex to enhance code speed and quality. The collaboration aims to improve security and development efficiency."
+      },
+      "summary": "Cloudflare利用OpenAI的Daybreak工具检测漏洞并提出修复方案供审核，同时使用Codex提升代码开发效率和质量。"
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-21T07:00:00.000Z",
+      "content": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "contentSnippet": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI为ChatGPT构建了基于大语言模型的广告系统。该系统旨在理解对话意图，将广告与回答分离，并大规模投放相关广告，以增强用户信任和广告相关性。",
+        "en": "OpenAI developed ChatGPT’s ad stack using LLM technology to interpret user intent, separate ads from responses, and deliver relevant ads efficiently. The system prioritizes user trust by maintaining ad clarity and context. The solution ensures scalable ad delivery while aligning with user needs."
+      },
+      "summary": "OpenAI为ChatGPT构建了基于大语言模型的广告系统。该系统旨在理解对话意图，将广告与回答分离，并大规模投放相关广告，以增强用户信任和广告相关性。"
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "contentSnippet": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章《民主治理前沿AI，第二部分：赋能网络防御者》中，OpenAI提出了一个方案，旨在通过前沿AI、强化安全措施、现代化网络安全和更具韧性的公共机构，赋能网络防御者。",
+        "en": "OpenAI proposes a framework to enhance cyber defense using frontier AI, emphasizing stronger safeguards, modernized cybersecurity, and resilient public institutions. The plan aims to empower defenders in managing frontier AI risks."
+      },
+      "summary": "文章《民主治理前沿AI，第二部分：赋能网络防御者》中，OpenAI提出了一个方案，旨在通过前沿AI、强化安全措施、现代化网络安全和更具韧性的公共机构，赋能网络防御者。"
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "isoDate": "2026-10-20T10:00:00.000Z",
+      "content": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "contentSnippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "creator": "",
+      "summaries": {
+        "zh": "某独立Schlotzsky’s和Cinnabon加盟商利用ChatGPT Work将菜单重新定价时间缩短95%，并建立了节省成本的流程，预计每年可释放10万美元的现金流。",
+        "en": "A Schlotzsky’s and Cinnabon franchisee reduced menu repricing time by 95% using ChatGPT Work, achieving a 94% improvement. This efficiency boost created a workflow capable of freeing up $100K in cash flow."
+      },
+      "summary": "某独立Schlotzsky’s和Cinnabon加盟商利用ChatGPT Work将菜单重新定价时间缩短95%，并建立了节省成本的流程，预计每年可释放10万美元的现金流。"
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-20T07:00:00.000Z",
+      "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "contentSnippet": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "creator": "",
+      "summaries": {
+        "zh": "终端X的Eval Agent使用54项标准评分，通过GPT-6.1 Sol模型，对基金输出进行评估，准确匹配资深投资者判断达88.6%。该模型能识别出基金偏离指令的情况，发现偏差比传统方法多25%。",
+        "en": "Terminal X's Eval Agent, using a 54-criterion rubric, matches senior investor judgment at 88.6% accuracy with GPT-6.1 Sol. The system identifies 25% more deviations from a fund's mandate compared to traditional methods. The findings demonstrate strong alignment between AI-driven evaluation and human expertise in investment analysis."
+      },
+      "summary": "终端X的Eval Agent使用54项标准评分，通过GPT-6.1 Sol模型，对基金输出进行评估，准确匹配资深投资者判断达88.6%。该模型能识别出基金偏离指令的情况，发现偏差比传统方法多25%。"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-20T00:00:00.000Z",
+      "content": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "contentSnippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI宣布收购生物技术公司Orchestra Bio。此举旨在将人工智能技术应用于生命科学研发，助力制药团队加速药物开发进程，推动新疗法的研发。通过此次收购，OpenAI将提升在生物科技领域的AI应用能力。",
+        "en": "OpenAI has acquired Orchestra Bio to integrate AI-powered operations into life sciences R&D. The acquisition aims to assist biopharma teams in expediting drug development and advancing new treatments."
+      },
+      "summary": "OpenAI宣布收购生物技术公司Orchestra Bio。此举旨在将人工智能技术应用于生命科学研发，助力制药团队加速药物开发进程，推动新疗法的研发。通过此次收购，OpenAI将提升在生物科技领域的AI应用能力。"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-19T12:00:00.000Z",
+      "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "contentSnippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI正通过新评估提升ChatGPT在低资源编程语言（如软件工程、SQLite和COBOL）中的表现，重点支持迁移和优化。",
+        "en": "OpenAI is enhancing ChatGPT for low-resource programming languages, introducing new evaluations for software engineering, SQLite, and COBOL migration. The updates aim to improve performance and usability in these languages."
+      },
+      "summary": "OpenAI正通过新评估提升ChatGPT在低资源编程语言（如软件工程、SQLite和COBOL）中的表现，重点支持迁移和优化。"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "isoDate": "2026-10-16T19:00:00.000Z",
+      "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "contentSnippet": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "creator": "",
+      "summaries": {
+        "zh": "伊塔乌银行正通过其AI优先战略，为巴西高度监管行业的客户和员工构建生成式AI。该银行推出ia.i对话界面和IARA治理平台，实现全面应用。",
+        "en": "Itaú is developing generative AI for its customers and employees using ia.i, a conversational interface, and the IARA governance platform. The initiative aligns with its \"AI First\" strategy and operates within Brazil's highly regulated financial sector."
+      },
+      "summary": "伊塔乌银行正通过其AI优先战略，为巴西高度监管行业的客户和员工构建生成式AI。该银行推出ia.i对话界面和IARA治理平台，实现全面应用。"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-16T00:00:00.000Z",
+      "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "contentSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "creator": "",
+      "summaries": {
+        "zh": "Stack Overflow for Agents 由两名工程师使用 Codex 在几周内开发完成，其 ChatGPT 插件显著提升了代理创建量，使注册量增长达三倍，最高增幅达10倍。",
+        "en": "Stack Overflow for Agents, developed by two engineers using Codex, saw a significant surge in signups with its ChatGPT plugin. The plugin facilitated up to 10× growth in agent creation, demonstrating its effectiveness in driving adoption. The rapid development of the tool within weeks highlights its agility and potential impact."
+      },
+      "summary": "Stack Overflow for Agents 由两名工程师使用 Codex 在几周内开发完成，其 ChatGPT 插件显著提升了代理创建量，使注册量增长达三倍，最高增幅达10倍。"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-16T00:00:00.000Z",
+      "content": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "contentSnippet": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "creator": "",
+      "summaries": {
+        "zh": "Benefit Street Partners利用Codex工具进行代码审查，提高了贷款估值比较和信用协议分析的效率，并加快了后续问题的响应速度。",
+        "en": "Benefit Street Partners uses Codex to speed up loan valuation comparisons and credit agreement analysis. Anant Kumar employs Codex for code reviews, enabling quicker follow-ups. The tool enhances efficiency in their workflow."
+      },
+      "summary": "Benefit Street Partners利用Codex工具进行代码审查，提高了贷款估值比较和信用协议分析的效率，并加快了后续问题的响应速度。"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "isoDate": "2026-10-15T19:00:00.000Z",
+      "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "contentSnippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Rosalind学术计划》推出，为符合条件的学术实验室提供GPT-Rosalind的赞助访问权限及相关工具，以推动生命科学研究的发展。",
+        "en": "The Rosalind Academic Plan provides sponsored access to GPT-Rosalind for eligible academic labs, aiming to enhance life sciences research. The initiative offers tools and resources to support academic investigations."
+      },
+      "summary": "《Rosalind学术计划》推出，为符合条件的学术实验室提供GPT-Rosalind的赞助访问权限及相关工具，以推动生命科学研究的发展。"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-15T13:00:00.000Z",
+      "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "contentSnippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《通过提问培养学生思维和学习能力》。内容介绍了在巴西葡萄牙语教师节活动中，AI教育工具如何帮助教师支持学生的主动、逐步学习。文章强调了通过提问引导学生思考和学习的重要性，并展示了Study Mode的功能。",
+        "en": "The article highlights a Teacher's Day initiative in Brazil using AI for educators in Portuguese. It emphasizes the use of \"Study Mode\" to assist teachers in fostering active, step-by-step learning among students. The focus is on enhancing critical thinking and educational engagement through structured questioning techniques. The content promotes AI-driven tools as effective aids for modern teaching practices."
+      },
+      "summary": "文章标题为《通过提问培养学生思维和学习能力》。内容介绍了在巴西葡萄牙语教师节活动中，AI教育工具如何帮助教师支持学生的主动、逐步学习。文章强调了通过提问引导学生思考和学习的重要性，并展示了Study Mode的功能。"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-15T00:00:00.000Z",
+      "content": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "contentSnippet": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "creator": "",
+      "summaries": {
+        "zh": "苏利文与克罗姆韦尔律师事务所与OpenAI合作，开发了协议分析器（Agreement Analyzer）这一AI工具，用于识别草拟协议中的问题。该工具旨在通过法律专业知识，提高协议审查的效率和准确性。",
+        "en": "Sullivan & Cromwell partnered with OpenAI to create Agreement Analyzer, an AI tool designed to detect issues in draft agreements. The tool leverages legal expertise to enhance agreement review processes."
+      },
+      "summary": "苏利文与克罗姆韦尔律师事务所与OpenAI合作，开发了协议分析器（Agreement Analyzer）这一AI工具，用于识别草拟协议中的问题。该工具旨在通过法律专业知识，提高协议审查的效率和准确性。"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "contentSnippet": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《Amp利用OpenAI模型拓展AI代理的应用范围》\n\n文章内容摘要：\nAmp通过使用GPT-6、Astra、Ultrafast、GPT-Live-1和ChatGPT等OpenAI模型，推动AI代理在代码之外的领域实现更广泛的应用。这些技术展示了AI代理在处理复杂任务和提升效率方面的潜力，为AI技术的发展开辟了新的方向。",
+        "en": "Amp leverages OpenAI models like GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT to expand AI agent capabilities beyond coding. The integration pushes the boundaries of what agents can achieve, showcasing advanced functionalities."
+      },
+      "summary": "文章标题：《Amp利用OpenAI模型拓展AI代理的应用范围》\n\n文章内容摘要：\nAmp通过使用GPT-6、Astra、Ultrafast、GPT-Live-1和ChatGPT等OpenAI模型，推动AI代理在代码之外的领域实现更广泛的应用。这些技术展示了AI代理在处理复杂任务和提升效率方面的潜力，为AI技术的发展开辟了新的方向。"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "contentSnippet": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "creator": "",
+      "summaries": {
+        "zh": "赛点（SentinelOne）通过OpenAI Daybreak技术，将恶意软件分析时间从数周缩短至数小时，从而提升了对更多威胁的检测能力。",
+        "en": "SentinelOne introduces OpenAI Daybreak, reducing malware analysis from weeks to hours. The advancement enhances efficiency, allowing the company to investigate more threats. The technology streamlines the process, significantly improving threat detection and response times."
+      },
+      "summary": "赛点（SentinelOne）通过OpenAI Daybreak技术，将恶意软件分析时间从数周缩短至数小时，从而提升了对更多威胁的检测能力。"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-14T07:00:00.000Z",
+      "content": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "contentSnippet": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "creator": "",
+      "summaries": {
+        "zh": "第三时刻研究实验室利用GPT-6 Astra、GPT-6.1 Sol、Codex和Daybreak等AI技术，打造可连续运行36小时以上的智能代理。这些代理专注于特定任务，并通过使用不断优化自身性能，主要应用于网络安全领域。",
+        "en": "The article discusses Third Moment Research's AI agents, which run for over 36 hours using models like GPT-6 Astra, GPT-6.1 Sol, Codex, and Daybreak. These agents are designed for cybersecurity and improve with continuous use. The focus is on their extended operational duration and adaptive capabilities."
+      },
+      "summary": "第三时刻研究实验室利用GPT-6 Astra、GPT-6.1 Sol、Codex和Daybreak等AI技术，打造可连续运行36小时以上的智能代理。这些代理专注于特定任务，并通过使用不断优化自身性能，主要应用于网络安全领域。"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "isoDate": "2026-10-14T07:00:00.000Z",
+      "content": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "contentSnippet": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "creator": "",
+      "summaries": {
+        "zh": "Block利用OpenAI技术构建AI驱动的安全系统。其安全团队通过AI技术能更快地调查威胁，并在几分钟内提出补丁。",
+        "en": "Block is integrating OpenAI technology to enhance AI-powered security. The company's security team uses this collaboration to investigate threats more quickly and propose patches in just minutes. The partnership aims to improve response efficiency and strengthen cybersecurity measures."
+      },
+      "summary": "Block利用OpenAI技术构建AI驱动的安全系统。其安全团队通过AI技术能更快地调查威胁，并在几分钟内提出补丁。"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-14T00:00:00.000Z",
+      "content": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "contentSnippet": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "creator": "",
+      "summaries": {
+        "zh": "欧盟企业和小型企业中，自主AI的采用正在增长。深入使用自主AI有望释放更多价值。",
+        "en": "The EU is witnessing increasing adoption of agentic AI among enterprises and small businesses. Analysis reveals that deeper integration of this technology could unlock further value. The focus is on how agentic AI is being implemented and its potential for broader utility across industries."
+      },
+      "summary": "欧盟企业和小型企业中，自主AI的采用正在增长。深入使用自主AI有望释放更多价值。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:38.262Z"
+}

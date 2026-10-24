@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/90f200b4e3dca508ea0781c6eb3dc5f96bc83a52561074207b21eccb7fd78605/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 44192<br>Forks: 2751",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 44192\nForks: 2751",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该技能为多阶段安全审计提供编码代理功能，其特点是独立验证的机器可读结果。基于JavaScript开发，该技能在GitHub上获得43291个星标和2701次分叉，显示出较高的社区认可度。",
+        "en": "The article describes a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The skill has gained significant popularity, with 43,291 stars and 2,701 forks on its repository."
+      },
+      "summary": "该技能为多阶段安全审计提供编码代理功能，其特点是独立验证的机器可读结果。基于JavaScript开发，该技能在GitHub上获得43291个星标和2701次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 378037<br>Forks: 94434",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 378037\nForks: 94434",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "该工具使用智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。基于TypeScript开发，目前拥有240,481个星标和59,801个分叉。",
+        "en": "The Morluto/Rea project enables reverse engineering of various software, including apps and native binaries, using agents. It is developed in TypeScript and has garnered significant popularity, with 240,481 stars and 59,801 forks on its repository. The tool supports detailed analysis of app behavior and native code."
+      },
+      "summary": "该工具使用智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。基于TypeScript开发，目前拥有240,481个星标和59,801个分叉。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e50a45618d170638fc932816a79645e14a80fb667e196e2ff60b9c173126823/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 44331<br>Forks: 4652",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 44331\nForks: 4652",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Anthropic官方管理的Claude代码插件目录，提供高质量Python插件。该目录包含39768个星标和4357个分支。",
+        "en": "The Anthropic-managed directory offers high-quality Claude Code Plugins, primarily in Python. It features 39,768 stars and 4,357 forks, serving as an official resource for these plugins."
+      },
+      "summary": "Anthropic官方管理的Claude代码插件目录，提供高质量Python插件。该目录包含39768个星标和4357个分支。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated<br><br>Language: TypeScript<br>Stars: 79001<br>Forks: 9281",
+      "contentSnippet": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\nLanguage: TypeScript\nStars: 79001\nForks: 9281",
+      "creator": "ruvnet",
+      "summaries": {
+        "zh": "ruvnet/ruflo是一个智能多玩家集群的原生代理框架，支持部署自主工作流程和对话式AI系统。其特点包括自适应记忆、自学习智能、联邦机制、向量RAG集成，以及原生支持Claude Code/Codex/Hermes等语言模型。该框架使用TypeScript开发，在GitHub上拥有76884个星标和9077个分支。",
+        "en": "The Ruvnet/Ruflo platform is an original agent harness for deploying intelligent multi-player swarms, coordinating autonomous workflows, and building conversational AI systems. Key features include adaptive memory, self-learning intelligence, federation, vector RAG integration, and native support for Claude Code/Codex/Hermes. The technology is written in TypeScript and has gained significant popularity with 76,884 stars and 9,077 forks on its repository."
+      },
+      "summary": "ruvnet/ruflo是一个智能多玩家集群的原生代理框架，支持部署自主工作流程和对话式AI系统。其特点包括自适应记忆、自学习智能、联邦机制、向量RAG集成，以及原生支持Claude Code/Codex/Hermes等语言模型。该框架使用TypeScript开发，在GitHub上拥有76884个星标和9077个分支。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1ed2e5458b0569a43727aff53669730f3e52e7a00492bf4683188311e2df1d0a/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 104858<br>Forks: 6621",
+      "contentSnippet": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 104858\nForks: 6621",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "Orca是一个用于管理代理舰队（如Grok Bot、Claude Code）的平台，支持使用个人订阅运行编码代理。可在桌面、移动端和远程运行时使用。基于TypeScript开发，拥有100638星和6361个分支。",
+        "en": "Orca is a platform for managing a fleet of agents like Grok Bot and Claude Code. Users can run coding agents with their own subscriptions and access it on desktop, mobile, and remote runtime. The tool is built using TypeScript and has 100,638 stars and 6,361 forks on its repository."
+      },
+      "summary": "Orca是一个用于管理代理舰队（如Grok Bot、Claude Code）的平台，支持使用个人订阅运行编码代理。可在桌面、移动端和远程运行时使用。基于TypeScript开发，拥有100638星和6361个分支。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 221045<br>Forks: 29554",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 221045\nForks: 29554",
+      "creator": "anomalyco",
+      "summaries": {
+        "zh": "开源编程代理项目 anomalyco/opencode，使用 TypeScript 语言开发。该项目目前获得 219,490 个星标和 29,277 个分支。",
+        "en": "The open-source coding agent \"anomalyco/opencode\" is written in TypeScript. It has garnered 219,490 stars and 29,277 forks on its repository."
+      },
+      "summary": "开源编程代理项目 anomalyco/opencode，使用 TypeScript 语言开发。该项目目前获得 219,490 个星标和 29,277 个分支。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e4dc8ae8107bb595f5436ec8087e2fccded83d8aca97364895cae89cfe418cfc/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 13901<br>Forks: 1381",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 13901\nForks: 1381",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "该文档介绍了光标插件规范及官方插件，使用TypeScript编写。该插件在GitHub上获得12549个星标和1229次分叉，表明其受欢迎程度较高。内容主要涵盖插件的技术规范和官方资源，为开发者提供参考。",
+        "en": "The article discusses the \"cursor/plugins\" topic, focusing on the specification and official plugins. It is written in TypeScript and has garnered significant popularity, with 12,549 stars and 1,229 forks on platforms like GitHub. The content likely outlines guidelines and examples for developing cursor-related plugins, emphasizing their functionality and integration within TypeScript-based systems."
+      },
+      "summary": "该文档介绍了光标插件规范及官方插件，使用TypeScript编写。该插件在GitHub上获得12549个星标和1229次分叉，表明其受欢迎程度较高。内容主要涵盖插件的技术规范和官方资源，为开发者提供参考。"
+    },
+    {
+      "title": "android/skills",
+      "link": "https://github.com/android/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/804708ba42792d28ba312ae03e414ae18afa40bdc4dc4f85c2bae2085f00ee2b/android/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Kotlin<br>Stars: 9578<br>Forks: 619",
+      "contentSnippet": "Language: Kotlin\nStars: 9578\nForks: 619",
+      "creator": "android",
+      "summaries": {
+        "zh": "该文章标题为“android/skills”，涉及Kotlin语言。项目在GitHub上拥有9029个星标和584次分叉，显示出较高的社区认可度。",
+        "en": "The article titled \"android/skills\" is about the Kotlin programming language used in Android development. It has 9,029 stars and 584 forks on a platform like GitHub. The content focuses on Kotlin's role in Android skills, highlighting its popularity and community support. The article provides insights into learning and mastering Kotlin for Android development, emphasizing its importance in modern app creation."
+      },
+      "summary": "该文章标题为“android/skills”，涉及Kotlin语言。项目在GitHub上拥有9029个星标和584次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e0cfe0352c480339868b2fc07241a4d2ea212af2cebcf055ba4e870240ea15e9/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 32583<br>Forks: 3602",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 32583\nForks: 3602",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "开源仓库anthropics/knowledge-work-plugins，主要为知识工作者设计，适用于Claude Cowork，使用Python开发。该插件库包含大量工具，支持高效知识管理。目前获得32525星标，3592次分叉。",
+        "en": "The open-source repository \"anthropics/knowledge-work-plugins\" hosts plugins designed for knowledge workers, compatible with Claude Cowork. The plugins are primarily written in Python. The project has garnered 32,525 stars and 3,592 forks on its platform."
+      },
+      "summary": "开源仓库anthropics/knowledge-work-plugins，主要为知识工作者设计，适用于Claude Cowork，使用Python开发。该插件库包含大量工具，支持高效知识管理。目前获得32525星标，3592次分叉。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/47887702f3c3bcf93a3f5ab12175df00004acb03231a497362d47de9de1157aa/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 71406<br>Forks: 6448",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 71406\nForks: 6448",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。",
+        "en": "The article introduces Heygen's Hyperframes, a tool for creating HTML and rendering video, built for agents using TypeScript. It has gained significant popularity with 55,698 stars and 5,040 forks on its repository. The content focuses on its technical foundation and community engagement, highlighting its utility for developers and agents."
+      },
+      "summary": "标题：heygen-com/hyperframes  \n内容：这是一个基于TypeScript的HTML视频渲染框架，专为智能代理设计。支持HTML编写和视频渲染，目前获得55698个星标和5040次分叉。"
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b\" referrerpolicy=\"no-referrer\"><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.<br><br>Language: Python<br>Stars: 142607<br>Forks: 16817",
+      "contentSnippet": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\nLanguage: Python\nStars: 142607\nForks: 16817",
+      "creator": "Comfy-Org",
+      "summaries": {
+        "zh": "Comfy-Org/ComfyUI是一款功能强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。它是全球最快的本地推理引擎，使用Python开发。该项目在GitHub上拥有141,899个星标和16,729个分支。",
+        "en": "Comfy-Org/ComfyUI is a powerful and modular diffusion model GUI, API, and backend featuring a graph/nodes interface. It is the fastest local inference engine globally, written in Python. The project has 141,899 stars and 16,729 forks on its repository."
+      },
+      "summary": "Comfy-Org/ComfyUI是一款功能强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。它是全球最快的本地推理引擎，使用Python开发。该项目在GitHub上拥有141,899个星标和16,729个分支。"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e96ae079bcad7fd9d09c33072ea9cb54e4538f533e2da8bf884ba82e140bfbae/akitaonrails/ai-memory\" referrerpolicy=\"no-referrer\"><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors<br><br>Language: Rust<br>Stars: 13250<br>Forks: 933",
+      "contentSnippet": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\nLanguage: Rust\nStars: 13250\nForks: 933",
+      "creator": "akitaonrails",
+      "summaries": {
+        "zh": "项目“akitaonrails/ai-memory”是一个用Rust语言开发的解决方案，旨在为智能代理编程CLI提供长期记忆功能，并促进不同代理供应商之间的交接。该项目目前获得12056个星标和854次分叉。",
+        "en": "The project \"akitaonrails/ai-memory\" provides a long-term memory solution for agent coding CLIs, enabling seamless handoff between different agent vendors. Developed in Rust, it has garnered 12,056 stars and 854 forks. The tool aims to enhance collaboration and data persistence across various agent systems."
+      },
+      "summary": "项目“akitaonrails/ai-memory”是一个用Rust语言开发的解决方案，旨在为智能代理编程CLI提供长期记忆功能，并促进不同代理供应商之间的交接。该项目目前获得12056个星标和854次分叉。"
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4b357edfd1e035dee5dae4f3f63b48f3b55e4b70ce096d7ac672ec684bb4ffbb/Graphify-Labs/graphify\" referrerpolicy=\"no-referrer\"><br>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.<br><br>Language: Python<br>Stars: 134364<br>Forks: 12833",
+      "contentSnippet": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\nLanguage: Python\nStars: 134364\nForks: 12833",
+      "creator": "Graphify-Labs",
+      "summaries": {
+        "zh": "Graphify-Labs的graphify工具可将代码库（含文档、SQL模式、配置和PDF）转换为可查询的知识图谱。支持Claude Code、Cursor、Codex和Gemini CLI，具备本地确定性AST解析、每条边解释、无需向量存储等特点。该工具使用Python开发，获得134,209星和12,817次分叉。",
+        "en": "Graphify-Labs/graphify converts codebases, including docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. It offers a /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI, using local deterministic AST parsing and explaining every edge without a vector store. The tool is written in Python and has 134,209 stars and 12,817 forks."
+      },
+      "summary": "Graphify-Labs的graphify工具可将代码库（含文档、SQL模式、配置和PDF）转换为可查询的知识图谱。支持Claude Code、Cursor、Codex和Gemini CLI，具备本地确定性AST解析、每条边解释、无需向量存储等特点。该工具使用Python开发，获得134,209星和12,817次分叉。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e5f4b0c1c6f22c0339ca72ff8fafa82b341961714663ab9c20bcd7d11665a627/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 56833<br>Forks: 5093",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 56833\nForks: 5093",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "CLI-Anything是一个基于Python的开源项目，旨在使所有软件代理原生化。该项目通过CLI-Hub（https://clianything.cc）提供支持，目前拥有55813个星标和5038个分支。它致力于提升软件代理的易用性和效率。",
+        "en": "**Summary:**  \nCLI-Anything is a Python-based project aiming to make all software agents native to command-line interfaces. It operates through the CLI-Hub (clianything.cc) and has garnered significant popularity, with 55,813 stars and 5,038 forks on platforms like GitHub. The initiative seeks to enhance software accessibility and integration via CLI."
+      },
+      "summary": "CLI-Anything是一个基于Python的开源项目，旨在使所有软件代理原生化。该项目通过CLI-Hub（https://clianything.cc）提供支持，目前拥有55813个星标和5038个分支。它致力于提升软件代理的易用性和效率。"
+    },
+    {
+      "title": "vllm-project/vllm",
+      "link": "https://github.com/vllm-project/vllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7da5d3269cafb9fd902957fa540f3c54ae33680af57b9892f2c32dfca27cac19/vllm-project/vllm\" referrerpolicy=\"no-referrer\"><br>A high-throughput and memory-efficient inference and serving engine for LLMs<br><br>Language: Python<br>Stars: 95334<br>Forks: 23898",
+      "contentSnippet": "A high-throughput and memory-efficient inference and serving engine for LLMs\nLanguage: Python\nStars: 95334\nForks: 23898",
+      "creator": "vllm-project",
+      "summaries": {
+        "zh": "vllm是一个用于大型语言模型（LLMs）的高吞吐量、内存高效的推理和服务器引擎，采用Python开发。该项目在GitHub上拥有95297个星标和23883个分支。",
+        "en": "The vllm-project/vllm is a high-throughput and memory-efficient inference and serving engine for large language models (LLMs). It is written in Python and has 95,297 stars and 23,883 forks on its repository. The tool is designed to optimize the performance of LLMs during inference and serving tasks."
+      },
+      "summary": "vllm是一个用于大型语言模型（LLMs）的高吞吐量、内存高效的推理和服务器引擎，采用Python开发。该项目在GitHub上拥有95297个星标和23883个分支。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:49:19.660Z"
+}

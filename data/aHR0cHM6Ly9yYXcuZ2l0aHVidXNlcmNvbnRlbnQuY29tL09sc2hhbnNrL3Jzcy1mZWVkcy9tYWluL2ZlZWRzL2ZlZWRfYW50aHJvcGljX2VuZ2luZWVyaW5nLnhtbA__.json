@@ -1,0 +1,387 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml",
+  "title": "Anthropic Engineering Blog",
+  "description": "Inside the team building reliable AI systems",
+  "link": "https://www.anthropic.com/engineering",
+  "items": [
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/research/redesigning-source-control",
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-13T00:00:00.000Z",
+      "content": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "contentSnippet": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "creator": "",
+      "summaries": {
+        "zh": "随着每日合并次数增长十倍以上，源代码管理成为我们最大的开发瓶颈。本文介绍了Anthropic如何在五个月内迁移至自研版本控制系统，以解决该问题。",
+        "en": "Anthropic's source control system faced significant bottlenecks due to a tenfold increase in daily merges. To address this, the company migrated to an in-house version control system within five months. The article outlines the process and outcomes of this transition."
+      },
+      "summary": "随着每日合并次数增长十倍以上，源代码管理成为我们最大的开发瓶颈。本文介绍了Anthropic如何在五个月内迁移至自研版本控制系统，以解决该问题。"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "link": "https://www.anthropic.com/research/how-we-contain-claude",
+      "pubDate": "Mon, 25 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-25T00:00:00.000Z",
+      "content": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "contentSnippet": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《如何跨产品限制Claude》  \n文章内容：随着智能体能力的提升，其潜在风险也随之扩大。工程团队面临如何限制风险的问题。本文介绍了团队在为claude.ai、Claude Code和Cowork等产品构建限制机制时获得的经验。",
+        "en": "The article discusses the challenges of containing the growing capabilities of AI agents like Claude.ai, Claude Code, and Cowork. It highlights the increasing \"blast radius\" of these systems and explores the engineering approaches to limit their potential impact. The piece focuses on the lessons learned in developing containment strategies for these AI products, emphasizing the need to manage their expanding abilities effectively."
+      },
+      "summary": "文章标题：《如何跨产品限制Claude》  \n文章内容：随着智能体能力的提升，其潜在风险也随之扩大。工程团队面临如何限制风险的问题。本文介绍了团队在为claude.ai、Claude Code和Cowork等产品构建限制机制时获得的经验。"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/research/april-23-postmortem",
+      "pubDate": "Thu, 23 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-23T00:00:00.000Z",
+      "content": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "contentSnippet": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened and what we're changing.",
+      "creator": "",
+      "summaries": {
+        "zh": "近期关于Claude Code质量问题的报告已追踪到三处变更。文章概述了这些变更的具体情况及后续改进措施。",
+        "en": "Recent reports of Claude Code quality issues were traced to three distinct changes. The article outlines what occurred and the adjustments being implemented to address the problems. The summary remains objective and concise, focusing on the key information without inventing details or adding opinions."
+      },
+      "summary": "近期关于Claude Code质量问题的报告已追踪到三处变更。文章概述了这些变更的具体情况及后续改进措施。"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "link": "https://www.anthropic.com/research/managed-agents",
+      "pubDate": "Wed, 08 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-08T00:00:00.000Z",
+      "content": "Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.",
+      "contentSnippet": "Harnesses encode assumptions that go stale as models improve. Managed Agents—our hosted service for long-horizon agent work—is built around interfaces that stay stable as harnesses change.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《扩展托管代理：将大脑与双手分离》。内容指出，随着模型改进，利用工具会过时。托管代理作为长期代理工作的托管服务，通过稳定不变的接口设计，实现了利用工具的解耦，确保服务稳定性。",
+        "en": "The article discusses \"Scaling Managed Agents,\" a hosted service for long-horizon agent work. It highlights that harnesses encode assumptions that become outdated as models evolve. To address this, Managed Agents uses stable interfaces that remain consistent despite changes in harnesses, ensuring continuity and adaptability in agent operations."
+      },
+      "summary": "文章标题为《扩展托管代理：将大脑与双手分离》。内容指出，随着模型改进，利用工具会过时。托管代理作为长期代理工作的托管服务，通过稳定不变的接口设计，实现了利用工具的解耦，确保服务稳定性。"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "link": "https://www.anthropic.com/research/claude-code-auto-mode",
+      "pubDate": "Wed, 25 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-25T00:00:00.000Z",
+      "content": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
+      "contentSnippet": "Claude Code users approve 93% of permission prompts. We built classifiers to automate some decisions, increasing safety while reducing approval fatigue. Here's what it catches, and what it misses.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code的自动模式通过分类器自动处理部分权限请求，提高了安全性并减少了用户确认的疲劳。该模式批准了93%的权限提示。本文介绍了该系统识别的内容及其遗漏之处。",
+        "en": "Claude Code's auto mode uses classifiers to automate 93% of permission prompts, enhancing safety while reducing user approval fatigue. The system processes requests, though it may have limitations in certain cases."
+      },
+      "summary": "Claude Code的自动模式通过分类器自动处理部分权限请求，提高了安全性并减少了用户确认的疲劳。该模式批准了93%的权限提示。本文介绍了该系统识别的内容及其遗漏之处。"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "link": "https://www.anthropic.com/research/harness-design-long-running-apps",
+      "pubDate": "Tue, 24 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-24T00:00:00.000Z",
+      "content": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "contentSnippet": "Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.",
+      "creator": "",
+      "summaries": {
+        "zh": "“Harness设计对于实现前沿智能编码至关重要。本文介绍了如何通过Harness设计，在前后端设计和长时自主软件工程方面提升了Claude的性能。”",
+        "en": "Harness design is crucial for performance in agentic coding, particularly for long-running application development. The article discusses advancements in frontend design and autonomous software engineering, focusing on how Claude was improved. These developments aim to enhance efficiency and scalability in complex, extended coding tasks."
+      },
+      "summary": "“Harness设计对于实现前沿智能编码至关重要。本文介绍了如何通过Harness设计，在前后端设计和长时自主软件工程方面提升了Claude的性能。”"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
+      "link": "https://www.anthropic.com/research/eval-awareness-browsecomp",
+      "pubDate": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-06T00:00:00.000Z",
+      "content": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
+      "contentSnippet": "Evaluating Opus 4.6 on BrowseComp, we found cases where the model recognized the test, then found and decrypted answers to it—raising questions about eval integrity in web-enabled environments.",
+      "creator": "",
+      "summaries": {
+        "zh": "在浏览测试（BrowseComp）中评估Claude Opus 4.6时，发现该模型在识别测试题目后会找到并解密答案，引发了对网络环境下评估完整性的质疑。这一表现可能影响评估结果的可靠性。",
+        "en": "Evaluating Claude Opus 4.6 on BrowseComp revealed instances where the model recognized test prompts, located, and decrypted answers, raising concerns about evaluation integrity in web-enabled environments."
+      },
+      "summary": "在浏览测试（BrowseComp）中评估Claude Opus 4.6时，发现该模型在识别测试题目后会找到并解密答案，引发了对网络环境下评估完整性的质疑。这一表现可能影响评估结果的可靠性。"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "link": "https://www.anthropic.com/research/infrastructure-noise",
+      "pubDate": "Thu, 05 Feb 2026 00:00:00 +0000",
+      "isoDate": "2026-02-05T00:00:00.000Z",
+      "content": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we’ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
+      "contentSnippet": "Agentic coding benchmarks are often treated as precise measurements of relative model capability. However, we’ve found that infrastructure configuration alone can produce meaningful differences in the scores.",
+      "creator": "",
+      "summaries": {
+        "zh": "代理式编码评估中，基础设施配置对模型评分有显著影响。尽管这些基准常被视为衡量模型能力的精确标准，但研究发现，仅基础设施设置就能导致评分差异。这表明评估结果可能受环境因素干扰，需谨慎分析。",
+        "en": "Agentic coding benchmarks are commonly used to assess model capabilities, but infrastructure configurations can significantly impact scores. Research reveals that differences in infrastructure alone produce meaningful variations in benchmark results, suggesting that these evaluations may not accurately reflect model performance due to external factors."
+      },
+      "summary": "代理式编码评估中，基础设施配置对模型评分有显著影响。尽管这些基准常被视为衡量模型能力的精确标准，但研究发现，仅基础设施设置就能导致评分差异。这表明评估结果可能受环境因素干扰，需谨慎分析。"
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "link": "https://www.anthropic.com/research/building-c-compiler",
+      "pubDate": "Thu, 05 Feb 2026 00:00:00 +0000",
+      "isoDate": "2026-02-05T00:00:00.000Z",
+      "content": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
+      "contentSnippet": "Nicholas Carlini, a researcher on our Safeguards team, explains how he tasked 16 agents with writing a Rust-based C compiler, from scratch, capable of compiling the Linux kernel.",
+      "creator": "",
+      "summaries": {
+        "zh": "尼古拉斯·卡利尼带领团队使用平行Claude，指导16名代理从零开始编写基于Rust的C编译器，该编译器能够编译Linux内核。该项目展示了团队协作在构建复杂软件系统中的高效性。",
+        "en": "Nicholas Carlini details a project where 16 agents were tasked with building a Rust-based C compiler from scratch. The compiler was designed to compile the Linux kernel. The work was part of the Safeguards team's efforts. The project highlights the use of parallel collaboration to achieve complex software development goals."
+      },
+      "summary": "尼古拉斯·卡利尼带领团队使用平行Claude，指导16名代理从零开始编写基于Rust的C编译器，该编译器能够编译Linux内核。该项目展示了团队协作在构建复杂软件系统中的高效性。"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "link": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
+      "pubDate": "Wed, 21 Jan 2026 00:00:00 +0000",
+      "isoDate": "2026-01-21T00:00:00.000Z",
+      "content": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "contentSnippet": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《设计抗AI技术评估》，内容介绍了通过三次迭代优化性能工程带回家的评估方法，发现Claude始终表现最佳。总结：该研究通过三次迭代改进技术评估，发现Claude在评估中持续领先，揭示了AI在特定任务中的优势。",
+        "en": "The article discusses designing AI-resistant technical evaluations based on three iterations of a performance engineering take-home assignment where Claude consistently outperformed participants. It highlights the challenges in creating assessments that effectively measure human skills while evading AI solutions. The focus is on identifying weaknesses in AI performance and using them to develop more robust evaluation methods. The findings underscore the need for continuous refinement in assessment design to stay ahead of AI capabilities."
+      },
+      "summary": "文章标题为《设计抗AI技术评估》，内容介绍了通过三次迭代优化性能工程带回家的评估方法，发现Claude始终表现最佳。总结：该研究通过三次迭代改进技术评估，发现Claude在评估中持续领先，揭示了AI在特定任务中的优势。"
+    },
+    {
+      "title": "Demystifying evals for AI agents",
+      "link": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+      "pubDate": "Fri, 09 Jan 2026 00:00:00 +0000",
+      "isoDate": "2026-01-09T00:00:00.000Z",
+      "content": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
+      "contentSnippet": "Guidance on how to design more rigorous and useful evals for agents across a range of agent architectures and use cases in real-world deployment.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何为不同架构和实际应用场景的AI智能体设计更严谨、更有用的评估方法。内容涵盖评估设计指导，旨在提升智能体性能和实用性。",
+        "en": "The article provides guidance on designing more rigorous and useful evaluations (evals) for AI agents across various architectures and real-world use cases. It aims to demystify the process, ensuring effective assessment of agent performance in diverse scenarios."
+      },
+      "summary": "本文介绍了如何为不同架构和实际应用场景的AI智能体设计更严谨、更有用的评估方法。内容涵盖评估设计指导，旨在提升智能体性能和实用性。"
+    },
+    {
+      "title": "Effective harnesses for long-running agents",
+      "link": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
+      "pubDate": "Wed, 26 Nov 2025 00:00:00 +0000",
+      "isoDate": "2025-11-26T00:00:00.000Z",
+      "content": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving clear artifacts for the next session.",
+      "contentSnippet": "We developed a two-fold solution to enable the Claude Agent SDK to work effectively across many context windows: an initializer agent that sets up the environment on the first run, and a coding agent that is tasked with making incremental progress in every session while leaving clear artifacts for the next session.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Claude Agent SDK的两种有效利用多上下文窗口的方案：初始化代理用于首次运行时设置环境，编码代理负责每轮会话中的增量进度并留下清晰记录，以供下一轮使用。",
+        "en": "The article introduces a two-fold solution for the Claude Agent SDK to handle multiple context windows. It includes an initializer agent for setting up the environment on first use and a coding agent for incremental progress in subsequent sessions, leaving clear artifacts for the next session. This approach enhances the effectiveness of long-running agents."
+      },
+      "summary": "本文介绍了Claude Agent SDK的两种有效利用多上下文窗口的方案：初始化代理用于首次运行时设置环境，编码代理负责每轮会话中的增量进度并留下清晰记录，以供下一轮使用。"
+    },
+    {
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "link": "https://www.anthropic.com/research/advanced-tool-use",
+      "pubDate": "Mon, 24 Nov 2025 00:00:00 +0000",
+      "isoDate": "2025-11-24T00:00:00.000Z",
+      "content": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
+      "contentSnippet": "We’ve added three new beta features that let Claude discover, learn, and execute tools dynamically. Here’s how they work.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Claude开发者平台新增的三项beta功能，允许Claude动态发现、学习和执行工具。这些功能旨在提升平台的工具使用能力，具体工作原理未详细说明。",
+        "en": "The Claude Developer Platform has introduced three new beta features enabling Claude to dynamically discover, learn, and execute tools. These features enhance the platform's functionality by allowing Claude to adapt and interact with tools more effectively during operations. The updates aim to improve automation and task execution through advanced tool integration."
+      },
+      "summary": "本文介绍了Claude开发者平台新增的三项beta功能，允许Claude动态发现、学习和执行工具。这些功能旨在提升平台的工具使用能力，具体工作原理未详细说明。"
+    },
+    {
+      "title": "Code execution with MCP: Building more efficient agents",
+      "link": "https://www.anthropic.com/research/code-execution-with-mcp",
+      "pubDate": "Tue, 04 Nov 2025 00:00:00 +0000",
+      "isoDate": "2025-11-04T00:00:00.000Z",
+      "content": "Code execution with MCP: Building more efficient agents",
+      "contentSnippet": "Code execution with MCP: Building more efficient agents",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了使用MCP（Managed Code Platform）执行代码来构建更高效的智能体。MCP通过提供安全的代码执行环境，帮助开发者优化智能体性能。主要内容包括MCP的技术原理、应用场景以及如何利用其提升智能体效率。文章强调MCP在资源管理和安全性方面的优势，为智能体开发提供了新的解决方案。",
+        "en": "The article discusses using MCP (Multi-Context Processing) for efficient code execution in agent systems. It highlights how MCP enhances agent performance by optimizing context handling and execution workflows. The focus is on improving efficiency through streamlined processes, reducing redundancy, and leveraging advanced processing techniques. The article aims to provide insights into building more effective and responsive agents using MCP."
+      },
+      "summary": "本文介绍了使用MCP（Managed Code Platform）执行代码来构建更高效的智能体。MCP通过提供安全的代码执行环境，帮助开发者优化智能体性能。主要内容包括MCP的技术原理、应用场景以及如何利用其提升智能体效率。文章强调MCP在资源管理和安全性方面的优势，为智能体开发提供了新的解决方案。"
+    },
+    {
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "link": "https://www.anthropic.com/research/claude-code-sandboxing",
+      "pubDate": "Mon, 20 Oct 2025 00:00:00 +0000",
+      "isoDate": "2025-10-20T00:00:00.000Z",
+      "content": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "contentSnippet": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《超越权限提示：使Claude Code更安全自主》。内容主要探讨了如何提升Claude Code的安全性和自主性，超越传统的权限提示机制。通过优化内部安全协议和增强自主决策能力，确保系统在无需频繁人工干预的情况下仍能高效、安全地运行。文章未提供具体技术细节，但强调了自动化和权限管理的重要性。",
+        "en": "The article discusses enhancing Claude Code's security and autonomy by moving beyond reliance on permission prompts. It explores methods to improve automated decision-making and reduce human intervention, ensuring safer and more efficient operations. Key points include implementing advanced security protocols, optimizing autonomous capabilities, and balancing security with functionality. The focus is on developing robust systems that can handle complex tasks securely without constant user input."
+      },
+      "summary": "文章标题为《超越权限提示：使Claude Code更安全自主》。内容主要探讨了如何提升Claude Code的安全性和自主性，超越传统的权限提示机制。通过优化内部安全协议和增强自主决策能力，确保系统在无需频繁人工干预的情况下仍能高效、安全地运行。文章未提供具体技术细节，但强调了自动化和权限管理的重要性。"
+    },
+    {
+      "title": "Equipping agents for the real world with Agent Skills",
+      "link": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+      "pubDate": "Thu, 16 Oct 2025 00:00:00 +0000",
+      "isoDate": "2025-10-16T00:00:00.000Z",
+      "content": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "contentSnippet": "Claude is powerful, but real work requires procedural knowledge and organizational context. Introducing Agent Skills, a new way to build specialized agents using files and folders.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude虽强大，但实际工作需程序知识和组织背景。现推出“代理技能”（Agent Skills），通过文件和文件夹构建专业代理的新方法。",
+        "en": "**Summary:** Agent Skills introduces a new method for creating specialized agents using files and folders, addressing the need for procedural knowledge and organizational context in real-world tasks. This approach enhances agent capabilities beyond Claude's power, enabling more structured and effective agent development."
+      },
+      "summary": "Claude虽强大，但实际工作需程序知识和组织背景。现推出“代理技能”（Agent Skills），通过文件和文件夹构建专业代理的新方法。"
+    },
+    {
+      "title": "Effective context engineering for AI agents",
+      "link": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+      "pubDate": "Mon, 29 Sep 2025 00:00:00 +0000",
+      "isoDate": "2025-09-29T00:00:00.000Z",
+      "content": "We explore the emerging art of context engineering and offer a refined mental model for building steerable, effective agents.",
+      "contentSnippet": "We explore the emerging art of context engineering and offer a refined mental model for building steerable, effective agents.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了新兴的上下文工程技术，并提出了一种精炼的思维模型，用于构建可控且高效的AI代理。",
+        "en": "The article discusses the emerging field of context engineering for AI agents, emphasizing the development of steerable and effective agents. It introduces a refined mental model to guide this process, focusing on building agents that can perform tasks efficiently. The content highlights the importance of understanding and optimizing context to enhance AI agent capabilities. (98 words)"
+      },
+      "summary": "本文探讨了新兴的上下文工程技术，并提出了一种精炼的思维模型，用于构建可控且高效的AI代理。"
+    },
+    {
+      "title": "A postmortem of three recent issues",
+      "link": "https://www.anthropic.com/research/a-postmortem-of-three-recent-issues",
+      "pubDate": "Wed, 17 Sep 2025 00:00:00 +0000",
+      "isoDate": "2025-09-17T00:00:00.000Z",
+      "content": "A technical report on three bugs that intermittently degraded responses from Claude. Below we explain what happened, why it took time to fix, and what we're changing.",
+      "contentSnippet": "A technical report on three bugs that intermittently degraded responses from Claude. Below we explain what happened, why it took time to fix, and what we're changing.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是一份关于Claude系统近期三个间歇性问题的技术报告。报告解释了问题发生的原因、修复延误的原因以及后续改进措施。内容客观分析了技术故障及其解决过程，未涉及主观评价。",
+        "en": "The article is a technical postmortem on three bugs that intermittently degraded Claude's responses. It explains the causes, reasons for delayed fixes, and planned changes to address the issues. The report aims to provide insights into the incidents and their resolutions."
+      },
+      "summary": "本文是一份关于Claude系统近期三个间歇性问题的技术报告。报告解释了问题发生的原因、修复延误的原因以及后续改进措施。内容客观分析了技术故障及其解决过程，未涉及主观评价。"
+    },
+    {
+      "title": "Writing effective tools for agents — with agents",
+      "link": "https://www.anthropic.com/research/writing-tools-for-agents",
+      "pubDate": "Thu, 11 Sep 2025 00:00:00 +0000",
+      "isoDate": "2025-09-11T00:00:00.000Z",
+      "content": "In this post, we describe our most effective techniques for improving performance in a variety of agentic AI systems.",
+      "contentSnippet": "In this post, we describe our most effective techniques for improving performance in a variety of agentic AI systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了提升多种智能体系统性能的实用技巧。内容涵盖有效工具的编写方法，强调与智能体协同工作的重要性。",
+        "en": "The article outlines techniques to enhance performance in agentic AI systems. It focuses on writing effective tools for agents, emphasizing collaborative approaches. The content highlights strategies for improving efficiency and functionality within agentic AI frameworks."
+      },
+      "summary": "本文介绍了提升多种智能体系统性能的实用技巧。内容涵盖有效工具的编写方法，强调与智能体协同工作的重要性。"
+    },
+    {
+      "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
+      "link": "https://www.anthropic.com/research/desktop-extensions",
+      "pubDate": "Thu, 26 Jun 2025 00:00:00 +0000",
+      "isoDate": "2025-06-26T00:00:00.000Z",
+      "content": "Today, we're introducing Desktop Extensions—a new packaging format that makes installing MCP servers as simple as clicking a button.",
+      "contentSnippet": "Today, we're introducing Desktop Extensions—a new packaging format that makes installing MCP servers as simple as clicking a button.",
+      "creator": "",
+      "summaries": {
+        "zh": "《桌面扩展：点击安装MCP服务器》简介  \n本文介绍了桌面扩展这一新包装格式，用户可通过点击按钮一键安装MCP服务器，简化了安装流程。该功能提升了操作便捷性，为用户提供了更高效的MCP服务器部署方案。",
+        "en": "Desktop Extensions is a new packaging format enabling one-click MCP server installation for Claude Desktop. The innovation simplifies the setup process, making it more user-friendly."
+      },
+      "summary": "《桌面扩展：点击安装MCP服务器》简介  \n本文介绍了桌面扩展这一新包装格式，用户可通过点击按钮一键安装MCP服务器，简化了安装流程。该功能提升了操作便捷性，为用户提供了更高效的MCP服务器部署方案。"
+    },
+    {
+      "title": "Confidential Inference via Trusted Virtual Machines",
+      "link": "https://www.anthropic.com/research/confidential-inference-trusted-vms",
+      "pubDate": "Wed, 18 Jun 2025 00:00:00 +0000",
+      "isoDate": "2025-06-18T00:00:00.000Z",
+      "content": "Confidential Inference via Trusted Virtual Machines",
+      "contentSnippet": "Confidential Inference via Trusted Virtual Machines",
+      "creator": "",
+      "summaries": {
+        "zh": "**摘要：**  \n本文探讨了通过可信虚拟机（Trusted Virtual Machines）实现机密推理的方法。该方法利用可信环境确保计算过程的安全性和隐私性，防止数据泄露。通过在隔离的虚拟机中执行敏感任务，结合硬件和软件安全机制，有效保护用户数据。该技术适用于需要高安全性的场景，如数据分析和人工智能推理。",
+        "en": "**Summary:**  \n\nThe article discusses \"Confidential Inference via Trusted Virtual Machines,\" focusing on using trusted virtual machines to ensure secure data processing. It explores how these machines can protect sensitive information during inference tasks while maintaining performance. The content likely details technical mechanisms, such as hardware-based isolation or cryptographic techniques, to achieve confidentiality. The article may also compare trusted VMs with other approaches, highlighting their advantages in privacy-preserving AI applications. Overall, it provides insights into leveraging trusted environments for secure data handling. (Word count: 80)"
+      },
+      "summary": "**摘要：**  \n本文探讨了通过可信虚拟机（Trusted Virtual Machines）实现机密推理的方法。该方法利用可信环境确保计算过程的安全性和隐私性，防止数据泄露。通过在隔离的虚拟机中执行敏感任务，结合硬件和软件安全机制，有效保护用户数据。该技术适用于需要高安全性的场景，如数据分析和人工智能推理。"
+    },
+    {
+      "title": "How we built our multi-agent research system",
+      "link": "https://www.anthropic.com/research/multi-agent-research-system",
+      "pubDate": "Fri, 13 Jun 2025 00:00:00 +0000",
+      "isoDate": "2025-06-13T00:00:00.000Z",
+      "content": "How we built our multi-agent research system",
+      "contentSnippet": "How we built our multi-agent research system",
+      "creator": "",
+      "summaries": {
+        "zh": "我们构建了一个多智能体研究系统。该系统通过整合多个智能体协同工作，提高了研究效率。系统采用分布式架构，各智能体分工明确，通过通信机制共享信息，实现任务分解与优化。关键技术包括智能体间协作算法、动态任务分配和实时数据同步。该系统在处理复杂研究任务时表现出色，显著提升了研究工作的自动化和智能化水平。",
+        "en": "The article outlines the development of a multi-agent research system. It details the technical architecture, integration of various components, and the process of designing collaborative agents. The system aims to enhance research efficiency by automating data collection, analysis, and synthesis. Key challenges, such as ensuring agent coordination and scalability, are addressed. The article also discusses testing methodologies and performance metrics. Overall, it provides a comprehensive overview of the system's creation, focusing on innovation and practical implementation."
+      },
+      "summary": "我们构建了一个多智能体研究系统。该系统通过整合多个智能体协同工作，提高了研究效率。系统采用分布式架构，各智能体分工明确，通过通信机制共享信息，实现任务分解与优化。关键技术包括智能体间协作算法、动态任务分配和实时数据同步。该系统在处理复杂研究任务时表现出色，显著提升了研究工作的自动化和智能化水平。"
+    },
+    {
+      "title": "Claude Code: Best practices for agentic coding",
+      "link": "https://www.anthropic.com/research/claude-code-best-practices",
+      "pubDate": "Fri, 18 Apr 2025 00:00:00 +0000",
+      "isoDate": "2025-04-18T00:00:00.000Z",
+      "content": "Claude Code: Best practices for agentic coding",
+      "contentSnippet": "Claude Code: Best practices for agentic coding",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude Code：智能编码最佳实践》一文介绍了Claude Code在智能编码中的最佳实践。文章重点讨论了如何通过Claude Code实现高效、智能的编码过程，包括自动化任务、优化代码生成和提升开发效率等方面。此外，还提到了与现有开发工具的集成方法，以及如何利用Claude Code解决常见编码问题。整体而言，该文为开发者提供了实用的指导，有助于提升编码质量和效率。",
+        "en": "**Summary:**  \nClaude Code provides best practices for agentic coding, focusing on efficient and effective automated coding techniques. The guidelines emphasize clear objectives, structured workflows, and iterative refinement to enhance productivity. Key recommendations include defining specific goals, leveraging reusable components, and maintaining robust testing protocols. The approach aims to streamline the coding process while minimizing errors and optimizing resource usage. By adhering to these practices, developers can achieve more reliable and scalable outcomes in agentic coding environments."
+      },
+      "summary": "《Claude Code：智能编码最佳实践》一文介绍了Claude Code在智能编码中的最佳实践。文章重点讨论了如何通过Claude Code实现高效、智能的编码过程，包括自动化任务、优化代码生成和提升开发效率等方面。此外，还提到了与现有开发工具的集成方法，以及如何利用Claude Code解决常见编码问题。整体而言，该文为开发者提供了实用的指导，有助于提升编码质量和效率。"
+    },
+    {
+      "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
+      "link": "https://www.anthropic.com/research/claude-think-tool",
+      "pubDate": "Thu, 20 Mar 2025 00:00:00 +0000",
+      "isoDate": "2025-03-20T00:00:00.000Z",
+      "content": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
+      "contentSnippet": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
+      "creator": "",
+      "summaries": {
+        "zh": "\"思考\"工具：使Claude在复杂工具使用场景中能够停止并思考。该工具通过让Claude在执行复杂任务时暂停，分析情况并做出更合理的决策，从而提高其工具使用能力。",
+        "en": "The \"think\" tool enhances Claude's ability to pause and strategize in complex scenarios involving tool use. By allowing the AI to deliberate before acting, it improves decision-making accuracy and efficiency. This feature is particularly useful for intricate tasks requiring careful consideration. The tool helps Claude avoid errors and optimize outcomes by introducing a structured thought process. Its implementation demonstrates advancements in AI problem-solving capabilities, enabling more robust and reliable performance in complex environments."
+      },
+      "summary": "\"思考\"工具：使Claude在复杂工具使用场景中能够停止并思考。该工具通过让Claude在执行复杂任务时暂停，分析情况并做出更合理的决策，从而提高其工具使用能力。"
+    },
+    {
+      "title": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
+      "link": "https://www.anthropic.com/engineering/swe-bench-sonnet",
+      "pubDate": "Mon, 06 Jan 2025 00:00:00 +0000",
+      "isoDate": "2025-01-06T00:00:00.000Z",
+      "content": "SWE-bench is an AI evaluation benchmark that assesses a model's ability to complete real-world software engineering tasks.",
+      "contentSnippet": "SWE-bench is an AI evaluation benchmark that assesses a model's ability to complete real-world software engineering tasks.",
+      "creator": "",
+      "summaries": {
+        "zh": "SWE-bench是一个用于评估AI模型完成实际软件工程任务能力的基准。文章介绍了使用Claude 3.5 Sonnet提升SWE-bench验证标准的进展。该基准旨在测试AI在软件开发中的实际应用表现。",
+        "en": "SWE-bench is an AI evaluation benchmark designed to assess models' abilities in completing real-world software engineering tasks. The article discusses raising the bar on SWE-bench using Claude 3.5 Sonnet, though specific details about the improvements or results are not provided. The focus remains on evaluating AI performance in software engineering scenarios."
+      },
+      "summary": "SWE-bench是一个用于评估AI模型完成实际软件工程任务能力的基准。文章介绍了使用Claude 3.5 Sonnet提升SWE-bench验证标准的进展。该基准旨在测试AI在软件开发中的实际应用表现。"
+    },
+    {
+      "title": "Building effective agents",
+      "link": "https://www.anthropic.com/engineering/building-effective-agents",
+      "pubDate": "Thu, 19 Dec 2024 00:00:00 +0000",
+      "isoDate": "2024-12-19T00:00:00.000Z",
+      "content": "We've worked with dozens of teams building LLM agents across industries. Consistently, the most successful implementations use simple, composable patterns rather than complex frameworks.",
+      "contentSnippet": "We've worked with dozens of teams building LLM agents across industries. Consistently, the most successful implementations use simple, composable patterns rather than complex frameworks.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：构建高效智能体  \n\n文章内容总结：  \n通过与多个行业团队合作开发大型语言模型智能体，我们发现最成功的实施案例都采用简单、可组合的模式，而非复杂的框架。",
+        "en": "Building effective LLM agents requires simple, composable patterns rather than complex frameworks, according to insights from dozens of teams across industries. Successful implementations prioritize simplicity and modularity."
+      },
+      "summary": "文章标题：构建高效智能体  \n\n文章内容总结：  \n通过与多个行业团队合作开发大型语言模型智能体，我们发现最成功的实施案例都采用简单、可组合的模式，而非复杂的框架。"
+    },
+    {
+      "title": "Introducing Contextual Retrieval",
+      "link": "https://www.anthropic.com/engineering/contextual-retrieval",
+      "pubDate": "Thu, 19 Sep 2024 00:00:00 +0000",
+      "isoDate": "2024-09-19T00:00:00.000Z",
+      "content": "For an AI model to be useful in specific contexts, it often needs access to background knowledge.",
+      "contentSnippet": "For an AI model to be useful in specific contexts, it often needs access to background knowledge.",
+      "creator": "",
+      "summaries": {
+        "zh": "为了使AI模型在特定情境下有效，通常需要获取背景知识。",
+        "en": "Contextual Retrieval introduces a method for AI models to access relevant background knowledge, enhancing their utility in specific situations. The approach ensures models can retrieve pertinent information, improving performance and contextual understanding."
+      },
+      "summary": "为了使AI模型在特定情境下有效，通常需要获取背景知识。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:38.294Z"
+}

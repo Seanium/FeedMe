@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "pubDate": "Sat, 24 Oct 2026 14:38:34 +0000",
+      "isoDate": "2026-10-24T14:38:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/\">https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50221676\">https://news.ycombinator.com/item?id=50221676</a></p>\n<p>Points: 242</p>\n<p># Comments: 193</p>\n",
+      "contentSnippet": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/\nComments URL: https://news.ycombinator.com/item?id=50221676\nPoints: 242\n# Comments: 193",
+      "creator": "rustybolt",
+      "summaries": {
+        "zh": "谷歌在芬兰非法砍伐25万棵树以建设数据中心，引发当地居民不满。该行为涉嫌违规，已引起广泛关注。报道指出，谷歌此举未获合法许可，对当地环境造成破坏。当地居民对此表示强烈抗议。",
+        "en": "Google illegally cut down 250,000 trees in Finland to build a data center, sparking local outrage. The company disregarded Finnish regulations, leading to public anger and environmental concerns. The incident highlights tensions between corporate expansion and environmental protection in the region."
+      },
+      "summary": "谷歌在芬兰非法砍伐25万棵树以建设数据中心，引发当地居民不满。该行为涉嫌违规，已引起广泛关注。报道指出，谷歌此举未获合法许可，对当地环境造成破坏。当地居民对此表示强烈抗议。"
+    },
+    {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
+      "isoDate": "2026-10-24T13:09:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220913\">https://news.ycombinator.com/item?id=50220913</a></p>\n<p>Points: 380</p>\n<p># Comments: 408</p>\n",
+      "contentSnippet": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\nComments URL: https://news.ycombinator.com/item?id=50220913\nPoints: 380\n# Comments: 408",
+      "creator": "sblank",
+      "summaries": {
+        "zh": "马斯克近期在欧洲推广特斯拉，引发欧洲对依赖美国技术的反思。此举被视为欧洲寻求技术自主的契机，或促使欧洲加速替代美国技术。相关讨论引发热议，引发对技术安全与供应链多元化的关注。",
+        "en": "Elon Musk's actions have prompted Europe to consider replacing American technology. The article highlights Musk's impact on European tech decisions, suggesting a shift in reliance away from U.S. companies. The piece discusses broader implications for European tech autonomy and potential alternatives to current American tech dependencies. The article includes comments and further discussion on the topic."
+      },
+      "summary": "马斯克近期在欧洲推广特斯拉，引发欧洲对依赖美国技术的反思。此举被视为欧洲寻求技术自主的契机，或促使欧洲加速替代美国技术。相关讨论引发热议，引发对技术安全与供应链多元化的关注。"
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
+      "isoDate": "2026-10-24T09:53:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 234</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html\nComments URL: https://news.ycombinator.com/item?id=50219666\nPoints: 234\n# Comments: 170",
+      "creator": "rramadass",
+      "summaries": {
+        "zh": "文章《我不懂量子物理》（2018）探讨了量子物理的复杂性，指出其概念难以理解。作者通过个人视角表达了对量子力学中抽象理论的困惑，并可能提及了某些基础概念或实验现象。文章引发读者对量子物理学习难度的思考，并附有评论链接供讨论。全文约100字，客观呈现了量子物理的挑战性。",
+        "en": "The article \"I Don't Understand Quantum Physics\" (2018) explores the complexities of quantum mechanics, expressing confusion about its fundamental principles. It highlights the challenges in grasping concepts like wave-particle duality and quantum entanglement. The piece likely serves as a reflection on the subject's difficulty for non-specialists. The article has garnered 206 points on a discussion platform and 146 comments, indicating interest in its topic. No specific experiments or theories are detailed, focusing instead on the general accessibility issues of quantum physics."
+      },
+      "summary": "文章《我不懂量子物理》（2018）探讨了量子物理的复杂性，指出其概念难以理解。作者通过个人视角表达了对量子力学中抽象理论的困惑，并可能提及了某些基础概念或实验现象。文章引发读者对量子物理学习难度的思考，并附有评论链接供讨论。全文约100字，客观呈现了量子物理的挑战性。"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
+      "isoDate": "2026-10-24T08:06:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.ycombinator.com/item?id=50219177</a></p>\n<p>Points: 232</p>\n<p># Comments: 115</p>\n",
+      "contentSnippet": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\nComments URL: https://news.ycombinator.com/item?id=50219177\nPoints: 232\n# Comments: 115",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "Node2Shell升级为HTTP2Shell，影响大量HTTP库和应用程序。该漏洞（CVE-2026-111497）涉及Brotli压缩库，可能允许远程代码执行。漏洞利用范围广泛，建议相关开发者及时更新受影响组件以修复问题。",
+        "en": "Node2Shell has been updated to HTTP2Shell, affecting many HTTP libraries and applications. The vulnerability, identified as CVE-2026-111497, involves the Brotli compression library in Python packages. The update addresses security risks, but the blast radius impacts a wide range of software. For more details, see the original article or comments."
+      },
+      "summary": "Node2Shell升级为HTTP2Shell，影响大量HTTP库和应用程序。该漏洞（CVE-2026-111497）涉及Brotli压缩库，可能允许远程代码执行。漏洞利用范围广泛，建议相关开发者及时更新受影响组件以修复问题。"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "isoDate": "2026-10-24T05:49:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/log4j/status/2113014142600953868?s=46\">https://twitter.com/log4j/status/2113014142600953868?s=46</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 465</p>\n<p># Comments: 186</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 465\n# Comments: 186",
+      "creator": "testing22321",
+      "summaries": {
+        "zh": "三星电视存在root shell漏洞，该漏洞被公开披露，引发关注。漏洞信息已在Twitter和Hacker News等平台讨论，获422点关注，160条评论。目前无具体影响说明。",
+        "en": "A vulnerability in Samsung TVs allows attackers to gain root shell access, as reported on Twitter and discussed on Hacker News. The issue has garnered attention with 422 points and 160 comments. The exact details of the exploit and its potential impact remain under discussion in the tech community."
+      },
+      "summary": "三星电视存在root shell漏洞，该漏洞被公开披露，引发关注。漏洞信息已在Twitter和Hacker News等平台讨论，获422点关注，160条评论。目前无具体影响说明。"
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "isoDate": "2026-10-24T04:49:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 409</p>\n<p># Comments: 145</p>\n",
+      "contentSnippet": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0\nComments URL: https://news.ycombinator.com/item?id=50218430\nPoints: 409\n# Comments: 145",
+      "creator": "pentagrama",
+      "summaries": {
+        "zh": "OBS Studio 发布了 33.0.0 版本，包含更新内容。相关讨论在 Hacker News 上有 81 条评论，获 281 点赞。",
+        "en": "OBS Studio version 33.0.0 was released, available for download via the GitHub link. The release was discussed on Hacker News, receiving 281 points and 81 comments. No specific details about new features or changes in this version are provided in the given information."
+      },
+      "summary": "OBS Studio 发布了 33.0.0 版本，包含更新内容。相关讨论在 Hacker News 上有 81 条评论，获 281 点赞。"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
+      "isoDate": "2026-10-24T03:43:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 232</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 232\n# Comments: 67",
+      "creator": "stmonty",
+      "summaries": {
+        "zh": "文章探讨了纯函数式编程（FP）与C语言在性能和接近程度上的对比。作者认为，通过优化和特定技术，FP可以接近C的性能，但需要更多努力。文章指出FP在抽象和表达力上优于C，但在底层控制和效率上稍逊。总结来说，FP在保持高抽象的同时，通过优化可接近C的性能，但两者在应用场景和特点上存在差异。",
+        "en": "The article explores how close pure functional programming (FP) can approach C's performance and efficiency. It discusses the trade-offs between FP and C, such as FP's emphasis on immutability and higher-order functions versus C's low-level control and direct memory management. The piece highlights that while FP can achieve near-C speeds with optimized libraries and compilers, it may require more effort to leverage full hardware capabilities. The author concludes that FP can be competitive with C in many scenarios but may not always match its raw performance without significant optimization."
+      },
+      "summary": "文章探讨了纯函数式编程（FP）与C语言在性能和接近程度上的对比。作者认为，通过优化和特定技术，FP可以接近C的性能，但需要更多努力。文章指出FP在抽象和表达力上优于C，但在底层控制和效率上稍逊。总结来说，FP在保持高抽象的同时，通过优化可接近C的性能，但两者在应用场景和特点上存在差异。"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "isoDate": "2026-10-24T01:16:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 345</p>\n<p># Comments: 51</p>\n",
+      "contentSnippet": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 345\n# Comments: 51",
+      "creator": "otoolep",
+      "summaries": {
+        "zh": "十二年来，SQLite分布式系统的发展历程。文章回顾了SQLite在分布式环境中的应用与演进，分析了其技术特点与优势。系统在数据一致性、性能和可扩展性方面取得显著进展。文章还探讨了SQLite分布式解决方案在实际场景中的应用案例，并展望了未来发展方向。",
+        "en": "\"Twelve Years of Distributed SQLite\" explores SQLite's evolution as a distributed database system over a decade. The article discusses its adaptability, scalability, and use cases, highlighting improvements in performance and concurrency. It touches on community contributions and future directions. The piece provides insights into SQLite's role in modern distributed systems, emphasizing its reliability and versatility. (99 words)"
+      },
+      "summary": "十二年来，SQLite分布式系统的发展历程。文章回顾了SQLite在分布式环境中的应用与演进，分析了其技术特点与优势。系统在数据一致性、性能和可扩展性方面取得显著进展。文章还探讨了SQLite分布式解决方案在实际场景中的应用案例，并展望了未来发展方向。"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "pubDate": "Sat, 24 Oct 2026 01:15:14 +0000",
+      "isoDate": "2026-10-24T01:15:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117492375462459244\">https://grapheneos.social/@GrapheneOS/117492375462459244</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217495\">https://news.ycombinator.com/item?id=50217495</a></p>\n<p>Points: 591</p>\n<p># Comments: 250</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 591\n# Comments: 250",
+      "creator": "privacyishuman",
+      "summaries": {
+        "zh": "约十多家银行应用程序开始专门允许GrapheneOS。该消息在社交平台和新闻网站上引起讨论，相关链接和评论数量较多。",
+        "en": "Around a dozen banking apps have started supporting GrapheneOS, a secure mobile operating system. The development allows users to access banking services on devices running GrapheneOS. The news has generated discussion online, with 80 comments and 329 points on platforms like HN. The article highlights GrapheneOS's growing compatibility with financial applications."
+      },
+      "summary": "约十多家银行应用程序开始专门允许GrapheneOS。该消息在社交平台和新闻网站上引起讨论，相关链接和评论数量较多。"
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
+      "isoDate": "2026-10-23T21:21:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cve.0xosprey.com/\">https://cve.0xosprey.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215530\">https://news.ycombinator.com/item?id=50215530</a></p>\n<p>Points: 207</p>\n<p># Comments: 72</p>\n",
+      "contentSnippet": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 207\n# Comments: 72",
+      "creator": "Group_B",
+      "summaries": {
+        "zh": "CVE Tracker是一个用于追踪和记录常见漏洞（CVE）信息的平台。该网站提供漏洞数据库和最新动态，用户可通过链接查看详细信息和评论。平台目前有207个关注点，并附有72条评论。",
+        "en": "The CVE Tracker is a platform for monitoring Common Vulnerabilities and Exposures (CVEs). It provides updates and details on security vulnerabilities. The resource is available at https://cve.0xosprey.com/. It received 207 points and 72 comments on Hacker News (https://news.ycombinator.com/item?id=50215530). The tracker serves as a centralized tool for cybersecurity professionals to stay informed about emerging threats."
+      },
+      "summary": "CVE Tracker是一个用于追踪和记录常见漏洞（CVE）信息的平台。该网站提供漏洞数据库和最新动态，用户可通过链接查看详细信息和评论。平台目前有207个关注点，并附有72条评论。"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "pubDate": "Fri, 23 Oct 2026 19:34:15 +0000",
+      "isoDate": "2026-10-23T19:34:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214218\">https://news.ycombinator.com/item?id=50214218</a></p>\n<p>Points: 373</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 373\n# Comments: 191",
+      "creator": "JustSkyfall",
+      "summaries": {
+        "zh": "谷歌宣布可能将使用用户的Gmail和Google Photos数据来投放广告。此次更新涉及个人智能隐私政策，引发用户关注。具体细节及用户反馈可参考相关链接。",
+        "en": "Google may use data from Gmail and Google Photos to target ads, according to an updated privacy policy. The changes aim to improve ad relevance by analyzing user activity and content. The update follows Google's broader \"Personal Intelligence\" initiative, which seeks to leverage user data for personalized experiences. Users are notified of these changes, and opt-out options remain available. The policy adjustment reflects Google's ongoing efforts to align ad practices with user preferences and privacy controls."
+      },
+      "summary": "谷歌宣布可能将使用用户的Gmail和Google Photos数据来投放广告。此次更新涉及个人智能隐私政策，引发用户关注。具体细节及用户反馈可参考相关链接。"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
+      "isoDate": "2026-10-23T19:09:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://block.xyz/dessa\">https://block.xyz/dessa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50213925\">https://news.ycombinator.com/item?id=50213925</a></p>\n<p>Points: 488</p>\n<p># Comments: 183</p>\n",
+      "contentSnippet": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 488\n# Comments: 183",
+      "creator": "dsr12",
+      "summaries": {
+        "zh": "Dessa是一款仅使用语音数据训练的对话模型。该模型专注于语音交互，通过分析语音信息进行对话生成。Dessa的开发旨在提升语音识别和自然语言处理在非文本环境中的应用效果。目前，该模型已在相关平台上发布，并引发技术社区关注。",
+        "en": "Dessa is a conversation model trained exclusively on speech data, distinguishing it from models that use text. The model aims to improve dialogue systems by leveraging voice interactions. It is designed to understand and generate responses based on auditory inputs, potentially enhancing user experience in voice-based applications. The project highlights the growing importance of speech-based AI in communication technologies."
+      },
+      "summary": "Dessa是一款仅使用语音数据训练的对话模型。该模型专注于语音交互，通过分析语音信息进行对话生成。Dessa的开发旨在提升语音识别和自然语言处理在非文本环境中的应用效果。目前，该模型已在相关平台上发布，并引发技术社区关注。"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
+      "isoDate": "2026-10-23T16:59:08.000Z",
+      "content": "\n<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.modelcompare.ai/blog/china-open-source-ai\" rel=\"nofollow\">https://www.modelcompare.ai/blog/china-open-source-ai</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 1053</p>\n<p># Comments: 642</p>\n",
+      "contentSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html\nhttps://artificialanalysis.ai/models/kimi-k3-1-pro\nhttps://www.modelcompare.ai/blog/china-open-source-ai\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 1053\n# Comments: 642",
+      "creator": "Jowsey",
+      "summaries": {
+        "zh": "Kimi K3.1 Pro和K3.1 Pro Highspeed是Kimi公司推出的两款AI模型。Kimi K3.1 Pro是一款开源AI模型，可用于多种任务。K3.1 Pro Highspeed则强调高速性能。相关讨论可在Hacker News上找到，共有556个点数和337条评论。",
+        "en": "The Kimi K3.1 Pro and K3.1 Pro Highspeed are advanced AI models developed by Kimi. The K3.1 Pro is designed for general-purpose tasks, while the K3.1 Pro Highspeed offers enhanced speed for specific applications. Both models are part of Kimi's open-source AI initiative, supporting community development. The models have garnered attention online, with discussions on platforms like HN (YCombinator) and ModelCompare. The K3.1 Pro Highspeed is noted for its performance improvements."
+      },
+      "summary": "Kimi K3.1 Pro和K3.1 Pro Highspeed是Kimi公司推出的两款AI模型。Kimi K3.1 Pro是一款开源AI模型，可用于多种任务。K3.1 Pro Highspeed则强调高速性能。相关讨论可在Hacker News上找到，共有556个点数和337条评论。"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
+      "isoDate": "2026-10-23T16:21:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.calif.io/p/iphone\">https://blog.calif.io/p/iphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211474\">https://news.ycombinator.com/item?id=50211474</a></p>\n<p>Points: 1063</p>\n<p># Comments: 658</p>\n",
+      "contentSnippet": "Article URL: https://blog.calif.io/p/iphone\nComments URL: https://news.ycombinator.com/item?id=50211474\nPoints: 1063\n# Comments: 658",
+      "creator": "pavel_lishin",
+      "summaries": {
+        "zh": "文章标题为《今天，我们成功黑入了我们想要黑的iPhone》。作者宣布成功实现了原定目标，入侵了iPhone。文章链接为https://blog.calif.io/p/iphone，评论区链接为https://news.ycombinator.com/item?id=50211474，点赞352，评论204条。",
+        "en": "The article announces the successful hacking of an iPhone, achieving the intended goal. It references a blog post and mentions 352 points and 204 comments on Hacker News. The content focuses on the technical accomplishment without providing further details."
+      },
+      "summary": "文章标题为《今天，我们成功黑入了我们想要黑的iPhone》。作者宣布成功实现了原定目标，入侵了iPhone。文章链接为https://blog.calif.io/p/iphone，评论区链接为https://news.ycombinator.com/item?id=50211474，点赞352，评论204条。"
+    },
+    {
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "pubDate": "Fri, 23 Oct 2026 14:52:08 +0000",
+      "isoDate": "2026-10-23T14:52:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\">https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50210067\">https://news.ycombinator.com/item?id=50210067</a></p>\n<p>Points: 208</p>\n<p># Comments: 160</p>\n",
+      "contentSnippet": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\nComments URL: https://news.ycombinator.com/item?id=50210067\nPoints: 208\n# Comments: 160",
+      "creator": "IcePenguin",
+      "summaries": {
+        "zh": "eMudhra未遵守Mozilla Root调查的截止日期，并指责社交媒体。相关讨论在Bugzilla和Hacker News上持续，共有207个点数和160条评论。",
+        "en": "eMudhra failed to meet the Mozilla Root investigation deadline, blaming social media for the delay. The issue is tracked under Bugzilla ticket #2083449, with 207 points and 160 comments. The comments can be viewed at HN discussion [here](https://news.ycombinator.com/item?id=50210067)."
+      },
+      "summary": "eMudhra未遵守Mozilla Root调查的截止日期，并指责社交媒体。相关讨论在Bugzilla和Hacker News上持续，共有207个点数和160条评论。"
+    },
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "pubDate": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "isoDate": "2026-10-23T13:41:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\">https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208837\">https://news.ycombinator.com/item?id=50208837</a></p>\n<p>Points: 549</p>\n<p># Comments: 393</p>\n",
+      "contentSnippet": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 549\n# Comments: 393",
+      "creator": "hubraumhugo",
+      "summaries": {
+        "zh": "私营电力公司电价比公共供应商高23%。据《Kadoa能源价格洞察》报道，投资者拥有的电力公司提供的电力费用显著高于公共电力供应商。具体数据未在文中详述。相关讨论可在新闻聚合网站Hacker News上找到（URL: https://news.ycombinator.com/item?id=50208837）。",
+        "en": "Investor-owned utilities charge 23% more for electricity than public providers, according to a report. The analysis highlights a significant price disparity between private and publicly owned utility companies. The data is based on recent energy price comparisons, though specific regional details are not provided. The article, available at [kadoa.com/energy-prices/insights/investor-owned-utilities], includes 341 comments for further discussion."
+      },
+      "summary": "私营电力公司电价比公共供应商高23%。据《Kadoa能源价格洞察》报道，投资者拥有的电力公司提供的电力费用显著高于公共电力供应商。具体数据未在文中详述。相关讨论可在新闻聚合网站Hacker News上找到（URL: https://news.ycombinator.com/item?id=50208837）。"
+    },
+    {
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "link": "https://keepandroidopen.org/?",
+      "pubDate": "Fri, 23 Oct 2026 13:19:42 +0000",
+      "isoDate": "2026-10-23T13:19:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepandroidopen.org/?\">https://keepandroidopen.org/?</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208558\">https://news.ycombinator.com/item?id=50208558</a></p>\n<p>Points: 523</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://keepandroidopen.org/?\nComments URL: https://news.ycombinator.com/item?id=50208558\nPoints: 523\n# Comments: 367",
+      "creator": "NackerHughes",
+      "summaries": {
+        "zh": "文章标题为《你的手机即将不再属于你：70天锁定封锁》。内容提到，70天后将实施封锁措施，手机使用权限将受到限制。目前已有454个点数和310条评论。",
+        "en": "The article warns that phone ownership may soon change, with a 70-day countdown to a lockdown. It discusses potential privacy and control implications, though specific details are limited. The piece has garnered 454 points and 310 comments, indicating public interest in the topic."
+      },
+      "summary": "文章标题为《你的手机即将不再属于你：70天锁定封锁》。内容提到，70天后将实施封锁措施，手机使用权限将受到限制。目前已有454个点数和310条评论。"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "pubDate": "Fri, 23 Oct 2026 12:28:47 +0000",
+      "isoDate": "2026-10-23T12:28:47.000Z",
+      "content": "\n<p><a href=\"https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/\" rel=\"nofollow\">https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207910\">https://news.ycombinator.com/item?id=50207910</a></p>\n<p>Points: 897</p>\n<p># Comments: 265</p>\n",
+      "contentSnippet": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...\nComments URL: https://news.ycombinator.com/item?id=50207910\nPoints: 897\n# Comments: 265",
+      "creator": "frizlab",
+      "summaries": {
+        "zh": "苹果音乐出现404错误，部分用户无法访问服务。该问题引发讨论，相关评论链接显示有137条评论。",
+        "en": "Apple Music encountered a 404 error, rendering certain songs inaccessible for a period. Users reported the issue, and it was later resolved. The incident highlighted potential technical glitches in the service. No further details were provided."
+      },
+      "summary": "苹果音乐出现404错误，部分用户无法访问服务。该问题引发讨论，相关评论链接显示有137条评论。"
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
+      "isoDate": "2026-10-23T11:39:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207405\">https://news.ycombinator.com/item?id=50207405</a></p>\n<p>Points: 321</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\nComments URL: https://news.ycombinator.com/item?id=50207405\nPoints: 321\n# Comments: 120",
+      "creator": "armcat",
+      "summaries": {
+        "zh": "瑞典政府办公室将禁止使用ChatGPT和Claude。此举旨在防止潜在风险，确保政府工作的安全性和可靠性。该决定基于对AI工具可能带来的安全威胁的评估。",
+        "en": "The Swedish government has announced a ban on the use of ChatGPT and Claude by its employees. The decision aims to prevent potential misuse of the AI tools and ensure official communications remain secure and reliable. The ban applies to all government offices, emphasizing the need for controlled AI usage in public administration. No further details on implementation or exceptions were provided."
+      },
+      "summary": "瑞典政府办公室将禁止使用ChatGPT和Claude。此举旨在防止潜在风险，确保政府工作的安全性和可靠性。该决定基于对AI工具可能带来的安全威胁的评估。"
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
+      "isoDate": "2026-10-23T10:41:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/jaredkushner/status/2113376217415958767\">https://twitter.com/jaredkushner/status/2113376217415958767</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50206914\">https://news.ycombinator.com/item?id=50206914</a></p>\n<p>Points: 307</p>\n<p># Comments: 203</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767\nComments URL: https://news.ycombinator.com/item?id=50206914\nPoints: 307\n# Comments: 203",
+      "creator": "teekert",
+      "summaries": {
+        "zh": "荷兰政府曾入侵贾里德·库什纳的手机。相关消息在Twitter上发布，并引发讨论。新闻聚合网站Hacker News有191条评论。",
+        "en": "The Dutch government hacked into Jared Kushner's phone. The information was shared by Kushner on Twitter, sparking discussion online. The post received 290 points on Hacker News and 191 comments. No further details were provided about the hacking or its implications."
+      },
+      "summary": "荷兰政府曾入侵贾里德·库什纳的手机。相关消息在Twitter上发布，并引发讨论。新闻聚合网站Hacker News有191条评论。"
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "pubDate": "Fri, 23 Oct 2026 08:21:29 +0000",
+      "isoDate": "2026-10-23T08:21:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\">https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50205934\">https://news.ycombinator.com/item?id=50205934</a></p>\n<p>Points: 439</p>\n<p># Comments: 451</p>\n",
+      "contentSnippet": "Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\nComments URL: https://news.ycombinator.com/item?id=50205934\nPoints: 439\n# Comments: 451",
+      "creator": "robtherobber",
+      "summaries": {
+        "zh": "迪士尼在确认广告将出现在所有套餐后几天内宣布涨价。此举引发用户关注，相关讨论在科技新闻平台Hacker News上热度较高。具体价格调整及广告层级细节尚未明确，但该消息已引起市场及消费者热议。",
+        "en": "Disney announced a price increase for Disney+ after confirming ads will appear on all subscription tiers, including the ad-free Premium option. The move comes as part of a strategic shift to include ads across all plans, with the Premium tier now featuring Nielsen measurement for Emmys 2026. The decision reflects Disney's broader monetization efforts while maintaining tiered options. The news sparked discussions online, with 392 comments on platforms like HN. (98 words)"
+      },
+      "summary": "迪士尼在确认广告将出现在所有套餐后几天内宣布涨价。此举引发用户关注，相关讨论在科技新闻平台Hacker News上热度较高。具体价格调整及广告层级细节尚未明确，但该消息已引起市场及消费者热议。"
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "link": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "pubDate": "Fri, 23 Oct 2026 08:05:33 +0000",
+      "isoDate": "2026-10-23T08:05:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ClickHouse/ClickBench/pull/2165\">https://github.com/ClickHouse/ClickBench/pull/2165</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50205816\">https://news.ycombinator.com/item?id=50205816</a></p>\n<p>Points: 192</p>\n<p># Comments: 148</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ClickHouse/ClickBench/pull/2165\nComments URL: https://news.ycombinator.com/item?id=50205816\nPoints: 192\n# Comments: 148",
+      "creator": "f311a",
+      "summaries": {
+        "zh": "文章标题为“Remove pgrust: the entry is cheating (per-query kernels and result caching)”，讨论了移除pgrust的原因。该工具存在每查询内核和结果缓存作弊行为，违反了公平测试原则。GitHub上相关讨论帖有192个赞和148条评论。链接提供了详细信息和评论。",
+        "en": "The article discusses removing pgrust due to cheating behavior, specifically using per-query kernels and result caching. The issue was reported on GitHub (Pull #2165) and discussed on Hacker News. The pull request has 192 points and 148 comments. The focus is on addressing unfair practices in benchmarking."
+      },
+      "summary": "文章标题为“Remove pgrust: the entry is cheating (per-query kernels and result caching)”，讨论了移除pgrust的原因。该工具存在每查询内核和结果缓存作弊行为，违反了公平测试原则。GitHub上相关讨论帖有192个赞和148条评论。链接提供了详细信息和评论。"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "pubDate": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "isoDate": "2026-10-23T00:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 377</p>\n<p># Comments: 266</p>\n",
+      "contentSnippet": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 377\n# Comments: 266",
+      "creator": "xiaoyu2006",
+      "summaries": {
+        "zh": "《1978年“自然语言编程”的愚蠢之处》一文指出，自然语言编程因缺乏精确性和逻辑性而不可行。作者认为，自然语言易含歧义，难以实现可靠计算。文章强调编程需严谨定义，而非依赖模糊的自然语言。该观点引发广泛讨论，体现自然语言与形式化语言的差异。",
+        "en": "The article \"The foolishness of 'natural language programming'\" (1978) criticizes the idea of using natural language for programming, arguing it is impractical and inefficient. The author, Edsger Dijkstra, highlights the limitations of human language in precision and ambiguity compared to formal programming languages. He emphasizes the need for clear, unambiguous communication in programming, advocating for structured, mathematical approaches. The piece reflects on the challenges of translating natural language into executable code and suggests it would lead to confusion and errors. Dijkstra's perspective underscores the importance of discipline and rigor in software development."
+      },
+      "summary": "《1978年“自然语言编程”的愚蠢之处》一文指出，自然语言编程因缺乏精确性和逻辑性而不可行。作者认为，自然语言易含歧义，难以实现可靠计算。文章强调编程需严谨定义，而非依赖模糊的自然语言。该观点引发广泛讨论，体现自然语言与形式化语言的差异。"
+    },
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "pubDate": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "isoDate": "2026-10-22T23:45:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeandcake.dev/posts/2026-10-22-docker-is-weird\">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202681\">https://news.ycombinator.com/item?id=50202681</a></p>\n<p>Points: 857</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 857\n# Comments: 367",
+      "creator": "psxuaw",
+      "summaries": {
+        "zh": "文章标题为《Docker is weird》，作者认为Docker虽然实用，但使用起来有些奇怪。具体内容未详细展开，但提及了Docker的一些不寻常之处。评论区有180条留言，讨论热度较高。",
+        "en": "\"Docker is Weird\" discusses the unconventional and sometimes frustrating aspects of using Docker, a popular containerization tool. The author highlights its unique features and the learning curve involved. The post has garnered significant attention, with 366 points on Hacker News and 180 comments. The content reflects user experiences and observations about Docker's complexity and quirks."
+      },
+      "summary": "文章标题为《Docker is weird》，作者认为Docker虽然实用，但使用起来有些奇怪。具体内容未详细展开，但提及了Docker的一些不寻常之处。评论区有180条留言，讨论热度较高。"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
+      "isoDate": "2026-10-22T23:01:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://edjefferson.com/localwiki/\">https://edjefferson.com/localwiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202285\">https://news.ycombinator.com/item?id=50202285</a></p>\n<p>Points: 1508</p>\n<p># Comments: 240</p>\n",
+      "contentSnippet": "Article URL: https://edjefferson.com/localwiki/\nComments URL: https://news.ycombinator.com/item?id=50202285\nPoints: 1508\n# Comments: 240",
+      "creator": "sohkamyung",
+      "summaries": {
+        "zh": "《本地维基百科》是一个专注于本地信息的维基百科分支，仅收录步行半小时可达范围内的内容。该项目旨在提供更贴近用户日常生活的实用信息，涵盖周边地点、活动等。用户可编辑和分享本地知识，形成社区化的信息平台。目前项目获得一定关注度，并设有讨论区供用户交流。",
+        "en": "Local Wikipedia is a platform that creates a Wikipedia-like encyclopedia for places within a half-hour walk of users. It focuses on hyperlocal content, allowing community members to contribute and share information about nearby businesses, landmarks, and events. The project aims to provide detailed, easily accessible knowledge about local areas, fostering community engagement and discovery. It operates similarly to Wikipedia but with a geographic limitation, ensuring relevance to users' immediate surroundings. The initiative has garnered attention, with 569 points on Hacker News and 127 comments."
+      },
+      "summary": "《本地维基百科》是一个专注于本地信息的维基百科分支，仅收录步行半小时可达范围内的内容。该项目旨在提供更贴近用户日常生活的实用信息，涵盖周边地点、活动等。用户可编辑和分享本地知识，形成社区化的信息平台。目前项目获得一定关注度，并设有讨论区供用户交流。"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "pubDate": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "isoDate": "2026-10-22T22:54:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.anthropic.com/research/formal-verification\">https://www.anthropic.com/research/formal-verification</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202217\">https://news.ycombinator.com/item?id=50202217</a></p>\n<p>Points: 455</p>\n<p># Comments: 302</p>\n",
+      "contentSnippet": "Article URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 455\n# Comments: 302",
+      "creator": "johnbender",
+      "summaries": {
+        "zh": "大型语言模型（LLMs）正使形式化软件验证在更大规模上成为可能。这一技术通过自动化和扩展传统验证方法，显著提升了软件可靠性和安全性。文章详细探讨了LLMs如何应用于代码分析、逻辑推理和测试生成，从而减少人工工作量并提高效率。该技术有望推动软件开发向更严格的质量标准迈进。",
+        "en": "Large Language Models (LLMs) are enabling formal software verification at a significantly larger scale. This advancement allows for more comprehensive testing and validation of software systems, addressing previous limitations. The technology enhances accuracy and efficiency in identifying potential flaws, making complex software development processes more reliable. Formal verification, traditionally challenging, now benefits from LLM integration, streamlining the detection of errors and vulnerabilities. This development represents a substantial improvement in software quality and security."
+      },
+      "summary": "大型语言模型（LLMs）正使形式化软件验证在更大规模上成为可能。这一技术通过自动化和扩展传统验证方法，显著提升了软件可靠性和安全性。文章详细探讨了LLMs如何应用于代码分析、逻辑推理和测试生成，从而减少人工工作量并提高效率。该技术有望推动软件开发向更严格的质量标准迈进。"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "pubDate": "Thu, 22 Oct 2026 22:43:19 +0000",
+      "isoDate": "2026-10-22T22:43:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\">https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202114\">https://news.ycombinator.com/item?id=50202114</a></p>\n<p>Points: 480</p>\n<p># Comments: 263</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\nComments URL: https://news.ycombinator.com/item?id=50202114\nPoints: 480\n# Comments: 263",
+      "creator": "hn_acker",
+      "summaries": {
+        "zh": "加拿大人反对C-22法案的时间紧迫。该法案涉及危险监控，反对者需尽快行动。法案可能对公民隐私构成威胁。相关讨论及评论可在指定链接查看。",
+        "en": "Canadians are urged to act quickly to oppose Bill C-22, a proposed surveillance law deemed dangerous by critics. The article highlights the limited time available to voice opposition before the bill may become law. It emphasizes the importance of public engagement to prevent potential privacy violations. The urgency is stressed due to the bill's potential impact on civil liberties. For further discussion, readers are directed to comments on the topic. (99 words)"
+      },
+      "summary": "加拿大人反对C-22法案的时间紧迫。该法案涉及危险监控，反对者需尽快行动。法案可能对公民隐私构成威胁。相关讨论及评论可在指定链接查看。"
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "pubDate": "Thu, 22 Oct 2026 21:41:13 +0000",
+      "isoDate": "2026-10-22T21:41:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images\">https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201445\">https://news.ycombinator.com/item?id=50201445</a></p>\n<p>Points: 210</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images\nComments URL: https://news.ycombinator.com/item?id=50201445\nPoints: 210\n# Comments: 73",
+      "creator": "gmays",
+      "summaries": {
+        "zh": "《Fable 5.1 如何在图像中隐藏信息？》一文探讨了 Fable 5.1 游戏利用图像隐藏信息的技术。文章详细解释了其原理，包括通过特定算法修改图像像素，使信息不易被察觉。该方法适用于数据加密和隐蔽通信，但需注意可能存在被检测的风险。全文客观分析技术细节，未涉及主观评价。",
+        "en": "Fable 5.1 uses steganography to hide messages in images by embedding data within the file's metadata without altering its visual appearance. The process involves encoding text into binary and embedding it into the image's least significant bits, ensuring the change is imperceptible. This technique allows for secure communication by concealing information within seemingly ordinary images. The article explores the technical details of how this works, including the methods and tools used for both embedding and extracting hidden messages."
+      },
+      "summary": "《Fable 5.1 如何在图像中隐藏信息？》一文探讨了 Fable 5.1 游戏利用图像隐藏信息的技术。文章详细解释了其原理，包括通过特定算法修改图像像素，使信息不易被察觉。该方法适用于数据加密和隐蔽通信，但需注意可能存在被检测的风险。全文客观分析技术细节，未涉及主观评价。"
+    },
+    {
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "pubDate": "Thu, 22 Oct 2026 21:24:41 +0000",
+      "isoDate": "2026-10-22T21:24:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201259\">https://news.ycombinator.com/item?id=50201259</a></p>\n<p>Points: 550</p>\n<p># Comments: 228</p>\n",
+      "contentSnippet": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\nComments URL: https://news.ycombinator.com/item?id=50201259\nPoints: 550\n# Comments: 228",
+      "creator": "ck2",
+      "summaries": {
+        "zh": "据《名利场》报道，贾里德·库什纳被黑客入侵的手机揭示了其秘密谈判和涉及数百万美元的交易细节。事件引发关注，相关讨论在 Hacker News 上有136条评论。",
+        "en": "Jared Kushner's hacked phone revealed secret negotiations and millions in transactions. The data disclosed confidential discussions and financial dealings, raising concerns about privacy and security. The information was obtained from Kushner's phone, which was targeted by hackers. The leak highlighted potential breaches in personal and governmental communications. The details emerged online, sparking discussion and analysis. No further details were provided about the specific negotiations or transactions."
+      },
+      "summary": "据《名利场》报道，贾里德·库什纳被黑客入侵的手机揭示了其秘密谈判和涉及数百万美元的交易细节。事件引发关注，相关讨论在 Hacker News 上有136条评论。"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
+      "isoDate": "2026-10-22T21:03:55.000Z",
+      "content": "\n<p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?<p>Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?<p>Is selling tokens really the best strategy?<p>Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50200997\">https://news.ycombinator.com/item?id=50200997</a></p>\n<p>Points: 642</p>\n<p># Comments: 726</p>\n",
+      "contentSnippet": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\nCouldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\nIs selling tokens really the best strategy?\nEspecially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side\nComments URL: https://news.ycombinator.com/item?id=50200997\nPoints: 642\n# Comments: 726",
+      "creator": "ex-aws-dude",
+      "summaries": {
+        "zh": "标题略有夸张，但核心问题是：如果前沿模型如此优秀，为何OpenAI还要以销售为主？难道自己利用模型创办公司、开发产品不能赚更多钱吗？尤其在通用化和价格下降的背景下，应用端而非工具端或许更有利可图。评论区有487条讨论。",
+        "en": "The article discusses whether OpenAI and Anthropic, despite having advanced AI models, should focus on building their own companies instead of selling tokens. The question highlights concerns about commodification and declining prices, suggesting more profit potential in applications rather than utility. The discussion explores whether selling tokens is the optimal strategy compared to developing proprietary products. The thread has 445 points and 487 comments."
+      },
+      "summary": "标题略有夸张，但核心问题是：如果前沿模型如此优秀，为何OpenAI还要以销售为主？难道自己利用模型创办公司、开发产品不能赚更多钱吗？尤其在通用化和价格下降的背景下，应用端而非工具端或许更有利可图。评论区有487条讨论。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:48:32.762Z"
+}

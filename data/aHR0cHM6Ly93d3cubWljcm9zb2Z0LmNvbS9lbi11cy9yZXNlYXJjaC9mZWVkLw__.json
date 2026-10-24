@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-22T16:00:00.000Z",
+      "content": "<p>Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/\">Flint-interactive: A language for creating interactive data visualizations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.\nThe post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
+      "summaries": {
+        "zh": "Flint-interactive 是一种用于创建交互式数据可视化的语言，使 AI 代理能够通过点击图表、筛选数据、高亮相关内容等方式进行探索，超越作者预设的视图。该技术由微软研究院开发。",
+        "en": "Flint-interactive is a language developed by Microsoft Research for AI agents to create interactive data visualizations. It enables users to click on charts, filter data, highlight related content, and explore beyond the initial view chosen by the author. The tool enhances data analysis by allowing dynamic interaction with visualizations."
+      },
+      "summary": "Flint-interactive 是一种用于创建交互式数据可视化的语言，使 AI 代理能够通过点击图表、筛选数据、高亮相关内容等方式进行探索，超越作者预设的视图。该技术由微软研究院开发。"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "<p>For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/\">Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional […]\nThe post Solving a 31-year-old grand challenge in mathematics – the KLS conjecture appeared first on Microsoft Research.",
+      "creator": "Xinzhi Zhang",
+      "summaries": {
+        "zh": "一项新的研究解决了数学领域长达31年的重大挑战——KLS猜想。该猜想于1995年提出，探讨了高维空间计算难度的基本问题。研究成功证明了这一理论难题，消除了对随机算法效率理解的障碍，这些算法广泛应用于科学和计算领域。",
+        "en": "A new study resolves the 31-year-old Kannan–Lovász–Simonovits (KLS) conjecture, a key question in high-dimensional computing. Proposed in 1995, the conjecture addressed the difficulty of computing in high dimensions. The research removes a major obstacle in understanding the efficiency of randomized algorithms, which are widely used in science and computing. The findings provide a significant theoretical advancement."
+      },
+      "summary": "一项新的研究解决了数学领域长达31年的重大挑战——KLS猜想。该猜想于1995年提出，探讨了高维空间计算难度的基本问题。研究成功证明了这一理论难题，消除了对随机算法效率理解的障碍，这些算法广泛应用于科学和计算领域。"
+    },
+    {
+      "title": "Called to serve: Tech, research, and positive impact",
+      "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "<p>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/\">Called to serve: Tech, research, and positive impact</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more.\nThe post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research.",
+      "creator": "Weishung Liu, Chris White",
+      "summaries": {
+        "zh": "文章标题为《Called to serve: Tech, research, and positive impact》。微软研究院实验室主任Chris White与项目经理Weishung Liu讨论了他在现实世界影响的研究挑战，包括战时数据分析新方法和打击人口贩卖的工具。文章探讨了其研究工作的动机和更多内容。",
+        "en": "The article features Lab Director Chris White discussing his research on real-world challenges, including wartime data analysis and combating human trafficking. He speaks with program manager Weishung Liu about his influences and work. The piece highlights the positive impact of technology and research. (98 words)"
+      },
+      "summary": "文章标题为《Called to serve: Tech, research, and positive impact》。微软研究院实验室主任Chris White与项目经理Weishung Liu讨论了他在现实世界影响的研究挑战，包括战时数据分析新方法和打击人口贩卖的工具。文章探讨了其研究工作的动机和更多内容。"
+    },
+    {
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-15T16:00:00.000Z",
+      "content": "<p>Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/\">Proof-based general-purpose computing with Magnetar</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security.\nThe post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research.",
+      "creator": "Srinath Setty",
+      "summaries": {
+        "zh": "《基于Magnetar的证据式通用计算》一文介绍了Magnetar如何通过支持标准编程语言、大幅提升速度和抗量子安全特性，推动零知识证明在主流计算中的普及。零知识证明技术可在不重新运行工作负载或暴露敏感数据的情况下验证计算结果。该技术由微软研究院发布。",
+        "en": "Magnetar enables zero-knowledge proofs for general-purpose computing, verifying results without rerunning workloads or exposing sensitive data. It supports standard programming languages, offers major speed gains, and provides quantum-resistant security, making zero-knowledge proofs more accessible and efficient. The technology was introduced by Microsoft Research."
+      },
+      "summary": "《基于Magnetar的证据式通用计算》一文介绍了Magnetar如何通过支持标准编程语言、大幅提升速度和抗量子安全特性，推动零知识证明在主流计算中的普及。零知识证明技术可在不重新运行工作负载或暴露敏感数据的情况下验证计算结果。该技术由微软研究院发布。"
+    },
+    {
+      "title": "Simulating student learning for better AI tutoring",
+      "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "pubDate": "Mon, 12 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-12T16:00:00.000Z",
+      "content": "<p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/\">Simulating student learning for better AI tutoring</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.\nThe post Simulating student learning for better AI tutoring appeared first on Microsoft Research.",
+      "creator": "Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao",
+      "summaries": {
+        "zh": "学生模拟系统StudentSim旨在通过模拟学生与AI助教的互动，评估和改进AI助教工具，以应用于棋类、写作和数学等学科。该系统在正式测试前对助教性能进行优化，提升AI助教的辅导效果。来源：微软研究院。",
+        "en": "StudentSim is a research system designed to evaluate and enhance AI tutoring tools before real-world testing. It simulates student interactions with tutors across subjects like chess, writing, and mathematics, providing feedback to improve tutor performance. The system aims to refine AI tutoring effectiveness through simulated learning scenarios. (99 words)"
+      },
+      "summary": "学生模拟系统StudentSim旨在通过模拟学生与AI助教的互动，评估和改进AI助教工具，以应用于棋类、写作和数学等学科。该系统在正式测试前对助教性能进行优化，提升AI助教的辅导效果。来源：微软研究院。"
+    },
+    {
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-07T16:00:00.000Z",
+      "content": "<p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/\">Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.\nThe post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first on Microsoft Research.",
+      "creator": "Zhiyuan He, Yuqing Yang",
+      "summaries": {
+        "zh": "Agent Lightning v1.0是一款轻量级智能体强化学习框架，包含3500行代码。该框架通过连接现有智能体与强化学习训练，简化了智能体改进流程，无需重新构建即可提升性能。它解决了传统复杂框架在工具、上下文和决策管理上的难题，使智能体训练更高效。该框架由微软研究院开发。",
+        "en": "Agent Lightning v1.0 is a lightweight, 3,500-line agentic RL framework designed to simplify training AI agents with reinforcement learning. It connects existing agents to RL training, enabling improvements without rebuilding them. The framework addresses challenges in managing tools, context, and decision-making within complex frameworks. It facilitates agent enhancement using real harnesses. The post was originally published by Microsoft Research."
+      },
+      "summary": "Agent Lightning v1.0是一款轻量级智能体强化学习框架，包含3500行代码。该框架通过连接现有智能体与强化学习训练，简化了智能体改进流程，无需重新构建即可提升性能。它解决了传统复杂框架在工具、上下文和决策管理上的难题，使智能体训练更高效。该框架由微软研究院开发。"
+    },
+    {
+      "title": "What AI gets wrong and what failure teaches us",
+      "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "pubDate": "Tue, 06 Oct 2026 16:19:06 +0000",
+      "isoDate": "2026-10-06T16:19:06.000Z",
+      "content": "<p>Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/\">What AI gets wrong and what failure teaches us</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. \nThe post What AI gets wrong and what failure teaches us appeared first on Microsoft Research.",
+      "creator": "Chad Atalla, Jennifer Neville",
+      "summaries": {
+        "zh": "文章标题：《AI的失误与失败所教我们的》\n\n内容总结：Jennifer Neville本不想进入计算机科学领域，却意外进入该领域。她讲述了职业道路的起伏，并专注于识别AI难以处理复杂性的“意外失误”。文章探讨了AI的局限性以及失败带来的启示。",
+        "en": "Jennifer Neville, who initially disliked computer science, found success in the field by identifying \"surprising failures\" that make AI struggle with complexity. Her work highlights the challenges AI faces in handling intricate tasks, as discussed in the article \"What AI gets wrong and what failure teaches us,\" published by Microsoft Research."
+      },
+      "summary": "文章标题：《AI的失误与失败所教我们的》\n\n内容总结：Jennifer Neville本不想进入计算机科学领域，却意外进入该领域。她讲述了职业道路的起伏，并专注于识别AI难以处理复杂性的“意外失误”。文章探讨了AI的局限性以及失败带来的启示。"
+    },
+    {
+      "title": "Forecasting space weather risks on power grids",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<p>Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/\">Forecasting space weather risks on power grids</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.\nThe post Forecasting space weather risks on power grids appeared first on Microsoft Research.",
+      "creator": "Rohan Kannan",
+      "summaries": {
+        "zh": "极端空间天气事件可能损害地球电力系统，降低GPS精度并影响卫星运行。一种新的机器学习系统能在风暴来临前30-60分钟预测潜在损害地点。该研究由微软研究院发布。",
+        "en": "Extreme space-weather events pose risks to power grids, GPS accuracy, and satellite operations. A new machine learning system developed by Microsoft Research can predict potential damage locations 30-60 minutes before a storm arrives, enhancing early warning capabilities. The system aims to mitigate the impact of space weather on critical infrastructure."
+      },
+      "summary": "极端空间天气事件可能损害地球电力系统，降低GPS精度并影响卫星运行。一种新的机器学习系统能在风暴来临前30-60分钟预测潜在损害地点。该研究由微软研究院发布。"
+    },
+    {
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "pubDate": "Tue, 29 Sep 2026 14:00:02 +0000",
+      "isoDate": "2026-09-29T14:00:02.000Z",
+      "content": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/\">Introducing Quine: An AI research system designed for the complexity of biology</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.\nThe post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research.",
+      "creator": "Nicolo Fusi, Jonathan M. Carlson",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/QUINE-Visual1_Lite_FinalComp_V2_FIG-1.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "Quine是一款专为生物学复杂性设计的AI研究系统。该系统旨在构建多模态生物学世界模型，通过整合不同尺度和模态的生物学见解，帮助科学家在直觉难以覆盖的广阔空间中进行计算搜索，并在实验前优先排序假设。实验结果为研究人员提供重要反馈，以优化未来研究方向。Quine由微软研究院开发，旨在打破生物学研究的孤立状态。",
+        "en": "Quine is an AI research system developed by Microsoft Research to model the complexity of biology. It creates a multimodal world model by integrating insights across different biological scales and modalities. Quine enables scientists to computationally search vast hypothesis spaces and prioritize research before experimentation. Experimental feedback is used to refine future research directions, enhancing the efficiency of biological studies. The system aims to bridge gaps in biological understanding by connecting diverse data types."
+      },
+      "summary": "Quine是一款专为生物学复杂性设计的AI研究系统。该系统旨在构建多模态生物学世界模型，通过整合不同尺度和模态的生物学见解，帮助科学家在直觉难以覆盖的广阔空间中进行计算搜索，并在实验前优先排序假设。实验结果为研究人员提供重要反馈，以优化未来研究方向。Quine由微软研究院开发，旨在打破生物学研究的孤立状态。"
+    },
+    {
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "pubDate": "Mon, 28 Sep 2026 21:00:00 +0000",
+      "isoDate": "2026-09-28T21:00:00.000Z",
+      "content": "<p>Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/\">One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.\nThe post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research.",
+      "creator": "Microsoft Research Team",
+      "summaries": {
+        "zh": "微软亚洲研究院新加坡实验室成立一年来，已奠定坚实基础，深化了政府、学界和产业界的合作，并探索了前沿人工智能研究如何创造实际价值。",
+        "en": "Microsoft Research Asia—Singapore, launched a year ago, has built a strong foundation, strengthened partnerships with government, academia, and industry, and investigated how cutting-edge AI research can deliver practical value. The lab continues to advance research, foster talent, and drive real-world impact through collaboration."
+      },
+      "summary": "微软亚洲研究院新加坡实验室成立一年来，已奠定坚实基础，深化了政府、学界和产业界的合作，并探索了前沿人工智能研究如何创造实际价值。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:49:09.584Z"
+}
