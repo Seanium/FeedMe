@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Google Fitbit Edge: On shelves now",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "pubDate": "Fri, 30 Oct 2026 20:15:00 +0000",
+      "isoDate": "2026-10-30T20:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp\">Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "contentSnippet": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Fitbit Edge已正式上架销售。这款新设备配备明亮的大显示屏和物理侧键，便于操控。用户可即刻升级健身追踪器。",
+        "en": "The new Google Fitbit Edge is now available for purchase. It features a bright, large display and physical side buttons for user-friendly control. The device is designed to enhance the fitness tracking experience."
+      },
+      "summary": "谷歌Fitbit Edge已正式上架销售。这款新设备配备明亮的大显示屏和物理侧键，便于操控。用户可即刻升级健身追踪器。"
+    },
+    {
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-30T17:00:00.000Z",
+      "content": "<img src=\"https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp\">This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "contentSnippet": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本周，Project Suncatcher原型卫星成功实现了“你好世界”里程碑，首次从轨道上的数据中心级TPU接收到了AI响应。",
+        "en": "The Project Suncatcher prototype satellite has achieved its \"Hello World\" milestone by sending the first AI response from a data center-class TPU in orbit. This marks a significant step in the project's development."
+      },
+      "summary": "本周，Project Suncatcher原型卫星成功实现了“你好世界”里程碑，首次从轨道上的数据中心级TPU接收到了AI响应。"
+    },
+    {
+      "title": "See who has access to your Gmail inbox in 2 minutes.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "pubDate": "Fri, 30 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp\">Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "contentSnippet": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过快速运行Google安全检查，可在2分钟内查看谁有权访问您的Gmail邮箱，并可通过三个简单步骤保护您的邮箱安全。",
+        "en": "To see who has access to your Gmail inbox, use the Google Security Checkup. This tool allows you to check permissions and protect your account in three simple steps."
+      },
+      "summary": "通过快速运行Google安全检查，可在2分钟内查看谁有权访问您的Gmail邮箱，并可通过三个简单步骤保护您的邮箱安全。"
+    },
+    {
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "pubDate": "Thu, 29 Oct 2026 16:15:00 +0000",
+      "isoDate": "2026-10-29T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp\">Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+      "contentSnippet": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini 现可直接生成、预览和编辑文档、PDF、演示文稿、电子表格等。新增全屏编辑器，方便用户优化文件。",
+        "en": "Gemini now allows users to generate, preview, and edit documents, PDFs, presentations, and spreadsheets directly within the platform. The new full-screen editor enables users to refine their files efficiently. The update introduces enhanced capabilities for document management in Gemini."
+      },
+      "summary": "Gemini 现可直接生成、预览和编辑文档、PDF、演示文稿、电子表格等。新增全屏编辑器，方便用户优化文件。"
+    },
+    {
+      "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp\">Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+      "contentSnippet": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "John Tribbia"
+        ],
+        "title": [
+          "Senior Staff Data Scientist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "科罗拉多州学生在谷歌举办的 Colorado Impact Hackathon 中，开发出 AI 工具 SolarSnap 等，旨在通过技术创新提升电网现代化水平。",
+        "en": "Colorado students participated in a Google Impact Hackathon, developing AI tools such as SolarSnap to modernize the energy grid. The event showcased innovative solutions to grid challenges."
+      },
+      "summary": "科罗拉多州学生在谷歌举办的 Colorado Impact Hackathon 中，开发出 AI 工具 SolarSnap 等，旨在通过技术创新提升电网现代化水平。"
+    },
+    {
+      "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp\">Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+      "contentSnippet": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Priya Venkatraman"
+        ],
+        "title": [
+          "Software Engineer"
+        ],
+        "department": [
+          "Gemini Notebook"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Gemini Notebook整合了OpenStax和S Chand等平台的大量教材，帮助学生更高效学习。用户可添加教材生成个性化学习指南和测验。平台提供丰富的教材目录供选择。",
+        "en": "The Gemini Notebook integrates OpenStax and S Chand textbooks, offering students access to hundreds of resources for enhanced learning. Users can add these textbooks to the platform and generate custom study guides and quizzes. The available catalog provides a comprehensive selection for academic support."
+      },
+      "summary": "谷歌Gemini Notebook整合了OpenStax和S Chand等平台的大量教材，帮助学生更高效学习。用户可添加教材生成个性化学习指南和测验。平台提供丰富的教材目录供选择。"
+    },
+    {
+      "title": "Celebrate Halloween with these tricks in Google Photos.",
+      "link": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp\">Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today.",
+      "contentSnippet": "Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌照片应用推出多项功能，助你庆祝万圣节。通过“照片问询”功能查找过去的服装照片，并编辑恐怖背景，完善你的万圣节快照。",
+        "en": "Google Photos offers Halloween features like Ask Photos to find past costumes and edit spooky backgrounds. These tricks help enhance Halloween photos."
+      },
+      "summary": "谷歌照片应用推出多项功能，助你庆祝万圣节。通过“照片问询”功能查找过去的服装照片，并编辑恐怖背景，完善你的万圣节快照。"
+    },
+    {
+      "title": "Equipping healthcare professionals with practical AI skills",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-29T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp\">Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+      "contentSnippet": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Dr. Michael Howell"
+        ],
+        "title": [
+          "Chief Health Officer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌新推出的“面向医疗保健专业人士的AI证书”由谷歌临床医生打造，旨在帮助医疗保健专业人士优先处理患者。该证书提供实用AI技能培训，提升医疗服务效率和质量。",
+        "en": "The Google AI for Healthcare Professionals Certificate, developed by clinicians at Google, equips healthcare professionals with practical AI skills. The program aims to enhance their ability to prioritize patients effectively using AI technology."
+      },
+      "summary": "谷歌新推出的“面向医疗保健专业人士的AI证书”由谷歌临床医生打造，旨在帮助医疗保健专业人士优先处理患者。该证书提供实用AI技能培训，提升医疗服务效率和质量。"
+    },
+    {
+      "title": "How to use Gemini to update your resume",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+      "pubDate": "Thu, 29 Oct 2026 11:33:00 +0000",
+      "isoDate": "2026-10-29T11:33:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp\">Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+      "contentSnippet": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kimberly Fusaro"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "使用Gemini将原始笔记转化为高影响力的ATS兼容简历要点。遵循四个步骤优化您的专业资料。获取详细信息。",
+        "en": "To update your resume using Gemini, transform raw notes into ATS-friendly bullet points. Follow four steps to refine your professional profile effectively."
+      },
+      "summary": "使用Gemini将原始笔记转化为高影响力的ATS兼容简历要点。遵循四个步骤优化您的专业资料。获取详细信息。"
+    },
+    {
+      "title": "How Gemini is helping students and teachers in the classroom",
+      "link": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0000",
+      "isoDate": "2026-10-29T09:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp\">New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+      "contentSnippet": "New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kevin McKee"
+        ],
+        "title": [
+          "Evaluations Lead, AI for Edu, Google DeepMind"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "英国和意大利的新研究表明，Gemini能提升学生学习效果，并帮助教师促进课堂主动学习。",
+        "en": "New studies from the UK and Italy indicate that Gemini enhances student learning and assists teachers in promoting active classroom engagement."
+      },
+      "summary": "英国和意大利的新研究表明，Gemini能提升学生学习效果，并帮助教师促进课堂主动学习。"
+    },
+    {
+      "title": "Partnering with Singapore to bring frontier AI to public health",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "pubDate": "Thu, 29 Oct 2026 03:30:00 +0000",
+      "isoDate": "2026-10-29T03:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp\">Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+      "contentSnippet": "Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben King"
+        ],
+        "title": [
+          "Country Managing Director"
+        ],
+        "department": [
+          "Google Singapore"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌宣布与新加坡合作，设立新研究中心并推出多项举措，旨在支持临床医生、推进医学研究，帮助新加坡居民改善健康状况。此举将促进前沿人工智能在公共卫生领域的应用，提升医疗服务水平。",
+        "en": "Google has launched a new research hub in Singapore to collaborate on frontier AI applications in public health. The initiative aims to support clinicians, advance research, and improve health outcomes for Singaporeans. The partnership focuses on leveraging AI to enhance healthcare solutions and promote healthier living."
+      },
+      "summary": "谷歌宣布与新加坡合作，设立新研究中心并推出多项举措，旨在支持临床医生、推进医学研究，帮助新加坡居民改善健康状况。此举将促进前沿人工智能在公共卫生领域的应用，提升医疗服务水平。"
+    },
+    {
+      "title": "Ads in AI Mode expand to new markets.",
+      "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "pubDate": "Wed, 28 Oct 2026 21:30:00 +0000",
+      "isoDate": "2026-10-28T21:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp\">Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+      "contentSnippet": "Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shashi Thakur"
+        ],
+        "title": [
+          "VP and GM, Google Search Ads and Ads on Google Experiences"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌将AI模式广告扩展至加拿大和印度等10个新市场。这些相关的推广结果旨在提升用户的搜索体验。",
+        "en": "Google has expanded its AI Mode ads to 10 new countries, including Canada and India. These ads provide relevant sponsored results to enhance the search experience."
+      },
+      "summary": "谷歌将AI模式广告扩展至加拿大和印度等10个新市场。这些相关的推广结果旨在提升用户的搜索体验。"
+    },
+    {
+      "title": "Q3 2026 earnings call: Remarks from our CEO",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "pubDate": "Wed, 28 Oct 2026 21:05:00 +0000",
+      "isoDate": "2026-10-28T21:05:00.000Z",
+      "content": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+      "contentSnippet": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sundar Pichai"
+        ],
+        "title": [
+          "CEO of Google and Alphabet"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年第三季度财报电话会议：谷歌CEO Sundar Pichai发言摘要。会议内容涉及Pichai的讲话，但具体细节未提供。",
+        "en": "The article title indicates an earnings call for Alphabet in Q3 2026, featuring remarks from CEO Sundar Pichai. The content summary is limited to confirming the event and Pichai's participation, as no specific details from his remarks are provided."
+      },
+      "summary": "2026年第三季度财报电话会议：谷歌CEO Sundar Pichai发言摘要。会议内容涉及Pichai的讲话，但具体细节未提供。"
+    },
+    {
+      "title": "Adapt your ad strategy to meet the way people search today.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+      "pubDate": "Wed, 28 Oct 2026 19:00:00 +0000",
+      "isoDate": "2026-10-28T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp\">Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.",
+      "contentSnippet": "Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌广告解码播客介绍了如何利用最新消费者搜索数据，制定更智能的营销策略。播客内容旨在帮助广告商适应当今人们搜索方式的变化，通过数据分析优化广告策略。",
+        "en": "The \"Google's Ads Decoded\" podcast provides insights on adapting ad strategies to current consumer search behaviors. It uses the latest data to help marketers make smarter decisions, aligning advertising with how people search today."
+      },
+      "summary": "谷歌广告解码播客介绍了如何利用最新消费者搜索数据，制定更智能的营销策略。播客内容旨在帮助广告商适应当今人们搜索方式的变化，通过数据分析优化广告策略。"
+    },
+    {
+      "title": "Dive into new topics with immersive explorations in the Gemini app.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+      "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-28T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp\">Today, we are rolling out immersive explorations in the new Gemini student hub.",
+      "contentSnippet": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini应用推出沉浸式探索功能，为学生中心带来全新体验。",
+        "en": "The Gemini app is introducing immersive explorations in its new student hub. This feature allows users to engage deeply with new topics through interactive experiences. The update enhances learning by providing immersive content within the hub."
+      },
+      "summary": "Gemini应用推出沉浸式探索功能，为学生中心带来全新体验。"
+    },
+    {
+      "title": "Build and manage Connected Apps in one place",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp\">We’re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
+      "contentSnippet": "We’re announcing new connected apps partners and a new platform for developers to build and track their apps in one place.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chips Mistry"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们宣布将新增连接应用合作伙伴，并推出一个新平台，供开发者统一构建和跟踪其应用。",
+        "en": "The article announces new connected apps partners and introduces a new platform for developers. This platform allows them to build and track their apps in a unified location. The update aims to streamline app development and management for developers through enhanced integration and oversight."
+      },
+      "summary": "我们宣布将新增连接应用合作伙伴，并推出一个新平台，供开发者统一构建和跟踪其应用。"
+    },
+    {
+      "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp\">XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.",
+      "contentSnippet": "XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shahram Izadi"
+        ],
+        "title": [
+          "VP & GM"
+        ],
+        "department": [
+          "XR"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "XREAL AURA是一款基于Android XR驱动的有线VR眼镜，支持工作、观影和游戏。它配备Gemini助手，可在任何地点使用，提供便捷的多功能体验。",
+        "en": "The XREAL AURA are the first wired XR glasses powered by Android XR, designed for working, watching, and playing. They feature Gemini, enabling users to perform various tasks anywhere."
+      },
+      "summary": "XREAL AURA是一款基于Android XR驱动的有线VR眼镜，支持工作、观影和游戏。它配备Gemini助手，可在任何地点使用，提供便捷的多功能体验。"
+    },
+    {
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp\">Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "contentSnippet": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 4 Carbon是公司最强的模型，具备最先进的网络安全和长时程能力。",
+        "en": "Gemini 4 Carbon is the company's next-generation model, positioned as its most powerful. It features advanced cybersecurity measures and extended operational capabilities. The summary highlights its strength, cutting-edge security, and long-term performance."
+      },
+      "summary": "Gemini 4 Carbon是公司最强的模型，具备最先进的网络安全和长时程能力。"
+    },
+    {
+      "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+      "link": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp\">Chrome now pulls flight bookings and order numbers from Gmail to autofill forms. See how Gemini in Chrome simplifies your data entry today.",
+      "contentSnippet": "Chrome now pulls flight bookings and order numbers from Gmail to autofill forms. See how Gemini in Chrome simplifies your data entry today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amanda Lim"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Chrome"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌增强的自动填充功能现在可以从Gmail中提取航班预订和订单号，帮助用户填写表单。Gemini在Chrome中简化了数据输入过程。",
+        "en": "Chrome’s enhanced autofill now uses Gmail data to fill forms, including flight bookings and order numbers. The feature leverages Gemini in Chrome to simplify data entry. This update streamlines form completion by automatically extracting relevant information from Gmail."
+      },
+      "summary": "谷歌增强的自动填充功能现在可以从Gmail中提取航班预订和订单号，帮助用户填写表单。Gemini在Chrome中简化了数据输入过程。"
+    },
+    {
+      "title": "Indie Games Fund in Africa: Meet the selected studios",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
+      "pubDate": "Wed, 28 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-28T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IGFund_Blogger-Header-Africa-27.max-600x600.format-webp.webp\">Google Play selects 10 African indie studios for the 2026 Indie Games Fund, awarding $1M and mentorship to scale local talent globally.",
+      "contentSnippet": "Google Play selects 10 African indie studios for the 2026 Indie Games Fund, awarding $1M and mentorship to scale local talent globally.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nicola Julius"
+        ],
+        "title": [
+          "Head of Ecosystem and Core Partnerships EMEA"
+        ],
+        "department": [
+          "Google Play"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Play为非洲10家独立游戏工作室遴选入围2026年独立游戏基金，提供100万美元奖金及导师指导，旨在全球推广本土人才。",
+        "en": "Google Play has selected 10 African indie game studios for the 2026 Indie Games Fund. The initiative awards $1 million and mentorship to help scale local talent globally. The chosen studios will receive support to develop and distribute their games internationally. This program aims to foster growth in the African gaming industry by providing resources and global exposure. The fund highlights Google Play's commitment to empowering emerging developers on the continent."
+      },
+      "summary": "谷歌Play为非洲10家独立游戏工作室遴选入围2026年独立游戏基金，提供100万美元奖金及导师指导，旨在全球推广本土人才。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:45:07.384Z"
+}

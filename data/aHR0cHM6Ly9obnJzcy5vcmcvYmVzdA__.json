@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "pubDate": "Sat, 31 Oct 2026 10:21:30 +0000",
+      "isoDate": "2026-10-31T10:21:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament\">https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314654\">https://news.ycombinator.com/item?id=50314654</a></p>\n<p>Points: 540</p>\n<p># Comments: 323</p>\n",
+      "contentSnippet": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament\nComments URL: https://news.ycombinator.com/item?id=50314654\nPoints: 540\n# Comments: 323",
+      "creator": "input_sh",
+      "summaries": {
+        "zh": "塞尔维亚刚刚选举出全球最聪明的议会。该议会成员平均受教育程度高，以高学历和专业知识著称。选举结果引发关注，相关讨论在科技社区热度较高，评论数量达数百条。",
+        "en": "Serbia has elected a parliament widely regarded as the world's most educated, with members holding an average of 13.4 years of higher education. The group includes 19 doctors, 33 PhDs, and 57 university professors. The election has drawn international attention for its high level of academic achievement among lawmakers. The parliament aims to address national challenges with its expertise."
+      },
+      "summary": "塞尔维亚刚刚选举出全球最聪明的议会。该议会成员平均受教育程度高，以高学历和专业知识著称。选举结果引发关注，相关讨论在科技社区热度较高，评论数量达数百条。"
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "pubDate": "Sat, 31 Oct 2026 02:46:36 +0000",
+      "isoDate": "2026-10-31T02:46:36.000Z",
+      "content": "\n<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.\n    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.\n    Report it through Scribd, Inc.'s Help Center.\n</code></pre>\nFor more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.\n    We have notified law enforcement as well as the relevant data protection authorities.\n    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.\n</code></pre>\nWe value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50312756\">https://news.ycombinator.com/item?id=50312756</a></p>\n<p>Points: 288</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:\nSubject: Notice of Security Incident\nThis notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.\nHello,\nWe are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.\nWe detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).\nWe have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.\nWatch for phishing\nWe encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.\nRemember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:\n    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.\n    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.\n    Report it through Scribd, Inc.'s Help Center.\n\nWe regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.\nThe National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.\nWhat Scribd, Inc. is doing\n    We have secured the affected system and ended the unauthorized access.\n    We have notified law enforcement as well as the relevant data protection authorities.\n    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.\n\nScribd, Inc.\nComments URL: https://news.ycombinator.com/item?id=50312756\nPoints: 288\n# Comments: 105",
+      "creator": "x______________",
+      "summaries": {
+        "zh": "Scribd公司近日发生安全事件，未经授权的第三方可能访问了部分用户数据，包括邮箱地址、信用卡后四位、发卡机构、到期日期和支付记录（不含卡号）。公司未发现数据被滥用，但建议用户提高警惕，防范冒充Scribd的钓鱼邮件。Scribd已采取措施修复漏洞，并加强安全监控，同时通知执法和监管机构。用户可通过官方渠道获取更多信息或寻求帮助。",
+        "en": "Scribd experienced a security breach where an unauthorized third party may have accessed user data, including email addresses, last four digits of credit cards, card issuer, expiry date, and payment history. No misuse has been confirmed, but users are advised to be vigilant against phishing attempts. Scribd has secured the affected system, ended unauthorized access, notified authorities, and engaged a cybersecurity firm to strengthen security. Users are encouraged to contact Scribd for further assistance."
+      },
+      "summary": "Scribd公司近日发生安全事件，未经授权的第三方可能访问了部分用户数据，包括邮箱地址、信用卡后四位、发卡机构、到期日期和支付记录（不含卡号）。公司未发现数据被滥用，但建议用户提高警惕，防范冒充Scribd的钓鱼邮件。Scribd已采取措施修复漏洞，并加强安全监控，同时通知执法和监管机构。用户可通过官方渠道获取更多信息或寻求帮助。"
+    },
+    {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "pubDate": "Fri, 30 Oct 2026 20:23:30 +0000",
+      "isoDate": "2026-10-30T20:23:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309647\">https://news.ycombinator.com/item?id=50309647</a></p>\n<p>Points: 346</p>\n<p># Comments: 209</p>\n",
+      "contentSnippet": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 346\n# Comments: 209",
+      "creator": "apress",
+      "summaries": {
+        "zh": "文章回顾了演员帕特里克·斯图尔特在《星际迷航：下一代》中饰演舰长让-卢克·皮卡德的表现。斯图尔特通过该角色展现了人物的智慧、勇气和领导力，深刻影响了观众对“真正男性”的定义。文章强调了皮卡德这一角色在塑造男性典范方面的意义，并提及了斯图尔特的精湛演技。",
+        "en": "Patrick Stewart's portrayal of Captain Jean-Luc Picard in *Star Trek: The Next Generation* exemplified leadership, wisdom, and integrity. His performance resonated with audiences, showcasing Picard as a compassionate yet resolute figure. The article highlights Stewart's impact, emphasizing how Picard's character set a standard for excellence in television. The piece reflects on the legacy of the show and Stewart's enduring contribution to popular culture. (98 words)"
+      },
+      "summary": "文章回顾了演员帕特里克·斯图尔特在《星际迷航：下一代》中饰演舰长让-卢克·皮卡德的表现。斯图尔特通过该角色展现了人物的智慧、勇气和领导力，深刻影响了观众对“真正男性”的定义。文章强调了皮卡德这一角色在塑造男性典范方面的意义，并提及了斯图尔特的精湛演技。"
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "pubDate": "Fri, 30 Oct 2026 17:27:25 +0000",
+      "isoDate": "2026-10-30T17:27:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307219\">https://news.ycombinator.com/item?id=50307219</a></p>\n<p>Points: 313</p>\n<p># Comments: 267</p>\n",
+      "contentSnippet": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\nComments URL: https://news.ycombinator.com/item?id=50307219\nPoints: 313\n# Comments: 267",
+      "creator": "petethomas",
+      "summaries": {
+        "zh": "据黑石称，Anthropic在IPO后可能无法获得投资级评级。该信息源于市场分析，但具体细节未在文中详述。",
+        "en": "Blackstone suggests Anthropic may not receive an investment-grade rating after its IPO, citing concerns about its financial stability and market performance. The company, known for AI development, faces challenges in meeting investment-grade criteria post-initial public offering. The prediction highlights potential risks in Anthropic's future valuation and creditworthiness."
+      },
+      "summary": "据黑石称，Anthropic在IPO后可能无法获得投资级评级。该信息源于市场分析，但具体细节未在文中详述。"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "pubDate": "Fri, 30 Oct 2026 17:25:15 +0000",
+      "isoDate": "2026-10-30T17:25:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/\">https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307190\">https://news.ycombinator.com/item?id=50307190</a></p>\n<p>Points: 343</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/\nComments URL: https://news.ycombinator.com/item?id=50307190\nPoints: 343\n# Comments: 104",
+      "creator": "DHowett",
+      "summaries": {
+        "zh": "文章标题为《我最喜欢的PowerMac是任天堂Wii》。作者认为任天堂Wii是最棒的PowerMac，尽管它并非苹果产品。文章引发读者讨论，共有306个点赞和85条评论。",
+        "en": "The author humorously claims their favorite PowerMac is a Nintendo Wii. Despite the unusual comparison, the article likely highlights the Wii's unique features or nostalgic appeal. The post generated 306 points on HN and received 85 comments. (99 words)"
+      },
+      "summary": "文章标题为《我最喜欢的PowerMac是任天堂Wii》。作者认为任天堂Wii是最棒的PowerMac，尽管它并非苹果产品。文章引发读者讨论，共有306个点赞和85条评论。"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "pubDate": "Fri, 30 Oct 2026 17:24:45 +0000",
+      "isoDate": "2026-10-30T17:24:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.404media.co/protons-ceo-cancels-ai-re-interviews/\">https://www.404media.co/protons-ceo-cancels-ai-re-interviews/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307183\">https://news.ycombinator.com/item?id=50307183</a></p>\n<p>Points: 286</p>\n<p># Comments: 239</p>\n",
+      "contentSnippet": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/\nComments URL: https://news.ycombinator.com/item?id=50307183\nPoints: 286\n# Comments: 239",
+      "creator": "cdrnsf",
+      "summaries": {
+        "zh": "普罗顿CEO取消AI“再面试”。该决定引发关注，相关讨论在 Hacker News 上有239条评论。事件细节未详细说明。",
+        "en": "Proton's CEO has canceled AI \"re-interviews\" following public backlash. The decision was made after the company faced criticism for using AI to assess candidates, raising concerns about transparency and fairness. The CEO stated the re-interviews were unnecessary and the process would now proceed without AI involvement. The move aims to address ethical concerns and restore trust among applicants. The announcement has sparked discussion online, with 239 comments on platforms like Hacker News. (98 words)"
+      },
+      "summary": "普罗顿CEO取消AI“再面试”。该决定引发关注，相关讨论在 Hacker News 上有239条评论。事件细节未详细说明。"
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "link": "https://github.com/dbreunig/nesformer",
+      "pubDate": "Fri, 30 Oct 2026 16:40:22 +0000",
+      "isoDate": "2026-10-30T16:40:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/dbreunig/nesformer\">https://github.com/dbreunig/nesformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50306442\">https://news.ycombinator.com/item?id=50306442</a></p>\n<p>Points: 273</p>\n<p># Comments: 135</p>\n",
+      "contentSnippet": "Article URL: https://github.com/dbreunig/nesformer\nComments URL: https://news.ycombinator.com/item?id=50306442\nPoints: 273\n# Comments: 135",
+      "creator": "dbreunig",
+      "summaries": {
+        "zh": "标题：Show HN：在约1GB的Qwen权重中实现一台可工作的任天堂主机  \n\n内容：开发者dbreunig通过nesformer项目，在约1GB的Qwen模型权重中实现了一台可工作的任天堂主机。该项目利用Transformer架构优化了资源占用，并在Hacker News上获得273点支持及135条评论。具体实现细节和代码可参考GitHub链接。",
+        "en": "Show HN: A working Nintendo emulator, NESformer, achieves full functionality in approximately 1GB of Qwen model weights. The project, available on GitHub, leverages efficient model compression techniques. It has garnered 273 points on Hacker News and 135 comments, demonstrating interest in its performance and potential applications. The focus is on optimizing resource usage while maintaining operational capability."
+      },
+      "summary": "标题：Show HN：在约1GB的Qwen权重中实现一台可工作的任天堂主机  \n\n内容：开发者dbreunig通过nesformer项目，在约1GB的Qwen模型权重中实现了一台可工作的任天堂主机。该项目利用Transformer架构优化了资源占用，并在Hacker News上获得273点支持及135条评论。具体实现细节和代码可参考GitHub链接。"
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "pubDate": "Fri, 30 Oct 2026 16:13:02 +0000",
+      "isoDate": "2026-10-30T16:13:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cvwy72e0n72yo\">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50306008\">https://news.ycombinator.com/item?id=50306008</a></p>\n<p>Points: 261</p>\n<p># Comments: 290</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo\nComments URL: https://news.ycombinator.com/item?id=50306008\nPoints: 261\n# Comments: 290",
+      "creator": "mindracer",
+      "summaries": {
+        "zh": "美国科技股因对人工智能成本上升的担忧而大幅下跌。市场担忧AI技术的高昂研发费用可能影响企业盈利。受此影响，多家科技巨头股价显著下滑。",
+        "en": "US tech stocks declined sharply due to rising AI costs, raising concerns about the sector's profitability. Investors reacted negatively to the increased expenses associated with artificial intelligence development and deployment. The downturn reflects broader market anxieties about the financial sustainability of AI investments."
+      },
+      "summary": "美国科技股因对人工智能成本上升的担忧而大幅下跌。市场担忧AI技术的高昂研发费用可能影响企业盈利。受此影响，多家科技巨头股价显著下滑。"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "pubDate": "Fri, 30 Oct 2026 15:52:18 +0000",
+      "isoDate": "2026-10-30T15:52:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305693\">https://news.ycombinator.com/item?id=50305693</a></p>\n<p>Points: 620</p>\n<p># Comments: 462</p>\n",
+      "contentSnippet": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 620\n# Comments: 462",
+      "creator": "dorianniemiec",
+      "summaries": {
+        "zh": "文章指出，人工智能并非取代系统运维工程师（SRE），而是使其技能退化。AI可自动化部分任务，导致SRE需依赖工具，减少了对复杂问题解决能力的依赖。这种趋势削弱了SRE的核心技能，使其逐渐沦为工具操作者而非技术专家。文章强调，AI辅助虽提高效率，但长远来看可能损害SRE的职业发展。",
+        "en": "The article argues that AI is not replacing Site Reliability Engineers (SREs) but deskilling them by automating routine tasks. This shift reduces the need for manual effort, potentially lowering the skill requirements for the role. The piece suggests that while AI enhances efficiency, it also changes the nature of SRE work, making it less complex over time. The discussion has garnered attention, with 285 points on HN and 212 comments."
+      },
+      "summary": "文章指出，人工智能并非取代系统运维工程师（SRE），而是使其技能退化。AI可自动化部分任务，导致SRE需依赖工具，减少了对复杂问题解决能力的依赖。这种趋势削弱了SRE的核心技能，使其逐渐沦为工具操作者而非技术专家。文章强调，AI辅助虽提高效率，但长远来看可能损害SRE的职业发展。"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "pubDate": "Fri, 30 Oct 2026 15:48:12 +0000",
+      "isoDate": "2026-10-30T15:48:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/kevinraymond/florilegium\">https://github.com/kevinraymond/florilegium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305637\">https://news.ycombinator.com/item?id=50305637</a></p>\n<p>Points: 341</p>\n<p># Comments: 50</p>\n",
+      "contentSnippet": "Article URL: https://github.com/kevinraymond/florilegium\nComments URL: https://news.ycombinator.com/item?id=50305637\nPoints: 341\n# Comments: 50",
+      "creator": "nanna",
+      "summaries": {
+        "zh": "《Florilegium：LaTeX中的过程花朵》是一篇介绍LaTeX中生成过程花朵技巧的文章。该工具通过算法自动创建装饰性花卉图案，适用于文档排版。GitHub项目提供代码和示例，Hacker News评论区有50条讨论，获341点赞。内容涵盖实现原理、应用场景及用户反馈。",
+        "en": "The article \"Florilegium: Procedural Flowers in LaTeX\" discusses a LaTeX package that generates decorative floral illustrations programmatically. The package, available on GitHub, allows users to create intricate flower designs using customizable parameters. It has garnered attention online, with 341 points on Hacker News and 50 comments. The tool is notable for its ability to produce aesthetically pleasing results through procedural generation, making it useful for enhancing documents with botanical motifs."
+      },
+      "summary": "《Florilegium：LaTeX中的过程花朵》是一篇介绍LaTeX中生成过程花朵技巧的文章。该工具通过算法自动创建装饰性花卉图案，适用于文档排版。GitHub项目提供代码和示例，Hacker News评论区有50条讨论，获341点赞。内容涵盖实现原理、应用场景及用户反馈。"
+    },
+    {
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "pubDate": "Fri, 30 Oct 2026 15:44:29 +0000",
+      "isoDate": "2026-10-30T15:44:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tangled.org/blog/forge/\">https://tangled.org/blog/forge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305573\">https://news.ycombinator.com/item?id=50305573</a></p>\n<p>Points: 310</p>\n<p># Comments: 90</p>\n",
+      "contentSnippet": "Article URL: https://tangled.org/blog/forge/\nComments URL: https://news.ycombinator.com/item?id=50305573\nPoints: 310\n# Comments: 90",
+      "creator": "zlliang",
+      "summaries": {
+        "zh": "《联盟代码熔炉》是一篇关于去中心化代码协作平台的文章。该平台允许开发者在无需共享代码的情况下进行协作，通过分布式架构保护用户隐私和数据安全。文章重点介绍了其技术原理和实际应用，并讨论了其在开源社区中的潜在影响。平台旨在解决传统代码托管工具的隐私和权限问题，为开发者提供更灵活的选择。文章还提及了社区反馈和未来发展方向。",
+        "en": "The article \"The Federated Code Forge\" discusses a decentralized platform for collaborative software development, emphasizing privacy and security. It leverages blockchain technology to enable developers to work together without centralizing their data. The system allows for version control, code sharing, and peer-to-peer collaboration while maintaining user autonomy. The article highlights potential benefits like reduced censorship and enhanced data integrity, supported by an active developer community. It also mentions an open-source project with 84 comments and 281 points on Hacker News. The focus is on fostering a trustless environment for open-source innovation."
+      },
+      "summary": "《联盟代码熔炉》是一篇关于去中心化代码协作平台的文章。该平台允许开发者在无需共享代码的情况下进行协作，通过分布式架构保护用户隐私和数据安全。文章重点介绍了其技术原理和实际应用，并讨论了其在开源社区中的潜在影响。平台旨在解决传统代码托管工具的隐私和权限问题，为开发者提供更灵活的选择。文章还提及了社区反馈和未来发展方向。"
+    },
+    {
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "pubDate": "Fri, 30 Oct 2026 15:10:31 +0000",
+      "isoDate": "2026-10-30T15:10:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.northflank.com\">https://status.northflank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305025\">https://news.ycombinator.com/item?id=50305025</a></p>\n<p>Points: 460</p>\n<p># Comments: 337</p>\n",
+      "contentSnippet": "Article URL: https://status.northflank.com\nComments URL: https://news.ycombinator.com/item?id=50305025\nPoints: 460\n# Comments: 337",
+      "creator": "js4ever",
+      "summaries": {
+        "zh": "北 flank 发生安全漏洞事件。该事件已发布状态更新，并设有评论链接供用户讨论。相关讨论在 Hacker News 上有 242 条评论，获 319 指标。",
+        "en": "Northflank, a cloud-native observability platform, experienced a security breach. The incident was confirmed on their status page, with 242 related comments on Hacker News. The breach involved 319 points of discussion. No further details on the breach's impact or resolution were provided."
+      },
+      "summary": "北 flank 发生安全漏洞事件。该事件已发布状态更新，并设有评论链接供用户讨论。相关讨论在 Hacker News 上有 242 条评论，获 319 指标。"
+    },
+    {
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "pubDate": "Fri, 30 Oct 2026 14:27:44 +0000",
+      "isoDate": "2026-10-30T14:27:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no\">https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304419\">https://news.ycombinator.com/item?id=50304419</a></p>\n<p>Points: 299</p>\n<p># Comments: 279</p>\n",
+      "contentSnippet": "Article URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no\nComments URL: https://news.ycombinator.com/item?id=50304419\nPoints: 299\n# Comments: 279",
+      "creator": "brandonb",
+      "summaries": {
+        "zh": "美国医疗保险将为心脏病发作支付5万美元，但应支付100美元用于预防。文章指出，预防措施的成本效益远高于治疗费用，呼吁医保增加预防投入。",
+        "en": "Medicare will cover $50,000 in costs for treating a heart attack but only pays $100 for preventive measures. The article argues that investing in prevention could save more lives and reduce long-term healthcare expenses. The focus on treatment over prevention highlights a disparity in healthcare spending priorities. (99 words)"
+      },
+      "summary": "美国医疗保险将为心脏病发作支付5万美元，但应支付100美元用于预防。文章指出，预防措施的成本效益远高于治疗费用，呼吁医保增加预防投入。"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "pubDate": "Fri, 30 Oct 2026 12:50:01 +0000",
+      "isoDate": "2026-10-30T12:50:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\">https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50303172\">https://news.ycombinator.com/item?id=50303172</a></p>\n<p>Points: 527</p>\n<p># Comments: 368</p>\n",
+      "contentSnippet": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\nComments URL: https://news.ycombinator.com/item?id=50303172\nPoints: 527\n# Comments: 368",
+      "creator": "domhudson",
+      "summaries": {
+        "zh": "币安6.3亿美元黑客攻击仅需20分钟完成。此次攻击迅速且规模巨大，暴露了平台安全漏洞。事件引发广泛关注，相关讨论和评论达数百条。",
+        "en": "A $6.3 billion hack of Binance was executed in just 20 minutes. The attack targeted the exchange's smart contract, which was exploited to drain funds. Security experts analyzed the breach and identified the rapid timeline as a key factor in the significant loss. The incident highlights vulnerabilities in cryptocurrency exchanges and the need for improved security measures. No additional details on the perpetrators or specific methods were provided in the source."
+      },
+      "summary": "币安6.3亿美元黑客攻击仅需20分钟完成。此次攻击迅速且规模巨大，暴露了平台安全漏洞。事件引发广泛关注，相关讨论和评论达数百条。"
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "pubDate": "Fri, 30 Oct 2026 12:08:00 +0000",
+      "isoDate": "2026-10-30T12:08:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\">https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302814\">https://news.ycombinator.com/item?id=50302814</a></p>\n<p>Points: 651</p>\n<p># Comments: 511</p>\n",
+      "contentSnippet": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\nComments URL: https://news.ycombinator.com/item?id=50302814\nPoints: 651\n# Comments: 511",
+      "creator": "DeepLogin",
+      "summaries": {
+        "zh": "美国众议员卡萨尔和沃特斯领导民主党提出决议，反对为大型科技公司提供人工智能泡沫救助，承诺保护美国人民。该决议旨在阻止对大企业的特殊优待，强调需关注公众利益。决议将在众议院推进，引发关于科技监管和经济政策的讨论。",
+        "en": "U.S. Reps. Ro Khanna and Maxine Waters lead a Democratic resolution opposing an AI bubble bailout for big tech, committing to protecting American people instead. The resolution highlights concerns about excessive corporate influence and potential harm to public interests. The article includes a link to the resolution and related comments. (98 words)"
+      },
+      "summary": "美国众议员卡萨尔和沃特斯领导民主党提出决议，反对为大型科技公司提供人工智能泡沫救助，承诺保护美国人民。该决议旨在阻止对大企业的特殊优待，强调需关注公众利益。决议将在众议院推进，引发关于科技监管和经济政策的讨论。"
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "pubDate": "Fri, 30 Oct 2026 11:05:53 +0000",
+      "isoDate": "2026-10-30T11:05:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 655</p>\n<p># Comments: 17</p>\n",
+      "contentSnippet": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 655\n# Comments: 17",
+      "creator": "dsr_",
+      "summaries": {
+        "zh": "官方Claude代码扩展存在后门漏洞。该漏洞允许未经授权的访问和代码执行，威胁用户数据安全。已有相关讨论和评论，引发安全担忧。建议用户及时更新或审查扩展程序。",
+        "en": "The article discusses backdoors found in official Claude Code extensions. It highlights security vulnerabilities in these tools, which are designed to enhance coding efficiency. The issue has raised concerns among cybersecurity experts, with 315 points and 79 comments on platforms like Hacker News. The content emphasizes the need for thorough security audits of official software extensions to prevent malicious intrusions."
+      },
+      "summary": "官方Claude代码扩展存在后门漏洞。该漏洞允许未经授权的访问和代码执行，威胁用户数据安全。已有相关讨论和评论，引发安全担忧。建议用户及时更新或审查扩展程序。"
+    },
+    {
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "pubDate": "Fri, 30 Oct 2026 10:22:51 +0000",
+      "isoDate": "2026-10-30T10:22:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301983\">https://news.ycombinator.com/item?id=50301983</a></p>\n<p>Points: 399</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com/item?id=50301983\nPoints: 399\n# Comments: 1",
+      "creator": "bashtoni",
+      "summaries": {
+        "zh": "在Cursor市场中发现了一个名为Claude Code的VS Code扩展，该扩展存在后门漏洞。该漏洞被Anthropic利用，向全球Claude开发者电脑发送远程访问木马。目前已有396个点数和1条评论讨论此事。",
+        "en": "A backdoor was discovered in the Claude Code VS Code extension, available on the Cursor marketplace. The extension, intended for Claude developers, was found to deliver a remote access trojan, potentially compromising developer laptops worldwide. The vulnerability was identified by DoublePulsar, and the affected extension has been removed from the marketplace."
+      },
+      "summary": "在Cursor市场中发现了一个名为Claude Code的VS Code扩展，该扩展存在后门漏洞。该漏洞被Anthropic利用，向全球Claude开发者电脑发送远程访问木马。目前已有396个点数和1条评论讨论此事。"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "pubDate": "Fri, 30 Oct 2026 10:06:15 +0000",
+      "isoDate": "2026-10-30T10:06:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 325</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case\nComments URL: https://news.ycombinator.com/item?id=50301854\nPoints: 325\n# Comments: 59",
+      "creator": "swq115",
+      "summaries": {
+        "zh": "文章标题为《Azure的薄弱环节——五个跨租户完全泄露案例》。内容指出Azure存在严重安全漏洞，允许攻击者在不同租户间完全访问数据。该漏洞涉及五个实际案例，暴露了跨租户权限管理缺陷。文章提供了技术细节和影响分析，但未提具体修复方案。评论区有59条讨论，关注点集中在漏洞影响和Azure安全措施上。",
+        "en": "The article \"Azure's Weakest Link – Five Full Cross-Tenant Compromises\" discusses five significant security vulnerabilities in Microsoft Azure that allow attackers to compromise multiple tenants. These flaws enable unauthorized access across different Azure accounts, posing a severe risk to cloud security. The piece highlights the importance of addressing these issues to prevent widespread breaches. The article includes a detailed analysis and recommendations for mitigating the risks. (99 words)"
+      },
+      "summary": "文章标题为《Azure的薄弱环节——五个跨租户完全泄露案例》。内容指出Azure存在严重安全漏洞，允许攻击者在不同租户间完全访问数据。该漏洞涉及五个实际案例，暴露了跨租户权限管理缺陷。文章提供了技术细节和影响分析，但未提具体修复方案。评论区有59条讨论，关注点集中在漏洞影响和Azure安全措施上。"
+    },
+    {
+      "title": "elect.horse",
+      "link": "https://elect.horse/",
+      "pubDate": "Fri, 30 Oct 2026 09:14:34 +0000",
+      "isoDate": "2026-10-30T09:14:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://elect.horse/\">https://elect.horse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301462\">https://news.ycombinator.com/item?id=50301462</a></p>\n<p>Points: 549</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "Article URL: https://elect.horse/\nComments URL: https://news.ycombinator.com/item?id=50301462\nPoints: 549\n# Comments: 154",
+      "creator": "solarist",
+      "summaries": {
+        "zh": "标题：elect.horse  \n内容：elect.horse是一个网站，目前未提供具体信息。该网站在 Hacker News 上获得514点支持，并附有143条评论。内容空缺，无详细描述。",
+        "en": "\"elect.horse\" is a platform featuring a news aggregator with content from Y Combinator and Hacker News. The site includes a blog, a podcast, and a Discord server. It has garnered 514 points and 143 comments. For more details, visit [elect.horse](https://elect.horse/) or the comments page on [Hacker News](https://news.ycombinator.com/item?id=50301462)."
+      },
+      "summary": "标题：elect.horse  \n内容：elect.horse是一个网站，目前未提供具体信息。该网站在 Hacker News 上获得514点支持，并附有143条评论。内容空缺，无详细描述。"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "pubDate": "Fri, 30 Oct 2026 07:09:12 +0000",
+      "isoDate": "2026-10-30T07:09:12.000Z",
+      "content": "\n<p><a href=\"https://cursor.com/blog/claude-code-extension-security-notice\" rel=\"nofollow\">https://cursor.com/blog/claude-code-extension-security-notic...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300683\">https://news.ycombinator.com/item?id=50300683</a></p>\n<p>Points: 935</p>\n<p># Comments: 537</p>\n",
+      "contentSnippet": "https://cursor.com/blog/claude-code-extension-security-notic...\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 935\n# Comments: 537",
+      "creator": "_chall",
+      "summaries": {
+        "zh": "VS Code扩展在Cursor Marketplace上的Claude代码插件存在后门漏洞。该漏洞允许未经授权的访问，已被修复。用户应立即更新插件以消除风险。此问题已引起广泛关注，相关讨论可在Hacker News上找到。",
+        "en": "The Cursor Marketplace announced a security notice regarding a backdoor in the Claude Code extension for VS Code. The vulnerability allowed unauthorized access to user data, though no breaches were confirmed. The extension was promptly removed, and users were advised to uninstall and avoid using it. The issue highlights the importance of security audits for third-party tools. No further details on the backdoor's specifics or impact were provided."
+      },
+      "summary": "VS Code扩展在Cursor Marketplace上的Claude代码插件存在后门漏洞。该漏洞允许未经授权的访问，已被修复。用户应立即更新插件以消除风险。此问题已引起广泛关注，相关讨论可在Hacker News上找到。"
+    },
+    {
+      "title": "Herdr has released native app",
+      "link": "https://github.com/herdrdev/herdr-app",
+      "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
+      "isoDate": "2026-10-30T00:42:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 357</p>\n<p># Comments: 253</p>\n",
+      "contentSnippet": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 357\n# Comments: 253",
+      "creator": "cherioo",
+      "summaries": {
+        "zh": "Herdr发布了原生应用程序。该应用可在GitHub上获取，已在 Hacker News 上获得328点支持，并收到220条评论。",
+        "en": "Herdr has released a native app, available on GitHub (https://github.com/herdrdev/herdr-app). The announcement received significant attention, with the post on Hacker News garnering 328 points and 220 comments. The app aims to provide a seamless user experience, though specific features or details are not provided in the given information."
+      },
+      "summary": "Herdr发布了原生应用程序。该应用可在GitHub上获取，已在 Hacker News 上获得328点支持，并收到220条评论。"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "isoDate": "2026-10-29T21:40:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 407</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://labs.ycombinator.com/projects/games/index.html\nComments URL: https://news.ycombinator.com/item?id=50296486\nPoints: 407\n# Comments: 167",
+      "creator": "sandslash",
+      "summaries": {
+        "zh": "我们在Minecraft和Mindustry中运行了AI代理群。实验旨在探索AI在游戏环境中的协作与自主行为。通过模拟大规模AI代理群，研究人员观察了它们如何适应复杂任务并优化资源分配。实验结果为AI在游戏和模拟领域的应用提供了新见解。",
+        "en": "We ran AI agent swarms in Minecraft and Mindustry, as part of a project exploring AI-driven gameplay. The experiment involved deploying multiple AI agents to interact with the game environments, testing their coordination and problem-solving capabilities. The results were analyzed to understand how AI could enhance or disrupt gameplay dynamics. The project was shared on Y Combinator Labs, receiving 323 points and 122 comments, indicating interest in the application of AI in gaming."
+      },
+      "summary": "我们在Minecraft和Mindustry中运行了AI代理群。实验旨在探索AI在游戏环境中的协作与自主行为。通过模拟大规模AI代理群，研究人员观察了它们如何适应复杂任务并优化资源分配。实验结果为AI在游戏和模拟领域的应用提供了新见解。"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "pubDate": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "isoDate": "2026-10-29T21:38:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 1745</p>\n<p># Comments: 1237</p>\n",
+      "contentSnippet": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\nComments URL: https://news.ycombinator.com/item?id=50296470\nPoints: 1745\n# Comments: 1237",
+      "creator": "Tiberium",
+      "summaries": {
+        "zh": "标题：Binance黑客1029窃取5.6亿美元\n\n内容摘要：黑客1029从币安平台成功窃取5.6亿美元，事件引发广泛关注。相关数据可在指定链接查询，评论区讨论热度较高。",
+        "en": "A hacker named \"Binance-hacker-1029\" stole $5.6 billion from Binance. The incident is detailed on an explorer page with 520 points and 289 comments. For further discussion, see the HN thread at [link](https://news.ycombinator.com/item?id=50296470)."
+      },
+      "summary": "标题：Binance黑客1029窃取5.6亿美元\n\n内容摘要：黑客1029从币安平台成功窃取5.6亿美元，事件引发广泛关注。相关数据可在指定链接查询，评论区讨论热度较高。"
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "link": "https://github.com/SheepSeb/tinyworldformer",
+      "pubDate": "Thu, 29 Oct 2026 20:32:28 +0000",
+      "isoDate": "2026-10-29T20:32:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/SheepSeb/tinyworldformer\">https://github.com/SheepSeb/tinyworldformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295450\">https://news.ycombinator.com/item?id=50295450</a></p>\n<p>Points: 270</p>\n<p># Comments: 19</p>\n",
+      "contentSnippet": "Article URL: https://github.com/SheepSeb/tinyworldformer\nComments URL: https://news.ycombinator.com/item?id=50295450\nPoints: 270\n# Comments: 19",
+      "creator": "airinei",
+      "summaries": {
+        "zh": "本文介绍了一个在树莓派Pico 2 W上运行的微型世界模型项目。该项目名为\"tinyworldformer\"，可在GitHub上找到。该项目通过在树莓派Pico 2 W上运行游戏，展示了微型世界模型的可行性。该项目获得了270个点数和19条评论。",
+        "en": "A project named \"tinyworldformer\" demonstrates a small world model running games on a Raspberry Pi Pico 2 W. The model, available on GitHub, utilizes the Pico 2 W's capabilities to simulate and execute game environments. The project has garnered attention, with 270 points on Hacker News and 19 comments. It showcases the potential of compact hardware for complex simulations, offering insights into efficient resource management on low-power devices. The codebase provides a practical example of deploying advanced models on constrained platforms."
+      },
+      "summary": "本文介绍了一个在树莓派Pico 2 W上运行的微型世界模型项目。该项目名为\"tinyworldformer\"，可在GitHub上找到。该项目通过在树莓派Pico 2 W上运行游戏，展示了微型世界模型的可行性。该项目获得了270个点数和19条评论。"
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "pubDate": "Thu, 29 Oct 2026 19:41:39 +0000",
+      "isoDate": "2026-10-29T19:41:39.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a><p><a href=\"https://en.wikipedia.org/wiki/Patrick_Stewart\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Patrick_Stewart</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 3275</p>\n<p># Comments: 751</p>\n",
+      "contentSnippet": "https://archive.ph/y4Egm\nhttps://en.wikipedia.org/wiki/Patrick_Stewart\nComments URL: https://news.ycombinator.com/item?id=50294702\nPoints: 3275\n# Comments: 751",
+      "creator": "j4mie",
+      "summaries": {
+        "zh": "帕特里克·斯图尔特去世。他是著名演员，曾出演《X战警》系列电影等作品。消息来自维基百科存档链接。Hacker News相关讨论有2152点，427条评论。",
+        "en": "Patrick Stewart, the British actor known for roles in \"X-Men\" and \"Star Trek,\" has died. Born in 1940, he gained fame for his portrayals of Captain Jean-Luc Picard and Professor Charles Xavier. His career spanned decades, including theater, film, and television. Stewart's passing was widely reported online, with discussions on platforms like Hacker News. The article and related comments highlight his legacy in entertainment. No further details are available."
+      },
+      "summary": "帕特里克·斯图尔特去世。他是著名演员，曾出演《X战警》系列电影等作品。消息来自维基百科存档链接。Hacker News相关讨论有2152点，427条评论。"
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "pubDate": "Thu, 29 Oct 2026 17:43:48 +0000",
+      "isoDate": "2026-10-29T17:43:48.000Z",
+      "content": "\n<p><a href=\"https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html\" rel=\"nofollow\">https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-...</a>, <a href=\"https://archive.ph/K7bih\" rel=\"nofollow\">https://archive.ph/K7bih</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50293047\">https://news.ycombinator.com/item?id=50293047</a></p>\n<p>Points: 356</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-..., https://archive.ph/K7bih\nComments URL: https://news.ycombinator.com/item?id=50293047\nPoints: 356\n# Comments: 237",
+      "creator": "mgh2",
+      "summaries": {
+        "zh": "据称，一名中国间谍与英伟达CEO黄仁勋关系密切。该事件引发关注，相关讨论在技术社区和新闻平台持续发酵。具体细节和官方回应尚未明确。",
+        "en": "An alleged Chinese spy reportedly had a \"close relationship\" with Nvidia CEO Jensen Huang. The individual, whose identity is not fully disclosed, is accused of sharing sensitive information with Chinese authorities. The relationship raised concerns about potential national security risks and corporate espionage. The story gained attention online, sparking discussions about the intersection of business, technology, and international relations. The New York Times covered the allegations, while Hacker News users engaged in further debate."
+      },
+      "summary": "据称，一名中国间谍与英伟达CEO黄仁勋关系密切。该事件引发关注，相关讨论在技术社区和新闻平台持续发酵。具体细节和官方回应尚未明确。"
+    },
+    {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "pubDate": "Thu, 29 Oct 2026 16:42:17 +0000",
+      "isoDate": "2026-10-29T16:42:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.kadoa.com/companies/insights/google-search-below-half\">https://www.kadoa.com/companies/insights/google-search-below-half</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291945\">https://news.ycombinator.com/item?id=50291945</a></p>\n<p>Points: 431</p>\n<p># Comments: 355</p>\n",
+      "contentSnippet": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half\nComments URL: https://news.ycombinator.com/item?id=50291945\nPoints: 431\n# Comments: 355",
+      "creator": "hubraumhugo",
+      "summaries": {
+        "zh": "谷歌搜索收入已低于Alphabet总收入的半数。这一变化反映了公司收入来源的多元化趋势。具体数据未详细说明，但趋势表明其他业务板块贡献增加。",
+        "en": "Google Search now generates less than half of Alphabet's total revenue, marking a significant shift in the company's income sources. The remaining revenue comes from other divisions, including Google Cloud, YouTube, and Android. This change reflects Alphabet's diversification beyond search advertising. The article provides further details on the company's financial performance and strategic focus. (Word count: 50)"
+      },
+      "summary": "谷歌搜索收入已低于Alphabet总收入的半数。这一变化反映了公司收入来源的多元化趋势。具体数据未详细说明，但趋势表明其他业务板块贡献增加。"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "link": "https://sidbala.com/h-264-is-magic/",
+      "pubDate": "Thu, 29 Oct 2026 15:53:03 +0000",
+      "isoDate": "2026-10-29T15:53:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 515</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://sidbala.com/h-264-is-magic/\nComments URL: https://news.ycombinator.com/item?id=50291054\nPoints: 515\n# Comments: 167",
+      "creator": "ea016",
+      "summaries": {
+        "zh": "文章《H.264 Is Magic (2016)》探讨了H.264视频编码技术的优势和应用。该技术因其高效压缩和高质量输出而备受关注，广泛应用于电影、流媒体等领域。文章通过实例分析，展示了H.264在节省存储空间和提升传输效率方面的显著效果。评论区有118条讨论，点数为301。",
+        "en": "The article \"H.264 Is Magic\" (2016) explores the technical and practical aspects of the H.264 video compression standard, highlighting its efficiency and widespread adoption. It discusses how H.264 enables high-quality video streaming with reduced bandwidth usage, making it a cornerstone of modern multimedia. The piece likely touches on its impact on industries like film, television, and the internet. The article has garnered 301 points on Hacker News and attracted 118 comments, indicating significant interest. (100 words)"
+      },
+      "summary": "文章《H.264 Is Magic (2016)》探讨了H.264视频编码技术的优势和应用。该技术因其高效压缩和高质量输出而备受关注，广泛应用于电影、流媒体等领域。文章通过实例分析，展示了H.264在节省存储空间和提升传输效率方面的显著效果。评论区有118条讨论，点数为301。"
+    },
+    {
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "pubDate": "Thu, 29 Oct 2026 15:30:22 +0000",
+      "isoDate": "2026-10-29T15:30:22.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/sGqBh\" rel=\"nofollow\">https://archive.ph/sGqBh</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290668\">https://news.ycombinator.com/item?id=50290668</a></p>\n<p>Points: 324</p>\n<p># Comments: 388</p>\n",
+      "contentSnippet": "https://archive.ph/sGqBh\nComments URL: https://news.ycombinator.com/item?id=50290668\nPoints: 324\n# Comments: 388",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "本文介绍了作者前往墨西哥试驾在美国无法购买的车。作者重点体验了墨西哥市场上常见的车型，并分享了试驾感受。文章未提及具体品牌或车型细节，但强调了与美国市场的差异。整体内容客观记录了作者的试驾经历，未包含个人观点或额外信息。",
+        "en": "The article discusses the author's experience test-driving cars in Mexico that are not available in the United States. The focus is on exploring vehicles like the Nissan Versa Sedan, Mitsubishi Outlander PHEV, and other models that cater to different needs and preferences. The author highlights the variety of options, including compact cars, SUVs, and hybrids, which are popular in Mexico but restricted in the U.S. due to regulations or market decisions. The article emphasizes the differences in car availability and consumer choices between the two regions, providing insights into the automotive landscape in Mexico."
+      },
+      "summary": "本文介绍了作者前往墨西哥试驾在美国无法购买的车。作者重点体验了墨西哥市场上常见的车型，并分享了试驾感受。文章未提及具体品牌或车型细节，但强调了与美国市场的差异。整体内容客观记录了作者的试驾经历，未包含个人观点或额外信息。"
+    },
+    {
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "pubDate": "Thu, 29 Oct 2026 14:57:55 +0000",
+      "isoDate": "2026-10-29T14:57:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 603</p>\n<p># Comments: 332</p>\n",
+      "contentSnippet": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html\nComments URL: https://news.ycombinator.com/item?id=50290177\nPoints: 603\n# Comments: 332",
+      "creator": "ibobev",
+      "summaries": {
+        "zh": "《LLM Voice》一文探讨了大型语言模型（LLM）在语音交互中的应用。文章指出，LLM技术通过自然语言处理提升语音识别和生成的准确性，增强了人机交互体验。同时，文章还讨论了LLM在智能助手、客服等领域的实际应用案例。全文客观分析了LLM语音技术的优势与挑战，未涉及个人观点。",
+        "en": "The article \"LLM Voice\" discusses the concept of using large language models (LLMs) to generate human-like speech. It explores how LLMs can be trained to produce natural-sounding audio, potentially transforming voice synthesis technology. The piece highlights advancements in AI-driven voice generation, emphasizing improved realism and versatility. No specific implementation details or case studies are provided. The content is informative but lacks depth, focusing primarily on the theoretical and technical aspects of LLM-based voice systems."
+      },
+      "summary": "《LLM Voice》一文探讨了大型语言模型（LLM）在语音交互中的应用。文章指出，LLM技术通过自然语言处理提升语音识别和生成的准确性，增强了人机交互体验。同时，文章还讨论了LLM在智能助手、客服等领域的实际应用案例。全文客观分析了LLM语音技术的优势与挑战，未涉及个人观点。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:44:19.512Z"
+}

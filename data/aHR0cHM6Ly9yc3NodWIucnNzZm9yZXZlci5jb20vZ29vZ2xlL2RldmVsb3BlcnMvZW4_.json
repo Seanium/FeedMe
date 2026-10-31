@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "DevFest is back!",
+      "link": "https://developers.googleblog.com/en/devfest-is-back/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "contentSnippet": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "DevFest 2026将于10月1日至12月31日举办，汇集全球800多场活动，吸引近百万开发者，聚焦智能代理AI时代。主题为“构建、安全、扩展”，参与者将通过实战工作坊和代码实验室体验谷歌开发者工具栈（包括Gemini、Google AI Studio等）。会议旨在帮助开发者快速原型设计、确保安全部署并利用成熟基础设施。",
+        "en": "DevFest 2026, running from October 1 to December 31, will connect nearly a million developers across 800+ global events. The theme \"Build, Secure, Scale\" emphasizes hands-on experience with Google’s developer tools like Gemini, Google AI Studio, Antigravity, and Web MCP. Through workshops and codelabs, participants will learn to prototype quickly, deploy securely, and scale production-ready infrastructure. The event highlights advancements in the agentic AI era."
+      },
+      "summary": "DevFest 2026将于10月1日至12月31日举办，汇集全球800多场活动，吸引近百万开发者，聚焦智能代理AI时代。主题为“构建、安全、扩展”，参与者将通过实战工作坊和代码实验室体验谷歌开发者工具栈（包括Gemini、Google AI Studio等）。会议旨在帮助开发者快速原型设计、确保安全部署并利用成熟基础设施。"
+    },
+    {
+      "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+      "link": "https://developers.googleblog.com/en/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+      "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-28T16:00:00.000Z",
+      "content": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+      "contentSnippet": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何使用A2UI与CopilotKit SDK构建生成式UI应用。内容展示了A2UI的实际应用，并说明了其如何通过CopilotKit SDK在Langchain、AWS Strands、Microsoft agents和Google ADK等平台上原生渲染智能代理UI。",
+        "en": "The article introduces Google A2UI for creating generative UI applications. It explains how to render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. The content demonstrates A2UI in action, focusing on its integration capabilities with various platforms."
+      },
+      "summary": "本文介绍了如何使用A2UI与CopilotKit SDK构建生成式UI应用。内容展示了A2UI的实际应用，并说明了其如何通过CopilotKit SDK在Langchain、AWS Strands、Microsoft agents和Google ADK等平台上原生渲染智能代理UI。"
+    },
+    {
+      "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+      "link": "https://developers.googleblog.com/en/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-27T16:00:00.000Z",
+      "content": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time.",
+      "contentSnippet": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了通过 Agents CLI 持续测试和评分来系统提升代理性能的评估流程。内容展示了如何检测提示回归、使用并排追踪比较评估模型后端切换，以及自动化评估过程。此外，还介绍了如何将夜间定时运行与基于阈值的警报集成，以持续跟踪质量变化。",
+        "en": "The article explains the Agents CLI evaluation process for enhancing agent performance through continuous testing and grading. It covers detecting prompt regressions, comparing model backends via side-by-side traces, and automating evaluations. Developers can integrate nightly scheduled runs with threshold-based alerts to monitor quality over time. The focus is on systematic improvement and automated quality tracking."
+      },
+      "summary": "本文介绍了通过 Agents CLI 持续测试和评分来系统提升代理性能的评估流程。内容展示了如何检测提示回归、使用并排追踪比较评估模型后端切换，以及自动化评估过程。此外，还介绍了如何将夜间定时运行与基于阈值的警报集成，以持续跟踪质量变化。"
+    },
+    {
+      "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+      "link": "https://developers.googleblog.com/en/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-27T16:00:00.000Z",
+      "content": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by approximately 8 MB while enabling seamless, automatic runtime updates across billions of devices. Developers can easily adopt these updates by updating their dependencies and utilizing the new Android Studio LiteRT skill for automated migration.",
+      "contentSnippet": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by approximately 8 MB while enabling seamless, automatic runtime updates across billions of devices. Developers can easily adopt these updates by updating their dependencies and utilizing the new Android Studio LiteRT skill for automated migration.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌 Play 服务中的 LiteRT 现在通过 ML Drift 提供 GPU 推理功能，性能提升约 1.4 倍，并引入新的 CompiledModel API。切换后，应用体积减少约 8 MB，同时支持跨数十亿设备的无缝自动运行时更新。开发者可通过更新依赖并使用 Android Studio LiteRT 技能实现自动化迁移。",
+        "en": "LiteRT in Google Play services now provides GPU inference via ML Drift, offering 1.4x faster performance with the CompiledModel API. This reduces app size by ~8 MB and enables automatic runtime updates for billions of devices. Developers can adopt these updates by updating dependencies and using the Android Studio LiteRT skill for automated migration."
+      },
+      "summary": "谷歌 Play 服务中的 LiteRT 现在通过 ML Drift 提供 GPU 推理功能，性能提升约 1.4 倍，并引入新的 CompiledModel API。切换后，应用体积减少约 8 MB，同时支持跨数十亿设备的无缝自动运行时更新。开发者可通过更新依赖并使用 Android Studio LiteRT 技能实现自动化迁移。"
+    },
+    {
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "link": "https://developers.googleblog.com/en/fast-reliable-a2ui/",
+      "pubDate": "Mon, 26 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-26T16:00:00.000Z",
+      "content": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can also use controlled generation with TypeSafe's Jev system-decision models to render known-shape screens in under 300 ms while smaller models stream text. These updates require no changes to frontend renderers or component catalogs, offering flexible performance levers for generative UI development across Python, TypeScript, and Dart.",
+      "contentSnippet": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can also use controlled generation with TypeSafe's Jev system-decision models to render known-shape screens in under 300 ms while smaller models stream text. These updates require no changes to frontend renderers or component catalogs, offering flexible performance levers for generative UI development across Python, TypeScript, and Dart.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "A2UI现支持可切换的推理格式，推出A2UI Express，通过Agent SDK将紧凑的Python风格语法编译为标准A2UI JSON，减少高达3倍的token使用量并降低延迟。开发者可结合TypeSafe的Jev系统决策模型实现已知结构屏幕在300毫秒内渲染，小型模型则用于流式文本传输。这些更新无需修改前端渲染器或组件目录，为Python、TypeScript和Dart的生成式UI开发提供灵活的性能选项。",
+        "en": "A2UI now supports swappable inference formats with A2UI Express, which reduces tokens by up to 3x and cuts latency by compiling Python-style syntax into A2UI JSON via Agent SDKs. Developers can use TypeSafe's Jev system-decision models for controlled generation, rendering known-shape screens in under 300 ms while smaller models stream text. These updates require no frontend changes, providing flexible performance options for generative UI development in Python, TypeScript, and Dart."
+      },
+      "summary": "A2UI现支持可切换的推理格式，推出A2UI Express，通过Agent SDK将紧凑的Python风格语法编译为标准A2UI JSON，减少高达3倍的token使用量并降低延迟。开发者可结合TypeSafe的Jev系统决策模型实现已知结构屏幕在300毫秒内渲染，小型模型则用于流式文本传输。这些更新无需修改前端渲染器或组件目录，为Python、TypeScript和Dart的生成式UI开发提供灵活的性能选项。"
+    },
+    {
+      "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+      "link": "https://developers.googleblog.com/en/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+      "pubDate": "Mon, 26 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-26T16:00:00.000Z",
+      "content": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks, and approval workflows required for publishing technical content through Google Developer Studio. The framework helps engineers organize their guides and solutions to effectively share AI-driven conversational interface designs with the developer community.",
+      "contentSnippet": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks, and approval workflows required for publishing technical content through Google Developer Studio. The framework helps engineers organize their guides and solutions to effectively share AI-driven conversational interface designs with the developer community.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了一种使用GCP构建对话式商业的多智能体群技术原型。文档提供了技术博客发布模板和元数据结构，重点阐述了开发者的关注领域、产品堆栈和审批流程，旨在帮助工程师通过Google开发者工作室有效分享AI驱动的对话界面设计。框架明确了技术内容的组织方式，以促进与开发者社区的交流。",
+        "en": "The document outlines a technical blog post template for building Conversational User Interfaces (CUIs) on Google Cloud Platform (GCP) using AI. It details developer focus areas, product stacks, and approval workflows for publishing content via Google Developer Studio. The framework guides engineers in structuring guides and solutions to share AI-driven CUI designs with the community. (98 words)"
+      },
+      "summary": "本文介绍了一种使用GCP构建对话式商业的多智能体群技术原型。文档提供了技术博客发布模板和元数据结构，重点阐述了开发者的关注领域、产品堆栈和审批流程，旨在帮助工程师通过Google开发者工作室有效分享AI驱动的对话界面设计。框架明确了技术内容的组织方式，以促进与开发者社区的交流。"
+    },
+    {
+      "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+      "link": "https://developers.googleblog.com/en/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+      "pubDate": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-25T16:00:00.000Z",
+      "content": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration preserves native file fidelity for use with Git repositories and developer tools while unlocking standard Docs features like line-level commenting, rendered Drive previews, and tracked version history.",
+      "contentSnippet": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration preserves native file fidelity for use with Git repositories and developer tools while unlocking standard Docs features like line-level commenting, rendered Drive previews, and tracked version history.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌工作区现已原生支持Markdown（.md）文件，开发者和AI代理可直接在Google Docs中无缝协作文档，无需手动转换。该集成保留文件原生特性，便于与Git仓库和开发者工具配合使用，同时解锁标准Docs功能，如行级评论、渲染式Drive预览和版本历史追踪。",
+        "en": "Google Workspace now supports native Markdown (.md) file editing and collaboration in Google Docs and Drive. Users can work with .md files directly without conversions, maintaining compatibility with Git and developer tools. The integration includes features like line-level commenting, rendered Drive previews, and version history tracking, enhancing documentation workflows for developers and AI agents."
+      },
+      "summary": "谷歌工作区现已原生支持Markdown（.md）文件，开发者和AI代理可直接在Google Docs中无缝协作文档，无需手动转换。该集成保留文件原生特性，便于与Git仓库和开发者工具配合使用，同时解锁标准Docs功能，如行级评论、渲染式Drive预览和版本历史追踪。"
+    },
+    {
+      "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+      "link": "https://developers.googleblog.com/en/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+      "contentSnippet": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "API网关现已支持实时流，包括Server-Sent Events、WebSockets、gRPC和分块传输编码，无需修改现有API规范。此次更新允许开发者通过网关路由长寿命双向流和AI工作负载，同时保持一致的认证、速率限制和可观察性。此外，网关新增确定性默认主机名，简化了环境部署和基础设施即代码管理。",
+        "en": "API Gateway now supports real-time streaming (Server-Sent Events, WebSockets, gRPC, chunked transfer encoding) in Public Preview without requiring spec changes. This enables routing long-lived, bi-directional streams and AI workloads while preserving authentication, rate limiting, and observability. The update also introduces deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management."
+      },
+      "summary": "API网关现已支持实时流，包括Server-Sent Events、WebSockets、gRPC和分块传输编码，无需修改现有API规范。此次更新允许开发者通过网关路由长寿命双向流和AI工作负载，同时保持一致的认证、速率限制和可观察性。此外，网关新增确定性默认主机名，简化了环境部署和基础设施即代码管理。"
+    },
+    {
+      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+      "link": "https://developers.googleblog.com/en/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-21T16:00:00.000Z",
+      "content": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+      "contentSnippet": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何利用Google Cloud的Gemini企业代理平台、代理开发工具包（ADK）、BigQuery及四层纵深防御安全体系（模型防护、云KMS、二进制授权和OPA）构建受监管、可自进化的AI代理。该项目名为Chrysalis，通过这些技术实现AI代理在1.8秒内自动修复生产环境故障。",
+        "en": "Project Chrysalis integrates Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-layer security framework (Model Armor, Cloud KMS, Binary Authorization, OPA) to create governed, self-evolving AI agents. These agents can resolve live production outages in 1.8 seconds. The system leverages these tools to ensure secure, efficient, and autonomous AI operations."
+      },
+      "summary": "本文介绍了如何利用Google Cloud的Gemini企业代理平台、代理开发工具包（ADK）、BigQuery及四层纵深防御安全体系（模型防护、云KMS、二进制授权和OPA）构建受监管、可自进化的AI代理。该项目名为Chrysalis，通过这些技术实现AI代理在1.8秒内自动修复生产环境故障。"
+    },
+    {
+      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+      "link": "https://developers.googleblog.com/en/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-20T16:00:00.000Z",
+      "content": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+      "contentSnippet": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of materials (SBOM) scans during deployment.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了 Agents CLI 扩展系统，该系统支持开发者使用 LangChain、LangGraph 等框架或自定义企业堆栈，同时保持统一的部署和评估流程。文章详细说明了一个官方 LangChain 模板，该模板可搭建、运行和部署代理，无需依赖 Agent Development Kit (ADK)。此外，还展示了平台团队如何编写自定义扩展，以在部署期间强制执行自动化软件物料清单 (SBOM) 扫描等策略。",
+        "en": "The Agents CLI Extension System allows developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while maintaining a unified deployment and evaluation workflow. It introduces a first-party LangChain template that simplifies agent scaffolding, running, and deployment without requiring the Agent Development Kit (ADK). The system also enables platform teams to create custom extensions for policies, such as automated software bill of materials (SBOM) scans during deployment. This approach enhances flexibility and integration across diverse agent development environments."
+      },
+      "summary": "本文介绍了 Agents CLI 扩展系统，该系统支持开发者使用 LangChain、LangGraph 等框架或自定义企业堆栈，同时保持统一的部署和评估流程。文章详细说明了一个官方 LangChain 模板，该模板可搭建、运行和部署代理，无需依赖 Agent Development Kit (ADK)。此外，还展示了平台团队如何编写自定义扩展，以在部署期间强制执行自动化软件物料清单 (SBOM) 扫描等策略。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:45:08.987Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Practical guidance, product updates, and best practices for building with Claude.",
+  "link": "https://claude.com/resources/articles",
+  "items": [
+    {
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "contentSnippet": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Enterprise提供智能报告、调查和集中团队预算功能。许多组织成员已认识到Claude的独特工作能力，下一步是将其推广至所有团队。",
+        "en": "Claude Enterprise offers smart reports, surveys, and pooled group budgets to expand Claude's unique work capabilities across teams. Organizations recognize Claude's value and seek to integrate it broadly. The tools facilitate wider adoption and management of Claude's functionalities."
+      },
+      "summary": "Claude Enterprise提供智能报告、调查和集中团队预算功能。许多组织成员已认识到Claude的独特工作能力，下一步是将其推广至所有团队。"
+    },
+    {
+      "title": "Introducing artifacts for legal work",
+      "link": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "contentSnippet": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude for Legal推出现成法律工作组件，团队可结合自有数据和连接器进行适配，并在企业内共享。",
+        "en": "Claude for Legal introduces ready-to-use artifacts for legal work. Teams can adapt these artifacts with their own data and connectors and share them across the business."
+      },
+      "summary": "Claude for Legal推出现成法律工作组件，团队可结合自有数据和连接器进行适配，并在企业内共享。"
+    },
+    {
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "link": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "contentSnippet": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "creator": "",
+      "summaries": {
+        "zh": "IDC将Claude整合到其Quanta平台，并已将其推广至公司内部业务。",
+        "en": "IDC has integrated Claude into its Quanta platform and adopted the service across the company. The integration enhances Quanta's capabilities, while the company-wide rollout ensures consistent use of Claude's features. The move aims to improve efficiency and performance within IDC's operations."
+      },
+      "summary": "IDC将Claude整合到其Quanta平台，并已将其推广至公司内部业务。"
+    },
+    {
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "link": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "pubDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-27T00:00:00.000Z",
+      "content": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "contentSnippet": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌云上使用Claude Code的成本管理和投资回报率最佳实践。",
+        "en": "This article provides best practices for managing costs and measuring the return on investment (ROI) of Claude Code on Google Cloud. It focuses on strategies to optimize expenses and evaluate the financial benefits of using the service. The content aims to help users make informed decisions about cost management and ROI assessment. (98 words)"
+      },
+      "summary": "谷歌云上使用Claude Code的成本管理和投资回报率最佳实践。"
+    },
+    {
+      "title": "Claude for Financial Advisors",
+      "link": "https://claude.com/resources/articles/claude-for-financial-advisors",
+      "pubDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-27T00:00:00.000Z",
+      "content": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "contentSnippet": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "creator": "",
+      "summaries": {
+        "zh": "金融顾问现可通过Claude连接其依赖的托管机构、投资组合平台、CRM系统和规划工具。此外，Claude还推出了针对金融顾问日常工作的定制化新技能。这些功能旨在提升金融顾问的工作效率和专业性。",
+        "en": "Financial advisors can integrate Claude with custodians, portfolio platforms, CRMs, and planning tools. New skills are added to assist with daily advisor tasks."
+      },
+      "summary": "金融顾问现可通过Claude连接其依赖的托管机构、投资组合平台、CRM系统和规划工具。此外，Claude还推出了针对金融顾问日常工作的定制化新技能。这些功能旨在提升金融顾问的工作效率和专业性。"
+    },
+    {
+      "title": "Expanding Claude for Nonprofits",
+      "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "pubDate": "Mon, 26 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-26T00:00:00.000Z",
+      "content": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "contentSnippet": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "creator": "",
+      "summaries": {
+        "zh": "“非营利组织Claude插件发布，为认证非营利组织提供新功能，助力解决筹款、营销和招聘等运营工作，提升小团队效率。”",
+        "en": "The \"Claude for Nonprofits\" plugin enhances operational efficiency for verified nonprofit organizations. It provides new skills to assist small teams with tasks across fundraising, marketing, and hiring, easing their workload."
+      },
+      "summary": "“非营利组织Claude插件发布，为认证非营利组织提供新功能，助力解决筹款、营销和招聘等运营工作，提升小团队效率。”"
+    },
+    {
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "link": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-23T00:00:00.000Z",
+      "content": "Claude Cowork and chat come together for Enterprise",
+      "contentSnippet": "Claude Cowork and chat come together for Enterprise",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Cowork与聊天功能整合，推出企业版服务。该服务旨在为企业用户提供更高效的协作体验，通过整合聊天工具，实现实时沟通与任务管理。企业版将支持团队协作、文件共享等功能，提升办公效率。此次更新旨在满足企业用户对高效沟通和协作的需求。",
+        "en": "Claude Cowork and chat integrate to offer enterprise solutions, combining collaboration tools with interactive chat features. The update enhances productivity by streamlining communication and workflow within business environments. Key features include real-time messaging, file sharing, and seamless integration with existing enterprise systems. This integration aims to improve efficiency and user experience for professional settings. The service is designed to meet the demands of corporate users seeking advanced, unified communication platforms."
+      },
+      "summary": "Claude Cowork与聊天功能整合，推出企业版服务。该服务旨在为企业用户提供更高效的协作体验，通过整合聊天工具，实现实时沟通与任务管理。企业版将支持团队协作、文件共享等功能，提升办公效率。此次更新旨在满足企业用户对高效沟通和协作的需求。"
+    },
+    {
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-23T00:00:00.000Z",
+      "content": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.",
+      "contentSnippet": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Duet是一款能在用户离线时仍主动工作的智能代理。它基于Claude模型的安全训练和Claude Code、Claude Managed Agents等产品中的保护措施，构建了双重安全防护。此外，还增加了跨账户协作和代为执行任务的新防护机制，以提升安全性。",
+        "en": "Claude Duet is a proactive agent designed to operate independently, even when users are absent. It incorporates dual layers of protection: safety training within the Claude model and existing safeguards in products like Claude Code and Claude Managed Agents. Additional new safeguards have been implemented to enhance cross-account collaboration and authorized actions on behalf of users. The system prioritizes security, privacy, and user control through these combined measures."
+      },
+      "summary": "Claude Duet是一款能在用户离线时仍主动工作的智能代理。它基于Claude模型的安全训练和Claude Code、Claude Managed Agents等产品中的保护措施，构建了双重安全防护。此外，还增加了跨账户协作和代为执行任务的新防护机制，以提升安全性。"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "We need ways to prove that code is free of bugs. Formal software verification could provide this guarantee.",
+      "contentSnippet": "We need ways to prove that code is free of bugs. Formal software verification could provide this guarantee.",
+      "creator": "",
+      "summaries": {
+        "zh": "大型语言模型（LLMs）使大规模形式化软件验证成为可能。形式化软件验证能够为代码无错误提供保证。",
+        "en": "Large Language Models (LLMs) are enabling formal software verification at a larger scale, addressing the need to prove code is free of bugs. Formal verification traditionally faces scalability challenges, but LLMs help overcome these limitations, making it more feasible to ensure software reliability. The approach leverages LLM capabilities to enhance the verification process, offering a promising solution for bug-free code assurance."
+      },
+      "summary": "大型语言模型（LLMs）使大规模形式化软件验证成为可能。形式化软件验证能够为代码无错误提供保证。"
+    },
+    {
+      "title": "The full Claude Platform, available on Google Cloud",
+      "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
+      "contentSnippet": "Use Claude Models on Google Cloud (Anthropic managed) to access Claude Platform features with Google Cloud authentication, billing, and commitment retirement.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌云上推出完整Claude平台，用户可通过Anthropic管理的Claude模型在谷歌云上使用平台功能。该服务采用谷歌云认证、计费及承诺退订机制。",
+        "en": "The Claude Platform is now available on Google Cloud, allowing users to access Claude Models through Anthropic's managed service. Integration with Google Cloud provides authentication, billing, and commitment retirement features. This setup enables seamless integration for businesses leveraging Google Cloud infrastructure."
+      },
+      "summary": "谷歌云上推出完整Claude平台，用户可通过Anthropic管理的Claude模型在谷歌云上使用平台功能。该服务采用谷歌云认证、计费及承诺退订机制。"
+    },
+    {
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
+      "contentSnippet": "When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate.",
+      "creator": "",
+      "summaries": {
+        "zh": "在Claude平台上构建智能体时，减少子智能体使用，通过逐步披露上下文和工具，可提升质量、降低成本和延迟。本文介绍了何时以及如何迁移至此方法。",
+        "en": "When building agents in the Claude Platform, integrating fewer subagents and using progressive context disclosure with tools can enhance quality while cutting costs and latency. The article outlines when and how to shift this approach for optimal performance."
+      },
+      "summary": "在Claude平台上构建智能体时，减少子智能体使用，通过逐步披露上下文和工具，可提升质量、降低成本和延迟。本文介绍了何时以及如何迁移至此方法。"
+    },
+    {
+      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
+      "link": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
+      "contentSnippet": "HCLTech will bring Claude into the solutions it provides for banks, hospitals, telecom companies, and manufacturers.",
+      "creator": "",
+      "summaries": {
+        "zh": "HCLTech正式加入Claude合作伙伴网络，成为全球顶级合作伙伴。公司将把Claude技术整合到其面向银行、医院、电信和制造业的解决方案中，以提升服务能力。此次合作将助力客户优化业务流程和数字化转型。",
+        "en": "HCLTech has joined the Claude Partner Network as a Global Premier partner. The company will integrate Claude into its solutions for banks, hospitals, telecom firms, and manufacturers. This collaboration aims to enhance the services offered to these industries. The partnership underscores HCLTech's commitment to expanding its technological capabilities and delivering advanced solutions to clients."
+      },
+      "summary": "HCLTech正式加入Claude合作伙伴网络，成为全球顶级合作伙伴。公司将把Claude技术整合到其面向银行、医院、电信和制造业的解决方案中，以提升服务能力。此次合作将助力客户优化业务流程和数字化转型。"
+    },
+    {
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "link": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "contentSnippet": "Claude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Security现已实现持续扫描，跟踪代码变更并记录问题直至修复，同时学习团队添加的上下文信息。该服务通过API和MCP连接工具，目前对Claude Enterprise客户开放公测。",
+        "en": "Claude Security now offers continuous scanning of repositories, tracking findings until resolution. It learns from team context and integrates via API and MCP. The feature is available in public beta for Claude Enterprise customers."
+      },
+      "summary": "Claude Security现已实现持续扫描，跟踪代码变更并记录问题直至修复，同时学习团队添加的上下文信息。该服务通过API和MCP连接工具，目前对Claude Enterprise客户开放公测。"
+    },
+    {
+      "title": "Introducing Claude Duet",
+      "link": "https://claude.com/resources/articles/claude-duet",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-21T00:00:00.000Z",
+      "content": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
+      "contentSnippet": "A research preview is available by waitlist today, starting with US Pro and Max subscribers.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Duet研究预览现已通过候补名单提供，首批面向美国Pro和Max订阅用户开放。",
+        "en": "Claude Duet, a research preview, is now available for US Pro and Max subscribers via a waitlist."
+      },
+      "summary": "Claude Duet研究预览现已通过候补名单提供，首批面向美国Pro和Max订阅用户开放。"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "pubDate": "Mon, 19 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-19T00:00:00.000Z",
+      "content": "As merges to Anthropic's monorepo grew from about 2,500 to more than 30,000 a day, source control became the biggest development bottleneck. Here is how the team built Scion, an in-house version control system designed for always-online agents, and migrated off git in five months.",
+      "contentSnippet": "As merges to Anthropic's monorepo grew from about 2,500 to more than 30,000 a day, source control became the biggest development bottleneck. Here is how the team built Scion, an in-house version control system designed for always-online agents, and migrated off git in five months.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的单一代码库合并请求量从每天约2,500个激增至超过30,000个，导致源代码管理成为最大的开发瓶颈。团队为此开发了内部版本控制系统Scion，专为常在线代理设计，并在五个月内成功从Git迁移。Scion解决了合并请求激增的问题，提升了开发效率。",
+        "en": "Anthropic's monorepo experienced a surge in daily merges from 2,500 to over 30,000, making source control a major bottleneck. To address this, the team developed Scion, an in-house version control system tailored for always-online agents, and successfully migrated away from Git in five months."
+      },
+      "summary": "Anthropic的单一代码库合并请求量从每天约2,500个激增至超过30,000个，导致源代码管理成为最大的开发瓶颈。团队为此开发了内部版本控制系统Scion，专为常在线代理设计，并在五个月内成功从Git迁移。Scion解决了合并请求激增的问题，提升了开发效率。"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "pubDate": "Fri, 16 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-16T00:00:00.000Z",
+      "content": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "contentSnippet": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德代码团队分享了其代码审查流程：首先由克劳德自动验证代码，再根据风险等级进行人工审批。该流程包含一个清单，可供其他团队参考采用。",
+        "en": "The Claude Code team reviews code at scale using a process that includes self-verification by Claude and risk-tiered human approval. The workflow ensures efficiency while maintaining quality, with a checklist provided for adoption. The method balances automated checks and human oversight to manage the high volume of code generated by agents."
+      },
+      "summary": "克劳德代码团队分享了其代码审查流程：首先由克劳德自动验证代码，再根据风险等级进行人工审批。该流程包含一个清单，可供其他团队参考采用。"
+    },
+    {
+      "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
+      "link": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+      "pubDate": "Fri, 16 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-16T00:00:00.000Z",
+      "content": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "contentSnippet": "How one business development representative clears his inbound queue and drafts bilingual customer emails with Claude Managed Agents and Claude Tag.",
+      "creator": "",
+      "summaries": {
+        "zh": "一位日本的企业发展代表通过使用Claude管理的代理人和Claude标签，高效处理入站咨询并起草双语客户邮件。",
+        "en": "An Anthropic Japan business development representative uses Claude Managed Agents and Claude Tag to efficiently clear his inbound queue and draft bilingual customer emails. The system helps streamline communication by automating tasks, allowing the representative to focus on other responsibilities. The approach highlights the benefits of AI tools in enhancing productivity and customer interaction."
+      },
+      "summary": "一位日本的企业发展代表通过使用Claude管理的代理人和Claude标签，高效处理入站咨询并起草双语客户邮件。"
+    },
+    {
+      "title": "Code Review is now generally available",
+      "link": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-15T00:00:00.000Z",
+      "content": "Catch more bugs before they reach production.",
+      "contentSnippet": "Catch more bugs before they reach production.",
+      "creator": "",
+      "summaries": {
+        "zh": "代码审查功能现已正式上线，旨在帮助开发者在产品发布前更有效地发现并修复潜在错误，从而提升软件质量。",
+        "en": "Code Review is now generally available, offering a tool to catch more bugs before they reach production. The service enhances software quality by identifying issues early in the development process. Its general availability indicates broader accessibility for developers. The focus remains on improving code reliability and reducing the risk of defects in final releases."
+      },
+      "summary": "代码审查功能现已正式上线，旨在帮助开发者在产品发布前更有效地发现并修复潜在错误，从而提升软件质量。"
+    },
+    {
+      "title": "Agent observability on the Claude Platform",
+      "link": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "pubDate": "Wed, 14 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-14T00:00:00.000Z",
+      "content": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "contentSnippet": "Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude 平台宣布支持 OpenTelemetry 追踪、消息 API 和 SDK。这些功能来自 Claude 管理代理，旨在提升平台可观察性。",
+        "en": "The Claude Platform now supports OpenTelemetry traces from Managed Agents, introduces the Messages API, and offers updated SDKs. These enhancements improve agent observability, enabling better monitoring and debugging capabilities. The updates streamline integration and provide developers with more tools for managing and analyzing platform interactions."
+      },
+      "summary": "Claude 平台宣布支持 OpenTelemetry 追踪、消息 API 和 SDK。这些功能来自 Claude 管理代理，旨在提升平台可观察性。"
+    },
+    {
+      "title": "Uber's CISO on building an insider threat program for AI",
+      "link": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-13T00:00:00.000Z",
+      "content": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "contentSnippet": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
+      "creator": "",
+      "summaries": {
+        "zh": "优步首席信息安全官菲利普·马丁强调监控和可观测性对AI代理的重要性，并介绍了优步的开源工具如何与“企业前沿保护措施”协同工作，以构建内部威胁防护体系。",
+        "en": "Uber's CISO, Philip Martin, emphasizes the importance of monitoring and observability for AI agents. He discusses how Uber's open-source tools integrate with Enterprise Frontier Safeguards to enhance insider threat programs. The focus is on ensuring robust security measures for AI systems within the company."
+      },
+      "summary": "优步首席信息安全官菲利普·马丁强调监控和可观测性对AI代理的重要性，并介绍了优步的开源工具如何与“企业前沿保护措施”协同工作，以构建内部威胁防护体系。"
+    },
+    {
+      "title": "Building effective agent automations",
+      "link": "https://claude.dev/blog/building-effective-agent-automations/",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "contentSnippet": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何构建有效的代理自动化。通过一个定时的Claude Managed Agents自动化参考实现，展示了配置文件和六条规则，旨在避免常见的失败模式。内容涵盖配置文件和规则，为代理自动化提供实用指导。",
+        "en": "This article provides a reference implementation walkthrough for a scheduled Claude Managed Agents automation. It includes config files and outlines six rules designed to avoid common failure modes. The content focuses on practical guidance for building effective agent automations."
+      },
+      "summary": "本文介绍了如何构建有效的代理自动化。通过一个定时的Claude Managed Agents自动化参考实现，展示了配置文件和六条规则，旨在避免常见的失败模式。内容涵盖配置文件和规则，为代理自动化提供实用指导。"
+    },
+    {
+      "title": "How Block orchestrates Claude Fable across thousands of pull requests",
+      "link": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "contentSnippet": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "Block公司AI能力负责人Bradley Axen介绍了团队如何评估新的大型语言模型，Claude Fable 5如何协调公司范围内的代码迁移，以及为何在规模化部署前沿智能时，安全措施至关重要。",
+        "en": "Bradley Axen, Head of AI Capabilities at Block, discusses his team's evaluation of large language models and how Claude Fable 5 orchestrates company-wide code migrations across thousands of pull requests. He emphasizes the importance of safeguards in deploying frontier intelligence responsibly at scale. The article highlights the systematic approach to managing AI integration and migration within Block."
+      },
+      "summary": "Block公司AI能力负责人Bradley Axen介绍了团队如何评估新的大型语言模型，Claude Fable 5如何协调公司范围内的代码迁移，以及为何在规模化部署前沿智能时，安全措施至关重要。"
+    },
+    {
+      "title": "Build live dashboards and animate explainers with Claude",
+      "link": "https://claude.com/resources/articles/dashboards-and-motion",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "contentSnippet": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Dashboards和Claude Motion已进入测试阶段，而Docs、Slides和Design已完全推出并适用于所有Claude计划，包括免费计划。",
+        "en": "Claude Dashboards and Claude Motion have entered beta, while Docs, Slides, and Design are fully released and available on all Claude plans, including the Free tier. These tools enable users to create live dashboards and animate explainers. The announcement highlights the expanded capabilities within the Claude platform, with beta features and general availability options clearly outlined for users."
+      },
+      "summary": "Claude Dashboards和Claude Motion已进入测试阶段，而Docs、Slides和Design已完全推出并适用于所有Claude计划，包括免费计划。"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "contentSnippet": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Haiku 5.5是Claude团队最新推出的小型模型，具有三大特点：价格最低、速度最快、能力最强。该模型在性能和成本方面实现了突破，为用户提供了高效且经济的选择。",
+        "en": "Claude Haiku 5.5 is the newest small model from the company, positioned as the cheapest, fastest, and most capable in its category. It represents a significant advancement in the field of compact AI models."
+      },
+      "summary": "Claude Haiku 5.5是Claude团队最新推出的小型模型，具有三大特点：价格最低、速度最快、能力最强。该模型在性能和成本方面实现了突破，为用户提供了高效且经济的选择。"
+    },
+    {
+      "title": "Automating eval design and hillclimbing with Claude",
+      "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "contentSnippet": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了自动化评估设计（evals）和爬山（hillclimbing）的原则，强调避免自我欺骗的方法。Claude-api技能的build-eval和hillclimb命令实现了这些原则，用于高效设计和优化评估流程。",
+        "en": "The article discusses principles for designing evaluation metrics (evals) and hillclimbing optimization without bias. It explains how the claude-api skill's \"build-eval\" and \"hillclimb\" commands implement these principles to automate the process. The focus is on objective evaluation and optimization techniques."
+      },
+      "summary": "本文介绍了自动化评估设计（evals）和爬山（hillclimbing）的原则，强调避免自我欺骗的方法。Claude-api技能的build-eval和hillclimb命令实现了这些原则，用于高效设计和优化评估流程。"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "contentSnippet": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们将推出新版网络安全验证计划（CVP），该计划将为符合条件的安保专业人员提供先进的网络安全能力和减少屏蔽的分类器。",
+        "en": "The Cyber Verification Program (CVP) is expanding, offering advanced cyber capabilities and reduced blocking classifiers to qualifying security professionals. The new version enhances access to these tools for eligible individuals in the field."
+      },
+      "summary": "我们将推出新版网络安全验证计划（CVP），该计划将为符合条件的安保专业人员提供先进的网络安全能力和减少屏蔽的分类器。"
+    },
+    {
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "link": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "contentSnippet": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "creator": "",
+      "summaries": {
+        "zh": "《云中Claude代码：云会话指南》介绍了Claude Code在独立机器上运行时的变化、适用的工作流程以及首次连接GitHub的方法。文章重点探讨了Claude Code在云环境中的部署和集成技巧，为开发者提供了实用的操作指南。",
+        "en": "The article \"Claude Code in the cloud: a field guide to cloud sessions\" explains how running Claude Code on its own machine differs from standard use. It highlights workflows where this setup is beneficial and provides guidance on connecting GitHub for the first time. The focus is on practical implementation and efficiency in cloud-based environments."
+      },
+      "summary": "《云中Claude代码：云会话指南》介绍了Claude Code在独立机器上运行时的变化、适用的工作流程以及首次连接GitHub的方法。文章重点探讨了Claude Code在云环境中的部署和集成技巧，为开发者提供了实用的操作指南。"
+    },
+    {
+      "title": "We’re expanding the Claude Startups program to help founders build",
+      "link": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "We’re expanding the Claude Startups program to help founders build",
+      "contentSnippet": "We’re expanding the Claude Startups program to help founders build",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Startups计划正在扩展，旨在帮助创始人构建项目。该计划将提供更多资源和支持，以促进初创企业的成长和发展。通过此次扩展，Claude将更好地服务创业者，助力其实现创新目标。",
+        "en": "The Claude Startups program is being expanded to assist founders in building their businesses. The initiative aims to provide support and resources for startup development. The updated program will offer enhanced tools and guidance to help founders scale their ventures effectively. This expansion reflects the program's commitment to fostering innovation and growth in the startup ecosystem."
+      },
+      "summary": "Claude Startups计划正在扩展，旨在帮助创始人构建项目。该计划将提供更多资源和支持，以促进初创企业的成长和发展。通过此次扩展，Claude将更好地服务创业者，助力其实现创新目标。"
+    },
+    {
+      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
+      "link": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "contentSnippet": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "creator": "",
+      "summaries": {
+        "zh": "康卡斯特和博思艾伦通过“玻璃翼”项目使用Claude Mythos高级模型，识别并验证了现有扫描器遗漏的漏洞，从而增强了其代码库的安全性。",
+        "en": "Comcast and Booz Allen security teams utilized Claude Mythos-class models via Project Glasswing to identify, validate, and remediate vulnerabilities overlooked by standard scanners. The models helped secure their codebases by uncovering exploit chains. This approach enhanced their vulnerability detection capabilities."
+      },
+      "summary": "康卡斯特和博思艾伦通过“玻璃翼”项目使用Claude Mythos高级模型，识别并验证了现有扫描器遗漏的漏洞，从而增强了其代码库的安全性。"
+    },
+    {
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "contentSnippet": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude现与Google Docs、Sheets和Slides合作。通过新的插件和Google套件连接器（测试版），Google Workspace团队可直接在文件中引入Claude，或从Claude端处理文件。",
+        "en": "Claude has integrated with Google Workspace, allowing teams to use it within Google Docs, Sheets, and Slides via a new add-on and connectors (currently in beta). Users can now bring Claude into their files or work on files directly from Claude, enhancing collaboration and productivity within Google's suite of tools."
+      },
+      "summary": "Claude现与Google Docs、Sheets和Slides合作。通过新的插件和Google套件连接器（测试版），Google Workspace团队可直接在文件中引入Claude，或从Claude端处理文件。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:45:06.985Z"
+}

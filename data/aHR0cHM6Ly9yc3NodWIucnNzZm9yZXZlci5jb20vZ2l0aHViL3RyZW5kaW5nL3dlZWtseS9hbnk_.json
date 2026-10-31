@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aacf36b9618994e187472161da66ea405bcf2e63027774c527640d3909a74068/Nutlope/hallmark\" referrerpolicy=\"no-referrer\"><br>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.<br><br>Language: CSS<br>Stars: 43590<br>Forks: 2287",
+      "contentSnippet": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\nLanguage: CSS\nStars: 43590\nForks: 2287",
+      "creator": "Nutlope",
+      "summaries": {
+        "zh": "标题：Nutlope/hallmark\n\n内容：该项目提供反AI低质量代码的设计技巧，适用于Claude Code、Cursor和Codex。使用CSS技术，目前获得43590个星标和2287次分叉。",
+        "en": "The article discusses a design skill for Claude Code, Cursor, and Codex, aimed at combating \"anti-AI-slop.\" It focuses on CSS and has garnered significant attention, with 43,590 stars and 2,287 forks on platforms like GitHub. The content emphasizes creating cleaner, more efficient designs to improve user experience."
+      },
+      "summary": "标题：Nutlope/hallmark\n\n内容：该项目提供反AI低质量代码的设计技巧，适用于Claude Code、Cursor和Codex。使用CSS技术，目前获得43590个星标和2287次分叉。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba4067f9221c0ca3bbb9fdeb2036f213092204f47ab9cf8cc413dd5e8f502fed/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 54924<br>Forks: 3574",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 54924\nForks: 3574",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该技能为多阶段安全审计提供编码代理功能，其特点是独立验证的机器可读结果。基于JavaScript开发，该技能在GitHub上获得43291个星标和2701次分叉，显示出较高的社区认可度。",
+        "en": "The article describes a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The skill has gained significant popularity, with 43,291 stars and 2,701 forks on its repository."
+      },
+      "summary": "该技能为多阶段安全审计提供编码代理功能，其特点是独立验证的机器可读结果。基于JavaScript开发，该技能在GitHub上获得43291个星标和2701次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "AgriciDaniel/claude-seo",
+      "link": "https://github.com/AgriciDaniel/claude-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1152014594/0e048e51-24ae-435b-9b32-cc6b3def5356\" referrerpolicy=\"no-referrer\"><br>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.<br><br>Language: Python<br>Stars: 24855<br>Forks: 3303",
+      "contentSnippet": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.\nLanguage: Python\nStars: 24855\nForks: 3303",
+      "creator": "AgriciDaniel",
+      "summaries": {
+        "zh": "该工具集提供通用的SEO技能，适用于Claude代码。包含26项子技能和19个子代理，涵盖技术SEO、E-E-A-T、Schema、GEO/AEO、代理准备（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地SEO、电子商务、国际SEO、Google API以及PDF/Excel报告。提供9个可选扩展，用于实时SEO数据。使用Python开发，获得21989个星标和3021次分叉。",
+        "en": "The \"AgriciDaniel/claude-seo\" repository offers a universal SEO skill set for Claude Code, comprising 26 sub-skills and 19 sub-agents. It covers technical SEO, E-E-A-T, schema markup, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local and international SEO, e-commerce, Google APIs, and PDF/Excel reporting. Nine optional extensions provide live SEO data. The tool is written in Python and has 21,989 stars and 3,021 forks on GitHub."
+      },
+      "summary": "该工具集提供通用的SEO技能，适用于Claude代码。包含26项子技能和19个子代理，涵盖技术SEO、E-E-A-T、Schema、GEO/AEO、代理准备（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地SEO、电子商务、国际SEO、Google API以及PDF/Excel报告。提供9个可选扩展，用于实时SEO数据。使用Python开发，获得21989个星标和3021次分叉。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1d29156b973f829d8b0017d4f38210567b2570dc541facba5d0e451903bd5f19/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.<br><br>Language: Rust<br>Stars: 97887<br>Forks: 5773",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nLanguage: Rust\nStars: 97887\nForks: 5773",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "标题：pbakaus/impeccable\n\n简介：这是一个为代码代理设计的设计词汇库。它支持以优雅和坚定的方式引导，以批判和审计的方式审查，并在发布前捕获AI的粗糙部分。使用Rust语言开发，拥有91958个星标和5437个分支。",
+        "en": "The \"pbakaus/impeccable\" project provides a design vocabulary for coding agents, enabling users to steer with polish and bolder approaches, review with critique and audit, and catch AI-generated issues before deployment. Developed in Rust, it has 91,958 stars and 5,437 forks on platforms like GitHub."
+      },
+      "summary": "标题：pbakaus/impeccable\n\n简介：这是一个为代码代理设计的设计词汇库。它支持以优雅和坚定的方式引导，以批判和审计的方式审查，并在发布前捕获AI的粗糙部分。使用Rust语言开发，拥有91958个星标和5437个分支。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9484c4dac172303620a9a791110ef486e674214c982f15ee5315f0e1c4b62145/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 309833<br>Forks: 27560",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 309833\nForks: 27560",
+      "creator": "obra",
+      "summaries": {
+        "zh": "本文介绍了一种名为\"obra/superpowers\"的智能技能框架和软件开发方法。该框架适用于软件开发，具有高效性和实用性。在GitHub上，该项目拥有308,045颗星和27,397个分支，显示出其受欢迎程度和社区活跃度。",
+        "en": "The article discusses an agentic skills framework and software development methodology designed to be effective. It is associated with the project \"obra/superpowers,\" which has 308,045 stars and 27,397 forks on its repository. The framework aims to streamline software development processes."
+      },
+      "summary": "本文介绍了一种名为\"obra/superpowers\"的智能技能框架和软件开发方法。该框架适用于软件开发，具有高效性和实用性。在GitHub上，该项目拥有308,045颗星和27,397个分支，显示出其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/052eab8ba184ff9bdd6c0764b08323d1cb6a6cf1301b73866c63401ce5234313/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 227289<br>Forks: 22677",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 227289\nForks: 22677",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "该文件名为\"CLAUDE.md\"，旨在改进Claude代码行为，其内容基于Andrej Karpathy对大型语言模型（LLM）编码陷阱的观察。该文件在GitHub上获得223,525个星标和22,389次分叉，显示出较高的关注度。",
+        "en": "The \"multica-ai/andrej-karpathy-skills\" repository contains a CLAUDE.md file designed to enhance Claude Code's performance. The file is based on Andrej Karpathy's insights into common pitfalls in large language model (LLM) coding. It has garnered 223,525 stars and 22,389 forks on its platform."
+      },
+      "summary": "该文件名为\"CLAUDE.md\"，旨在改进Claude代码行为，其内容基于Andrej Karpathy对大型语言模型（LLM）编码陷阱的观察。该文件在GitHub上获得223,525个星标和22,389次分叉，显示出较高的关注度。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 118935<br>Forks: 22735",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 118935\nForks: 22735",
+      "creator": "TauricResearch",
+      "summaries": {
+        "zh": "TauricResearch/TradingAgents是一个基于Python的多智能体LLM金融交易框架。该框架支持多智能体协作进行金融交易，目前获得115798个星标和22237次分叉，显示出较高的社区认可度。",
+        "en": "**Summary:**  \nThe \"TradingAgents\" project is a multi-agent Large Language Model (LLM) framework for financial trading, developed in Python. It supports multi-agent interactions and is designed for automated trading systems. The project has gained significant popularity, with 115,798 stars and 22,237 forks on its repository."
+      },
+      "summary": "TauricResearch/TradingAgents是一个基于Python的多智能体LLM金融交易框架。该框架支持多智能体协作进行金融交易，目前获得115798个星标和22237次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "jakubkrehel/skills",
+      "link": "https://github.com/jakubkrehel/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1296300799/604a8cf6-9e66-4c34-bb2b-d583e3907e05\" referrerpolicy=\"no-referrer\"><br>A collection of agent skills that help you build great interfaces.<br><br>Language: Markdown<br>Stars: 9519<br>Forks: 367",
+      "contentSnippet": "A collection of agent skills that help you build great interfaces.\nLanguage: Markdown\nStars: 9519\nForks: 367",
+      "creator": "jakubkrehel",
+      "summaries": {
+        "zh": "标题：jakubkrehel/skills  \n简介：这是一个包含多种代理技能的集合，旨在帮助用户构建优秀的界面。该资源使用Markdown格式编写，获得8910个星标和339次分叉。",
+        "en": "The article \"jakubkrehel/skills\" is a collection of agent skills designed to assist in building user interfaces. The content is presented in Markdown. The repository has received significant popularity, with 8,904 stars and 339 forks on its hosting platform."
+      },
+      "summary": "标题：jakubkrehel/skills  \n简介：这是一个包含多种代理技能的集合，旨在帮助用户构建优秀的界面。该资源使用Markdown格式编写，获得8910个星标和339次分叉。"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31\" referrerpolicy=\"no-referrer\"><br>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages<br><br>Language: JavaScript<br>Stars: 106772<br>Forks: 7222",
+      "contentSnippet": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages\nLanguage: JavaScript\nStars: 106772\nForks: 7222",
+      "creator": "Leonxlnx",
+      "summaries": {
+        "zh": "文章标题：Leonxlnx/taste-skill\n\n文章内容：该项目为编程代理赋予“品味”功能，通过艺术指导、参考图像和浏览器检查代替通用AI页面。使用JavaScript开发，获得104319星和7058次分叉。",
+        "en": "The article \"Leonxlnx/taste-skill\" discusses agent skills for coding agents, emphasizing art direction, reference images, and browser checks. These features replace generic AI pages, enhancing coding agent functionality. The project has 104,319 stars and 7,058 forks on GitHub."
+      },
+      "summary": "文章标题：Leonxlnx/taste-skill\n\n文章内容：该项目为编程代理赋予“品味”功能，通过艺术指导、参考图像和浏览器检查代替通用AI页面。使用JavaScript开发，获得104319星和7058次分叉。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba4067f9221c0ca3bbb9fdeb2036f213092204f47ab9cf8cc413dd5e8f502fed/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 34245<br>Forks: 8732",
+      "contentSnippet": "Language: TypeScript\nStars: 34245\nForks: 8732",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "标题：pingdotgg/t3code  \n内容：该 TypeScript 项目在 GitHub 上拥有 32,321 个星标和 8,568 次分叉，展示了其较高的受欢迎程度和社区活跃度。",
+        "en": "The repository \"pingdotgg/t3code\" is written in TypeScript, with 32,321 stars and 8,568 forks on its hosting platform."
+      },
+      "summary": "标题：pingdotgg/t3code  \n内容：该 TypeScript 项目在 GitHub 上拥有 32,321 个星标和 8,568 次分叉，展示了其较高的受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 107277<br>Forks: 9423",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 107277\nForks: 9423",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该工具为每个代理提供跨会话的持久上下文功能。它记录代理在会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中，以提供更连贯的交互体验。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种语言和平台。目前已有107,277个星标和9,423个分支。",
+        "en": "The project \"thedotmack/claude-mem\" enables persistent context across sessions for various AI agents. It records agent activities, compresses data using AI, and injects relevant context into future sessions. The system supports Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, and OpenCode. It has 107,277 stars and 9,423 forks on its repository."
+      },
+      "summary": "该工具为每个代理提供跨会话的持久上下文功能。它记录代理在会话中的所有操作，通过AI压缩并提取相关内容，将其注入未来会话中，以提供更连贯的交互体验。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种语言和平台。目前已有107,277个星标和9,423个分支。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7acefa6a66beef6c93fcdeb8d37b57dc51586d23d041b627c6f100cc30f47047/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 185759<br>Forks: 21930",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 185759\nForks: 21930",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该仓库是一个用于代理技能的公共代码库，使用Python编写。目前拥有184,981个星标和21,874次分叉。",
+        "en": "The article discusses a public repository named \"anthropics/skills,\" which is a collection of Agent Skills written in Python. It has garnered significant popularity, boasting 184,981 stars and 21,874 forks on its platform. The repository serves as a resource for developers working on agent-based systems, providing a centralized location for shared skills and tools. The content highlights its utility and community engagement, reflecting its importance in the field."
+      },
+      "summary": "该仓库是一个用于代理技能的公共代码库，使用Python编写。目前拥有184,981个星标和21,874次分叉。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/17eb99b17612b4fa9c4ecbcddfa18fa4acba9ad1ebe10b028e22e06d3046f2cb/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 293792<br>Forks: 43477",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 293792\nForks: 43477",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等平台。基于JavaScript，该项目在GitHub上获293061星和43361次分叉。",
+        "en": "The \"affaan-m/ECC\" repository is a performance optimization system for AI agents, focusing on skills, instincts, memory, security, and research-first development. It supports Claude Code, Codex, Opencode, Cursor, and future models. The project is written in JavaScript and has 293,061 stars and 43,361 forks on GitHub."
+      },
+      "summary": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等平台。基于JavaScript，该项目在GitHub上获293061星和43361次分叉。"
+    },
+    {
+      "title": "YuJunZhiXue/dsh-purge",
+      "link": "https://github.com/YuJunZhiXue/dsh-purge",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/247e4a4b18aca9b03292f8149297d93def2beb27fe2035ac517443e11be14db6/YuJunZhiXue/dsh-purge\" referrerpolicy=\"no-referrer\"><br>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分<br><br>Language: JavaScript<br>Stars: 14408<br>Forks: 3317",
+      "contentSnippet": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分\nLanguage: JavaScript\nStars: 14408\nForks: 3317",
+      "creator": "YuJunZhiXue",
+      "summaries": {
+        "zh": "《YuJunZhiXue/dsh-purge》项目推出DeepSeek Harness工具，实现跨模型\"破甲\"（绕过限制），支持不同模型使用不同提示词。默认提示词针对国产模型\"小码酱\"。项目提供模型切换提示词功能，并呼吁Star收藏。如需二次开发，需查看署名要求。项目目前获14408星标，3317次Fork。",
+        "en": "The DeepSeek Harness tool, titled \"破甲,\" enables jailbreaking for all models by allowing users to swap different prompts per model. The default prompt is tailored for Chinese models, specifically \"小码酱.\" The project supports multiple models with customizable prompts. It has 14,408 stars and 3,317 forks on GitHub. Users interested in redistributing the tool should check the attribution requirements."
+      },
+      "summary": "《YuJunZhiXue/dsh-purge》项目推出DeepSeek Harness工具，实现跨模型\"破甲\"（绕过限制），支持不同模型使用不同提示词。默认提示词针对国产模型\"小码酱\"。项目提供模型切换提示词功能，并呼吁Star收藏。如需二次开发，需查看署名要求。项目目前获14408星标，3317次Fork。"
+    },
+    {
+      "title": "AstrBotDevs/AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/af24973a111fff606c585d5e5c1c83269e02b96e0c3ead3b069519b7d0ca9728/AstrBotDevs/AstrBot\" referrerpolicy=\"no-referrer\"><br>AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨<br><br>Language: Python<br>Stars: 45265<br>Forks: 3313",
+      "contentSnippet": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨\nLanguage: Python\nStars: 45265\nForks: 3313",
+      "creator": "AstrBotDevs",
+      "summaries": {
+        "zh": "\"AstrBotDevs/AstrBot\"是一个AI智能代理助手及开发框架，整合了多种即时通讯平台、大语言模型、插件和AI功能，可作为\"openclaw\"的替代方案。该框架使用Python开发，目前获得45265个星标和3313次分叉。",
+        "en": "AstrBotDevs/AstrBot is an AI agent assistant and development framework that integrates multiple IM platforms, large language models (LLMs), plugins, and AI features. It serves as an open-source alternative, written in Python. The project has gained significant popularity with 45,265 stars and 3,313 forks on its repository. AstrBot is designed to provide developers with a versatile tool for building AI-driven applications across various communication platforms."
+      },
+      "summary": "\"AstrBotDevs/AstrBot\"是一个AI智能代理助手及开发框架，整合了多种即时通讯平台、大语言模型、插件和AI功能，可作为\"openclaw\"的替代方案。该框架使用Python开发，目前获得45265个星标和3313次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-10-31T15:45:34.157Z"
+}
