@@ -59,6 +59,10 @@
 
 ## 🚀 Deployment
 
+### Method 0: One-Click Deploy on RepoCloud
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/FeedMe/)
+
 ### Method 1: GitHub Pages Deployment
 
 This project uses GitHub Actions for automatic deployment to GitHub Pages, with a single workflow handling both data updates and website deployment.
