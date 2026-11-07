@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
+      "pubDate": "Fri, 06 Nov 2026 23:13:45 GMT",
+      "isoDate": "2026-11-06T23:13:45.000Z",
+      "content": "A top executive at data center operator Groq has kicked off an audacious bid to double its valuation in about three months while slamming rivals in the space for being too reliant on debt markets.",
+      "contentSnippet": "A top executive at data center operator Groq has kicked off an audacious bid to double its valuation in about three months while slamming rivals in the space for being too reliant on debt markets.",
+      "creator": "Sridhar Natarajan and Natasha Mascarenhas",
+      "summaries": {
+        "zh": "新云数据中心运营商Groq高管雄心勃勃地计划在未来三个月内将公司估值翻倍，同时批评该领域竞争对手过度依赖债务市场。",
+        "en": "Groq, a data center operator, aims to double its valuation to $8 billion in three months amid an AI selloff. A top executive has initiated this ambitious goal while criticizing competitors for excessive reliance on debt markets. The company seeks to strengthen its position in the industry."
+      },
+      "summary": "新云数据中心运营商Groq高管雄心勃勃地计划在未来三个月内将公司估值翻倍，同时批评该领域竞争对手过度依赖债务市场。"
+    },
+    {
+      "title": "AI Selloff Exposes Data Center Boom Risks",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
+      "pubDate": "Fri, 06 Nov 2026 22:39:38 GMT",
+      "isoDate": "2026-11-06T22:39:38.000Z",
+      "content": "The selloff in AI stocks is adding new uncertainty to the massive buildout of data centers across the US. Jolienne Halisky, CFO of AIB Data Centers, says financing for new projects could become more expensive and take longer as lenders reassess risk, while permitting, power and chip availability remain constraints. She joins Bloomberg Businessweek Daily to discuss her company's plans for its first Texas data center, concerns surrounding its anchor tenant Nebius, and why she believes the recent AI market rout will prove temporary. (Source: Bloomberg)",
+      "contentSnippet": "The selloff in AI stocks is adding new uncertainty to the massive buildout of data centers across the US. Jolienne Halisky, CFO of AIB Data Centers, says financing for new projects could become more expensive and take longer as lenders reassess risk, while permitting, power and chip availability remain constraints. She joins Bloomberg Businessweek Daily to discuss her company's plans for its first Texas data center, concerns surrounding its anchor tenant Nebius, and why she believes the recent AI market rout will prove temporary. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "AI股票抛售加剧了美国数据中心大规模建设的风险。AIB数据中心首席财务官Jolienne Halisky表示，由于贷款方重新评估风险，新项目融资可能更昂贵且耗时更长，同时许可、电力和芯片供应仍受限。她讨论了公司在德克萨斯州首个数据中心的计划、对核心租户Nebius的担忧，并认为近期AI市场热潮将短暂。融资成本上升、审批及资源限制是主要挑战。(约90字)",
+        "en": "The AI stock selloff is increasing uncertainty in the US data center buildout. CFO Jolienne Halisky of AIB Data Centers warns that financing may become costlier and slower as lenders reassess risks. Permitting, power, and chip availability remain key challenges. She discusses plans for a Texas data center and concerns about anchor tenant Nebius, adding the recent AI market rally is likely temporary. (Source: Bloomberg)"
+      },
+      "summary": "AI股票抛售加剧了美国数据中心大规模建设的风险。AIB数据中心首席财务官Jolienne Halisky表示，由于贷款方重新评估风险，新项目融资可能更昂贵且耗时更长，同时许可、电力和芯片供应仍受限。她讨论了公司在德克萨斯州首个数据中心的计划、对核心租户Nebius的担忧，并认为近期AI市场热潮将短暂。融资成本上升、审批及资源限制是主要挑战。(约90字)"
+    },
+    {
+      "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 on AI Trade Worries",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
+      "pubDate": "Fri, 06 Nov 2026 12:59:46 GMT",
+      "isoDate": "2026-11-06T12:59:46.000Z",
+      "content": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.",
+      "contentSnippet": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.",
+      "creator": "Natalia Kniazhevich",
+      "summaries": {
+        "zh": "美国股市周五出现企稳迹象，逢低买入者开始支撑受重创的人工智能板块，但本周的暴跌让投资者质疑市场是否见底。",
+        "en": "US stocks stabilized on Friday as investors purchased dips, particularly in artificial intelligence, though concerns remain about the severity of the recent sell-off. The market's rebound suggests some confidence, but uncertainty lingers about whether the downturn has peaked."
+      },
+      "summary": "美国股市周五出现企稳迹象，逢低买入者开始支撑受重创的人工智能板块，但本周的暴跌让投资者质疑市场是否见底。"
+    },
+    {
+      "title": "Big Take: The New AI Trade Is FOGO",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
+      "pubDate": "Fri, 06 Nov 2026 21:42:03 GMT",
+      "isoDate": "2026-11-06T21:42:03.000Z",
+      "content": "Wall Street’s AI rout sent US and then Asian markets tumbling, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie. (Source: Bloomberg)",
+      "contentSnippet": "Wall Street’s AI rout sent US and then Asian markets tumbling, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "华尔街AI热潮引发美股和亚洲市场震荡，引发对全球AI繁荣可持续性的质疑，并引发对下一轮机遇的探讨。（约100字）",
+        "en": "The AI market's rapid rise has triggered sell-offs in US and Asian markets, sparking concerns about its long-term sustainability. Investors are now uncertain about future opportunities in the sector."
+      },
+      "summary": "华尔街AI热潮引发美股和亚洲市场震荡，引发对全球AI繁荣可持续性的质疑，并引发对下一轮机遇的探讨。（约100字）"
+    },
+    {
+      "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+      "pubDate": "Fri, 06 Nov 2026 20:58:41 GMT",
+      "isoDate": "2026-11-06T20:58:41.000Z",
+      "content": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as the information is not public. The remainder of the round, which could increase to as much as $20 billion in total, is expected to be completed in the coming weeks, one person said.The AI developer has been in talks for ",
+      "contentSnippet": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as the information is not public. The remainder of the round, which could increase to as much as $20 billion in total, is expected to be completed in the coming weeks, one person said.The AI developer has been in talks for",
+      "creator": "Natasha Mascarenhas and Rebecca Torrence",
+      "summaries": {
+        "zh": "OpenAI完成约11亿美元新一轮融资，公司估值达1250亿美元，其中11亿美元资金已于周五到位。剩余部分预计未来数周完成，总额可能高达200亿美元。",
+        "en": "OpenAI has secured approximately $11 billion in new funding, part of a larger round that values the company at $1.25 trillion. The funds were transferred as of Friday, with the rest of the round, potentially reaching up to $20 billion, expected to close in the following weeks. The AI developer was previously in discussions for this investment."
+      },
+      "summary": "OpenAI完成约11亿美元新一轮融资，公司估值达1250亿美元，其中11亿美元资金已于周五到位。剩余部分预计未来数周完成，总额可能高达200亿美元。"
+    },
+    {
+      "title": "Bitcoin Steadies After Record Hack Fallout, Midterm Turbulence",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
+      "pubDate": "Fri, 06 Nov 2026 12:07:44 GMT",
+      "isoDate": "2026-11-06T12:07:44.000Z",
+      "content": "Bitcoin settled near recent lows after a bruising selloff on Thursday swept through cryptocurrencies and other risky assets, pressured by lackluster chipmaker earnings and a Democratic sweep of Congress.",
+      "contentSnippet": "Bitcoin settled near recent lows after a bruising selloff on Thursday swept through cryptocurrencies and other risky assets, pressured by lackluster chipmaker earnings and a Democratic sweep of Congress.",
+      "creator": "Emily Nicolle",
+      "summaries": {
+        "zh": "比特币在周四经历一轮下跌后，价格回升至绿色。此次下跌影响了加密货币及其他高风险资产，主要受芯片制造商业绩不佳和民主党掌控国会的影响。",
+        "en": "Bitcoin rebounded from a sell-off, turning positive as investors cautiously assess the market. The decline, affecting cryptocurrencies and risky assets, was driven by weak chipmaker earnings and a Democratic takeover of Congress. The easing selloff reflects a cautious recovery in investor sentiment."
+      },
+      "summary": "比特币在周四经历一轮下跌后，价格回升至绿色。此次下跌影响了加密货币及其他高风险资产，主要受芯片制造商业绩不佳和民主党掌控国会的影响。"
+    },
+    {
+      "title": "Brookfield CEO Says Infrastructure Is Growing Fastest",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/brookfield-ceo-says-infrastructure-is-growing-fastest-video",
+      "pubDate": "Fri, 06 Nov 2026 20:57:06 GMT",
+      "isoDate": "2026-11-06T20:57:06.000Z",
+      "content": "Brookfield Asset Management raised $25 billion in the third quarter, driven by credit and infrastructure, as the money manager positions itself as a key player funding the build-out of artificial intelligence. He speaks to Bloomberg's Dani Burger.  (Source: Bloomberg)",
+      "contentSnippet": "Brookfield Asset Management raised $25 billion in the third quarter, driven by credit and infrastructure, as the money manager positions itself as a key player funding the build-out of artificial intelligence. He speaks to Bloomberg's Dani Burger.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "布鲁克菲尔德资产管理公司在第三季度筹集了250亿美元，主要得益于信贷和基础设施业务。公司正将自己定位为支持人工智能建设的关键资金提供者。这一增长反映了基础设施领域的快速发展。",
+        "en": "Brookfield Asset Management raised $25 billion in the third quarter, primarily from credit and infrastructure investments. The company is positioning itself as a major funder for the expansion of artificial intelligence infrastructure. The funds will support the growing demand for AI-related projects. (Word count: 50)"
+      },
+      "summary": "布鲁克菲尔德资产管理公司在第三季度筹集了250亿美元，主要得益于信贷和基础设施业务。公司正将自己定位为支持人工智能建设的关键资金提供者。这一增长反映了基础设施领域的快速发展。"
+    },
+    {
+      "title": "Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/time-to-move-forward-on-sensible-ai-regulation-liccardo-video",
+      "pubDate": "Fri, 06 Nov 2026 20:09:16 GMT",
+      "isoDate": "2026-11-06T20:09:16.000Z",
+      "content": "Democrat Representative from California Sam Liccardo said that congress has 'issued a lot of press releases' on issues surrounding technology, but haven't managed to push meaningful legislation over the finish line. Liccardo, whose district includes parts of Silicon Valley, said it is critical lawmakers act on AI concerns and that it is time to move forward with 'sensible' regulation.  (Source: Bloomberg)",
+      "contentSnippet": "Democrat Representative from California Sam Liccardo said that congress has 'issued a lot of press releases' on issues surrounding technology, but haven't managed to push meaningful legislation over the finish line. Liccardo, whose district includes parts of Silicon Valley, said it is critical lawmakers act on AI concerns and that it is time to move forward with 'sensible' regulation.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "加州民主党众议员Liccardo表示，国会虽就科技问题发布过多声明，但未能通过有意义的立法。其辖区包含硅谷部分区域，Liccardo强调议员需应对AI问题，并主张推进“合理”监管。来源：彭博社",
+        "en": "Democrat Representative Sam Liccardo of California criticized Congress for producing many press releases on technology issues without passing meaningful legislation. He emphasized the importance of acting on AI concerns, advocating for \"sensible\" regulation. Liccardo, whose district includes parts of Silicon Valley, stressed the need for lawmakers to move forward with concrete AI policies. (Word count: 50)"
+      },
+      "summary": "加州民主党众议员Liccardo表示，国会虽就科技问题发布过多声明，但未能通过有意义的立法。其辖区包含硅谷部分区域，Liccardo强调议员需应对AI问题，并主张推进“合理”监管。来源：彭博社"
+    },
+    {
+      "title": "Power On: How Private Is an Always-Listening Apple Watch?",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/power-on-how-private-is-an-always-listening-apple-watch-video",
+      "pubDate": "Fri, 06 Nov 2026 20:09:02 GMT",
+      "isoDate": "2026-11-06T20:09:02.000Z",
+      "content": "Apple is bringing some its most ambitious AI capabilities to its products. As AI becomes increasingly woven into daily life, questions over privacy are likely to follow.\n\nOn this episode of the Power On podcast, Mark Gurman and Vlad Savov discuss privacy implications of new always-listening Apple Watch features. (Source: Bloomberg)",
+      "contentSnippet": "Apple is bringing some its most ambitious AI capabilities to its products. As AI becomes increasingly woven into daily life, questions over privacy are likely to follow.\n\nOn this episode of the Power On podcast, Mark Gurman and Vlad Savov discuss privacy implications of new always-listening Apple Watch features. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "《Power On》节目探讨了新款苹果手表持续监听功能的隐私问题。马克·古尔曼和弗拉德·萨沃夫分析了苹果将AI技术融入产品后引发的隐私担忧，指出随着AI在日常生活中应用增多，相关隐私问题将备受关注。",
+        "en": "The Power On podcast explores privacy concerns surrounding Apple's always-listening Apple Watch, as the company integrates advanced AI into its products. Mark Gurman and Vlad Savov discuss how these new features, which include constant listening, raise questions about user privacy amid the growing role of AI in daily life. The conversation highlights potential implications as AI becomes more prevalent. (98 words)"
+      },
+      "summary": "《Power On》节目探讨了新款苹果手表持续监听功能的隐私问题。马克·古尔曼和弗拉德·萨沃夫分析了苹果将AI技术融入产品后引发的隐私担忧，指出随着AI在日常生活中应用增多，相关隐私问题将备受关注。"
+    },
+    {
+      "title": "Data Center Delays Risk an ‘Air Gap’ for Chips: Lovell",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/data-center-delays-risk-an-air-gap-for-chips-lovell-video",
+      "pubDate": "Fri, 06 Nov 2026 20:03:49 GMT",
+      "isoDate": "2026-11-06T20:03:49.000Z",
+      "content": "Nadia Lovell, head of global equity strategy at UBS Global Wealth Management, says data center delays could create an “air gap” for semiconductors, pressuring inventories, prices and margins. She favors compute over memory and hyperscalers with existing capacity. She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "contentSnippet": "Nadia Lovell, head of global equity strategy at UBS Global Wealth Management, says data center delays could create an “air gap” for semiconductors, pressuring inventories, prices and margins. She favors compute over memory and hyperscalers with existing capacity. She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "UBS全球财富管理首席全球股票策略师Nadia Lovell表示，数据中心延迟可能为半导体行业制造“空气间隙”，这将导致库存、价格和利润率承压。她更青睐计算领域而非存储领域，并倾向于现有产能的超级计算器。此观点源自彭博社报道。",
+        "en": "Nadia Lovell, head of global equity strategy at UBS, warns that data center delays could create an \"air gap\" for semiconductors, impacting inventories, prices, and margins. She advises favoring compute over memory and hyperscalers with existing capacity. The insights were shared on \"Bloomberg Surveillance.\" (Source: Bloomberg)"
+      },
+      "summary": "UBS全球财富管理首席全球股票策略师Nadia Lovell表示，数据中心延迟可能为半导体行业制造“空气间隙”，这将导致库存、价格和利润率承压。她更青睐计算领域而非存储领域，并倾向于现有产能的超级计算器。此观点源自彭博社报道。"
+    },
+    {
+      "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
+      "pubDate": "Fri, 06 Nov 2026 17:34:03 GMT",
+      "isoDate": "2026-11-06T17:34:03.000Z",
+      "content": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
+      "contentSnippet": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
+      "creator": "Loren Grush and Carmen Arroyo",
+      "summaries": {
+        "zh": "SpaceX将减少对美国政府资助合同的依赖，Elon Musk表示，公司正转向其他合作领域，标志着一个重要合作关系的转变。",
+        "en": "SpaceX is reducing its dependence on U.S. government contracts, Elon Musk announced, indicating a shift away from its most significant partnership. The company is embracing commercial compute deals to ease reliance on federal funding. This change reflects a strategic move to diversify its revenue sources and reduce dependence on government contracts, which were previously the cornerstone of its business."
+      },
+      "summary": "SpaceX将减少对美国政府资助合同的依赖，Elon Musk表示，公司正转向其他合作领域，标志着一个重要合作关系的转变。"
+    },
+    {
+      "title": "Google Takes Over Wyoming Data Center That Crusoe Had Pitched",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
+      "pubDate": "Fri, 06 Nov 2026 19:30:21 GMT",
+      "isoDate": "2026-11-06T19:30:21.000Z",
+      "content": "Alphabet Inc.’s Google has bought out Crusoe’s data center site in southeast Wyoming, opting to take on the project itself after the AI computing upstart failed to lock in customers.",
+      "contentSnippet": "Alphabet Inc.’s Google has bought out Crusoe’s data center site in southeast Wyoming, opting to take on the project itself after the AI computing upstart failed to lock in customers.",
+      "creator": "Lynn Doan",
+      "summaries": {
+        "zh": "谷歌收购了Crusoe公司在怀俄明州东南部的数据中心项目。此前，这家人工智能计算初创公司未能吸引客户，谷歌决定接管该项目。",
+        "en": "Google has acquired Crusoe's Wyoming data center project, previously pitched by Crusoe, after the AI computing startup failed to secure customers. The acquisition allows Google to take over the project independently."
+      },
+      "summary": "谷歌收购了Crusoe公司在怀俄明州东南部的数据中心项目。此前，这家人工智能计算初创公司未能吸引客户，谷歌决定接管该项目。"
+    },
+    {
+      "title": "Onsemi Scraps Plan for $2 Billion Expansion in Czech Republic",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/onsemi-scraps-plan-for-2-billion-expansion-in-czech-republic",
+      "pubDate": "Fri, 06 Nov 2026 19:24:13 GMT",
+      "isoDate": "2026-11-06T19:24:13.000Z",
+      "content": "ON Semiconductor Corp. scrapped plans for a semiconductor expansion in the Czech Republic that was initially valued at as much as $2 billion.",
+      "contentSnippet": "ON Semiconductor Corp. scrapped plans for a semiconductor expansion in the Czech Republic that was initially valued at as much as $2 billion.",
+      "creator": "Michal Kubala",
+      "summaries": {
+        "zh": "安森美半导体公司取消了原计划在捷克共和国投资高达20亿美元的半导体扩张项目。",
+        "en": "Onsemi has canceled its planned $2 billion semiconductor expansion project in the Czech Republic. The company has decided to abandon the initiative, which had been proposed as a significant investment in the region."
+      },
+      "summary": "安森美半导体公司取消了原计划在捷克共和国投资高达20亿美元的半导体扩张项目。"
+    },
+    {
+      "title": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
+      "pubDate": "Fri, 06 Nov 2026 19:14:32 GMT",
+      "isoDate": "2026-11-06T19:14:32.000Z",
+      "content": "An OpenAI engineer charged with planting a hidden recording device in one of the company’s offices pleaded not guilty in federal court.",
+      "contentSnippet": "An OpenAI engineer charged with planting a hidden recording device in one of the company’s offices pleaded not guilty in federal court.",
+      "creator": "Rachel Metz",
+      "summaries": {
+        "zh": "OpenAI一名工程师因在公司办公室安装隐蔽录音设备被起诉，已在联邦法院表示不认罪。",
+        "en": "An OpenAI engineer pleaded not guilty to charges of planting a hidden recording device in a company office. The case was heard in federal court."
+      },
+      "summary": "OpenAI一名工程师因在公司办公室安装隐蔽录音设备被起诉，已在联邦法院表示不认罪。"
+    },
+    {
+      "title": "Tech Stocks Rebound as Dip Buyers Return to AI Trade",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-tech-11-06-2026-video",
+      "pubDate": "Fri, 06 Nov 2026 18:53:36 GMT",
+      "isoDate": "2026-11-06T18:53:36.000Z",
+      "content": "Bloomberg’s Tim Stenovec takes a look at what's driving a rebound in tech stocks as dip buyers step in to support the battered AI trade. Plus, Anthropic's IPO plans are hit by the post-election selloff, prompting prospective investors to rethink the company's expected valuation; and the CEOs of Lyft and DraftKings join to break down their earnings results. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg’s Tim Stenovec takes a look at what's driving a rebound in tech stocks as dip buyers step in to support the battered AI trade. Plus, Anthropic's IPO plans are hit by the post-election selloff, prompting prospective investors to rethink the company's expected valuation; and the CEOs of Lyft and DraftKings join to break down their earnings results. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "科技股反弹，抄底资金重返AI交易。彭博分析师Tim Stenovec探讨反弹原因。Anthropic的IPO因选举后抛售受挫，投资者重新评估其估值。Lyft和DraftKingsCEO联合分析财报结果。",
+        "en": "Tech stocks rebound as dip buyers return to support the AI sector, according to Bloomberg’s Tim Stenovec. Anthropic’s IPO plans face challenges due to the post-election selloff, with investors reassessing the company’s valuation. Additionally, Lyft and DraftKings CEOs discuss their earnings results in a joint appearance. (Source: Bloomberg)"
+      },
+      "summary": "科技股反弹，抄底资金重返AI交易。彭博分析师Tim Stenovec探讨反弹原因。Anthropic的IPO因选举后抛售受挫，投资者重新评估其估值。Lyft和DraftKingsCEO联合分析财报结果。"
+    },
+    {
+      "title": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/how-fast-money-systematic-funds-stoked-2-3t-tech-rout-video",
+      "pubDate": "Fri, 06 Nov 2026 18:49:25 GMT",
+      "isoDate": "2026-11-06T18:49:25.000Z",
+      "content": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasdaq 100 index. Bloomberg's Natalia Kniazhevich joins Tim Stenovec on “Bloomberg Tech.” (Source: Bloomberg)",
+      "contentSnippet": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasdaq 100 index. Bloomberg's Natalia Kniazhevich joins Tim Stenovec on “Bloomberg Tech.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "美国科技股周四遭遇抛售潮，其中快钱系统策略加剧了纳斯达克100指数的市值暴跌。据彭博报道，该指数创下纪录跌幅，系统性策略的卖出行为放大了市场波动。",
+        "en": "The article highlights a $2.3 trillion decline in US technology stocks, driven by investors exiting Nasdaq 100 shares. Trend-following systematic strategies intensified the sell-off, exacerbating a record market value drop. Bloomberg's Natalia Kniazhevich discussed this on \"Bloomberg Tech.\""
+      },
+      "summary": "美国科技股周四遭遇抛售潮，其中快钱系统策略加剧了纳斯达克100指数的市值暴跌。据彭博报道，该指数创下纪录跌幅，系统性策略的卖出行为放大了市场波动。"
+    },
+    {
+      "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-investors-weigh-valuation-as-low-as-1-2t-video",
+      "pubDate": "Fri, 06 Nov 2026 18:47:46 GMT",
+      "isoDate": "2026-11-06T18:47:46.000Z",
+      "content": "Anthropic's IPO plans are running into a punishing post-election selloff, prompting a rethink among prospective investors of the company's expected valuation, which could now be as low as $1.2 trillion, according to sources. Bloomberg's Seth Fiegerman joins Tim Stenovec on “Bloomberg Tech.” (Source: Bloomberg)",
+      "contentSnippet": "Anthropic's IPO plans are running into a punishing post-election selloff, prompting a rethink among prospective investors of the company's expected valuation, which could now be as low as $1.2 trillion, according to sources. Bloomberg's Seth Fiegerman joins Tim Stenovec on “Bloomberg Tech.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的IPO计划因美国大选后的抛售潮而受阻，潜在投资者正重新评估其估值，可能降至1.2万亿美元。据消息人士透露，此情况引发投资者对该公司前景的担忧。来源：彭博社。",
+        "en": "Anthropic's IPO is facing challenges amid a post-election selloff, with investors reevaluating its valuation, now potentially as low as $1.2 trillion. The company's plans are being scrutinized as market conditions shift, prompting a reassessment among prospective investors."
+      },
+      "summary": "Anthropic的IPO计划因美国大选后的抛售潮而受阻，潜在投资者正重新评估其估值，可能降至1.2万亿美元。据消息人士透露，此情况引发投资者对该公司前景的担忧。来源：彭博社。"
+    },
+    {
+      "title": "Lone Pine, Whale Rock, Tiger Global Battered by AI Jitters",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/tiger-global-whale-rock-battered-by-ai-fears-in-painful-october",
+      "pubDate": "Thu, 05 Nov 2026 23:03:01 GMT",
+      "isoDate": "2026-11-05T23:03:01.000Z",
+      "content": "Lone Pine Capital, Tiger Global Management and Whale Rock Capital Management were among stock-picking hedge funds that were pummeled last month as concerns over AI investments roiled markets.",
+      "contentSnippet": "Lone Pine Capital, Tiger Global Management and Whale Rock Capital Management were among stock-picking hedge funds that were pummeled last month as concerns over AI investments roiled markets.",
+      "creator": "Hema Parmar",
+      "summaries": {
+        "zh": "孤独松资本、老虎全球管理和鲸岩资本管理等多家选股对冲基金上月因市场对人工智能投资的担忧而遭受重创。",
+        "en": "Lone Pine Capital, Tiger Global Management, and Whale Rock Capital were hit hard last month as AI investment worries caused market turmoil. The hedge funds, known for stock-picking strategies, faced significant losses due to the market instability linked to AI concerns."
+      },
+      "summary": "孤独松资本、老虎全球管理和鲸岩资本管理等多家选股对冲基金上月因市场对人工智能投资的担忧而遭受重创。"
+    },
+    {
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "pubDate": "Fri, 06 Nov 2026 17:36:39 GMT",
+      "isoDate": "2026-11-06T17:36:39.000Z",
+      "content": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
+      "contentSnippet": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
+      "creator": "Brody Ford",
+      "summaries": {
+        "zh": "微软正终止与甲骨文公司租赁AI云计算能力的协议，此举是微软对数十亿美元云合作进行重新评估的一部分。",
+        "en": "Microsoft is terminating its agreement to rent AI cloud computing capacity from Oracle as part of a broader review of its multi-billion dollar cloud partnerships. The move reflects a strategic shift in how the company approaches its cloud collaborations."
+      },
+      "summary": "微软正终止与甲骨文公司租赁AI云计算能力的协议，此举是微软对数十亿美元云合作进行重新评估的一部分。"
+    },
+    {
+      "title": "Jobs Boom Meets AI Market Turmoil",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/open-interest-11-6-2026-video",
+      "pubDate": "Fri, 06 Nov 2026 17:58:27 GMT",
+      "isoDate": "2026-11-06T17:58:27.000Z",
+      "content": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" A blowout jobs report fuels expectations for another Fed rate hike, even as Wall Street reels from a nearly $4 trillion tech selloff and mounting questions about the AI trade. Plus, Anthropic's IPO prospects and valuation reset, BlackRock CIO Rick Rieder explains the AI unwind and emerging credit opportunities, Kevin Hassett, director of the White House National Economic Council, discusses inflation and Fed policy, and Greg Ebel, CEO of Enbridge Energy, weighs in on the growing energy demands of AI infrastructure. (Source: Bloomberg)",
+      "contentSnippet": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" A blowout jobs report fuels expectations for another Fed rate hike, even as Wall Street reels from a nearly $4 trillion tech selloff and mounting questions about the AI trade. Plus, Anthropic's IPO prospects and valuation reset, BlackRock CIO Rick Rieder explains the AI unwind and emerging credit opportunities, Kevin Hassett, director of the White House National Economic Council, discusses inflation and Fed policy, and Greg Ebel, CEO of Enbridge Energy, weighs in on the growing energy demands of AI infrastructure. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "美国就业市场强劲增长，但科技股暴跌近4万亿美元，引发市场对AI贸易的质疑。美联储加息预期升温，华尔街震荡。Anthropic的IPO前景及估值重估，BlackRock首席投资官Rick Rieder分析AI资产撤出和新兴信贷机会，白宫经济顾问Kevin Hassett讨论通胀与美联储政策，Enbridge能源CEO Greg Ebel指出AI基础设施能耗增长。",
+        "en": "A strong US jobs report boosts Fed rate hike expectations amid Wall Street's $4 trillion tech sell-off and AI market turmoil. Key developments include Anthropic's IPO prospects, BlackRock's AI unwind analysis, White House inflation discussions, and Enbridge's AI energy demand insights. (Word count: 50)"
+      },
+      "summary": "美国就业市场强劲增长，但科技股暴跌近4万亿美元，引发市场对AI贸易的质疑。美联储加息预期升温，华尔街震荡。Anthropic的IPO前景及估值重估，BlackRock首席投资官Rick Rieder分析AI资产撤出和新兴信贷机会，白宫经济顾问Kevin Hassett讨论通胀与美联储政策，Enbridge能源CEO Greg Ebel指出AI基础设施能耗增长。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:09:40.210Z"
+}

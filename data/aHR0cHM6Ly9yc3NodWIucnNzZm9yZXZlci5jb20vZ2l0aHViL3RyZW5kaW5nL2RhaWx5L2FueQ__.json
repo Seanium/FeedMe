@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9365ed798b93a03d74d9b116d67b01fff3f2078b787bd95253382f59e2077118/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 93851<br>Forks: 11513",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 93851\nForks: 11513",
+      "creator": "zed-industries",
+      "summaries": {
+        "zh": "Zed是一款高性能、多玩家的代码编辑器，由Atom和Tree-sitter的开发者打造，使用Rust语言编写。该编辑器以“思维速度编写代码”为理念，目前获得93167个星标和11465次分叉。",
+        "en": "Zed is a high-performance, multiplayer code editor created by the makers of Atom and Tree-sitter. It is developed in Rust and offers real-time collaboration features. The editor has gained significant popularity, boasting 93,167 stars and 11,465 forks on its GitHub repository. Designed for efficiency, Zed aims to provide a smooth coding experience."
+      },
+      "summary": "Zed是一款高性能、多玩家的代码编辑器，由Atom和Tree-sitter的开发者打造，使用Rust语言编写。该编辑器以“思维速度编写代码”为理念，目前获得93167个星标和11465次分叉。"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a0c3a820a19c765be4b7068cc99932e9eae6402955a14ebc44c34ea4b12cf7e/NVIDIA/auto-ontology\" referrerpolicy=\"no-referrer\"><br>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.<br><br>Language: Python<br>Stars: 9354<br>Forks: 740",
+      "contentSnippet": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\nLanguage: Python\nStars: 9354\nForks: 740",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "Auto Ontology是一个基于Python的框架，用于构建基于语义和图推理的数据层。它支持确定性查询生成、改进的上下文检索，并提升大型语言模型（LLM）和智能体工作流程的可解释性。该框架目前获得4145个星标和352次分叉。",
+        "en": "Auto Ontology is a Python framework designed for creating semantic, graph-based reasoning layers over data. It supports deterministic query generation, improved context retrieval, and enhances explainability in AI systems like LLMs and agents. The framework is built in Python and has garnered 4,145 stars and 352 forks on its repository."
+      },
+      "summary": "Auto Ontology是一个基于Python的框架，用于构建基于语义和图推理的数据层。它支持确定性查询生成、改进的上下文检索，并提升大型语言模型（LLM）和智能体工作流程的可解释性。该框架目前获得4145个星标和352次分叉。"
+    },
+    {
+      "title": "rails/rails",
+      "link": "https://github.com/rails/rails",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d48ca9046a01b3c7627d74b242b414e7b2a377744f08b5c2130dddaee7c82fd0/rails/rails\" referrerpolicy=\"no-referrer\"><br>Ruby on Rails<br><br>Language: Ruby<br>Stars: 59059<br>Forks: 23833",
+      "contentSnippet": "Ruby on Rails\nLanguage: Ruby\nStars: 59059\nForks: 23833",
+      "creator": "rails",
+      "summaries": {
+        "zh": "本文介绍了Ruby on Rails（Rails）框架，使用Ruby语言开发。该框架拥有58917个星标和23823个分支，表明其受欢迎程度较高。内容主要围绕其技术特点和社区贡献展开，但未提供具体细节。",
+        "en": "Ruby on Rails is a server-side web application framework written in Ruby. It has 58,917 stars and 23,823 forks on its repository."
+      },
+      "summary": "本文介绍了Ruby on Rails（Rails）框架，使用Ruby语言开发。该框架拥有58917个星标和23823个分支，表明其受欢迎程度较高。内容主要围绕其技术特点和社区贡献展开，但未提供具体细节。"
+    },
+    {
+      "title": "mpv-player/mpv",
+      "link": "https://github.com/mpv-player/mpv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4bf24baaec84f50d76e65836e26ee03d8407e780998b1412a67d853b260632a/mpv-player/mpv\" referrerpolicy=\"no-referrer\"><br>🎥 Command line media player<br><br>Language: C<br>Stars: 37936<br>Forks: 3635",
+      "contentSnippet": "🎥 Command line media player\nLanguage: C\nStars: 37936\nForks: 3635",
+      "creator": "mpv-player",
+      "summaries": {
+        "zh": "mpv是一款基于命令行的媒体播放器，使用C语言编写。该项目在GitHub上拥有37792个星标和3628个分支，显示出其较高的社区认可度。",
+        "en": "mpv is a command-line media player written in C. It is open-source software with 37,792 stars and 3,628 forks on platforms like GitHub. The player supports various media formats and is known for its lightweight and customizable design. It offers features like hardware acceleration, scripting, and extensive configuration options. mpv is widely used for its simplicity and flexibility in media playback."
+      },
+      "summary": "mpv是一款基于命令行的媒体播放器，使用C语言编写。该项目在GitHub上拥有37792个星标和3628个分支，显示出其较高的社区认可度。"
+    },
+    {
+      "title": "rust-lang/rust",
+      "link": "https://github.com/rust-lang/rust",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f4305cb97e5413a29a8aa47717fea247bfd255602083aa3d8ba54f2a31894efa/rust-lang/rust\" referrerpolicy=\"no-referrer\"><br>Empowering everyone to build reliable and efficient software.<br><br>Language: Rust<br>Stars: 121532<br>Forks: 17369",
+      "contentSnippet": "Empowering everyone to build reliable and efficient software.\nLanguage: Rust\nStars: 121532\nForks: 17369",
+      "creator": "rust-lang",
+      "summaries": {
+        "zh": "Rust 是一个开源编程语言，旨在帮助人们构建可靠高效的软件。该语言拥有 121,246 个星标和 17,356 个分支。",
+        "en": "The Rust programming language, developed by Rust-lang, empowers users to build reliable and efficient software. It boasts 121,246 stars and 17,356 forks on its repository. Rust is designed to prioritize safety and performance, making it a popular choice for systems programming."
+      },
+      "summary": "Rust 是一个开源编程语言，旨在帮助人们构建可靠高效的软件。该语言拥有 121,246 个星标和 17,356 个分支。"
+    },
+    {
+      "title": "react/react",
+      "link": "https://github.com/react/react",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc8b1700b10dd9c5641f11f2b3ef38a0f790f5da4f4e219557afbd148044de65/react/react\" referrerpolicy=\"no-referrer\"><br>The library for web and native user interfaces.<br><br>Language: JavaScript<br>Stars: 252309<br>Forks: 51833",
+      "contentSnippet": "The library for web and native user interfaces.\nLanguage: JavaScript\nStars: 252309\nForks: 51833",
+      "creator": "react",
+      "summaries": {
+        "zh": "React是一个用于网页和原生用户界面的JavaScript库。该库拥有252,107个星标和51,794个分支。",
+        "en": "React is a JavaScript library for building web and native user interfaces. It is widely used for creating interactive and efficient UI components. The library has 252,107 stars and 51,794 forks on its repository."
+      },
+      "summary": "React是一个用于网页和原生用户界面的JavaScript库。该库拥有252,107个星标和51,794个分支。"
+    },
+    {
+      "title": "angular/angular",
+      "link": "https://github.com/angular/angular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531\" referrerpolicy=\"no-referrer\"><br>Deliver web apps with confidence 🚀<br><br>Language: TypeScript<br>Stars: 101425<br>Forks: 28914",
+      "contentSnippet": "Deliver web apps with confidence 🚀\nLanguage: TypeScript\nStars: 101425\nForks: 28914",
+      "creator": "angular",
+      "summaries": {
+        "zh": "该文章介绍Angular框架，用于构建Web应用。基于TypeScript语言，该项目拥有101183颗星和28903次分叉，展示了其广泛的应用和社区支持。",
+        "en": "The article discusses Angular, a web application framework built with TypeScript. It highlights Angular's popularity, indicated by 101,183 stars and 28,903 forks on its repository. The content emphasizes Angular's role in delivering web apps with confidence, showcasing its robust features and scalability. The article likely explores Angular's benefits, such as strong community support, modular architecture, and tooling, making it a trusted choice for developers."
+      },
+      "summary": "该文章介绍Angular框架，用于构建Web应用。基于TypeScript语言，该项目拥有101183颗星和28903次分叉，展示了其广泛的应用和社区支持。"
+    },
+    {
+      "title": "symfony/symfony",
+      "link": "https://github.com/symfony/symfony",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/458058/af6a9d00-9374-11e9-887c-917673d9fe68\" referrerpolicy=\"no-referrer\"><br>The Symfony PHP framework<br><br>Language: PHP<br>Stars: 31479<br>Forks: 9950",
+      "contentSnippet": "The Symfony PHP framework\nLanguage: PHP\nStars: 31479\nForks: 9950",
+      "creator": "symfony",
+      "summaries": {
+        "zh": "Symfony是一个流行的PHP框架，拥有31282个星标和9940个分支。该框架以其模块化和高性能著称，广泛应用于Web开发领域。",
+        "en": "The Symfony PHP framework is a popular open-source web application framework written in PHP. It is known for its modularity, flexibility, and performance. The framework has garnered a strong community following, with 31,282 stars and 9,940 forks on platforms like GitHub. Symfony provides a structured approach to web development, offering a range of components and bundles that can be used individually or together to build robust applications. Its design emphasizes decoupling and reusability, making it a preferred choice for many developers."
+      },
+      "summary": "Symfony是一个流行的PHP框架，拥有31282个星标和9940个分支。该框架以其模块化和高性能著称，广泛应用于Web开发领域。"
+    },
+    {
+      "title": "prometheus/prometheus",
+      "link": "https://github.com/prometheus/prometheus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2faa42191f1d7718674d423c69e20a1967e8db764d95f5069e9b5f71c86d0c93/prometheus/prometheus\" referrerpolicy=\"no-referrer\"><br>The Prometheus monitoring system and time series database.<br><br>Language: Go<br>Stars: 67243<br>Forks: 10991",
+      "contentSnippet": "The Prometheus monitoring system and time series database.\nLanguage: Go\nStars: 67243\nForks: 10991",
+      "creator": "prometheus",
+      "summaries": {
+        "zh": "Prometheus是一款基于Go语言开发的监控系统和时间序列数据库。该系统具有67020个星标和10979个分支，广泛应用于实时监控和数据分析领域。它能够高效收集、存储和处理时间序列数据，支持多种数据源和可视化工具，是现代监控解决方案的重要组件。",
+        "en": "The Prometheus monitoring system is a time series database written in Go. It is widely used for metrics collection and monitoring in distributed systems. The system features a powerful query language, alerting capabilities, and an open-source community. With 67,020 stars and 10,979 forks on platforms like GitHub, Prometheus demonstrates significant popularity and adoption in the tech industry. Its design supports efficient data storage and retrieval, making it suitable for large-scale monitoring tasks."
+      },
+      "summary": "Prometheus是一款基于Go语言开发的监控系统和时间序列数据库。该系统具有67020个星标和10979个分支，广泛应用于实时监控和数据分析领域。它能够高效收集、存储和处理时间序列数据，支持多种数据源和可视化工具，是现代监控解决方案的重要组件。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d68707fd60ad050b8161e49ad1b39b336725cabc74a0372ab97e124275c439a7/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 22959<br>Forks: 1929",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 22959\nForks: 1929",
+      "creator": "google",
+      "summaries": {
+        "zh": "该文章介绍与Google产品和技术相关的代理技能，主要涉及Python编程。项目在GitHub上拥有22263个星标和1885个分支，显示其受欢迎程度较高。内容聚焦于相关技能和工具，为开发者提供参考。",
+        "en": "The article discusses \"Agent Skills for Google products and technologies,\" focusing on Python. It has 22,263 stars and 1,885 forks on its repository. The content likely covers programming skills related to Google's tools, with a strong community interest."
+      },
+      "summary": "该文章介绍与Google产品和技术相关的代理技能，主要涉及Python编程。项目在GitHub上拥有22263个星标和1885个分支，显示其受欢迎程度较高。内容聚焦于相关技能和工具，为开发者提供参考。"
+    },
+    {
+      "title": "microsoft/vscode",
+      "link": "https://github.com/microsoft/vscode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ba753be874865bbcdf145c858515f1dc0a63f28ad27144fa51078e8adbe3533/microsoft/vscode\" referrerpolicy=\"no-referrer\"><br>Visual Studio Code<br><br>Language: TypeScript<br>Stars: 195084<br>Forks: 44434",
+      "contentSnippet": "Visual Studio Code\nLanguage: TypeScript\nStars: 195084\nForks: 44434",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "Visual Studio Code是一款由微软开发的免费开源代码编辑器，支持TypeScript语言。该编辑器拥有194.8万颗星标和44.4万个分支，广受开发者欢迎。",
+        "en": "Visual Studio Code is a popular code editor developed by Microsoft. It supports TypeScript and has a large community, with 194,864 stars and 44,406 forks on its repository. The platform is widely used for programming and development tasks."
+      },
+      "summary": "Visual Studio Code是一款由微软开发的免费开源代码编辑器，支持TypeScript语言。该编辑器拥有194.8万颗星标和44.4万个分支，广受开发者欢迎。"
+    },
+    {
+      "title": "lz4/lz4",
+      "link": "https://github.com/lz4/lz4",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4c311163fce6913875fdfae0bff89df59876b83203cb5aef9a9bfbdc4fee9d2/lz4/lz4\" referrerpolicy=\"no-referrer\"><br>Extremely Fast Compression algorithm<br><br>Language: C<br>Stars: 12651<br>Forks: 1644",
+      "contentSnippet": "Extremely Fast Compression algorithm\nLanguage: C\nStars: 12651\nForks: 1644",
+      "creator": "lz4",
+      "summaries": {
+        "zh": "lz4是一款极快的压缩算法，使用C语言编写。该算法在GitHub上拥有12651个星标和1644个分支，显示出其广泛的应用和认可度。",
+        "en": "lz4 is an extremely fast compression algorithm written in C. It offers high-speed compression and decompression with a focus on performance. The library has gained significant popularity, boasting 12,651 stars and 1,644 forks on platforms like GitHub, indicating its widespread adoption and community support. Its efficient design makes it suitable for applications requiring rapid data compression and decompression."
+      },
+      "summary": "lz4是一款极快的压缩算法，使用C语言编写。该算法在GitHub上拥有12651个星标和1644个分支，显示出其广泛的应用和认可度。"
+    },
+    {
+      "title": "nushell/nushell",
+      "link": "https://github.com/nushell/nushell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d747c8f83cddfef11e457c683d6908864dd307157d22841a0e227fe43c6c082/nushell/nushell\" referrerpolicy=\"no-referrer\"><br>A new type of shell<br><br>Language: Rust<br>Stars: 41023<br>Forks: 2344",
+      "contentSnippet": "A new type of shell\nLanguage: Rust\nStars: 41023\nForks: 2344",
+      "creator": "nushell",
+      "summaries": {
+        "zh": "nuShell是一种新型Shell语言，使用Rust编写。该语言目前获得40828个星标和2330个分支。",
+        "en": "Nushell is a new shell language written in Rust. It has gained significant popularity with 40,828 stars and 2,330 forks on its repository. The article highlights its unique approach to shell scripting, emphasizing flexibility and modern features."
+      },
+      "summary": "nuShell是一种新型Shell语言，使用Rust编写。该语言目前获得40828个星标和2330个分支。"
+    },
+    {
+      "title": "etcd-io/etcd",
+      "link": "https://github.com/etcd-io/etcd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5299e9905bf7ca9352197e00447a882eefed4fda2ca8abb2540bca0a065c2513/etcd-io/etcd\" referrerpolicy=\"no-referrer\"><br>Distributed reliable key-value store for the most critical data of a distributed system<br><br>Language: Go<br>Stars: 52643<br>Forks: 10590",
+      "contentSnippet": "Distributed reliable key-value store for the most critical data of a distributed system\nLanguage: Go\nStars: 52643\nForks: 10590",
+      "creator": "etcd-io",
+      "summaries": {
+        "zh": "etcd是一个分布式可靠键值存储系统，用于保存分布式系统的关键数据。它采用Go语言开发，拥有52510个星标和10574个分支。该系统为分布式系统提供数据一致性保障，常用于配置管理和服务发现等场景。",
+        "en": "etcd is a distributed, reliable key-value store designed for critical data in distributed systems. Written in Go, it offers strong consistency and is widely used for configuration, service discovery, and leader election. The project has 52,510 stars and 10,574 forks on its GitHub repository."
+      },
+      "summary": "etcd是一个分布式可靠键值存储系统，用于保存分布式系统的关键数据。它采用Go语言开发，拥有52510个星标和10574个分支。该系统为分布式系统提供数据一致性保障，常用于配置管理和服务发现等场景。"
+    },
+    {
+      "title": "openssl/openssl",
+      "link": "https://github.com/openssl/openssl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d225ae631edb00482f23b1b6031874005b078da947e004ff19e2519bac3635b2/openssl/openssl\" referrerpolicy=\"no-referrer\"><br>General purpose TLS and crypto library<br><br>Language: C<br>Stars: 31335<br>Forks: 11583",
+      "contentSnippet": "General purpose TLS and crypto library\nLanguage: C\nStars: 31335\nForks: 11583",
+      "creator": "openssl",
+      "summaries": {
+        "zh": "OpenSSL是一个通用的TLS和加密库，使用C语言编写。该库拥有31,222个星标和11,580个分支，广泛应用于网络安全领域。",
+        "en": "The OpenSSL project provides a general-purpose TLS and crypto library written in C. It is widely used for secure communications and supports various cryptographic functions. The library has 31,222 stars and 11,580 forks on its repository, indicating significant community interest and adoption."
+      },
+      "summary": "OpenSSL是一个通用的TLS和加密库，使用C语言编写。该库拥有31,222个星标和11,580个分支，广泛应用于网络安全领域。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/99bbc4f9e260c01cd18c7188c455b8c5d8c1c95cdf71a206fcfa149a726c92f5/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 316952<br>Forks: 26526",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 316952\nForks: 26526",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "标题：mattpocock/skills\n\n内容：该资源提供实用工程技能，源自作者的个人目录。语言为Shell，获得309,630个星标和26,055次分叉。",
+        "en": "The article \"mattpocock/skills\" presents \"Skills for Real Engineers\" sourced from a .agents directory in Shell. The repository has 309,630 stars and 26,055 forks, indicating significant popularity and community interest."
+      },
+      "summary": "标题：mattpocock/skills\n\n内容：该资源提供实用工程技能，源自作者的个人目录。语言为Shell，获得309,630个星标和26,055次分叉。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c28e28cbd4f6ae2653139c2eedd04df26fd11f883267b1ead6a61b1c62c356f8/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 64461<br>Forks: 4183",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 64461\nForks: 4183",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该技能是一种用于多阶段安全审计的编码代理，其特点是独立验证和机器可读的发现结果。基于JavaScript开发，该技能在GitHub上获得63089个星标和4090次分叉，显示出较高的社区认可度。",
+        "en": "The article discusses a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The skill has gained significant popularity, with 63,089 stars and 4,090 forks on its repository."
+      },
+      "summary": "该技能是一种用于多阶段安全审计的编码代理，其特点是独立验证和机器可读的发现结果。基于JavaScript开发，该技能在GitHub上获得63089个星标和4090次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "astral-sh/ruff",
+      "link": "https://github.com/astral-sh/ruff",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3ef994b28027cc3d20e12463d151335cff0c067acb6ac4e7124a4a3da7c7938e/astral-sh/ruff\" referrerpolicy=\"no-referrer\"><br>An extremely fast Python linter and code formatter, written in Rust.<br><br>Language: Rust<br>Stars: 50758<br>Forks: 2616",
+      "contentSnippet": "An extremely fast Python linter and code formatter, written in Rust.\nLanguage: Rust\nStars: 50758\nForks: 2616",
+      "creator": "astral-sh",
+      "summaries": {
+        "zh": "Ruff是一款用Rust编写的极快Python代码检查器和格式化工具。该工具具有出色的性能，拥有50525个星标和2597个分支。",
+        "en": "Astral-sh/ruff is a highly efficient Python linter and code formatter developed in Rust. It offers rapid performance and is designed to enhance code quality and consistency. The tool has gained significant popularity, boasting 50,525 stars and 2,597 forks on its repository. Its Rust-based implementation ensures speed and reliability, making it a preferred choice for Python developers seeking a robust linting and formatting solution."
+      },
+      "summary": "Ruff是一款用Rust编写的极快Python代码检查器和格式化工具。该工具具有出色的性能，拥有50525个星标和2597个分支。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:09:52.924Z"
+}

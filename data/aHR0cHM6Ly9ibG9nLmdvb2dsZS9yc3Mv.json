@@ -1,0 +1,497 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 +0000",
+      "isoDate": "2026-11-05T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp\">Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
+      "contentSnippet": "Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用Google Vids的新Omni 1.2 Flash模型，可免费生成更长的AI视频。该模型支持生成15秒片段和连贯场景。用户可免费体验。",
+        "en": "The article highlights the Omni 1.2 Flash model, enabling users to create longer AI videos in Google Vids. It allows generating 15-second clips and consistent scenes at no cost. Users are encouraged to try the feature."
+      },
+      "summary": "使用Google Vids的新Omni 1.2 Flash模型，可免费生成更长的AI视频。该模型支持生成15秒片段和连贯场景。用户可免费体验。"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-05T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "contentSnippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anish Nangia"
+        ],
+        "title": [
+          "Product Manager, Google DeepMind"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Omni 1.2 Flash推出原生15秒视频生成与编辑功能，提升一致性，并降低30%价格，实现快速且经济高效的体验。",
+        "en": "The Gemini Omni 1.2 Flash offers native 15-second video generation and editing, improved consistency, and a 30% lower price compared to previous versions. It is designed to be fast and cost-effective with longer clips."
+      },
+      "summary": "Gemini Omni 1.2 Flash推出原生15秒视频生成与编辑功能，提升一致性，并降低30%价格，实现快速且经济高效的体验。"
+    },
+    {
+      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-05T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp\">We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "contentSnippet": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Steve Walter"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Global Infrastructure and Energy"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Wyoming迎来首个数据中心建设，标志着对该州基础设施、能源和劳动力领域的投资达170亿美元。此举将推动当地经济发展，提升产业竞争力。",
+        "en": "Wyoming is receiving a $17 billion investment through the construction of its first data center, marking a significant boost to the state's infrastructure. This development highlights a focus on expanding energy and workforce initiatives in Wyoming."
+      },
+      "summary": "Wyoming迎来首个数据中心建设，标志着对该州基础设施、能源和劳动力领域的投资达170亿美元。此举将推动当地经济发展，提升产业竞争力。"
+    },
+    {
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-05T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp\">Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "contentSnippet": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用Gemini将草图转化为功能齐全的应用程序。将您的绘画上传至Canvas工具，即可即时生成和优化代码。立即体验。",
+        "en": "Turn sketches into functional apps using Gemini. Upload drawings to the Canvas tool to generate and refine code instantly."
+      },
+      "summary": "使用Gemini将草图转化为功能齐全的应用程序。将您的绘画上传至Canvas工具，即可即时生成和优化代码。立即体验。"
+    },
+    {
+      "title": "Check out our free livestream during National Veterans Small Business Week.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-05T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp\">Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+      "contentSnippet": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+      "creator": "",
+      "summaries": {
+        "zh": "在2026年国家退伍军人中小企业周期间，我们将举办免费的YouTube直播活动。参与者可以通过与Gemini互动，掌握AI技能，并获得一对一指导。欢迎立即报名参加。",
+        "en": "Join our free YouTube livestream during National Veterans Small Business Week in November 2026. Learn AI skills with Gemini and receive 1:1 coaching. Registration is available now."
+      },
+      "summary": "在2026年国家退伍军人中小企业周期间，我们将举办免费的YouTube直播活动。参与者可以通过与Gemini互动，掌握AI技能，并获得一对一指导。欢迎立即报名参加。"
+    },
+    {
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+      "pubDate": "Wed, 04 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-04T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp\">Henry Cavill built a video game on his Googlebook to help support men’s health.",
+      "contentSnippet": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Menaka Shroff (MK)"
+        ],
+        "title": [
+          "Vice President, Marketing"
+        ],
+        "department": [
+          "Global Android Ecosystem"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "亨利·卡维尔在谷歌平板电脑上开发了一款视频游戏，旨在支持男性健康事业。",
+        "en": "Henry Cavill created a video game on his Googlebook to support men’s health initiatives. The project aims to raise awareness and contribute to the cause."
+      },
+      "summary": "亨利·卡维尔在谷歌平板电脑上开发了一款视频游戏，旨在支持男性健康事业。"
+    },
+    {
+      "title": "We're sharing our framework for building safer and more helpful AI for health.",
+      "link": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "pubDate": "Wed, 04 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-04T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp\">Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+      "contentSnippet": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Dr Sarah Montgomery-Taylor"
+        ],
+        "title": [
+          "Clinical Evaluation Lead, Google for Health"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们分享了一个构建更安全、更有助力的健康AI框架。当前，许多人使用AI解决健康问题，或接受使用AI的医疗服务。健康领域AI技术的应用正加速发展，并影响医疗费用等方面。",
+        "en": "The article outlines a framework for developing safer and more beneficial AI in healthcare. It highlights the increasing use of AI for health-related inquiries and medical care, noting the accelerating adoption of this technology and its impact on billing. The framework aims to ensure AI systems are reliable and supportive in health applications."
+      },
+      "summary": "我们分享了一个构建更安全、更有助力的健康AI框架。当前，许多人使用AI解决健康问题，或接受使用AI的医疗服务。健康领域AI技术的应用正加速发展，并影响医疗费用等方面。"
+    },
+    {
+      "title": "Take a closer look at art with the Courtauld",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+      "pubDate": "Wed, 04 Nov 2026 10:00:00 +0000",
+      "isoDate": "2026-11-04T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp\">Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
+      "contentSnippet": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mark Hallett"
+        ],
+        "title": [
+          "Märit Rausing Director of the Courtauld Institute of Art"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌艺术与文化及Courtauld艺术学院合作推出新项目“The Art of Looking”，旨在以新方式引导人们审视艺术。该项目为观众提供深入艺术作品的机会，促进对艺术的全新理解。",
+        "en": "The Art of Looking is a collaboration between Google Arts & Culture and the Courtauld Institute of Art, offering innovative ways to examine art. The project aims to provide fresh perspectives on artistic works through interactive and immersive experiences."
+      },
+      "summary": "谷歌艺术与文化及Courtauld艺术学院合作推出新项目“The Art of Looking”，旨在以新方式引导人们审视艺术。该项目为观众提供深入艺术作品的机会，促进对艺术的全新理解。"
+    },
+    {
+      "title": "Designing responsible AI for learning",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Designing_responsible_AI_for_le.max-600x600.format-webp.webp\">We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+      "contentSnippet": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chris Phillips"
+        ],
+        "title": [
+          "VP & General Manager, Education"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们将在搜索和谷歌课堂中引入引导式学习功能，并改进学校控制方法。",
+        "en": "The article announces the integration of Guided Learning into Search and Google Classroom, enhancing user experience. It also mentions advancements in school controls, indicating improvements in managing educational tools. The focus is on responsible AI development for learning environments."
+      },
+      "summary": "我们将在搜索和谷歌课堂中引入引导式学习功能，并改进学校控制方法。"
+    },
+    {
+      "title": "New research shows how Guided Learning supports students",
+      "link": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp\">New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "contentSnippet": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sofie Cornelis"
+        ],
+        "title": [
+          "Senior Product Manager, Google for Education"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "最新研究表明，引导式学习能显著提升学生学业成绩，同时Google Classroom推出新功能。",
+        "en": "New research indicates that Guided Learning significantly boosts student learning gains. The study highlights the effectiveness of this approach in educational settings. Additionally, Google Classroom has introduced new features to support this methodology. These updates aim to enhance the learning experience by providing more structured and interactive tools. The findings underscore the value of guided instruction in achieving better educational outcomes."
+      },
+      "summary": "最新研究表明，引导式学习能显著提升学生学业成绩，同时Google Classroom推出新功能。"
+    },
+    {
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "link": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp\">Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "contentSnippet": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌基金会将为五个致力于为教师开发AI工具的组织提供资金支持。这些项目旨在通过AI技术帮助教师和学生学习，具体细节请参考相关资料。",
+        "en": "Google.org is providing funding to five organizations developing AI tools for teachers. The initiatives aim to support educators and students by offering innovative solutions. The funding will help these organizations create and implement AI technologies that enhance teaching and learning. The program focuses on leveraging AI to improve educational outcomes."
+      },
+      "summary": "谷歌基金会将为五个致力于为教师开发AI工具的组织提供资金支持。这些项目旨在通过AI技术帮助教师和学生学习，具体细节请参考相关资料。"
+    },
+    {
+      "title": "Working collaboratively to fight scams in Asia Pacific",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp\">Google combines built-in protections with local partnerships and education to tackle scams in APAC.",
+      "contentSnippet": "Google combines built-in protections with local partnerships and education to tackle scams in APAC.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Snigdha Bhardwaj"
+        ],
+        "title": [
+          "Director"
+        ],
+        "department": [
+          "Trust & Safety"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌通过整合内置防护措施、与当地合作伙伴合作及开展教育，共同应对亚太地区的诈骗问题。",
+        "en": "Google combats scams in the Asia-Pacific region by integrating built-in protections, collaborating with local partners, and providing education. The approach aims to enhance security and awareness to address fraudulent activities effectively."
+      },
+      "summary": "谷歌通过整合内置防护措施、与当地合作伙伴合作及开展教育，共同应对亚太地区的诈骗问题。"
+    },
+    {
+      "title": "AI in the learning era",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp\">Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "contentSnippet": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌将于2026年举办“AI学习时代”活动，发布相关公告。活动旨在探讨AI在教育领域的应用与发展。",
+        "en": "The article announces Google's upcoming \"AI in the Learning Era\" event scheduled for 2026. It highlights the focus on AI applications in education, emphasizing advancements and innovations set to shape learning experiences. The event aims to showcase how AI technologies can enhance educational processes and outcomes. Additional details about the event's agenda or specific AI tools are not provided in the announcement."
+      },
+      "summary": "谷歌将于2026年举办“AI学习时代”活动，发布相关公告。活动旨在探讨AI在教育领域的应用与发展。"
+    },
+    {
+      "title": "Expanding AI educator training to new countries",
+      "link": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-03T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp\">A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "contentSnippet": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jennie Magiera"
+        ],
+        "title": [
+          "Global Head of Education Impact"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章标题：扩展AI教育者培训至新国家  \n\n文章内容：文章庆祝了来自马来西亚、印度、菲律宾和英国的教师故事，并介绍了新的GES课程，同时将AI教育者培训扩展至西班牙、巴西、澳大利亚和撒哈拉以南非洲。",
+        "en": "The article highlights expanded AI educator training, featuring stories from Malaysia, India, the Philippines, and the UK. It announces new Global Education Sessions (GES) and the expansion into Spain, Brazil, Australia, and Sub-Saharan Africa. The initiative celebrates educator experiences while broadening AI education outreach globally."
+      },
+      "summary": "文章标题：扩展AI教育者培训至新国家  \n\n文章内容：文章庆祝了来自马来西亚、印度、菲律宾和英国的教师故事，并介绍了新的GES课程，同时将AI教育者培训扩展至西班牙、巴西、澳大利亚和撒哈拉以南非洲。"
+    },
+    {
+      "title": "Advancing research and partnering with universities in Singapore",
+      "link": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "pubDate": "Tue, 03 Nov 2026 04:30:00 +0000",
+      "isoDate": "2026-11-03T04:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp\">Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+      "contentSnippet": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yossi Matias"
+        ],
+        "title": [
+          "Vice President, Google and General Manager, Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌在新加坡投资新研究基金和人才建设计划，以推动AI在科学领域的应用，并支持下一代科学领袖的发展。",
+        "en": "Google is increasing its investment in Singapore by funding new research grants and expanding capacity-building programs. These initiatives aim to drive advancements in AI for science and empower future scientific leaders in the region. The focus is on fostering collaboration and supporting innovation within the local academic community."
+      },
+      "summary": "谷歌在新加坡投资新研究基金和人才建设计划，以推动AI在科学领域的应用，并支持下一代科学领袖的发展。"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "pubDate": "Mon, 02 Nov 2026 17:45:00 +0000",
+      "isoDate": "2026-11-02T17:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from October 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年10月，谷歌发布了最新的人工智能更新。",
+        "en": "Google announced its latest AI updates in October 2026. The updates include new advancements in artificial intelligence technology, reflecting the company's ongoing efforts to innovate in the field. The details of these updates were not specified in the provided content."
+      },
+      "summary": "2026年10月，谷歌发布了最新的人工智能更新。"
+    },
+    {
+      "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
+      "link": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-02T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp\">Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.",
+      "contentSnippet": "Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌对消息、电话和联系人图标进行了更新，采用了更简洁、统一的设计。用户可在主屏幕上看到新图标。",
+        "en": "Google has updated the icons for Messages, Phone, and Contacts, introducing sleeker and more cohesive designs. The changes aim to improve visual consistency on the home screen. Users can now see the new icons in their apps."
+      },
+      "summary": "谷歌对消息、电话和联系人图标进行了更新，采用了更简洁、统一的设计。用户可在主屏幕上看到新图标。"
+    },
+    {
+      "title": "Google Fitbit Edge: On shelves now",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "pubDate": "Fri, 30 Oct 2026 20:15:00 +0000",
+      "isoDate": "2026-10-30T20:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp\">Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "contentSnippet": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Fitbit Edge已正式上架销售。这款新设备配备明亮的大显示屏和物理侧键，便于操控。用户可即刻升级健身追踪器。",
+        "en": "The new Google Fitbit Edge is now available for purchase. It features a bright, large display and physical side buttons for user-friendly control. The device is designed to enhance the fitness tracking experience."
+      },
+      "summary": "谷歌Fitbit Edge已正式上架销售。这款新设备配备明亮的大显示屏和物理侧键，便于操控。用户可即刻升级健身追踪器。"
+    },
+    {
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-30T17:00:00.000Z",
+      "content": "<img src=\"https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp\">This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "contentSnippet": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本周，Project Suncatcher原型卫星成功实现了“你好世界”里程碑，首次从轨道上的数据中心级TPU接收到了AI响应。",
+        "en": "The Project Suncatcher prototype satellite has achieved its \"Hello World\" milestone by sending the first AI response from a data center-class TPU in orbit. This marks a significant step in the project's development."
+      },
+      "summary": "本周，Project Suncatcher原型卫星成功实现了“你好世界”里程碑，首次从轨道上的数据中心级TPU接收到了AI响应。"
+    },
+    {
+      "title": "See who has access to your Gmail inbox in 2 minutes.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "pubDate": "Fri, 30 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp\">Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "contentSnippet": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过快速运行Google安全检查，可在2分钟内查看谁有权访问您的Gmail邮箱，并可通过三个简单步骤保护您的邮箱安全。",
+        "en": "To see who has access to your Gmail inbox, use the Google Security Checkup. This tool allows you to check permissions and protect your account in three simple steps."
+      },
+      "summary": "通过快速运行Google安全检查，可在2分钟内查看谁有权访问您的Gmail邮箱，并可通过三个简单步骤保护您的邮箱安全。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:09:43.190Z"
+}

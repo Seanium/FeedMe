@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-06T08:00:00.000Z",
+      "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "contentSnippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与Hacktron合作，旨在发现其系统漏洞，测试与第三方服务的连接，并利用前沿AI技术加强防御能力。此次合作旨在提升系统安全性，确保与外部服务的稳定对接。",
+        "en": "OpenAI is collaborating with Hacktron to identify vulnerabilities in its systems. The partnership aims to test connections with third-party services and enhance defenses using frontier AI. The initiative focuses on improving security and functionality through targeted testing and advanced technology integration."
+      },
+      "summary": "OpenAI与Hacktron合作，旨在发现其系统漏洞，测试与第三方服务的连接，并利用前沿AI技术加强防御能力。此次合作旨在提升系统安全性，确保与外部服务的稳定对接。"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-06T00:00:00.000Z",
+      "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "contentSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出BioBasicsBench基准测试，包含100项任务，旨在评估AI代理解读原始实验数据及处理日常湿实验科学的能力。",
+        "en": "OpenAI has introduced BioBasicsBench, a 100-task benchmark designed to assess how AI agents interpret raw experimental data and perform routine wet-lab science tasks. The benchmark evaluates the capabilities of AI systems in handling everyday laboratory procedures."
+      },
+      "summary": "OpenAI推出BioBasicsBench基准测试，包含100项任务，旨在评估AI代理解读原始实验数据及处理日常湿实验科学的能力。"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
+      "isoDate": "2026-11-05T17:00:00.000Z",
+      "content": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "contentSnippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "creator": "",
+      "summaries": {
+        "zh": "澳大利亚大学正扩大ChatGPT的使用，将AI融入教学，培养适应AI化工作环境的毕业生。",
+        "en": "Australian universities are integrating AI, particularly ChatGPT, into teaching and learning to prepare students for an AI-driven workforce. They are expanding access to these tools, ensuring graduates are AI-native and equipped for future job markets."
+      },
+      "summary": "澳大利亚大学正扩大ChatGPT的使用，将AI融入教学，培养适应AI化工作环境的毕业生。"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "isoDate": "2026-11-05T20:00:00.000Z",
+      "content": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "contentSnippet": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "creator": "",
+      "summaries": {
+        "zh": "Cult.fit利用Codex帮助各职能部门团队构建工具，提升效率，改变工作方式。",
+        "en": "Cult.fit employs Codex to enhance operational efficiency across departments. The platform assists teams in developing tools, accelerating workflows, and transforming work processes."
+      },
+      "summary": "Cult.fit利用Codex帮助各职能部门团队构建工具，提升效率，改变工作方式。"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "pubDate": "Thu, 05 Nov 2026 09:00:00 GMT",
+      "isoDate": "2026-11-05T09:00:00.000Z",
+      "content": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "contentSnippet": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Cyber是OpenAI开发的一款网络安全模型，旨在发现可利用漏洞并开发修复方案。该模型经过训练，确保在授权范围内工作，以推动网络安全领域的发展。",
+        "en": "GPT-6 Cyber is OpenAI's cybersecurity model designed to identify exploitable vulnerabilities and develop fixes. Trained to operate within authorized boundaries, it advances the frontier of aligned cybersecurity agents."
+      },
+      "summary": "GPT-6 Cyber是OpenAI开发的一款网络安全模型，旨在发现可利用漏洞并开发修复方案。该模型经过训练，确保在授权范围内工作，以推动网络安全领域的发展。"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-05T08:00:00.000Z",
+      "content": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "contentSnippet": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "creator": "",
+      "summaries": {
+        "zh": "Merge公司整合了OpenAI的GPT-6 Astra、ChatGPT和Codex等技术，用于审查产品代码和辅助市场营销。其团队还利用AI技术规划高管晚宴和准备销售更新。这些工具显著提升了工作效率，并拓展了AI的应用场景。",
+        "en": "Merge integrates OpenAI technologies like GPT-6 Astra, ChatGPT, and Codex to review product code and assist with marketing. The company’s teams also employ AI for tasks such as planning executive dinners and preparing sales updates. These tools enhance operational efficiency across various departments."
+      },
+      "summary": "Merge公司整合了OpenAI的GPT-6 Astra、ChatGPT和Codex等技术，用于审查产品代码和辅助市场营销。其团队还利用AI技术规划高管晚宴和准备销售更新。这些工具显著提升了工作效率，并拓展了AI的应用场景。"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "isoDate": "2026-11-05T02:00:00.000Z",
+      "content": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "contentSnippet": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布《国家社区契约》和《计算园区政策蓝图》，旨在保护本地资源、创造就业机会，并引导负责任的AI基础设施发展。",
+        "en": "OpenAI introduces the National Community Compact and Compute Campus Policy Blueprint to promote responsible AI infrastructure development. The policies aim to protect local resources, create jobs, and guide sustainable growth in AI."
+      },
+      "summary": "OpenAI发布《国家社区契约》和《计算园区政策蓝图》，旨在保护本地资源、创造就业机会，并引导负责任的AI基础设施发展。"
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "pubDate": "Thu, 05 Nov 2026 00:45:15 GMT",
+      "isoDate": "2026-11-05T00:45:15.000Z",
+      "content": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "contentSnippet": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "creator": "",
+      "summaries": {
+        "zh": "Flipsnack通过优化ChatGPT广告活动，专注于吸引用户试用其产品，成功提升了注册量，同时降低了每注册用户的成本。",
+        "en": "Flipsnack increased product signups by optimizing its ChatGPT Ads campaigns. The strategy targeted users to try the product, resulting in higher registration numbers and a reduced cost per signup."
+      },
+      "summary": "Flipsnack通过优化ChatGPT广告活动，专注于吸引用户试用其产品，成功提升了注册量，同时降低了每注册用户的成本。"
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-05T00:00:00.000Z",
+      "content": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "contentSnippet": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "creator": "",
+      "summaries": {
+        "zh": "富兰克林 Templeton 公司正利用 OpenAI 技术支持投资研究。公司从股票研究入手，开发 AI 工作流程，协助投资组合经理对比研究观点并评估投资风险。",
+        "en": "Franklin Templeton is integrating OpenAI into its investment research processes. The firm is using AI to develop workflows that assist portfolio managers in comparing research perspectives and assessing investment risks, particularly in equity research."
+      },
+      "summary": "富兰克林 Templeton 公司正利用 OpenAI 技术支持投资研究。公司从股票研究入手，开发 AI 工作流程，协助投资组合经理对比研究观点并评估投资风险。"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "isoDate": "2026-11-04T14:30:00.000Z",
+      "content": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "contentSnippet": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将收购Pierre Computer Company，此举将扩展其Codex工具集，用于构建、理解和审查代码。",
+        "en": "OpenAI will acquire Pierre Computer Company, Inc., enhancing its Codex tools for code building, understanding, and reviewing. The acquisition aims to expand OpenAI's capabilities in software development technologies."
+      },
+      "summary": "OpenAI将收购Pierre Computer Company，此举将扩展其Codex工具集，用于构建、理解和审查代码。"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "isoDate": "2026-11-04T07:00:00.000Z",
+      "content": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "contentSnippet": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Daybreak Red》现已通过亚马逊云科技（AWS）政府云（美国东部）的Amazon Bedrock平台，向授权客户推出GPT-5.6网络安全服务，用于授权的网络安全工作。",
+        "en": "Daybreak Red, featuring GPT-5.6 Cyber, is now available in AWS GovCloud (US-East) via Amazon Bedrock. The service enables approved customers to conduct authorized cybersecurity work."
+      },
+      "summary": "《Daybreak Red》现已通过亚马逊云科技（AWS）政府云（美国东部）的Amazon Bedrock平台，向授权客户推出GPT-5.6网络安全服务，用于授权的网络安全工作。"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-04T08:00:00.000Z",
+      "content": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "contentSnippet": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI开发了一个自动化管道，用于查找、验证并生成Linux内核中948个本地提权漏洞的补丁。",
+        "en": "OpenAI developed an autonomous pipeline to identify, verify, and create patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. The system autonomously discovered and addressed these security flaws."
+      },
+      "summary": "OpenAI开发了一个自动化管道，用于查找、验证并生成Linux内核中948个本地提权漏洞的补丁。"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-04T00:00:00.000Z",
+      "content": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "contentSnippet": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "creator": "",
+      "summaries": {
+        "zh": "Images 2.6版本提升了图像生成速度、GIF制作能力，并优化了编辑精度。同时，新增了适用于ChatGPT、Codex及API的API控制功能。",
+        "en": "Images 2.6 introduces faster image generation, improved GIF creation, more precise editing, and new API controls for ChatGPT, Codex, and the API. The update enhances performance and functionality across the platforms."
+      },
+      "summary": "Images 2.6版本提升了图像生成速度、GIF制作能力，并优化了编辑精度。同时，新增了适用于ChatGPT、Codex及API的API控制功能。"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-04T00:00:00.000Z",
+      "content": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "contentSnippet": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "creator": "",
+      "summaries": {
+        "zh": "DevRev公司采用GPT-6.1 Sol技术，为企业和操作员提供自主自助服务。该技术通过平衡推理能力、速度和成本，优化企业服务体验。",
+        "en": "DevRev introduces autonomous self-service using GPT-6.1 Sol, enhancing its Computer and Operator tools. The technology balances reasoning, speed, and cost, tailored for enterprise service."
+      },
+      "summary": "DevRev公司采用GPT-6.1 Sol技术，为企业和操作员提供自主自助服务。该技术通过平衡推理能力、速度和成本，优化企业服务体验。"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "isoDate": "2026-11-03T12:00:00.000Z",
+      "content": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "contentSnippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《加速物理世界的工程》。内容介绍了ChatGPT和Codex如何帮助工程师加速CAD、PCB设计、仿真等物理世界的工作流程。",
+        "en": "ChatGPT and Codex are assisting engineers in speeding up CAD, PCB design, simulation, and other physical-world workflows. The tools enhance efficiency and productivity in engineering tasks."
+      },
+      "summary": "文章标题为《加速物理世界的工程》。内容介绍了ChatGPT和Codex如何帮助工程师加速CAD、PCB设计、仿真等物理世界的工作流程。"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-03T08:00:00.000Z",
+      "content": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "contentSnippet": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "creator": "",
+      "summaries": {
+        "zh": "思科公司通过结合网络智能与OpenAI模型，增强企业安全防护能力，构建更自适应的防御体系。",
+        "en": "Cisco integrates network intelligence with OpenAI models to enhance enterprise security, creating more adaptive defenses. The collaboration aims to improve threat detection and response at machine speed. The approach leverages AI-driven insights to strengthen security postures against evolving cyber threats."
+      },
+      "summary": "思科公司通过结合网络智能与OpenAI模型，增强企业安全防护能力，构建更自适应的防御体系。"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-03T08:00:00.000Z",
+      "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "contentSnippet": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "creator": "",
+      "summaries": {
+        "zh": "海姆斯塔登公司通过使用OpenAI的ChatGPT企业和Codex技术，正在改变欧洲的住宅物业管理。该公司利用AI技术降低成本，并提升员工的工作效率。",
+        "en": "Heimstaden is revolutionizing residential real estate management in Europe by integrating OpenAI’s ChatGPT Enterprise and Codex. The company leverages AI to optimize property management, reduce costs, and enhance employee capabilities. These tools streamline operations and improve efficiency across its operations."
+      },
+      "summary": "海姆斯塔登公司通过使用OpenAI的ChatGPT企业和Codex技术，正在改变欧洲的住宅物业管理。该公司利用AI技术降低成本，并提升员工的工作效率。"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-03T00:00:00.000Z",
+      "content": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "contentSnippet": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI任命Jill Hazelbaker为首席企业事务官，她将负责领导公司的全球沟通和企业定位工作。",
+        "en": "OpenAI has appointed Jill Hazelbaker as its new Chief Corporate Affairs Officer. In this role, she will oversee the company's global communications and corporate positioning strategies."
+      },
+      "summary": "OpenAI任命Jill Hazelbaker为首席企业事务官，她将负责领导公司的全球沟通和企业定位工作。"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "isoDate": "2026-11-02T15:30:00.000Z",
+      "content": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "contentSnippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI开发了一款名为Pando的Git兼容后端系统，专为Codex带来的大规模开发需求而设计。该系统旨在解决Git在高并发场景下的性能瓶颈，提升版本控制效率。Pando通过优化存储和访问机制，确保在大型项目中的稳定运行。",
+        "en": "OpenAI developed Pando, a Git-compatible backend, to handle the large-scale development demands of Codex. Pando is designed to support the extensive codebase and collaboration needs of the organization."
+      },
+      "summary": "OpenAI开发了一款名为Pando的Git兼容后端系统，专为Codex带来的大规模开发需求而设计。该系统旨在解决Git在高并发场景下的性能瓶颈，提升版本控制效率。Pando通过优化存储和访问机制，确保在大型项目中的稳定运行。"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "isoDate": "2026-11-02T15:00:00.000Z",
+      "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "contentSnippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的“网格保护者计划”将与公用事业部门合作，帮助未来的计算园区支持电网可靠性，并保护消费者电力成本。该计划旨在通过合作提升电网性能，确保电力供应稳定，同时控制成本。",
+        "en": "The Grid Protectors Program by OpenAI collaborates with utilities to support future compute campuses in enhancing grid reliability and safeguarding consumer electricity costs. The initiative aims to ensure stable energy infrastructure while protecting consumers from rising costs."
+      },
+      "summary": "OpenAI的“网格保护者计划”将与公用事业部门合作，帮助未来的计算园区支持电网可靠性，并保护消费者电力成本。该计划旨在通过合作提升电网性能，确保电力供应稳定，同时控制成本。"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "isoDate": "2026-11-02T18:00:00.000Z",
+      "content": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "contentSnippet": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将与其安全合作伙伴Cathedral Systems合作，启动下一轮内部安全冲刺。此次冲刺旨在通过人工智能技术测试并强化OpenAI的安全防御能力。",
+        "en": "OpenAI is preparing its next internal security sprint with Cathedral Systems. The goal is to test and strengthen defenses using AI. The sprint aims to enhance security measures for the organization."
+      },
+      "summary": "OpenAI将与其安全合作伙伴Cathedral Systems合作，启动下一轮内部安全冲刺。此次冲刺旨在通过人工智能技术测试并强化OpenAI的安全防御能力。"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "isoDate": "2026-11-02T18:00:00.000Z",
+      "content": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "contentSnippet": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将提高安全漏洞悬赏奖励，并为独立安全研究人员引入报告质量、忠诚度和优先级活动奖励。此举旨在激励更多研究者参与安全防护工作。",
+        "en": "OpenAI is increasing Security Bug Bounty rewards and adding new bonuses for independent security researchers. These incentives include rewards for high-quality reports, loyalty, and priority participation in campaigns. The changes aim to encourage and retain skilled security researchers."
+      },
+      "summary": "OpenAI将提高安全漏洞悬赏奖励，并为独立安全研究人员引入报告质量、忠诚度和优先级活动奖励。此举旨在激励更多研究者参与安全防护工作。"
+    },
+    {
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
+      "isoDate": "2026-11-02T09:00:00.000Z",
+      "content": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "contentSnippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "creator": "",
+      "summaries": {
+        "zh": "LifeVal是一个衡量AI在日常生活中帮助人们完成任务的基准，涵盖找托儿、管理财务和政府文件等事务。",
+        "en": "LifeVal is a benchmark designed to assess how effectively AI assists people in completing everyday tasks. It evaluates AI's performance across various activities, including finding childcare, managing finances, and handling government paperwork. The benchmark aims to measure the practical utility of AI in daily life."
+      },
+      "summary": "LifeVal是一个衡量AI在日常生活中帮助人们完成任务的基准，涵盖找托儿、管理财务和政府文件等事务。"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-02T00:00:00.000Z",
+      "content": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "contentSnippet": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI任命Dan Driscoll为国家安全现代化高级顾问，负责就负责任的AI、网络韧性及与美国盟友合作提供建议。",
+        "en": "OpenAI has appointed Dan Driscoll as Senior Counselor for National Security Modernization. In this role, Driscoll will advise on responsible artificial intelligence, cyber resilience, and collaboration with U.S. allies to support national security efforts. The appointment highlights OpenAI's commitment to shaping AI governance in critical areas."
+      },
+      "summary": "OpenAI任命Dan Driscoll为国家安全现代化高级顾问，负责就负责任的AI、网络韧性及与美国盟友合作提供建议。"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-02T00:00:00.000Z",
+      "content": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "contentSnippet": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "creator": "",
+      "summaries": {
+        "zh": "Qodo通过将公司知识库和编码规范整合到Codex中，帮助开发者在提交pull request前，在多个代码库中识别P0级问题。这一功能提升了代码审查的效率和质量。",
+        "en": "Qodo integrates company knowledge and coding standards into Codex, an AI code review tool. This integration enables developers to identify critical P0 issues across repositories before submitting pull requests, enhancing code quality and efficiency."
+      },
+      "summary": "Qodo通过将公司知识库和编码规范整合到Codex中，帮助开发者在提交pull request前，在多个代码库中识别P0级问题。这一功能提升了代码审查的效率和质量。"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "isoDate": "2026-10-30T09:30:00.000Z",
+      "content": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "contentSnippet": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将支持网站通过共享robots.txt信号，以帮助网站运营商向参与服务的提供者传达其AI训练的偏好。此举旨在简化网站表达AI训练需求的过程，提高沟通效率。",
+        "en": "OpenAI will respect a shared robots.txt signal, allowing website operators to indicate their preferences for AI training data usage. This initiative helps websites communicate their AI training preferences to participating providers."
+      },
+      "summary": "OpenAI将支持网站通过共享robots.txt信号，以帮助网站运营商向参与服务的提供者传达其AI训练的偏好。此举旨在简化网站表达AI训练需求的过程，提高沟通效率。"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "isoDate": "2026-10-30T09:00:00.000Z",
+      "content": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "contentSnippet": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "creator": "",
+      "summaries": {
+        "zh": "《社区安全报告及青少年新保护措施》文章指出，OpenAI通过加强ChatGPT的暴力预防措施，包括扩大安全防护、提前干预以及承诺公开安全报告，提升了青少年保护力度。",
+        "en": "OpenAI is enhancing ChatGPT's violence prevention measures by introducing expanded safeguards, implementing earlier interventions, and committing to improved public safety reporting. These updates aim to bolster community safety and protect teens."
+      },
+      "summary": "《社区安全报告及青少年新保护措施》文章指出，OpenAI通过加强ChatGPT的暴力预防措施，包括扩大安全防护、提前干预以及承诺公开安全报告，提升了青少年保护力度。"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-30T00:00:00.000Z",
+      "content": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "contentSnippet": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《合理使用惠及所有人》。文章内容分享了创作者、学者、无障碍倡导者和法律专家等提交的法庭简报摘录，阐述了合理使用如何支持人工智能训练与创新。",
+        "en": "The article highlights how fair use benefits AI development by enabling training on copyrighted excerpts shared by creators, academics, and experts. OpenAI presents court briefs supporting this, emphasizing fair use's role in fostering innovation and accessibility. The content underscores fair use as a crucial legal framework for AI progress. (98 words)"
+      },
+      "summary": "文章标题为《合理使用惠及所有人》。文章内容分享了创作者、学者、无障碍倡导者和法律专家等提交的法庭简报摘录，阐述了合理使用如何支持人工智能训练与创新。"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
+      "isoDate": "2026-10-29T17:00:00.000Z",
+      "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "contentSnippet": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 发布了更新的模型规范，提出了五大核心价值观，旨在指导更强大的 AI 实现合理判断、保持人类自主权，并忠实于人类意图。",
+        "en": "OpenAI’s updated Model Spec introduces five core values to steer more capable AI. These values aim to ensure sound judgment, preserve human agency, and maintain faithfulness to human intent. The framework seeks to enhance AI's benefits while addressing potential risks."
+      },
+      "summary": "OpenAI 发布了更新的模型规范，提出了五大核心价值观，旨在指导更强大的 AI 实现合理判断、保持人类自主权，并忠实于人类意图。"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "isoDate": "2026-10-29T09:00:00.000Z",
+      "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "contentSnippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI采用分层监控技术，用于检测前沿模型的偏差及未经授权的代理行为，以便在事件升级前及时干预。",
+        "en": "OpenAI employs layered monitoring to detect misalignment in frontier models and unauthorized agent behavior. This system enables responders to intervene early, preventing incidents from escalating. The approach focuses on proactive monitoring and intervention."
+      },
+      "summary": "OpenAI采用分层监控技术，用于检测前沿模型的偏差及未经授权的代理行为，以便在事件升级前及时干预。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T07:09:42.136Z"
+}
