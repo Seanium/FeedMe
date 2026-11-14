@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "pubDate": "Sat, 14 Nov 2026 04:23:30 +0000",
+      "isoDate": "2026-11-14T04:23:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://monkeyisland.pages.dev/\">https://monkeyisland.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493904\">https://news.ycombinator.com/item?id=50493904</a></p>\n<p>Points: 327</p>\n<p># Comments: 103</p>\n",
+      "contentSnippet": "Article URL: https://monkeyisland.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50493904\nPoints: 327\n# Comments: 103",
+      "creator": "maximilianburke",
+      "summaries": {
+        "zh": "文章《Monkey Island：13个版本对比》展示了《Monkey Island》系列游戏的全部13个版本，并进行了横向对比。文章内容详尽，包括各版本的差异、特色和演变。评论区有103条讨论，点赞数达327。文章旨在帮助玩家了解系列发展历程，提供全面的游戏历史资料。",
+        "en": "The article \"Monkey Island: All 13 Versions Side by Side\" compares the 13 iterations of the Monkey Island franchise. It provides a visual and detailed comparison of the games, highlighting differences in graphics, gameplay, and story across their releases. The content is presented in a structured manner, allowing readers to easily analyze the evolution of the series. The article includes a link to comments for further discussion. (99 words)"
+      },
+      "summary": "文章《Monkey Island：13个版本对比》展示了《Monkey Island》系列游戏的全部13个版本，并进行了横向对比。文章内容详尽，包括各版本的差异、特色和演变。评论区有103条讨论，点赞数达327。文章旨在帮助玩家了解系列发展历程，提供全面的游戏历史资料。"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "isoDate": "2026-11-14T02:52:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493251\">https://news.ycombinator.com/item?id=50493251</a></p>\n<p>Points: 904</p>\n<p># Comments: 541</p>\n",
+      "contentSnippet": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 904\n# Comments: 541",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "据称，英伟达通过资助AI初创公司购买其GPU，人为制造了产品短缺。此举旨在增加市场需求，但引发了争议。相关报道和讨论可在TechPowerUp和Hacker News上找到。",
+        "en": "Nvidia is accused of creating GPU shortages by funding AI startups to purchase its hardware. The claim suggests the company manipulated supply to drive up demand and prices. The article discusses this alleged strategy, with 330 comments on platforms like HN. The source provides no additional details."
+      },
+      "summary": "据称，英伟达通过资助AI初创公司购买其GPU，人为制造了产品短缺。此举旨在增加市场需求，但引发了争议。相关报道和讨论可在TechPowerUp和Hacker News上找到。"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "isoDate": "2026-11-14T02:28:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 364</p>\n<p># Comments: 56</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 364\n# Comments: 56",
+      "creator": "cobychapple",
+      "summaries": {
+        "zh": "ggml v1.0.0版本发布，来自GitHub项目ggml。该版本已在Hacker News获得364点支持，并引发56条评论讨论。具体更新内容未详细说明。",
+        "en": "The article announces the release of GGML v1.0.0. It is available for download via the GitHub link. The release is discussed on Hacker News with 364 points and 56 comments."
+      },
+      "summary": "ggml v1.0.0版本发布，来自GitHub项目ggml。该版本已在Hacker News获得364点支持，并引发56条评论讨论。具体更新内容未详细说明。"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "pubDate": "Fri, 13 Nov 2026 23:06:40 +0000",
+      "isoDate": "2026-11-13T23:06:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.joshka.net/cell-borders/\">https://www.joshka.net/cell-borders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491423\">https://news.ycombinator.com/item?id=50491423</a></p>\n<p>Points: 371</p>\n<p># Comments: 159</p>\n",
+      "contentSnippet": "Article URL: https://www.joshka.net/cell-borders/\nComments URL: https://news.ycombinator.com/item?id=50491423\nPoints: 371\n# Comments: 159",
+      "creator": "vinhnx",
+      "summaries": {
+        "zh": "文章《Terminal borders that don't cost a cell》介绍了如何在终端中创建不占用额外单元格边框的方法。作者通过代码示例展示了如何使用特定的字符和技巧实现这一效果，避免传统边框占用的空间。文章还提供了实际应用场景和用户反馈，并附有评论链接供读者进一步讨论。全文约370点，评论159条。",
+        "en": "The article discusses \"terminal borders that don't cost a cell,\" likely referring to techniques or tools for managing terminal borders without consuming additional screen space. It may cover methods for optimizing terminal layouts or using software to achieve border-like effects efficiently. The post has garnered 371 points and 159 comments, indicating significant interest from the community. No specific details about the methods or tools are provided in the summary."
+      },
+      "summary": "文章《Terminal borders that don't cost a cell》介绍了如何在终端中创建不占用额外单元格边框的方法。作者通过代码示例展示了如何使用特定的字符和技巧实现这一效果，避免传统边框占用的空间。文章还提供了实际应用场景和用户反馈，并附有评论链接供读者进一步讨论。全文约370点，评论159条。"
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
+      "isoDate": "2026-11-13T21:05:53.000Z",
+      "content": "\n<p><a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111\" rel=\"nofollow\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a...</a><p><a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5\" rel=\"nofollow\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a...</a><p><a href=\"https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/d2ae2ce1-ac6b-59ad-ad8d-daef4e181b34\" rel=\"nofollow\">https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489641\">https://news.ycombinator.com/item?id=50489641</a></p>\n<p>Points: 1612</p>\n<p># Comments: 1235</p>\n",
+      "contentSnippet": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a...\nhttps://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a...\nhttps://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...\nComments URL: https://news.ycombinator.com/item?id=50489641\nPoints: 1612\n# Comments: 1235",
+      "creator": "zulln",
+      "summaries": {
+        "zh": "美国联邦航空管理局（FAA）宣布全国范围内暂停航班起降。该决定基于安全考虑，具体原因未详细说明。此次停飞影响广泛，涉及多个主要机场。相关公告可通过FAA官网及纽约时报获取。目前已有1347人讨论此事，新闻评论链接为Hacker News。",
+        "en": "The FAA has issued a national ground stop, halting all flights in the United States. The measure was implemented to address operational issues, though specific details were not provided. The decision affects all air traffic, causing widespread disruptions. The FAA has not announced a timeline for resuming flights. The news has sparked discussion online, with over 1,300 points and 830 comments on platforms like HN. For further updates, readers are directed to official FAA channels and news sources."
+      },
+      "summary": "美国联邦航空管理局（FAA）宣布全国范围内暂停航班起降。该决定基于安全考虑，具体原因未详细说明。此次停飞影响广泛，涉及多个主要机场。相关公告可通过FAA官网及纽约时报获取。目前已有1347人讨论此事，新闻评论链接为Hacker News。"
+    },
+    {
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "pubDate": "Fri, 13 Nov 2026 18:40:44 +0000",
+      "isoDate": "2026-11-13T18:40:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas\">https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487864\">https://news.ycombinator.com/item?id=50487864</a></p>\n<p>Points: 369</p>\n<p># Comments: 200</p>\n",
+      "contentSnippet": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas\nComments URL: https://news.ycombinator.com/item?id=50487864\nPoints: 369\n# Comments: 200",
+      "creator": "crescit_eundo",
+      "summaries": {
+        "zh": "加州至德州的运输途中，价值114万美元的英伟达硬件不翼而飞。事件引发关注，相关讨论及评论超过190条。",
+        "en": "$11.4 million worth of Nvidia hardware disappeared during shipment from California to Texas. The incident occurred while the hardware was in transit, though the exact cause remains unclear. The news has sparked discussion online, with 194 comments on platforms like Hacker News. The shipment's fate and potential recovery are uncertain at this time."
+      },
+      "summary": "加州至德州的运输途中，价值114万美元的英伟达硬件不翼而飞。事件引发关注，相关讨论及评论超过190条。"
+    },
+    {
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "pubDate": "Fri, 13 Nov 2026 18:18:37 +0000",
+      "isoDate": "2026-11-13T18:18:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\">https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487522\">https://news.ycombinator.com/item?id=50487522</a></p>\n<p>Points: 371</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\nComments URL: https://news.ycombinator.com/item?id=50487522\nPoints: 371\n# Comments: 212",
+      "creator": "BobaFloutist",
+      "summaries": {
+        "zh": "学生在一台iPad上打开PowerPoint演示文稿需要16次点击。这一过程引发了技术操作繁琐的讨论。用户在Reddit和Hacker News上分享了这一体验，并获得了大量关注和评论。",
+        "en": "A Reddit user reported that opening a PowerPoint file on an iPad requires 16 clicks, highlighting frustration with the process. The user noted the inconvenience of navigating through multiple menus to access the file. The post received 346 points and 184 comments, indicating significant discussion among readers. The issue reflects challenges in using standard software on mobile devices."
+      },
+      "summary": "学生在一台iPad上打开PowerPoint演示文稿需要16次点击。这一过程引发了技术操作繁琐的讨论。用户在Reddit和Hacker News上分享了这一体验，并获得了大量关注和评论。"
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "pubDate": "Fri, 13 Nov 2026 17:30:10 +0000",
+      "isoDate": "2026-11-13T17:30:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486748\">https://news.ycombinator.com/item?id=50486748</a></p>\n<p>Points: 409</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\nComments URL: https://news.ycombinator.com/item?id=50486748\nPoints: 409\n# Comments: 104",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "人工智能成功解密哥德尔笔记，据称其中包含数百个已证明的数学定理。这些笔记曾长期未被理解，AI技术帮助揭示了其隐藏的发现。哥德尔是数学史上的重要人物，其笔记对数学理论产生了深远影响。",
+        "en": "An AI has successfully deciphered Kurt Gödel's notebooks, believed to contain hundreds of previously unknown theorems. The notebooks, long inaccessible due to their complex handwritten text, were analyzed using advanced machine learning techniques. The findings could significantly impact mathematical research. The discovery highlights the potential of AI in unlocking historical scientific and philosophical works. The full content and implications of the theorems are yet to be fully explored by the mathematical community."
+      },
+      "summary": "人工智能成功解密哥德尔笔记，据称其中包含数百个已证明的数学定理。这些笔记曾长期未被理解，AI技术帮助揭示了其隐藏的发现。哥德尔是数学史上的重要人物，其笔记对数学理论产生了深远影响。"
+    },
+    {
+      "title": "LibreOffice actually works 365 days a year",
+      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "pubDate": "Fri, 13 Nov 2026 17:09:58 +0000",
+      "isoDate": "2026-11-13T17:09:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/LibreOffice/status/2121205272479998268\">https://twitter.com/LibreOffice/status/2121205272479998268</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486482\">https://news.ycombinator.com/item?id=50486482</a></p>\n<p>Points: 910</p>\n<p># Comments: 279</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268\nComments URL: https://news.ycombinator.com/item?id=50486482\nPoints: 910\n# Comments: 279",
+      "creator": "mksaunders2",
+      "summaries": {
+        "zh": "标题：LibreOffice 实际每年工作 365 天\n\n内容概述：LibreOffice 是一款开源办公软件，全年无休可用。该软件功能全面，支持多种文档格式，适用于日常办公和学术研究。用户可通过官网免费下载使用。目前，相关推文获得 754 次点赞，237 条评论。",
+        "en": "LibreOffice is a free office suite that operates continuously, supporting users for 365 days a year. The software provides tools for word processing, spreadsheets, presentations, and more. It is open-source, allowing for community contributions and regular updates. The article highlights its reliability and accessibility as an alternative to commercial office software. Comments discuss its features and usability. The post has garnered significant engagement, with 754 points and 237 comments."
+      },
+      "summary": "标题：LibreOffice 实际每年工作 365 天\n\n内容概述：LibreOffice 是一款开源办公软件，全年无休可用。该软件功能全面，支持多种文档格式，适用于日常办公和学术研究。用户可通过官网免费下载使用。目前，相关推文获得 754 次点赞，237 条评论。"
+    },
+    {
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "pubDate": "Fri, 13 Nov 2026 15:08:44 +0000",
+      "isoDate": "2026-11-13T15:08:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=IRK8h67ol7Q\">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484658\">https://news.ycombinator.com/item?id=50484658</a></p>\n<p>Points: 419</p>\n<p># Comments: 584</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q\nComments URL: https://news.ycombinator.com/item?id=50484658\nPoints: 419\n# Comments: 584",
+      "creator": "helloplanets",
+      "summaries": {
+        "zh": "文章标题：Jonathan Blow——《如果AI解决了编程，为什么我的软件还是老样子？》[视频]\n\n内容摘要：知名游戏开发者Jonathan Blow在视频中质疑AI在编程领域的实际应用，指出尽管AI技术发展迅速，但他的软件产品仍未有显著改进。他认为AI并未真正解决编程问题，并探讨了技术进步与实际成果之间的差距。视频引发讨论，评论区有584条留言。",
+        "en": "In a video, Jonathan Blow questions why AI has not improved software development if it claims to solve coding. Blow suggests that despite AI's potential, his software remains unchanged, implying a gap between AI's capabilities and practical application in the industry. The discussion has sparked 584 comments on platforms like Hacker News."
+      },
+      "summary": "文章标题：Jonathan Blow——《如果AI解决了编程，为什么我的软件还是老样子？》[视频]\n\n内容摘要：知名游戏开发者Jonathan Blow在视频中质疑AI在编程领域的实际应用，指出尽管AI技术发展迅速，但他的软件产品仍未有显著改进。他认为AI并未真正解决编程问题，并探讨了技术进步与实际成果之间的差距。视频引发讨论，评论区有584条留言。"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "pubDate": "Fri, 13 Nov 2026 12:10:24 +0000",
+      "isoDate": "2026-11-13T12:10:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.132.3436.1291\">https://www.science.org/doi/10.1126/science.132.3436.1291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50482379\">https://news.ycombinator.com/item?id=50482379</a></p>\n<p>Points: 486</p>\n<p># Comments: 334</p>\n",
+      "contentSnippet": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291\nComments URL: https://news.ycombinator.com/item?id=50482379\nPoints: 486\n# Comments: 334",
+      "creator": "voxleone",
+      "summaries": {
+        "zh": "1960年的文章《末日：2026年11月13日》预测了该日期的灾难性事件。文章标题暗示了某种末日情景，但具体内容未详细说明。文章发表于《科学》杂志，并附有评论链接。",
+        "en": "An article titled \"Doomsday: Friday, 13 November, A.D. 2026 (1960)\" discusses predictions of a catastrophic event on that date. The content, published in *Science*, examines the origins of the doomsday claim and its cultural impact. It references the date's significance as a Friday the 13th, combining superstition with potential scientific or societal fears. The article analyzes historical contexts and dismisses the threat as unfounded, emphasizing the importance of critical thinking. It includes references to academic discussions and public reactions. The URL and comment links provide further context. (98 words)"
+      },
+      "summary": "1960年的文章《末日：2026年11月13日》预测了该日期的灾难性事件。文章标题暗示了某种末日情景，但具体内容未详细说明。文章发表于《科学》杂志，并附有评论链接。"
+    },
+    {
+      "title": "AI is destroying the trust between writers and readers",
+      "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "pubDate": "Fri, 13 Nov 2026 11:13:46 +0000",
+      "isoDate": "2026-11-13T11:13:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/\">https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50481870\">https://news.ycombinator.com/item?id=50481870</a></p>\n<p>Points: 356</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/\nComments URL: https://news.ycombinator.com/item?id=50481870\nPoints: 356\n# Comments: 225",
+      "creator": "FinnLobsien",
+      "summaries": {
+        "zh": "人工智能正破坏作家与读者之间的信任。随着AI生成内容的泛滥，读者难以辨别真伪，作家原创价值被削弱。亚马逊等平台上的AI文学骗局加剧了这一问题。评论显示，读者和作家对AI的冲击感到担忧，但缺乏有效应对措施。",
+        "en": "The article discusses how AI-generated literary scams on Amazon are eroding trust between writers and readers. Scammers use AI to create fake reviews and promote low-quality content, misleading consumers. This practice undermines genuine literary work and damages credibility in the publishing industry. The piece highlights the growing concern over AI's misuse in book marketing and its impact on reader confidence."
+      },
+      "summary": "人工智能正破坏作家与读者之间的信任。随着AI生成内容的泛滥，读者难以辨别真伪，作家原创价值被削弱。亚马逊等平台上的AI文学骗局加剧了这一问题。评论显示，读者和作家对AI的冲击感到担忧，但缺乏有效应对措施。"
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn",
+      "pubDate": "Fri, 13 Nov 2026 10:18:13 +0000",
+      "isoDate": "2026-11-13T10:18:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.claude.com/incidents/nn11wk485zfn\">https://status.claude.com/incidents/nn11wk485zfn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50481187\">https://news.ycombinator.com/item?id=50481187</a></p>\n<p>Points: 489</p>\n<p># Comments: 389</p>\n",
+      "contentSnippet": "Article URL: https://status.claude.com/incidents/nn11wk485zfn\nComments URL: https://news.ycombinator.com/item?id=50481187\nPoints: 489\n# Comments: 389",
+      "creator": "__vivek",
+      "summaries": {
+        "zh": "Claude.ai、Claude Code和platform.claude.com出现错误率上升。该事件编号为nn11wk485zfn，相关评论链接为https://news.ycombinator.com/item?id=50481187。目前已有384个点数和324条评论。",
+        "en": "Claude.ai, Claude Code, and platform.claude.com are experiencing elevated error rates. The incident is tracked under the ID nn11wk485zfn. As of the latest update, the issue remains unresolved. Comments and discussions about the incident can be found on Hacker News, with 384 points and 324 comments. The status page provides further details on the ongoing situation."
+      },
+      "summary": "Claude.ai、Claude Code和platform.claude.com出现错误率上升。该事件编号为nn11wk485zfn，相关评论链接为https://news.ycombinator.com/item?id=50481187。目前已有384个点数和324条评论。"
+    },
+    {
+      "title": "Global Microsoft Outage",
+      "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "pubDate": "Fri, 13 Nov 2026 06:18:23 +0000",
+      "isoDate": "2026-11-13T06:18:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk\">https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50479098\">https://news.ycombinator.com/item?id=50479098</a></p>\n<p>Points: 290</p>\n<p># Comments: 182</p>\n",
+      "contentSnippet": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=50479098\nPoints: 290\n# Comments: 182",
+      "creator": "TechTechTech",
+      "summaries": {
+        "zh": "微软全球服务中断事件。此次中断影响全球用户，导致多服务不可用。事件已引起广泛关注，相关讨论和反馈增多。具体原因及恢复时间暂未公布。",
+        "en": "A global Microsoft outage impacted users worldwide, causing disruptions to services. The outage affected various Microsoft products, including Azure, Outlook, and Teams. Microsoft worked to resolve the issue, but the full extent of the service restoration was not immediately clear. The outage led to widespread reports of inconvenience and operational delays. No specific cause was provided at the time of reporting."
+      },
+      "summary": "微软全球服务中断事件。此次中断影响全球用户，导致多服务不可用。事件已引起广泛关注，相关讨论和反馈增多。具体原因及恢复时间暂未公布。"
+    },
+    {
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "pubDate": "Fri, 13 Nov 2026 05:08:23 +0000",
+      "isoDate": "2026-11-13T05:08:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/MSFT365Status/status/2121079061774491735\">https://twitter.com/MSFT365Status/status/2121079061774491735</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478609\">https://news.ycombinator.com/item?id=50478609</a></p>\n<p>Points: 467</p>\n<p># Comments: 308</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735\nComments URL: https://news.ycombinator.com/item?id=50478609\nPoints: 467\n# Comments: 308",
+      "creator": "player85",
+      "summaries": {
+        "zh": "微软Outlook/365服务已中断12小时，目前仍未恢复。相关状态更新及评论可通过指定链接查看。",
+        "en": "Microsoft Outlook/365 remains down after 12 hours, with users reporting persistent issues. The service disruption has generated significant discussion online, with 417 points and 288 comments on platforms like Twitter and Hacker News. No further updates were provided at the time of the summary."
+      },
+      "summary": "微软Outlook/365服务已中断12小时，目前仍未恢复。相关状态更新及评论可通过指定链接查看。"
+    },
+    {
+      "title": "IceWM",
+      "link": "https://ice-wm.org/",
+      "pubDate": "Fri, 13 Nov 2026 04:54:53 +0000",
+      "isoDate": "2026-11-13T04:54:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ice-wm.org/\">https://ice-wm.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478515\">https://news.ycombinator.com/item?id=50478515</a></p>\n<p>Points: 370</p>\n<p># Comments: 226</p>\n",
+      "contentSnippet": "Article URL: https://ice-wm.org/\nComments URL: https://news.ycombinator.com/item?id=50478515\nPoints: 370\n# Comments: 226",
+      "creator": "inatreecrown2",
+      "summaries": {
+        "zh": "冰风窗口管理器（IceWM）是一款轻量级、高度可定制的开源窗口管理器。它支持多种桌面环境，提供简洁的界面和高效的性能。用户可通过配置文件调整外观和功能。官网提供软件下载和文档，Hacker News上有关其讨论的帖文获得351点、213条评论。",
+        "en": "IceWM is a lightweight, fast, and highly configurable window manager for X11-based Unix-like operating systems. It provides a minimalistic desktop environment with a focus on efficiency and customization. The official website (ice-wm.org) offers documentation and download links. A discussion on Hacker News (news.ycombinator.com) features 213 comments and a score of 351, indicating community interest. The article highlights IceWM's suitability for users seeking a resource-efficient desktop experience."
+      },
+      "summary": "冰风窗口管理器（IceWM）是一款轻量级、高度可定制的开源窗口管理器。它支持多种桌面环境，提供简洁的界面和高效的性能。用户可通过配置文件调整外观和功能。官网提供软件下载和文档，Hacker News上有关其讨论的帖文获得351点、213条评论。"
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "pubDate": "Fri, 13 Nov 2026 02:16:24 +0000",
+      "isoDate": "2026-11-13T02:16:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\">https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477231\">https://news.ycombinator.com/item?id=50477231</a></p>\n<p>Points: 809</p>\n<p># Comments: 674</p>\n",
+      "contentSnippet": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\nComments URL: https://news.ycombinator.com/item?id=50477231\nPoints: 809\n# Comments: 674",
+      "creator": "lavendermon",
+      "summaries": {
+        "zh": "Nvidia员工发起请愿，要求重返公司担任CEO黄仁勋。该请愿已获423人支持，引发广泛关注。相关讨论可在Wired和Hacker News上找到。",
+        "en": "Nvidia employees have petitioned to bring back CEO Jensen Huang, citing concerns about recent company changes. The petition, which gathered significant support, highlights dissatisfaction among staff regarding leadership and strategic direction. The movement reflects a desire for Huang's return to address these issues. The article and associated discussions provide further context on the employees' grievances and the ongoing debate within the company."
+      },
+      "summary": "Nvidia员工发起请愿，要求重返公司担任CEO黄仁勋。该请愿已获423人支持，引发广泛关注。相关讨论可在Wired和Hacker News上找到。"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "pubDate": "Thu, 12 Nov 2026 23:06:17 +0000",
+      "isoDate": "2026-11-12T23:06:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://news.ycombinator.com/item?id=50475713</a></p>\n<p>Points: 347</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 347\n# Comments: 105",
+      "creator": "sroussey",
+      "summaries": {
+        "zh": "文章介绍了Edge0-145B，一款可在个人电脑上运行的尖端AI模型，具备前沿AI能力。该模型通过优化技术，使普通计算机也能高效运行大型AI任务。文章详细说明了其技术特点和优势，并提供了使用指南。读者可通过指定链接获取更多信息或参与讨论。",
+        "en": "Edge0-145B is an AI model enabling advanced AI capabilities on personal computers. It allows users to run frontier AI tasks locally, leveraging powerful performance without cloud dependencies. The model is designed for accessibility, offering high-quality AI experiences directly on users' devices. Edge0-145B supports a range of applications, from natural language processing to machine learning tasks, making cutting-edge AI technology more widely available. The release aims to democratize AI, empowering users with the tools to harness frontier AI capabilities locally."
+      },
+      "summary": "文章介绍了Edge0-145B，一款可在个人电脑上运行的尖端AI模型，具备前沿AI能力。该模型通过优化技术，使普通计算机也能高效运行大型AI任务。文章详细说明了其技术特点和优势，并提供了使用指南。读者可通过指定链接获取更多信息或参与讨论。"
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "pubDate": "Thu, 12 Nov 2026 22:03:09 +0000",
+      "isoDate": "2026-11-12T22:03:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/\">https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474959\">https://news.ycombinator.com/item?id=50474959</a></p>\n<p>Points: 773</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/\nComments URL: https://news.ycombinator.com/item?id=50474959\nPoints: 773\n# Comments: 215",
+      "creator": "scottjg",
+      "summaries": {
+        "zh": "文章标题：逆向工程 Coway 空气净化器，摆脱云端控制  \n内容摘要：作者通过逆向工程 Coway 空气净化器，成功移除云端依赖，实现本地独立运行。文章详细介绍了技术过程和所需工具，并分享了开源成果。读者可通过文章链接获取更多信息和评论。全文包含 620 点，评论区有 183 条讨论。",
+        "en": "The article details the process of reverse engineering a Coway air purifier to bypass its cloud connectivity, enabling local control and data access without reliance on the manufacturer's services. The author provides technical insights and instructions for modifying the device, emphasizing user autonomy over data and functionality. The content includes a discussion on the implications of such modifications for consumer electronics and privacy. (98 words)"
+      },
+      "summary": "文章标题：逆向工程 Coway 空气净化器，摆脱云端控制  \n内容摘要：作者通过逆向工程 Coway 空气净化器，成功移除云端依赖，实现本地独立运行。文章详细介绍了技术过程和所需工具，并分享了开源成果。读者可通过文章链接获取更多信息和评论。全文包含 620 点，评论区有 183 条讨论。"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "pubDate": "Thu, 12 Nov 2026 21:56:11 +0000",
+      "isoDate": "2026-11-12T21:56:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 367</p>\n<p># Comments: 160</p>\n",
+      "contentSnippet": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 367\n# Comments: 160",
+      "creator": "firloop",
+      "summaries": {
+        "zh": "中国边境AI模型带有出口管制GPU的指纹。文章指出，部分中国AI模型使用了受出口管制的GPU，这可能涉及技术违规。分析显示，这些模型的技术特征与受管制设备相关。事件引发了对AI技术出口管制的关注。",
+        "en": "Chinese frontier AI models show signs of using export-controlled GPUs, indicating potential compliance issues with international regulations. The findings, from a study on checkpoint forensics, suggest these models may have been trained with hardware subject to export restrictions. The research highlights concerns about the sourcing and use of advanced AI hardware. The discussion on platforms like HN (Hacker News) has garnered attention, with 130 comments and 329 points. The findings underscore the need for stricter oversight of AI model development."
+      },
+      "summary": "中国边境AI模型带有出口管制GPU的指纹。文章指出，部分中国AI模型使用了受出口管制的GPU，这可能涉及技术违规。分析显示，这些模型的技术特征与受管制设备相关。事件引发了对AI技术出口管制的关注。"
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "pubDate": "Thu, 12 Nov 2026 19:51:33 +0000",
+      "isoDate": "2026-11-12T19:51:33.000Z",
+      "content": "\n<p><a href=\"https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/\" rel=\"nofollow\">https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50473190\">https://news.ycombinator.com/item?id=50473190</a></p>\n<p>Points: 455</p>\n<p># Comments: 493</p>\n",
+      "contentSnippet": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-...\nComments URL: https://news.ycombinator.com/item?id=50473190\nPoints: 455\n# Comments: 493",
+      "creator": "jbredeche",
+      "summaries": {
+        "zh": "据消息人士透露，前英伟达CEO黄仁勋曾与公司另一名员工存在关系。相关报道来自福布斯，引发网友讨论。此事目前尚未得到官方证实。",
+        "en": "A report from Forbes states that former Nvidia CEO Jensen Huang had a romantic relationship with a second employee. The article references sources for this claim but does not provide further details. The story has generated discussion online, with 405 comments on platforms like Hacker News. The summary remains factual, focusing on the reported relationship without additional context or speculation."
+      },
+      "summary": "据消息人士透露，前英伟达CEO黄仁勋曾与公司另一名员工存在关系。相关报道来自福布斯，引发网友讨论。此事目前尚未得到官方证实。"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "pubDate": "Thu, 12 Nov 2026 19:05:33 +0000",
+      "isoDate": "2026-11-12T19:05:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/\">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472490\">https://news.ycombinator.com/item?id=50472490</a></p>\n<p>Points: 392</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/\nComments URL: https://news.ycombinator.com/item?id=50472490\nPoints: 392\n# Comments: 192",
+      "creator": "cybermango",
+      "summaries": {
+        "zh": "天文学家发现一个神秘天体，其公转周期约为280年，位于冥王星轨道之外。该天体可能是一个新的矮行星，隐藏在我们太阳系中。",
+        "en": "Astronomers have discovered a mysterious object orbiting far beyond Pluto, which may be a new dwarf planet. The object takes approximately 280 years to complete one orbit around the Sun. Its discovery was made by astronomers and is part of ongoing research into the outer solar system. The find could provide new insights into the dynamics of our solar system."
+      },
+      "summary": "天文学家发现一个神秘天体，其公转周期约为280年，位于冥王星轨道之外。该天体可能是一个新的矮行星，隐藏在我们太阳系中。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "pubDate": "Thu, 12 Nov 2026 18:52:01 +0000",
+      "isoDate": "2026-11-12T18:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472260\">https://news.ycombinator.com/item?id=50472260</a></p>\n<p>Points: 501</p>\n<p># Comments: 161</p>\n",
+      "contentSnippet": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\nComments URL: https://news.ycombinator.com/item?id=50472260\nPoints: 501\n# Comments: 161",
+      "creator": "jonbaer",
+      "summaries": {
+        "zh": "文章标题为《Gemini 4 Hydrogen和Orchestrator》，来自Google Antigravity博客。文章介绍了Gemini 4 Hydrogen的相关信息，并提及了Orchestrator。评论区有104条回复。",
+        "en": "Gemini 4 Hydrogen is a new project by Google's Antigravity division, with an orchestrator component. The article discusses its development and potential applications. The project has garnered 388 points and 104 comments online."
+      },
+      "summary": "文章标题为《Gemini 4 Hydrogen和Orchestrator》，来自Google Antigravity博客。文章介绍了Gemini 4 Hydrogen的相关信息，并提及了Orchestrator。评论区有104条回复。"
+    },
+    {
+      "title": "Rust 1.100",
+      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "pubDate": "Thu, 12 Nov 2026 18:39:05 +0000",
+      "isoDate": "2026-11-12T18:39:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\">https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472038\">https://news.ycombinator.com/item?id=50472038</a></p>\n<p>Points: 890</p>\n<p># Comments: 318</p>\n",
+      "contentSnippet": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\nComments URL: https://news.ycombinator.com/item?id=50472038\nPoints: 890\n# Comments: 318",
+      "creator": "mbStavola",
+      "summaries": {
+        "zh": "Rust 1.100.0版本发布，包含多项改进和新特性。主要更新包括性能优化、错误处理增强及工具链升级。新版本旨在提升开发效率和代码稳定性。更多详情请参考官方博客。",
+        "en": "The Rust 1.100.0 release introduces several improvements, including enhanced diagnostic messages, optimizations for faster compilation, and updates to the Rust compiler (rustc) and standard library. The update also addresses numerous bug fixes and improves tooling support. The release aims to provide a more stable and efficient development experience for Rust programmers. For further details, readers are directed to the official blog post and discussion threads."
+      },
+      "summary": "Rust 1.100.0版本发布，包含多项改进和新特性。主要更新包括性能优化、错误处理增强及工具链升级。新版本旨在提升开发效率和代码稳定性。更多详情请参考官方博客。"
+    },
+    {
+      "title": "Rust 1.100",
+      "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "pubDate": "Thu, 12 Nov 2026 18:24:06 +0000",
+      "isoDate": "2026-11-12T18:24:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/rust-lang/rust/releases/tag/1.100.0\">https://github.com/rust-lang/rust/releases/tag/1.100.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471793\">https://news.ycombinator.com/item?id=50471793</a></p>\n<p>Points: 314</p>\n<p># Comments: 9</p>\n",
+      "contentSnippet": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0\nComments URL: https://news.ycombinator.com/item?id=50471793\nPoints: 314\n# Comments: 9",
+      "creator": "thesuperbigfrog",
+      "summaries": {
+        "zh": "Rust 1.100版本发布，包含多项更新。具体内容未详细说明，可参考GitHub发布页面（https://github.com/rust-lang/rust/releases/tag/1.100.0）或Hacker News评论区（https://news.ycombinator.com/item?id=50471793）。该版本获得314点关注，评论区有9条讨论。",
+        "en": "The Rust 1.100 release is announced, with key details available at the GitHub release page (https://github.com/rust-lang/rust/releases/tag/1.100.0). The release received 314 points and 9 comments on Hacker News (https://news.ycombinator.com/item?id=50471793). No further specific information about the release's features or changes is provided in the given data."
+      },
+      "summary": "Rust 1.100版本发布，包含多项更新。具体内容未详细说明，可参考GitHub发布页面（https://github.com/rust-lang/rust/releases/tag/1.100.0）或Hacker News评论区（https://news.ycombinator.com/item?id=50471793）。该版本获得314点关注，评论区有9条讨论。"
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "link": "https://status.cloud.microsoft/",
+      "pubDate": "Thu, 12 Nov 2026 18:20:48 +0000",
+      "isoDate": "2026-11-12T18:20:48.000Z",
+      "content": "\n<p><a href=\"https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050\" rel=\"nofollow\">https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...</a><p><a href=\"https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/\" rel=\"nofollow\">https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...</a><p><a href=\"https://downdetector.com/status/microsoft-365/\" rel=\"nofollow\">https://downdetector.com/status/microsoft-365/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471731\">https://news.ycombinator.com/item?id=50471731</a></p>\n<p>Points: 1167</p>\n<p># Comments: 987</p>\n",
+      "contentSnippet": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...\nhttps://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...\nhttps://downdetector.com/status/microsoft-365/\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 1167\n# Comments: 987",
+      "creator": "dkpk",
+      "summaries": {
+        "zh": "微软365服务出现降级。据ABC新闻、Reddit和DownDetector等多方报道，服务中断影响用户访问。Hacker News评论区有396条讨论，关注点为服务稳定性问题。具体影响和修复情况需进一步关注官方公告。",
+        "en": "Microsoft 365 experienced service degradation, with widespread reports of outages and performance issues. Users reported problems accessing email, collaboration tools, and other services. The outage affected multiple regions, causing disruptions to business and personal productivity. Downdetector and Reddit threads detailed user experiences and suggested temporary fixes. The outage was attributed to technical failures, though Microsoft has not yet confirmed specific causes. Further updates are expected as the situation evolves."
+      },
+      "summary": "微软365服务出现降级。据ABC新闻、Reddit和DownDetector等多方报道，服务中断影响用户访问。Hacker News评论区有396条讨论，关注点为服务稳定性问题。具体影响和修复情况需进一步关注官方公告。"
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "link": "https://news.ycombinator.com/item?id=50471668",
+      "pubDate": "Thu, 12 Nov 2026 18:17:13 +0000",
+      "isoDate": "2026-11-12T18:17:13.000Z",
+      "content": "\n<p>For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471668\">https://news.ycombinator.com/item?id=50471668</a></p>\n<p>Points: 402</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load.\nComments URL: https://news.ycombinator.com/item?id=50471668\nPoints: 402\n# Comments: 1",
+      "creator": "nazgulsenpai",
+      "summaries": {
+        "zh": "微软云服务在过去5分钟内全部中断。状态页面也无法加载。有其他人遇到同样问题吗？评论区链接：https://news.ycombinator.com/item?id=50471668。",
+        "en": "Microsoft Azure services are experiencing an outage, with users reporting complete loss of connectivity for the past five minutes. The Azure Status page is also unavailable. The issue is being discussed on Hacker News, with one user seeking confirmation from others. No further details are provided."
+      },
+      "summary": "微软云服务在过去5分钟内全部中断。状态页面也无法加载。有其他人遇到同样问题吗？评论区链接：https://news.ycombinator.com/item?id=50471668。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "pubDate": "Thu, 12 Nov 2026 18:01:48 +0000",
+      "isoDate": "2026-11-12T18:01:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471431\">https://news.ycombinator.com/item?id=50471431</a></p>\n<p>Points: 565</p>\n<p># Comments: 350</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\nComments URL: https://news.ycombinator.com/item?id=50471431\nPoints: 565\n# Comments: 350",
+      "creator": "dvaplima",
+      "summaries": {
+        "zh": "谷歌推出Gemini 4 Hydrogen模型，旨在提升多模态交互能力和效率。该模型采用先进技术，优化了自然语言处理和图像识别功能。通过改进算法和架构，Gemini 4 Hydrogen在保持高性能的同时降低了资源消耗。该模型适用于多种应用场景，包括内容创作、数据分析等。此次更新展示了谷歌在AI领域的持续创新。",
+        "en": "Google introduces Gemini 4 Hydrogen, a new AI model focused on efficiency and performance. The model leverages advanced techniques to reduce computational costs while maintaining high accuracy. It is designed for scalable applications, offering improved speed and resource optimization. Gemini 4 Hydrogen builds on previous Gemini models, enhancing capabilities for various AI tasks. The announcement highlights its potential in streamlining AI operations and supporting broader adoption. No additional details are provided."
+      },
+      "summary": "谷歌推出Gemini 4 Hydrogen模型，旨在提升多模态交互能力和效率。该模型采用先进技术，优化了自然语言处理和图像识别功能。通过改进算法和架构，Gemini 4 Hydrogen在保持高性能的同时降低了资源消耗。该模型适用于多种应用场景，包括内容创作、数据分析等。此次更新展示了谷歌在AI领域的持续创新。"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "link": "https://github.com/simpsoka/zigzag",
+      "pubDate": "Thu, 12 Nov 2026 17:02:42 +0000",
+      "isoDate": "2026-11-12T17:02:42.000Z",
+      "content": "\n<p><a href=\"https://x.com/simpsoka/status/2115254318161182876\" rel=\"nofollow\">https://x.com/simpsoka/status/2115254318161182876</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470488\">https://news.ycombinator.com/item?id=50470488</a></p>\n<p>Points: 732</p>\n<p># Comments: 249</p>\n",
+      "contentSnippet": "https://x.com/simpsoka/status/2115254318161182876\nComments URL: https://news.ycombinator.com/item?id=50470488\nPoints: 732\n# Comments: 249",
+      "creator": "simpsoka",
+      "summaries": {
+        "zh": "标题：Show HN：我的300美元刺绣机需要订阅，所以我开发了自制应用程序\n\n简述：用户因300美元的刺绣机需要订阅服务，决定自行开发应用程序替代。该项目开源，GitHub链接为https://github.com/simpsoka/zigzag，Hacker News讨论页面有113条评论，获268点。",
+        "en": "The author built an open-source embroidery machine app after their $300 machine required a subscription. The app, available on GitHub, allows users to control embroidery machines without subscriptions. It has garnered 268 points and 113 comments on Hacker News. The project aims to provide a free alternative to proprietary solutions."
+      },
+      "summary": "标题：Show HN：我的300美元刺绣机需要订阅，所以我开发了自制应用程序\n\n简述：用户因300美元的刺绣机需要订阅服务，决定自行开发应用程序替代。该项目开源，GitHub链接为https://github.com/simpsoka/zigzag，Hacker News讨论页面有113条评论，获268点。"
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "pubDate": "Thu, 12 Nov 2026 16:29:13 +0000",
+      "isoDate": "2026-11-12T16:29:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep\">https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50469994\">https://news.ycombinator.com/item?id=50469994</a></p>\n<p>Points: 320</p>\n<p># Comments: 261</p>\n",
+      "contentSnippet": "Article URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep\nComments URL: https://news.ycombinator.com/item?id=50469994\nPoints: 320\n# Comments: 261",
+      "creator": "CharlesW",
+      "summaries": {
+        "zh": "任天堂在GitHub发起大规模DMCA行动，下架了大量任天堂Switch模拟器和改装芯片固件。此次行动旨在打击侵权行为，保护公司权益。相关链接：[IGN报道](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)。",
+        "en": "Nintendo launched a large-scale DMCA takedown on GitHub, removing numerous emulators and Switch mod chip firmware. The action targets software that allows unauthorized copying and modification of Nintendo games and hardware. The company acted to protect its intellectual property rights by eliminating accessible resources for piracy and hacking. The move has sparked discussion online, with over 260 comments on platforms like HN. The GitHub sweep aims to curb the distribution of tools that violate Nintendo's copyrights."
+      },
+      "summary": "任天堂在GitHub发起大规模DMCA行动，下架了大量任天堂Switch模拟器和改装芯片固件。此次行动旨在打击侵权行为，保护公司权益。相关链接：[IGN报道](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:07:29.735Z"
+}

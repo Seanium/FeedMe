@@ -1,0 +1,163 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5ce7d7112ec92111f4c578425cba3b9a70948be412d80f742ba7b056a3b4494c/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 27891<br>Forks: 2166",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 27891\nForks: 2166",
+      "creator": "meta",
+      "summaries": {
+        "zh": "开源设计系统Meta/Astryx，支持完全定制和智能体适配，使用TypeScript开发。该系统获得27891个星标和2166次分叉，具有高度可扩展性。",
+        "en": "The article introduces \"meta/astryx,\" an open-source design system built with TypeScript. It is fully customizable and designed to be agent-ready. The project has gained significant popularity, with 27,891 stars and 2,166 forks on its repository. The summary highlights its key features, popularity, and technical foundation."
+      },
+      "summary": "开源设计系统Meta/Astryx，支持完全定制和智能体适配，使用TypeScript开发。该系统获得27891个星标和2166次分叉，具有高度可扩展性。"
+    },
+    {
+      "title": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95\" referrerpolicy=\"no-referrer\"><br>Hunt down social media accounts by username across social networks<br><br>Language: Python<br>Stars: 111638<br>Forks: 12922",
+      "contentSnippet": "Hunt down social media accounts by username across social networks\nLanguage: Python\nStars: 111638\nForks: 12922",
+      "creator": "sherlock-project",
+      "summaries": {
+        "zh": "该名为Sherlock的项目是一个用Python编写的工具，旨在通过用户名在多个社交媒体平台上追踪和定位账号。项目在GitHub上拥有超过11万星标和12844次分叉，显示出其较高的受欢迎程度和实用性。",
+        "en": "The Sherlock project is a Python-based tool designed to locate social media accounts by username across multiple platforms. It features over 110,000 stars and 12,844 forks on its repository, indicating significant popularity and community engagement. The tool simplifies the process of tracking down profiles on various social networks using usernames."
+      },
+      "summary": "该名为Sherlock的项目是一个用Python编写的工具，旨在通过用户名在多个社交媒体平台上追踪和定位账号。项目在GitHub上拥有超过11万星标和12844次分叉，显示出其较高的受欢迎程度和实用性。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/04c11ab681e9725a047812d1fa657c59a2a653bdf87be6c60db59c41720b5fb1/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 194477<br>Forks: 22885",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 194477\nForks: 22885",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该仓库是一个用于代理技能的公共代码库，使用Python编写。目前拥有184,981个星标和21,874次分叉。",
+        "en": "The article discusses a public repository named \"anthropics/skills,\" which is a collection of Agent Skills written in Python. It has garnered significant popularity, boasting 184,981 stars and 21,874 forks on its platform. The repository serves as a resource for developers working on agent-based systems, providing a centralized location for shared skills and tools. The content highlights its utility and community engagement, reflecting its importance in the field."
+      },
+      "summary": "该仓库是一个用于代理技能的公共代码库，使用Python编写。目前拥有184,981个星标和21,874次分叉。"
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/528675af08b7672b17ec94108f21e8aff5dfd66f7bf07f9e4af0f0070e85392b/vercel-labs/agent-browser\" referrerpolicy=\"no-referrer\"><br>Browser automation CLI for AI agents<br><br>Language: Rust<br>Stars: 51069<br>Forks: 3560",
+      "contentSnippet": "Browser automation CLI for AI agents\nLanguage: Rust\nStars: 51069\nForks: 3560",
+      "creator": "vercel-labs",
+      "summaries": {
+        "zh": "Vercel-Labs/agent-browser 是一款用 Rust 编写的浏览器自动化命令行工具，专为 AI 代理设计。该工具支持高效浏览器自动化操作，目前获得 46886 个星标和 3212 次分叉。",
+        "en": "The Vercel Labs Agent Browser is a Rust-based CLI tool for automating browser interactions with AI agents. It supports browser automation and is designed for AI agent development. The project has 46,886 stars and 3,212 forks on its repository."
+      },
+      "summary": "Vercel-Labs/agent-browser 是一款用 Rust 编写的浏览器自动化命令行工具，专为 AI 代理设计。该工具支持高效浏览器自动化操作，目前获得 46886 个星标和 3212 次分叉。"
+    },
+    {
+      "title": "google/elephant-goldfish-model",
+      "link": "https://github.com/google/elephant-goldfish-model",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1368596582/bafb1e15-6b0b-4c41-a95d-6183244a44ab\" referrerpolicy=\"no-referrer\"><br>Open-source plugin for designing and reviewing software with agents<br><br>Language: Python<br>Stars: 18990<br>Forks: 1411",
+      "contentSnippet": "Open-source plugin for designing and reviewing software with agents\nLanguage: Python\nStars: 18990\nForks: 1411",
+      "creator": "google",
+      "summaries": {
+        "zh": "开源插件，用于通过智能体设计和审查软件，使用Python语言开发，获18456星，1374次分叉。",
+        "en": "The \"google/elephant-goldfish-model\" is an open-source plugin for designing and reviewing software using agents. It is written in Python and has 18,456 stars and 1,374 forks on its repository. The tool facilitates software development and review processes through automated agent-based interactions."
+      },
+      "summary": "开源插件，用于通过智能体设计和审查软件，使用Python语言开发，获18456星，1374次分叉。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/398b8cf8202763069694d3b8c98cc0071a3b920547a3964c1cdfce76d6b32f40/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 22645<br>Forks: 3146",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 22645\nForks: 3146",
+      "creator": "milind-soni",
+      "summaries": {
+        "zh": "OpenMausBot是一个开源的Grok Bot替代方案，使用TypeScript开发，包含虚拟机供机器人使用。该项目在GitHub上拥有约13099个星标和1815个分支。",
+        "en": "OpenMausBot is an open-source alternative to Grok Bot, featuring a virtual machine that bots can utilize. Developed in TypeScript, it has gained significant popularity with 13,099 stars and 1,815 forks on its repository. The platform offers a flexible framework for bot development, leveraging virtual machine technology for enhanced functionality."
+      },
+      "summary": "OpenMausBot是一个开源的Grok Bot替代方案，使用TypeScript开发，包含虚拟机供机器人使用。该项目在GitHub上拥有约13099个星标和1815个分支。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 72194<br>Forks: 57459",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 72194\nForks: 57459",
+      "creator": "ZhuLinsen",
+      "summaries": {
+        "zh": "该系统是一款基于LLM的多市场股票智能分析工具，整合多源行情数据、实时新闻、决策看板及自动推送功能。支持零成本定时运行，使用Python开发，GitHub上拥有71399星和57248次分叉。",
+        "en": "The article introduces an LLM-powered multi-market stock analysis system. It features multi-source market data, real-time news, a decision dashboard, and automated notifications. The system supports zero-cost scheduled runs and is implemented in Python. It has 71,399 stars and 57,248 forks on its repository."
+      },
+      "summary": "该系统是一款基于LLM的多市场股票智能分析工具，整合多源行情数据、实时新闻、决策看板及自动推送功能。支持零成本定时运行，使用Python开发，GitHub上拥有71399星和57248次分叉。"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/53e833580f092e1b387672711029e81eb8547c8a855ff2a309c78176aaf7d3e9/google-deepmind/mujoco\" referrerpolicy=\"no-referrer\"><br>Multi-Joint dynamics with Contact. A general purpose physics simulator.<br><br>Language: C++<br>Stars: 17954<br>Forks: 2195",
+      "contentSnippet": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\nLanguage: C++\nStars: 17954\nForks: 2195",
+      "creator": "google-deepmind",
+      "summaries": {
+        "zh": "标题：google-deepmind/mujoco  \n内容：Mujoco是一款通用物理模拟器，支持多关节动力学和接触。使用C++开发，拥有17592个星标和2162个分支。",
+        "en": "The \"google-deepmind/mujoco\" repository contains a general-purpose physics simulator for multi-joint dynamics with contact. Developed in C++, it is designed for simulating complex physical interactions. The project has gained significant popularity, with 17,592 stars and 2,162 forks on its hosting platform. The simulator supports detailed physics calculations, making it suitable for various applications in robotics, animation, and scientific research. Its open-source nature and active community contribute to its widespread use."
+      },
+      "summary": "标题：google-deepmind/mujoco  \n内容：Mujoco是一款通用物理模拟器，支持多关节动力学和接触。使用C++开发，拥有17592个星标和2162个分支。"
+    },
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9cfd5f191271e254e2df053855f1bf020982fba7bce10a078c997ea74eebfc4c/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10869<br>Forks: 814",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10869\nForks: 814",
+      "creator": "backnotprop",
+      "summaries": {
+        "zh": "\"backnotprop/plannotator\"是一个协作工具，用于管理智能体工作流程。它支持形状设计、决策制定、计划安排、注释标注、代码审查、团队共享等功能，并可通过一键操作将所有反馈发送给智能体。该工具使用TypeScript开发，获得10869个星标和814次分叉。",
+        "en": "The \"backnotprop/plannotator\" is a workspace designed for managing agents, offering features like shaping, decision-making, planning, annotation, code review, team collaboration, and one-click feedback distribution to agents. It is built in TypeScript and has 10,869 stars and 814 forks on its repository."
+      },
+      "summary": "\"backnotprop/plannotator\"是一个协作工具，用于管理智能体工作流程。它支持形状设计、决策制定、计划安排、注释标注、代码审查、团队共享等功能，并可通过一键操作将所有反馈发送给智能体。该工具使用TypeScript开发，获得10869个星标和814次分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3428a6e843a761692890b5f3bcb91125f43436248f3a80379f2ec84d9fdef41f/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 117466<br>Forks: 12286",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 117466\nForks: 12286",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上获得了117,046个星标和12,240次分叉，显示了其较高的社区认可度。内容聚焦于AI编码代理的工程实践，为开发者提供了实用工具和方法。",
+        "en": "The project \"addyosmani/agent-skills\" focuses on developing production-ready engineering skills for AI coding agents using JavaScript. It features 117,046 stars and 12,240 forks on its repository."
+      },
+      "summary": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上获得了117,046个星标和12,240次分叉，显示了其较高的社区认可度。内容聚焦于AI编码代理的工程实践，为开发者提供了实用工具和方法。"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9cb708c6fa3c62544988647eadc600641da677906522dfeb71fb1f980aaf5073/anthropics/claude-quickstarts\" referrerpolicy=\"no-referrer\"><br>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API<br><br>Language: Python<br>Stars: 20948<br>Forks: 3494",
+      "contentSnippet": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\nLanguage: Python\nStars: 20948\nForks: 3494",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该集合包含多个项目，旨在帮助开发者快速使用Claude API构建可部署应用。项目使用Python语言，目前获得20842个星标和3491次分叉。",
+        "en": "The \"anthropics/claude-quickstarts\" repository offers a collection of projects to assist developers in quickly building deployable applications using the Claude API. The projects are written in Python and have garnered significant popularity, with 20,842 stars and 3,491 forks on platforms like GitHub. These resources aim to simplify the integration and deployment process for developers working with the Claude API."
+      },
+      "summary": "该集合包含多个项目，旨在帮助开发者快速使用Claude API构建可部署应用。项目使用Python语言，目前获得20842个星标和3491次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:13:48.208Z"
+}

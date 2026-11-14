@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro",
+      "link": "https://www.v2ex.com/t/1257030",
+      "pubDate": "Sat, 14 Nov 2026 06:05:09 GMT",
+      "isoDate": "2026-11-14T06:05:09.000Z",
+      "content": "ae: <p>平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。之前一直用论坛助手，支持的论坛多，用着其实也不差，就是我这人比较龟毛，很多地方想按自己的审美和习惯来，索性自己手搓了一个。断断续续做了几个月，前两天终于上架了。</p>\n<p>App Store 搜「<a href=\"https://apps.apple.com/app/id6821816100\" rel=\"nofollow\"><strong>Dis 看帖</strong></a>」，需要 iOS 18 以上，iPhone / iPad 都能用，iPhone Duo 也做了初步适配。</p>\n<p>现在支持 V2EX 、NGA 、Linuxdo 、4D4Y 、Chiphell ，后面会接更多。</p>\n<p><img alt=\"全部视图和聚合搜索\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/Wt1fv61.png\"></p>\n<h2>功能</h2>\n<ul>\n<li>「全部」里几个论坛的帖子混在一起刷，搜索也可以一次搜好几个论坛</li>\n<li>帖子没有「页」的概念，一路往下滑就是。想去哪层，按住右下角的胶囊拖一下，楼层实时跟着变，几万楼的帖子也能准确跳过去（喜欢分页的，设置里能切回去）</li>\n<li>尽量做成 iOS 原生的手感，不是网页套壳</li>\n<li>不登录也能逛，有账号再登录回帖</li>\n<li>iCloud 同步登录状态、常用节点、看到哪了、外观设置，换设备接着看</li>\n<li>十几套深浅色主题，列表排版、疏密、字号都能调</li>\n<li>没广告</li>\n</ul>\n<p><img alt=\"无极楼层\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/PPy9UAD.gif\"></p>\n<h2>V2EX 支持情况</h2>\n<p>看帖、回复、节点、收藏、提醒、特别关注、Block 都有，网站本身没有的（比如私信）也就没有了。只看 V2EX 的话，V2ER 这些已经很好用了，Dis 可能更适合同时还逛别的论坛的。</p>\n<h2>隐私</h2>\n<p>Dis 没有自己的服务器，也不收集任何使用数据。除了访问论坛，只会读一个放在 GitHub 上的公开配置文件（公告、版本提示），读的时候不带任何用户信息。密码和登录信息只存在你自己手机的钥匙串和你自己的 iCloud 里。</p>\n<h2>不足</h2>\n<ul>\n<li>不开源</li>\n<li>没有服务器，新提醒靠 iOS 后台刷新去查，会晚一会儿</li>\n<li>访问论坛比较克制，不想给人家添负担，有些地方没网页快</li>\n<li>五个论坛要兼顾，有些站点特有的小功能还没做全，在慢慢补</li>\n<li>现在商店这版有个 bug：V2EX 部分帖子在列表里的时间会显示成「刚刚」，已经修了，下个版本更新</li>\n</ul>\n<h2>收费</h2>\n<p>看帖、回帖、收提醒都免费。有一部分功能是 Pro ，月付 3 块、年付 18 、永久 38 （永久是早鸟价，以后可能会涨），算是挣点电费，给开发者账号的年费回回血。</p>\n<h2>抽奖</h2>\n<p>刚上线肯定还有不少 bug ，送 10 个半年 Pro 码，给愿意试用、帮忙挑毛病的 v 友：</p>\n<ul>\n<li>回帖就算参与，随便说点啥都行，有建议或吐槽更好</li>\n<li>同一个 ID 回多楼只算一次，我自己的楼不算</li>\n<li>大概几天后开奖，用 <a href=\"http://random.org/\" rel=\"nofollow\">random.org</a> 按楼层抽 10 个，中奖楼层和码（ base64 ）发在附言里</li>\n<li>参与的人不到 10 个就全送</li>\n</ul>\n<p>很多地方还是边做边试，用着不顺手的欢迎吐槽，有喜欢的配色或者排版也可以提，楼里我都会回。</p>\n",
+      "contentSnippet": "ae: \n平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。之前一直用论坛助手，支持的论坛多，用着其实也不差，就是我这人比较龟毛，很多地方想按自己的审美和习惯来，索性自己手搓了一个。断断续续做了几个月，前两天终于上架了。\nApp Store 搜「Dis 看帖」，需要 iOS 18 以上，iPhone / iPad 都能用，iPhone Duo 也做了初步适配。\n现在支持 V2EX 、NGA 、Linuxdo 、4D4Y 、Chiphell ，后面会接更多。\n\n功能\n「全部」里几个论坛的帖子混在一起刷，搜索也可以一次搜好几个论坛\n帖子没有「页」的概念，一路往下滑就是。想去哪层，按住右下角的胶囊拖一下，楼层实时跟着变，几万楼的帖子也能准确跳过去（喜欢分页的，设置里能切回去）\n尽量做成 iOS 原生的手感，不是网页套壳\n不登录也能逛，有账号再登录回帖\niCloud 同步登录状态、常用节点、看到哪了、外观设置，换设备接着看\n十几套深浅色主题，列表排版、疏密、字号都能调\n没广告\n\nV2EX 支持情况\n看帖、回复、节点、收藏、提醒、特别关注、Block 都有，网站本身没有的（比如私信）也就没有了。只看 V2EX 的话，V2ER 这些已经很好用了，Dis 可能更适合同时还逛别的论坛的。\n隐私\nDis 没有自己的服务器，也不收集任何使用数据。除了访问论坛，只会读一个放在 GitHub 上的公开配置文件（公告、版本提示），读的时候不带任何用户信息。密码和登录信息只存在你自己手机的钥匙串和你自己的 iCloud 里。\n不足\n不开源\n没有服务器，新提醒靠 iOS 后台刷新去查，会晚一会儿\n访问论坛比较克制，不想给人家添负担，有些地方没网页快\n五个论坛要兼顾，有些站点特有的小功能还没做全，在慢慢补\n现在商店这版有个 bug：V2EX 部分帖子在列表里的时间会显示成「刚刚」，已经修了，下个版本更新\n收费\n看帖、回帖、收提醒都免费。有一部分功能是 Pro ，月付 3 块、年付 18 、永久 38 （永久是早鸟价，以后可能会涨），算是挣点电费，给开发者账号的年费回回血。\n抽奖\n刚上线肯定还有不少 bug ，送 10 个半年 Pro 码，给愿意试用、帮忙挑毛病的 v 友：\n回帖就算参与，随便说点啥都行，有建议或吐槽更好\n同一个 ID 回多楼只算一次，我自己的楼不算\n大概几天后开奖，用 random.org 按楼层抽 10 个，中奖楼层和码（ base64 ）发在附言里\n参与的人不到 10 个就全送\n很多地方还是边做边试，用着不顺手的欢迎吐槽，有喜欢的配色或者排版也可以提，楼里我都会回。",
+      "creator": "ae",
+      "summaries": {
+        "zh": "《Dis 看帖》是一款支持 V2EX、NGA、Linux.do、4D4Y、Chiphell 等论坛的原生 iOS 客户端。用户可在“全部”中混刷各论坛帖子，支持实时楼层拖动跳转，提供多主题和深浅色模式。功能包括看帖、回复、收藏等，但无私信等网站特有功能。App 不开源，无服务器，部分提醒延迟。Pro 版月付 3 元或年付 18 元，上线抽奖送 10 个半年 Pro 码。开发者持续优化中。",
+        "en": "**Summary:**  \n\nThe app \"Dis 看帖\" aggregates V2EX, NGA, Linux.do, 4D4Y, and Chiphell forums into one iOS native client. Features include unified post feeds, smooth scrolling with楼层 navigation, native-like UI, offline browsing, iCloud sync, customizable themes, and no ads. Pro subscription (monthly/yearly/permanent) unlocks additional features. The developer offers 10 free半年 Pro codes via a random draw for users reporting bugs. The app is non-open source and lacks a dedicated server, relying on iOS background refresh for notifications. Some site-specific features are pending implementation."
+      },
+      "summary": "《Dis 看帖》是一款支持 V2EX、NGA、Linux.do、4D4Y、Chiphell 等论坛的原生 iOS 客户端。用户可在“全部”中混刷各论坛帖子，支持实时楼层拖动跳转，提供多主题和深浅色模式。功能包括看帖、回复、收藏等，但无私信等网站特有功能。App 不开源，无服务器，部分提醒延迟。Pro 版月付 3 元或年付 18 元，上线抽奖送 10 个半年 Pro 码。开发者持续优化中。"
+    },
+    {
+      "title": "睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了",
+      "link": "https://www.v2ex.com/t/1257008",
+      "pubDate": "Sat, 14 Nov 2026 03:02:12 GMT",
+      "isoDate": "2026-11-14T03:02:12.000Z",
+      "content": "grandlq: <p>期待在醒来时看到项目做好上线发布的页面，结果被 Windows 登录页面迎接。</p>\n<p>这种设计究竟是怎么期待人用它稳定工作开发的？</p>\n",
+      "contentSnippet": "grandlq: \n期待在醒来时看到项目做好上线发布的页面，结果被 Windows 登录页面迎接。\n这种设计究竟是怎么期待人用它稳定工作开发的？",
+      "creator": "grandlq",
+      "summaries": {
+        "zh": "用户 grandlq 计划在夜间使用 agent 全自动完成任务，但醒来时发现 Windows 自动更新导致系统重启，打断了工作。用户对此表示不满，质疑 Windows 的稳定性，认为其设计不适合稳定开发工作。",
+        "en": "The user grandlq scheduled an automated agent task for the entire night to prepare for project deployment. However, upon waking up, their system was restarted by Windows automatic updates, disrupting the process. They questioned the reliability of Windows for stable development work."
+      },
+      "summary": "用户 grandlq 计划在夜间使用 agent 全自动完成任务，但醒来时发现 Windows 自动更新导致系统重启，打断了工作。用户对此表示不满，质疑 Windows 的稳定性，认为其设计不适合稳定开发工作。"
+    },
+    {
+      "title": "换了个新 macbook air m5 有没有推荐的软件安装",
+      "link": "https://www.v2ex.com/t/1257002",
+      "pubDate": "Sat, 14 Nov 2026 02:07:06 GMT",
+      "isoDate": "2026-11-14T02:07:06.000Z",
+      "content": "syh2: 如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了，<br><br>看看大家有没有推荐的<br><br>我主要做产品经理，写文档，画原型，搞浏览器自动化<br><br>看看有没有啥好玩的 Mac 软件和玩法推荐",
+      "contentSnippet": "syh2: 如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了，\n看看大家有没有推荐的\n我主要做产品经理，写文档，画原型，搞浏览器自动化\n看看有没有啥好玩的 Mac 软件和玩法推荐",
+      "creator": "syh2",
+      "summaries": {
+        "zh": "新MacBook Air M5用户提问：因旧电脑系统不兼容Intel芯片，需推荐适合产品经理工作的Mac软件。主要需求包括文档撰写、原型设计、浏览器自动化等。请分享相关软件及使用技巧。",
+        "en": "The user is looking for software recommendations for their new MacBook Air M5, as their previous Intel-based Mac couldn’t run many apps. They primarily use their Mac for product management tasks, including writing documents, creating prototypes, and browser automation. The user seeks suggestions for useful and engaging Mac software."
+      },
+      "summary": "新MacBook Air M5用户提问：因旧电脑系统不兼容Intel芯片，需推荐适合产品经理工作的Mac软件。主要需求包括文档撰写、原型设计、浏览器自动化等。请分享相关软件及使用技巧。"
+    },
+    {
+      "title": "国模真的还可以的",
+      "link": "https://www.v2ex.com/t/1257001",
+      "pubDate": "Sat, 14 Nov 2026 02:05:00 GMT",
+      "isoDate": "2026-11-14T02:05:00.000Z",
+      "content": "JohnXu20151211: 最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。 发现国模(主要用 glm flash deepseek flash)真的效果还是可以的， 不光更便宜，整体其实效果还行。整体下来比 codex 价格合适。<br><br>另外还有一个感受就是即使不用手写代码，但是最好还有一个编辑器，在类似 CodeBuddy trae 这种编辑器里面使用 ai 的时候感觉 ai 对项目整体的感知能力会更好，比如我用 openspec 产出好的 task ，CodeBuddy trae 可以比较顺畅的沿着计划执行下去， 但是 codex 无论是客户端 cli 还是嵌入到 zed 中都总是卡壳断在某个任务上停止。 <br><br>再有就是编辑器中可以连远程机器，直接可以交给 ai 去操作，以及编辑器里打开浏览器去操作验收功能，尽管 codex 也有这种能力，但是要占用系统的 chrome ，相比之下感觉放到编辑器中开个浏览器似乎更友好一点。感觉比起一些各种自己配置的编辑器不如这种拿来就用的效率高，而且相对还更成熟。<br><br>当然顶级模型应该还是国外的领先，我用 codex 也只是 gpt6 sol 和 gpt6.1 terra ，也不敢开太高，主要额度用的太快了。 <br><br><br>最近使用的一点感受，不知道你们感受如何",
+      "contentSnippet": "JohnXu20151211: 最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。 发现国模(主要用 glm flash deepseek flash)真的效果还是可以的， 不光更便宜，整体其实效果还行。整体下来比 codex 价格合适。\n另外还有一个感受就是即使不用手写代码，但是最好还有一个编辑器，在类似 CodeBuddy trae 这种编辑器里面使用 ai 的时候感觉 ai 对项目整体的感知能力会更好，比如我用 openspec 产出好的 task ，CodeBuddy trae 可以比较顺畅的沿着计划执行下去， 但是 codex 无论是客户端 cli 还是嵌入到 zed 中都总是卡壳断在某个任务上停止。 \n再有就是编辑器中可以连远程机器，直接可以交给 ai 去操作，以及编辑器里打开浏览器去操作验收功能，尽管 codex 也有这种能力，但是要占用系统的 chrome ，相比之下感觉放到编辑器中开个浏览器似乎更友好一点。感觉比起一些各种自己配置的编辑器不如这种拿来就用的效率高，而且相对还更成熟。\n当然顶级模型应该还是国外的领先，我用 codex 也只是 gpt6 sol 和 gpt6.1 terra ，也不敢开太高，主要额度用的太快了。 \n\n最近使用的一点感受，不知道你们感受如何",
+      "creator": "JohnXu20151211",
+      "summaries": {
+        "zh": "近期发现国模（如glm flash、deepseek flash）在效果和价格上表现良好，整体性价比优于Codex。使用CodeBuddy Trae等编辑器时，AI对项目的感知能力更强，任务执行更顺畅。编辑器集成远程操作和浏览器验收功能更友好，效率高于自配置编辑器。但顶级模型仍以国外领先，个人主要使用Codex的GPT6系列。",
+        "en": "JohnXu20151211 reports that domestic models like glm flash deepseek flash offer decent performance at lower costs than Codex. They work well with tools like CodeBuddy Trae, providing better project perception and smoother task execution compared to Codex, which often stalls. The user also prefers AI integration within editors, noting that editors with built-in browsers are more user-friendly than using external systems like Chrome. While acknowledging that top models remain foreign, the user finds domestic models efficient and mature for their needs."
+      },
+      "summary": "近期发现国模（如glm flash、deepseek flash）在效果和价格上表现良好，整体性价比优于Codex。使用CodeBuddy Trae等编辑器时，AI对项目的感知能力更强，任务执行更顺畅。编辑器集成远程操作和浏览器验收功能更友好，效率高于自配置编辑器。但顶级模型仍以国外领先，个人主要使用Codex的GPT6系列。"
+    },
+    {
+      "title": "GPT 官 Key 免费用。蹬完即止",
+      "link": "https://www.v2ex.com/t/1256998",
+      "pubDate": "Sat, 14 Nov 2026 01:54:25 GMT",
+      "isoDate": "2026-11-14T01:54:25.000Z",
+      "content": "luotao21: 周末没人上班，Token 用不完。送给 V2EX 的大佬免费用。<br><br><a target=\"_blank\" href=\"https://pixcook.ai/\" rel=\"nofollow noopener\">https://pixcook.ai</a><br><br><br>sk-6810902ebc0f3256989f528a8727f2e658fff1d483c0ef2e801ddd94fe83629e<br><br><br>我们是做 AI 出海应用的团队，因为自身开发团队的需要，为了降低成本，所以自己购买一些 ChatGPT 账号搭建了一个中转站。<br><br>自有的反代理技术，可以做到稳定不降智，缓存率长期保持在 97%以上的体验，缓存写入长期个位数或者 3 位数以内。<br><br>V2EX 的大佬，如果注册后，回帖留下站内 ID （右上角账户下来菜单中可以查阅），我将送上 5 刀 余额，数量有限，送完即止。",
+      "contentSnippet": "luotao21: 周末没人上班，Token 用不完。送给 V2EX 的大佬免费用。\nhttps://pixcook.ai\n\nsk-6810902ebc0f3256989f528a8727f2e658fff1d483c0ef2e801ddd94fe83629e\n\n我们是做 AI 出海应用的团队，因为自身开发团队的需要，为了降低成本，所以自己购买一些 ChatGPT 账号搭建了一个中转站。\n自有的反代理技术，可以做到稳定不降智，缓存率长期保持在 97%以上的体验，缓存写入长期个位数或者 3 位数以内。\nV2EX 的大佬，如果注册后，回帖留下站内 ID （右上角账户下来菜单中可以查阅），我将送上 5 刀 余额，数量有限，送完即止。",
+      "creator": "luotao21",
+      "summaries": {
+        "zh": "GPT 官 Key 免费赠送。该团队因降低成本自购 ChatGPT 账号搭建中转站，采用反代理技术确保稳定，缓存率超97%。面向 V2EX 用户，注册后留站内ID可获5美元余额，数量有限，送完即止。",
+        "en": "The article announces free GPT官Key for V2EX users due to unused tokens over the weekend. The team behind the AI出海应用 acquired ChatGPT accounts to reduce costs and set up a proxy service. Their technology ensures stable, high-quality performance with a 97% cache rate. Users registering and leaving their V2EX ID in a reply will receive $5 in site credit, limited to a few recipients. The offer ends when all credits are distributed."
+      },
+      "summary": "GPT 官 Key 免费赠送。该团队因降低成本自购 ChatGPT 账号搭建中转站，采用反代理技术确保稳定，缓存率超97%。面向 V2EX 用户，注册后留站内ID可获5美元余额，数量有限，送完即止。"
+    },
+    {
+      "title": "很多火的东西，理解不了为什么火",
+      "link": "https://www.v2ex.com/t/1256990",
+      "pubDate": "Sat, 14 Nov 2026 00:58:37 GMT",
+      "isoDate": "2026-11-14T00:58:37.000Z",
+      "content": "jedeft: <p>是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题</p>\n",
+      "contentSnippet": "jedeft: \n是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题",
+      "creator": "jedeft",
+      "summaries": {
+        "zh": "文章标题为《很多火的东西，理解不了为什么火》。内容中，用户jedeft提出疑问，认为自己的产品无法走红是因为品味有问题。整体表达了对热门事物难以理解的情绪。",
+        "en": "The article discusses the phenomenon of certain products becoming popular without clear reasons. The author, jedeft, questions whether their own creations could ever gain traction, suggesting it might be due to personal taste. The piece reflects on the unpredictability of popularity and the perceived disconnect between creator preference and audience reception."
+      },
+      "summary": "文章标题为《很多火的东西，理解不了为什么火》。内容中，用户jedeft提出疑问，认为自己的产品无法走红是因为品味有问题。整体表达了对热门事物难以理解的情绪。"
+    },
+    {
+      "title": "最近做了一个运行在 iPhone 的 agent",
+      "link": "https://www.v2ex.com/t/1256987",
+      "pubDate": "Sat, 14 Nov 2026 00:47:08 GMT",
+      "isoDate": "2026-11-14T00:47:08.000Z",
+      "content": "codelover612: <p><img alt=\"图片\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/oowI3Je.jpg\"></p>\n<p>核心功能如下</p>\n<ul>\n<li>支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，让 agent 能干活</li>\n<li>支持本地浏览器</li>\n<li>支持动态 ui 生成</li>\n<li>支持 skill ，能自动扫描远程 skill</li>\n<li>支持插件，可以在各种时机插入想要的逻辑</li>\n<li>支持定时或者地理位置触发任务</li>\n<li>最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高</li>\n</ul>\n<p>tf 内测中： <a href=\"https://testflight.apple.com/join/WUPfjzh2\" rel=\"nofollow\">https://testflight.apple.com/join/WUPfjzh2</a> 欢迎提 bug</p>\n",
+      "contentSnippet": "codelover612: \n\n核心功能如下\n支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，让 agent 能干活\n支持本地浏览器\n支持动态 ui 生成\n支持 skill ，能自动扫描远程 skill\n支持插件，可以在各种时机插入想要的逻辑\n支持定时或者地理位置触发任务\n最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高\ntf 内测中： https://testflight.apple.com/join/WUPfjzh2 欢迎提 bug",
+      "creator": "codelover612",
+      "summaries": {
+        "zh": "最近开发了一款运行在 iPhone 上的 agent，核心功能包括：支持挂载本地/远程 Linux 及沙箱环境，提供本地浏览器，动态 UI 生成，自动扫描远程 skill，插件逻辑插入，以及定时/地理位置触发任务。该 agent 已用于截图、视频套壳、NAS 管理、智能家居控制等场景，可玩性高。目前处于内部测试阶段，可通过 TestFlight 加入测试并反馈问题。",
+        "en": "I recently developed an iPhone agent with core features including support for local Linux, remote Linux, and sandbox environments, local browser access, dynamic UI generation, skill scanning, plugin insertion, and task triggering via time or location. It has been used for tasks like applying phone cases to screenshots/videos, managing home NAS, and controlling smart home devices, showcasing high versatility. The agent is currently in TF beta: https://testflight.apple.com/join/WUPfjzh2."
+      },
+      "summary": "最近开发了一款运行在 iPhone 上的 agent，核心功能包括：支持挂载本地/远程 Linux 及沙箱环境，提供本地浏览器，动态 UI 生成，自动扫描远程 skill，插件逻辑插入，以及定时/地理位置触发任务。该 agent 已用于截图、视频套壳、NAS 管理、智能家居控制等场景，可玩性高。目前处于内部测试阶段，可通过 TestFlight 加入测试并反馈问题。"
+    },
+    {
+      "title": "家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）",
+      "link": "https://www.v2ex.com/t/1256986",
+      "pubDate": "Sat, 14 Nov 2026 00:34:29 GMT",
+      "isoDate": "2026-11-14T00:34:29.000Z",
+      "content": "jiejiez: 自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。<br><br>想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。<br><br>如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。",
+      "contentSnippet": "jiejiez: 自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。\n想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。\n如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。",
+      "creator": "jiejiez",
+      "summaries": {
+        "zh": "用户jiejiez在长春使用PVE搭建软路由，运行OpenWrt旁路由，并结合Unraid和VPS。擅长安装、组网和虚拟机配置，希望与同好交流软路由、PVE和NAS经验，并愿意远程或上门协助解决技术问题。服务按次收费，不销售设备或承接不明来源业务。",
+        "en": "The user jiejiez in Changchun runs a soft router using PVE with OpenWrt and manages Unraid and VPS. They are seeking to connect with others interested in soft routing, PVE, and NAS setups, sharing experiences and troubleshooting tips. They offer remote assistance for installation, networking, or brick-saving issues and can visit in-person locally. Assistance is paid per session, and they do not sell hardware or accept suspicious accounts."
+      },
+      "summary": "用户jiejiez在长春使用PVE搭建软路由，运行OpenWrt旁路由，并结合Unraid和VPS。擅长安装、组网和虚拟机配置，希望与同好交流软路由、PVE和NAS经验，并愿意远程或上门协助解决技术问题。服务按次收费，不销售设备或承接不明来源业务。"
+    },
+    {
+      "title": "有小孩了,想每年给小孩存一点钱,大家推荐什么",
+      "link": "https://www.v2ex.com/t/1256985",
+      "pubDate": "Sat, 14 Nov 2026 00:04:42 GMT",
+      "isoDate": "2026-11-14T00:04:42.000Z",
+      "content": "diudiuu: 目前给弄了个 3 年的定期存款<br><br>希望有点收益,不要太大也不要冒险吧",
+      "contentSnippet": "diudiuu: 目前给弄了个 3 年的定期存款\n希望有点收益,不要太大也不要冒险吧",
+      "creator": "diudiuu",
+      "summaries": {
+        "zh": "用户diudiuu表示计划为孩子每年存钱，选择了一款3年期定期存款产品，希望获得稳健收益，避免高风险。",
+        "en": "The user diudiuu is considering opening a 3-year fixed deposit to save money for their child each year, seeking a balance between safety and modest returns."
+      },
+      "summary": "用户diudiuu表示计划为孩子每年存钱，选择了一款3年期定期存款产品，希望获得稳健收益，避免高风险。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:14:33.467Z"
+}

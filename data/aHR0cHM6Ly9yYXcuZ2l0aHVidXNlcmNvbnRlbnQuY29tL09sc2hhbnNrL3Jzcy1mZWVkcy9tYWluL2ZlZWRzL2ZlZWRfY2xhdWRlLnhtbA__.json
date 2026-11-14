@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Practical guidance, product updates, and best practices for building with Claude.",
+  "link": "https://claude.com/resources/articles",
+  "items": [
+    {
+      "title": "The Claude Tag guide for startups",
+      "link": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-13T00:00:00.000Z",
+      "content": "How leading startups use Claude Tag to ship faster and scale operations",
+      "contentSnippet": "How leading startups use Claude Tag to ship faster and scale operations",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude标签指南：初创企业如何利用Claude标签加速交付和扩展运营》  \n本文介绍了领先初创企业如何使用Claude标签，通过简化流程提高交付效率，并实现业务规模的快速扩展。指南详细阐述了Claude标签的应用方法和实际案例，为初创企业提供了可操作的策略，帮助其在竞争激烈的市场中提升运营效率。",
+        "en": "The Claude Tag guide for startups explains how leading startups leverage the tool to accelerate product development and scale operations efficiently. It highlights practical applications and benefits, demonstrating how the technology streamlines workflows and enhances productivity for growing businesses. The guide serves as a resource for startups seeking to optimize their processes and achieve faster time-to-market."
+      },
+      "summary": "《Claude标签指南：初创企业如何利用Claude标签加速交付和扩展运营》  \n本文介绍了领先初创企业如何使用Claude标签，通过简化流程提高交付效率，并实现业务规模的快速扩展。指南详细阐述了Claude标签的应用方法和实际案例，为初创企业提供了可操作的策略，帮助其在竞争激烈的市场中提升运营效率。"
+    },
+    {
+      "title": "Building always-on agents",
+      "link": "https://claude.com/resources/articles/building-always-on-agents",
+      "pubDate": "Fri, 13 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-13T00:00:00.000Z",
+      "content": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "contentSnippet": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "creator": "",
+      "summaries": {
+        "zh": "\"常驻代理\"指南：常驻代理可无限运行，跨多会话自主决策行动方式与时机。本文介绍了其核心基础组件及组合方式。",
+        "en": "The article \"Building always-on agents\" explains that these agents operate continuously, making decisions across multiple sessions. It provides a guide to their core components and how they integrate. The focus is on understanding their functionality and structure."
+      },
+      "summary": "\"常驻代理\"指南：常驻代理可无限运行，跨多会话自主决策行动方式与时机。本文介绍了其核心基础组件及组合方式。"
+    },
+    {
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "link": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "contentSnippet": "Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Opus 5.5是Claude在Pro、Max、Ultra和Team计划中的默认模型。本文介绍了该模型与其他模型相比的特点，并探讨了如何利用它进行知识工作。",
+        "en": "Claude Opus 5.5 is the default model on Claude's Pro, Max, Ultra, and Team plans. The article compares it with other models and provides guidance on optimizing its use for knowledge work. It outlines key differences and offers tips for maximizing efficiency."
+      },
+      "summary": "Claude Opus 5.5是Claude在Pro、Max、Ultra和Team计划中的默认模型。本文介绍了该模型与其他模型相比的特点，并探讨了如何利用它进行知识工作。"
+    },
+    {
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "contentSnippet": "Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent.",
+      "creator": "",
+      "summaries": {
+        "zh": "介绍自托管Claude管理代理。用户可在自己的云环境或本地环境中运行代理。代理、凭证和会话历史由用户托管，并可选择将请求发送至Claude。",
+        "en": "Introducing self-hosted Claude Managed Agents, allowing users to run agents within their own environment—either in the cloud or on-premise. Users host agents, credentials, and session history while selecting where requests to Claude are directed. This setup enhances control and security for organizations managing AI interactions."
+      },
+      "summary": "介绍自托管Claude管理代理。用户可在自己的云环境或本地环境中运行代理。代理、凭证和会话历史由用户托管，并可选择将请求发送至Claude。"
+    },
+    {
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "link": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "contentSnippet": "J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products.",
+      "creator": "",
+      "summaries": {
+        "zh": "J.Crew推出新风格顾问，利用Claude技术提供个性化在线购物体验，以完整搭配而非单品推荐。",
+        "en": "J.Crew has launched a new Style Advisor powered by Claude, offering personalized online shopping experiences with complete outfits rather than single items. The service aims to enhance customer styling by providing coordinated looks."
+      },
+      "summary": "J.Crew推出新风格顾问，利用Claude技术提供个性化在线购物体验，以完整搭配而非单品推荐。"
+    },
+    {
+      "title": "Introducing Claude Meetings",
+      "link": "https://claude.com/resources/articles/claude-meetings",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "Add Claude to your video call and get the work started while you talk",
+      "contentSnippet": "Add Claude to your video call and get the work started while you talk",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Meetings介绍：将Claude加入视频通话，边谈边开始工作。",
+        "en": "Claude Meetings integrates Claude into video calls, enabling users to begin work during conversations. The tool enhances collaboration by allowing real-time interaction while talking, streamlining productivity."
+      },
+      "summary": "Claude Meetings介绍：将Claude加入视频通话，边谈边开始工作。"
+    },
+    {
+      "title": "Introducing Claude for Manufacturing",
+      "link": "https://claude.com/resources/articles/claude-for-manufacturing",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-12T00:00:00.000Z",
+      "content": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "contentSnippet": "A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.",
+      "creator": "",
+      "summaries": {
+        "zh": "《面向制造业的Claude插件发布》\n\n该插件集成17项技能和4个连接器，帮助制造商从现有系统中自动生成报价单、质量报告和供应商请求，提升工作效率。",
+        "en": "The article introduces a new plugin for manufacturing, featuring 17 skills and four connectors. It enables users to draft quotes, quality reports, and supplier requests directly from existing systems. The tool streamlines workflows by leveraging integrated data sources."
+      },
+      "summary": "《面向制造业的Claude插件发布》\n\n该插件集成17项技能和4个连接器，帮助制造商从现有系统中自动生成报价单、质量报告和供应商请求，提升工作效率。"
+    },
+    {
+      "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "contentSnippet": "Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude新增白板、表格和数据功能，用户可直接在Claude中进行头脑风暴、创建表格和分享数据。",
+        "en": "Claude now offers whiteboards, sheets, and data sharing features. Users can brainstorm on whiteboards, create sheets, and share data directly within the platform. These additions enhance collaboration and productivity by integrating visual, spreadsheet, and data tools into Claude. The updates provide a more versatile environment for users to work with different types of content."
+      },
+      "summary": "Claude新增白板、表格和数据功能，用户可直接在Claude中进行头脑风暴、创建表格和分享数据。"
+    },
+    {
+      "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+      "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Work at the speed of thought",
+      "contentSnippet": "Work at the speed of thought",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了与Claude协作的新方式，包括使用表格、白板和交互式连接器。这些工具旨在帮助用户以思维的速度高效工作。通过这些功能，用户可以更灵活地组织信息和进行创意协作，提升工作效率。",
+        "en": "The article \"More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors\" highlights new tools for enhancing productivity. It introduces Claude's integration with Sheets, Whiteboards, and Interactive Connectors, designed to allow users to work more efficiently. The focus is on enabling seamless collaboration and faster workflows by leveraging these features. The content emphasizes the importance of adapting to the speed of thought in modern work environments."
+      },
+      "summary": "本文介绍了与Claude协作的新方式，包括使用表格、白板和交互式连接器。这些工具旨在帮助用户以思维的速度高效工作。通过这些功能，用户可以更灵活地组织信息和进行创意协作，提升工作效率。"
+    },
+    {
+      "title": "Your apps can now open in Claude, and Claude can work in them",
+      "link": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "contentSnippet": "Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.",
+      "creator": "",
+      "summaries": {
+        "zh": "现在，合作伙伴可以直接将应用程序嵌入Claude中，您和Claude可以在同一工具、同一屏幕上协同工作，无需切换标签页。这一功能使应用与Claude的集成更加紧密，提升了用户体验和工作效率。",
+        "en": "Apps can now be embedded directly into Claude, allowing users and Claude to work together on the same screen without switching tabs. This integration enables seamless collaboration within a single tool."
+      },
+      "summary": "现在，合作伙伴可以直接将应用程序嵌入Claude中，您和Claude可以在同一工具、同一屏幕上协同工作，无需切换标签页。这一功能使应用与Claude的集成更加紧密，提升了用户体验和工作效率。"
+    },
+    {
+      "title": "How Curative is building a national provider network with agents on Claude",
+      "link": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+      "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-10T00:00:00.000Z",
+      "content": "Curative’s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "contentSnippet": "Curative’s deal-making agent negotiates 2,000+ provider contracts a week.",
+      "creator": "",
+      "summaries": {
+        "zh": "Curative 正通过与 Claude 合作，建立全国性服务商网络。其交易代理每周谈判2000余份服务商合同。",
+        "en": "Curative is building a national provider network by leveraging agents on Claude to negotiate over 2,000 provider contracts weekly. This approach enables efficient scaling and expansion of its network."
+      },
+      "summary": "Curative 正通过与 Claude 合作，建立全国性服务商网络。其交易代理每周谈判2000余份服务商合同。"
+    },
+    {
+      "title": "Claude can design electronic prototypes from start to finish",
+      "link": "https://www.anthropic.com/research/claude-electronics-design",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "contentSnippet": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude成功设计三种电子设备原型：通话器、语音助手中心和手持虚拟宠物。这些原型无需电路修正即可正常工作。",
+        "en": "Claude successfully designed three electronic prototypes—a speakerphone, a voice-assistant hub, and a handheld virtual pet—from start to finish. The prototypes functioned correctly without requiring any circuitry fixes."
+      },
+      "summary": "Claude成功设计三种电子设备原型：通话器、语音助手中心和手持虚拟宠物。这些原型无需电路修正即可正常工作。"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
+      "contentSnippet": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
+      "creator": "",
+      "summaries": {
+        "zh": "介绍了Claude Fable 5.2和Claude Mythos 5.2两款新模型，专为解决最复杂的科技挑战而设计。",
+        "en": "Claude Fable 5.2 and Claude Mythos 5.2 are new models introduced to tackle complex technical challenges. These advanced versions are designed for demanding tasks, offering enhanced capabilities for users facing difficult problems."
+      },
+      "summary": "介绍了Claude Fable 5.2和Claude Mythos 5.2两款新模型，专为解决最复杂的科技挑战而设计。"
+    },
+    {
+      "title": "Which Claude model should you build with?",
+      "link": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "contentSnippet": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何根据任务需求、成本和精力水平，在Claude Fable 5.2、Opus 5.5、Sonnet 5.5和Haiku 5.5四种模型之间进行选择。文章提供了选择建议，帮助用户根据具体场景挑选最合适的Claude模型。",
+        "en": "The article compares Claude models: Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5. It provides guidance on selecting the best model based on task requirements, cost, and effort. The focus is on matching each model to specific use cases for optimal performance and efficiency."
+      },
+      "summary": "本文介绍了如何根据任务需求、成本和精力水平，在Claude Fable 5.2、Opus 5.5、Sonnet 5.5和Haiku 5.5四种模型之间进行选择。文章提供了选择建议，帮助用户根据具体场景挑选最合适的Claude模型。"
+    },
+    {
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "contentSnippet": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Fable 5.2的多智能体团队通过通用工具、共享数据库和分层安全控制，成功验证了费马大定理。该团队由1000个智能体组成，展示了大规模多智能体协作的安全扩展方法。",
+        "en": "A team of 1,000 agents using an early version of Claude Fable 5.2 successfully reproduced a formal proof of Fermat's Last Theorem. The agents collaborated with general tools, a shared database, and layered safety controls to ensure scalability and accuracy. The demonstration highlights the system's ability to manage large-scale multi-agent operations while maintaining reliability and control."
+      },
+      "summary": "Claude Fable 5.2的多智能体团队通过通用工具、共享数据库和分层安全控制，成功验证了费马大定理。该团队由1000个智能体组成，展示了大规模多智能体协作的安全扩展方法。"
+    },
+    {
+      "title": "JPMorganChase expands Claude Code to more employees across the firm",
+      "link": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+      "pubDate": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-09T00:00:00.000Z",
+      "content": "JPMorganChase expands Claude Code to more employees across the firm",
+      "contentSnippet": "JPMorganChase expands Claude Code to more employees across the firm",
+      "creator": "",
+      "summaries": {
+        "zh": "摩根大通将Claude Code系统推广至公司更多员工。此举旨在提升内部协作效率，通过人工智能工具优化工作流程。系统将覆盖更多部门，帮助员工处理数据和任务。",
+        "en": "JPMorgan Chase is expanding its use of Claude Code, an AI tool, to more employees across the firm. The initiative aims to enhance productivity and efficiency by integrating advanced AI capabilities into daily workflows. The expanded rollout will provide access to a broader range of staff, enabling them to leverage the tool for various tasks. JPMorgan Chase continues to adopt AI technologies to improve operations and stay competitive in the financial industry."
+      },
+      "summary": "摩根大通将Claude Code系统推广至公司更多员工。此举旨在提升内部协作效率，通过人工智能工具优化工作流程。系统将覆盖更多部门，帮助员工处理数据和任务。"
+    },
+    {
+      "title": "The components of agent memory",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-06T00:00:00.000Z",
+      "content": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+      "contentSnippet": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude通过“梦境”来组织记忆并纠正错误，从而在体验中学习。它需要在知道下一步之前决定哪些信息值得记忆。这一过程有助于其优化记忆结构，提升学习效率。",
+        "en": "Claude utilizes \"dreaming\" to organize memory and correct mistakes, enabling it to learn from experience. The process involves deciding what is worth remembering before determining the next steps. This helps Claude improve its performance by structuring and refining its memory over time."
+      },
+      "summary": "Claude通过“梦境”来组织记忆并纠正错误，从而在体验中学习。它需要在知道下一步之前决定哪些信息值得记忆。这一过程有助于其优化记忆结构，提升学习效率。"
+    },
+    {
+      "title": "Introducing Personal Finance in Claude",
+      "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-05T00:00:00.000Z",
+      "content": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "contentSnippet": "Ask Claude about your money and get straight answers from the accounts you connect.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《在Claude中介绍个人理财》  \n\n文章内容摘要：通过询问Claude关于你的财务问题，可以直接获取与你连接的账户的答案。",
+        "en": "Claude now offers personal finance assistance by connecting to your accounts. Users can ask questions about their money and receive direct answers from linked financial data. This feature provides quick and accurate financial insights."
+      },
+      "summary": "文章标题：《在Claude中介绍个人理财》  \n\n文章内容摘要：通过询问Claude关于你的财务问题，可以直接获取与你连接的账户的答案。"
+    },
+    {
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "link": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-05T00:00:00.000Z",
+      "content": "More visibility and control over Claude Enterprise for security teams",
+      "contentSnippet": "More visibility and control over Claude Enterprise for security teams",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Enterprise推出新安全与管理功能，包括安全中心、通用推理钩子、集中管理和增强访问控制，提升安全团队的可视化与控制能力。",
+        "en": "Claude Enterprise introduces new security and administrative features, now generally available. These include a security center, inference hooks for enhanced control, centralized management, and improved access controls, providing security teams with greater visibility and operational efficiency."
+      },
+      "summary": "Claude Enterprise推出新安全与管理功能，包括安全中心、通用推理钩子、集中管理和增强访问控制，提升安全团队的可视化与控制能力。"
+    },
+    {
+      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "link": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-04T00:00:00.000Z",
+      "content": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "contentSnippet": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德市场推出新型安全、效率和创意产品及代理工具，旨在提升工作表现。这些新工具覆盖多个领域，包括安全保障、工作效率和创意创作，为用户提供多样化解决方案。",
+        "en": "The Claude Marketplace now offers new agents and products designed to enhance security, productivity, and creative work. These tools aim to provide users with advanced solutions for various tasks, improving efficiency and functionality. The updates focus on delivering reliable and innovative options for users seeking to optimize their workflows and projects."
+      },
+      "summary": "克劳德市场推出新型安全、效率和创意产品及代理工具，旨在提升工作表现。这些新工具覆盖多个领域，包括安全保障、工作效率和创意创作，为用户提供多样化解决方案。"
+    },
+    {
+      "title": "Make long-running agents faster with message threads",
+      "link": "https://claude.com/resources/articles/message-threads",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 +0000",
+      "isoDate": "2026-11-02T00:00:00.000Z",
+      "content": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
+      "contentSnippet": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
+      "creator": "",
+      "summaries": {
+        "zh": "消息API新增功能：发送对话一次，API每次仅接收新增内容，提升长期运行代理的效率。",
+        "en": "The article introduces a new feature in the Messages API that allows users to send conversations once and receive only the latest updates with each turn, improving efficiency for long-running agents. This streamlined approach reduces unnecessary data transmission, enhancing performance."
+      },
+      "summary": "消息API新增功能：发送对话一次，API每次仅接收新增内容，提升长期运行代理的效率。"
+    },
+    {
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "contentSnippet": "In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Enterprise提供智能报告、调查和集中团队预算功能。许多组织成员已认识到Claude的独特工作能力，下一步是将其推广至所有团队。",
+        "en": "Claude Enterprise offers smart reports, surveys, and pooled group budgets to expand Claude's unique work capabilities across teams. Organizations recognize Claude's value and seek to integrate it broadly. The tools facilitate wider adoption and management of Claude's functionalities."
+      },
+      "summary": "Claude Enterprise提供智能报告、调查和集中团队预算功能。许多组织成员已认识到Claude的独特工作能力，下一步是将其推广至所有团队。"
+    },
+    {
+      "title": "Introducing artifacts for legal work",
+      "link": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "contentSnippet": "Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude for Legal推出现成法律工作组件，团队可结合自有数据和连接器进行适配，并在企业内共享。",
+        "en": "Claude for Legal introduces ready-to-use artifacts for legal work. Teams can adapt these artifacts with their own data and connectors and share them across the business."
+      },
+      "summary": "Claude for Legal推出现成法律工作组件，团队可结合自有数据和连接器进行适配，并在企业内共享。"
+    },
+    {
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "link": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "pubDate": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-28T00:00:00.000Z",
+      "content": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "contentSnippet": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+      "creator": "",
+      "summaries": {
+        "zh": "IDC将Claude整合到其Quanta平台，并已将其推广至公司内部业务。",
+        "en": "IDC has integrated Claude into its Quanta platform and adopted the service across the company. The integration enhances Quanta's capabilities, while the company-wide rollout ensures consistent use of Claude's features. The move aims to improve efficiency and performance within IDC's operations."
+      },
+      "summary": "IDC将Claude整合到其Quanta平台，并已将其推广至公司内部业务。"
+    },
+    {
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "link": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "pubDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-27T00:00:00.000Z",
+      "content": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "contentSnippet": "Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌云上使用Claude Code的成本管理和投资回报率最佳实践。",
+        "en": "This article provides best practices for managing costs and measuring the return on investment (ROI) of Claude Code on Google Cloud. It focuses on strategies to optimize expenses and evaluate the financial benefits of using the service. The content aims to help users make informed decisions about cost management and ROI assessment. (98 words)"
+      },
+      "summary": "谷歌云上使用Claude Code的成本管理和投资回报率最佳实践。"
+    },
+    {
+      "title": "Claude for Financial Advisors",
+      "link": "https://claude.com/resources/articles/claude-for-financial-advisors",
+      "pubDate": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-27T00:00:00.000Z",
+      "content": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "contentSnippet": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+      "creator": "",
+      "summaries": {
+        "zh": "金融顾问现可通过Claude连接其依赖的托管机构、投资组合平台、CRM系统和规划工具。此外，Claude还推出了针对金融顾问日常工作的定制化新技能。这些功能旨在提升金融顾问的工作效率和专业性。",
+        "en": "Financial advisors can integrate Claude with custodians, portfolio platforms, CRMs, and planning tools. New skills are added to assist with daily advisor tasks."
+      },
+      "summary": "金融顾问现可通过Claude连接其依赖的托管机构、投资组合平台、CRM系统和规划工具。此外，Claude还推出了针对金融顾问日常工作的定制化新技能。这些功能旨在提升金融顾问的工作效率和专业性。"
+    },
+    {
+      "title": "Expanding Claude for Nonprofits",
+      "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "pubDate": "Mon, 26 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-26T00:00:00.000Z",
+      "content": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "contentSnippet": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
+      "creator": "",
+      "summaries": {
+        "zh": "“非营利组织Claude插件发布，为认证非营利组织提供新功能，助力解决筹款、营销和招聘等运营工作，提升小团队效率。”",
+        "en": "The \"Claude for Nonprofits\" plugin enhances operational efficiency for verified nonprofit organizations. It provides new skills to assist small teams with tasks across fundraising, marketing, and hiring, easing their workload."
+      },
+      "summary": "“非营利组织Claude插件发布，为认证非营利组织提供新功能，助力解决筹款、营销和招聘等运营工作，提升小团队效率。”"
+    },
+    {
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "link": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-23T00:00:00.000Z",
+      "content": "Claude Cowork and chat come together for Enterprise",
+      "contentSnippet": "Claude Cowork and chat come together for Enterprise",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Cowork与聊天功能整合，推出企业版服务。该服务旨在为企业用户提供更高效的协作体验，通过整合聊天工具，实现实时沟通与任务管理。企业版将支持团队协作、文件共享等功能，提升办公效率。此次更新旨在满足企业用户对高效沟通和协作的需求。",
+        "en": "Claude Cowork and chat integrate to offer enterprise solutions, combining collaboration tools with interactive chat features. The update enhances productivity by streamlining communication and workflow within business environments. Key features include real-time messaging, file sharing, and seamless integration with existing enterprise systems. This integration aims to improve efficiency and user experience for professional settings. The service is designed to meet the demands of corporate users seeking advanced, unified communication platforms."
+      },
+      "summary": "Claude Cowork与聊天功能整合，推出企业版服务。该服务旨在为企业用户提供更高效的协作体验，通过整合聊天工具，实现实时沟通与任务管理。企业版将支持团队协作、文件共享等功能，提升办公效率。此次更新旨在满足企业用户对高效沟通和协作的需求。"
+    },
+    {
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-23T00:00:00.000Z",
+      "content": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.",
+      "contentSnippet": "Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Duet是一款能在用户离线时仍主动工作的智能代理。它基于Claude模型的安全训练和Claude Code、Claude Managed Agents等产品中的保护措施，构建了双重安全防护。此外，还增加了跨账户协作和代为执行任务的新防护机制，以提升安全性。",
+        "en": "Claude Duet is a proactive agent designed to operate independently, even when users are absent. It incorporates dual layers of protection: safety training within the Claude model and existing safeguards in products like Claude Code and Claude Managed Agents. Additional new safeguards have been implemented to enhance cross-account collaboration and authorized actions on behalf of users. The system prioritizes security, privacy, and user control through these combined measures."
+      },
+      "summary": "Claude Duet是一款能在用户离线时仍主动工作的智能代理。它基于Claude模型的安全训练和Claude Code、Claude Managed Agents等产品中的保护措施，构建了双重安全防护。此外，还增加了跨账户协作和代为执行任务的新防护机制，以提升安全性。"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-22T00:00:00.000Z",
+      "content": "We need ways to prove that code is free of bugs. Formal software verification could provide this guarantee.",
+      "contentSnippet": "We need ways to prove that code is free of bugs. Formal software verification could provide this guarantee.",
+      "creator": "",
+      "summaries": {
+        "zh": "大型语言模型（LLMs）使大规模形式化软件验证成为可能。形式化软件验证能够为代码无错误提供保证。",
+        "en": "Large Language Models (LLMs) are enabling formal software verification at a larger scale, addressing the need to prove code is free of bugs. Formal verification traditionally faces scalability challenges, but LLMs help overcome these limitations, making it more feasible to ensure software reliability. The approach leverages LLM capabilities to enhance the verification process, offering a promising solution for bug-free code assurance."
+      },
+      "summary": "大型语言模型（LLMs）使大规模形式化软件验证成为可能。形式化软件验证能够为代码无错误提供保证。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:09:56.008Z"
+}

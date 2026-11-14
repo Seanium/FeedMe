@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "GitHub availability report: October 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "pubDate": "Fri, 13 Nov 2026 00:20:16 +0000",
+      "isoDate": "2026-11-13T00:20:16.000Z",
+      "content": "<p>In October, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-october-2026/\">GitHub availability report: October 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summaries": {
+        "zh": "2026年10月GitHub可用性报告显示，该月发生八起事件，导致GitHub服务性能下降。",
+        "en": "GitHub's October 2026 availability report highlights eight incidents that caused degraded performance across its services. The report, published on The GitHub Blog, details the service disruptions experienced during the month."
+      },
+      "summary": "2026年10月GitHub可用性报告显示，该月发生八起事件，导致GitHub服务性能下降。"
+    },
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "pubDate": "Thu, 12 Nov 2026 22:54:52 +0000",
+      "isoDate": "2026-11-12T22:54:52.000Z",
+      "content": "<p>Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/\">Build once, run on any agent: A practical guide to agent skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.\nThe post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "文章《一次性构建，在任何代理上运行：代理技能实用指南》介绍了代理技能的概念。代理技能将可重复的工程工作捕获到文件中，供团队审查和重用，而工具、项目上下文和权限则保持特定于运行它们的宿主。这一方法提高了工程效率并促进了团队协作。",
+        "en": "Agent skills enable reusable engineering tasks in files, which teams can review and reuse across different agents. These files maintain tool, project context, and permissions specific to the host agent. The guide emphasizes building once and running on any agent, streamlining workflows while ensuring flexibility. The article is from The GitHub Blog."
+      },
+      "summary": "文章《一次性构建，在任何代理上运行：代理技能实用指南》介绍了代理技能的概念。代理技能将可重复的工程工作捕获到文件中，供团队审查和重用，而工具、项目上下文和权限则保持特定于运行它们的宿主。这一方法提高了工程效率并促进了团队协作。"
+    },
+    {
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-10T18:00:00.000Z",
+      "content": "<p>Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/\">Git security vulnerabilities announced</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know.\nThe post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+      "creator": "Elijah Newren",
+      "summaries": {
+        "zh": "Git发布更新，修复了六个安全漏洞，影响递归克隆、引用处理、合并、二进制补丁和导入功能。用户需了解相关情况。",
+        "en": "Git has released updates to address six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. The updates aim to mitigate risks associated with these issues. Users are advised to apply the patches to ensure system security. The announcement was made on The GitHub Blog."
+      },
+      "summary": "Git发布更新，修复了六个安全漏洞，影响递归克隆、引用处理、合并、二进制补丁和导入功能。用户需了解相关情况。"
+    },
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "pubDate": "Fri, 06 Nov 2026 22:15:59 +0000",
+      "isoDate": "2026-11-06T22:15:59.000Z",
+      "content": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog.",
+      "creator": "Nick Liffen",
+      "summaries": {
+        "zh": "文章《超越代码生成：开发者指南：智能工程》介绍了如何使用GitHub Copilot进行计划、编写代码、审查变更和调查生产问题。尽管代码生成速度加快，但相关工作仍需开发者判断。文章探讨了智能工程如何提升开发效率，并指出当前仍需人工干预的部分。",
+        "en": "The article \"Beyond code generation: A developer’s guide to agentic engineering\" discusses how tools like GitHub Copilot can accelerate coding tasks but still require developer oversight for planning, reviewing changes, and addressing production issues. It highlights the need for human judgment in the engineering process despite advancements in code generation. The piece appears on The GitHub Blog."
+      },
+      "summary": "文章《超越代码生成：开发者指南：智能工程》介绍了如何使用GitHub Copilot进行计划、编写代码、审查变更和调查生产问题。尽管代码生成速度加快，但相关工作仍需开发者判断。文章探讨了智能工程如何提升开发效率，并指出当前仍需人工干预的部分。"
+    },
+    {
+      "title": "Inside GitHub’s new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "pubDate": "Thu, 05 Nov 2026 20:23:21 +0000",
+      "isoDate": "2026-11-05T20:23:21.000Z",
+      "content": "<p>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">Inside GitHub&#8217;s new Git storage architecture</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.\nThe post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
+      "creator": "Karthik Raman",
+      "summaries": {
+        "zh": "GitHub推出新Git存储架构，旨在支持成千上万的代理同时向单个仓库推送。该架构通过优化数据同步和存储机制，提高了并发处理能力，确保大规模协作场景下的性能和稳定性。",
+        "en": "GitHub has introduced a new Git storage architecture designed to handle simultaneous pushes from thousands of agents to a single repository. The system enhances scalability and performance by optimizing how data is stored and accessed. This update aims to improve efficiency and reliability for large-scale repositories. The new architecture is detailed in a post on The GitHub Blog."
+      },
+      "summary": "GitHub推出新Git存储架构，旨在支持成千上万的代理同时向单个仓库推送。该架构通过优化数据同步和存储机制，提高了并发处理能力，确保大规模协作场景下的性能和稳定性。"
+    },
+    {
+      "title": "Accessibility statements now have a home on GitHub",
+      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-05T16:00:00.000Z",
+      "content": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
+      "creator": "Jan Maarten",
+      "summaries": {
+        "zh": "GitHub现支持在GitHub上突出显示ACCESSIBILITY.md文件，帮助维护者记录无障碍性目标、已知障碍、支持环境、贡献者期望和报告流程。该功能旨在提升项目的无障碍性管理。",
+        "en": "GitHub now features accessibility statements in its GitHub Archive, highlighting ACCESSIBILITY.md files. This feature assists maintainers in documenting accessibility goals, barriers, supported environments, contributor expectations, and reporting processes. The initiative centralizes accessibility information, improving transparency and maintenance. The announcement was made on The GitHub Blog."
+      },
+      "summary": "GitHub现支持在GitHub上突出显示ACCESSIBILITY.md文件，帮助维护者记录无障碍性目标、已知障碍、支持环境、贡献者期望和报告流程。该功能旨在提升项目的无障碍性管理。"
+    },
+    {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-03T16:00:00.000Z",
+      "content": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+      "creator": "Alex Perrault",
+      "summaries": {
+        "zh": "Arnis是一款将地球任何地点转换为Minecraft世界的工具。开发者Louis Erbkamm利用业余时间创建了首个原型，现借助GitHub Copilot独立维护。该工具已在GitHub博客发布。",
+        "en": "Arnis is a project that transforms real-world locations into Minecraft worlds. Louis Erbkamm developed the initial prototype, and GitHub Copilot now assists with maintenance. The tool enables users to visualize Earth's places in a Minecraft environment. The project was featured on The GitHub Blog."
+      },
+      "summary": "Arnis是一款将地球任何地点转换为Minecraft世界的工具。开发者Louis Erbkamm利用业余时间创建了首个原型，现借助GitHub Copilot独立维护。该工具已在GitHub博客发布。"
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000",
+      "isoDate": "2026-11-01T21:36:00.000Z",
+      "content": "<p>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/\">Game Off 2026: The theme is SHIFT</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.\nThe post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.",
+      "creator": "Lee Reilly",
+      "summaries": {
+        "zh": "GitHub的年度为期一个月的游戏马拉松第14届即将回归。今年11月，以“SHIFT”为主题进行创作。参赛者需围绕转变、交换视角、扭曲现实或按键触发等灵感设计游戏。活动详情请参考GitHub博客。",
+        "en": "Game Off 2026, GitHub's 14th annual game jam, is returning for a month-long event in November. The theme is \"SHIFT,\" encouraging participants to create games that explore changing perspectives, altering reality, or simple interactive shifts. The event invites creativity around the concept of transformation in gaming."
+      },
+      "summary": "GitHub的年度为期一个月的游戏马拉松第14届即将回归。今年11月，以“SHIFT”为主题进行创作。参赛者需围绕转变、交换视角、扭曲现实或按键触发等灵感设计游戏。活动详情请参考GitHub博客。"
+    },
+    {
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "pubDate": "Wed, 28 Oct 2026 16:09:28 +0000",
+      "isoDate": "2026-10-28T16:09:28.000Z",
+      "content": "<p>Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/\">GitHub Universe 2026: Evolving every layer of the stack</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
+      "creator": "Jay Parikh",
+      "summaries": {
+        "zh": "GitHub Universe 2026：构建全球最全面的端到端软件开发交付系统。该活动阐述了GitHub的愿景，致力于在软件交付的每一层进行创新与演进。",
+        "en": "GitHub Universe 2026 announced a vision to make GitHub the most comprehensive, end-to-end software delivery system globally. The event highlighted plans to evolve all layers of the software delivery stack, emphasizing GitHub's role in transforming the industry. The focus was on enhancing the platform's capabilities to meet evolving development needs."
+      },
+      "summary": "GitHub Universe 2026：构建全球最全面的端到端软件开发交付系统。该活动阐述了GitHub的愿景，致力于在软件交付的每一层进行创新与演进。"
+    },
+    {
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "pubDate": "Wed, 28 Oct 2026 16:07:40 +0000",
+      "isoDate": "2026-10-28T16:07:40.000Z",
+      "content": "<p>See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.</p>\n<p>The post <a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.\nThe post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog.",
+      "creator": "GitHub Staff",
+      "summaries": {
+        "zh": "2026年Octoverse报告显示，开发者的提交、推送量创下新高，各行各业和各类构建者均实现显著增长。报告强调，开发者借助智能代理进行高效构建，推动技术发展。这一记录增长反映了GitHub平台的广泛影响力，并展示了开发者社区的创新活力。",
+        "en": "The 2026 Octoverse report highlights a record year of growth, with commits, pushes, and milestones reaching new highs. Developers across all industries utilized agents to build, demonstrating widespread adoption. The report emphasizes the impact of this trend on various fields and types of builders. The growth reflects the increasing integration of agent-based development in the tech ecosystem."
+      },
+      "summary": "2026年Octoverse报告显示，开发者的提交、推送量创下新高，各行各业和各类构建者均实现显著增长。报告强调，开发者借助智能代理进行高效构建，推动技术发展。这一记录增长反映了GitHub平台的广泛影响力，并展示了开发者社区的创新活力。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:11:21.834Z"
+}

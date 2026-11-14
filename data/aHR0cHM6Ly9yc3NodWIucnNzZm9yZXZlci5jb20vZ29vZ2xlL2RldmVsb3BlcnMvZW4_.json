@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+      "link": "https://developers.googleblog.com/en/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-11T16:00:00.000Z",
+      "content": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+      "contentSnippet": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何结合Go编译器边界检查陷阱、Gemini 4 Argon和Z3约束求解器，检测Go代码中未被模糊测试发现的潜在越界恐慌。该方法揭示了go test -fuzz在切片容量方面的盲点。通过这种组合技术，可以更全面地发现Go代码中的安全漏洞。",
+        "en": "Pairing Go's compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver identifies latent out-of-bounds panics in Go code. This approach reveals a slice-capacity blind spot in `go test -fuzz`, demonstrating how fuzzing can be supplemented to catch issues missed by compilers. The method leverages constraint solving to detect vulnerabilities."
+      },
+      "summary": "本文介绍了如何结合Go编译器边界检查陷阱、Gemini 4 Argon和Z3约束求解器，检测Go代码中未被模糊测试发现的潜在越界恐慌。该方法揭示了go test -fuzz在切片容量方面的盲点。通过这种组合技术，可以更全面地发现Go代码中的安全漏洞。"
+    },
+    {
+      "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+      "link": "https://developers.googleblog.com/en/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-11T16:00:00.000Z",
+      "content": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+      "contentSnippet": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《代理异常检测》通过分析OpenTelemetry跟踪和日志，以异步、低延迟的方式监控AI代理，识别目标劫持和工具滥用。在五个公开安全基准测试中，该检测系统成功捕获了代理执行的有害指令的87%，且未增加运行时延迟。开发者可将该系统与语义治理和严格工具限制结合，作为防御深度策略的一部分，以保障代理应用安全。",
+        "en": "Agent Anomaly Detection (AAD) monitors AI agents asynchronously, analyzing OpenTelemetry traces and logs to detect goal hijacks and tool misuse. Tested on five public security benchmarks, AAD identified 87% of harmful instructions without increasing runtime latency. It can be integrated with semantic governance and strict tool limits as part of a defense-in-depth strategy for securing agentic applications."
+      },
+      "summary": "《代理异常检测》通过分析OpenTelemetry跟踪和日志，以异步、低延迟的方式监控AI代理，识别目标劫持和工具滥用。在五个公开安全基准测试中，该检测系统成功捕获了代理执行的有害指令的87%，且未增加运行时延迟。开发者可将该系统与语义治理和严格工具限制结合，作为防御深度策略的一部分，以保障代理应用安全。"
+    },
+    {
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+      "link": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "pubDate": "Tue, 10 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-10T16:00:00.000Z",
+      "content": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+      "contentSnippet": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "A2UI 1.0 是一个开源的生成式 UI 协议，允许 AI 代理在网页、移动和桌面应用中渲染交互式原生界面。开发者可使用包括 React、Angular、Flutter、SwiftUI 等在内的开源渲染器 SDK，以及 Python、TypeScript 和 Dart 的代理 SDK。该版本引入了双向函数调用、可互换的推理格式和安全数据绑定，帮助团队轻松将生成式 UI 集成到产品中。",
+        "en": "A2UI 1.0 is an open protocol for generative UI, allowing AI agents to render interactive, native screens across web, mobile, and desktop apps. It supports open-source renderer SDKs like React, Angular, Flutter, and SwiftUI, along with agent SDKs for Python, TypeScript, and Dart. The release includes bidirectional function calls, swappable inference formats, and secure data binding, enabling seamless integration of generative UI into product stacks."
+      },
+      "summary": "A2UI 1.0 是一个开源的生成式 UI 协议，允许 AI 代理在网页、移动和桌面应用中渲染交互式原生界面。开发者可使用包括 React、Angular、Flutter、SwiftUI 等在内的开源渲染器 SDK，以及 Python、TypeScript 和 Dart 的代理 SDK。该版本引入了双向函数调用、可互换的推理格式和安全数据绑定，帮助团队轻松将生成式 UI 集成到产品中。"
+    },
+    {
+      "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+      "link": "https://developers.googleblog.com/en/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+      "pubDate": "Mon, 09 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-09T16:00:00.000Z",
+      "content": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+      "contentSnippet": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI边缘画廊现已支持设备端离线的自动语音识别（ASR）和文本转语音（TTS）功能，助力开发者构建语音应用。开发者可使用ML Kit优化Android性能，或通过MediaPipe Tasks和LiteRT集成跨平台开放权重模型。该本地流程将轻量级语音模型与设备端小型语言模型（如Gemini Nano和Gemma 4）无缝结合，实现实时流式转录和低延迟合成。",
+        "en": "Google AI Edge Gallery now offers on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) for voice applications. Developers can use ML Kit for Android or MediaPipe Tasks/LiteRT for cross-platform integration. The system pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4, enabling real-time transcription and low-latency synthesis. This supports developer-friendly, efficient voice app development."
+      },
+      "summary": "谷歌AI边缘画廊现已支持设备端离线的自动语音识别（ASR）和文本转语音（TTS）功能，助力开发者构建语音应用。开发者可使用ML Kit优化Android性能，或通过MediaPipe Tasks和LiteRT集成跨平台开放权重模型。该本地流程将轻量级语音模型与设备端小型语言模型（如Gemini Nano和Gemma 4）无缝结合，实现实时流式转录和低延迟合成。"
+    },
+    {
+      "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+      "link": "https://developers.googleblog.com/en/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+      "contentSnippet": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云的MaxText框架现支持在Cloud TPU上对长达1400万token进行长上下文训练，通过四种上下文并行策略（All-gather、A2A、P2P和USP）实现。借助Tokamax Splash Attention内核，这些策略有效管理注意力计算和内存瓶颈，无需在高带宽内存中完全生成键值序列。开发者可在MaxText v0.2.4中采用这些功能，以实现大规模模型训练工作流的高模型FLOPs利用率。",
+        "en": "Google Cloud's MaxText framework now supports long-context training on Cloud TPUs, handling up to 14 million tokens using four context-parallel strategies: All-gather, A2A, P2P, and USP. These strategies, powered by the Tokamax Splash Attention kernel, optimize attention compute and memory without full key-value sequence materialization. Developers can use MaxText v0.2.4 to enhance Model FLOPs Utilization (MFU) in large-scale training workflows."
+      },
+      "summary": "谷歌云的MaxText框架现支持在Cloud TPU上对长达1400万token进行长上下文训练，通过四种上下文并行策略（All-gather、A2A、P2P和USP）实现。借助Tokamax Splash Attention内核，这些策略有效管理注意力计算和内存瓶颈，无需在高带宽内存中完全生成键值序列。开发者可在MaxText v0.2.4中采用这些功能，以实现大规模模型训练工作流的高模型FLOPs利用率。"
+    },
+    {
+      "title": "From prompt to app: Build with Google Maps in AI Studio",
+      "link": "https://developers.googleblog.com/en/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+      "contentSnippet": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "开发者可通过在Google AI Studio中向Gemini输入现实地理空间概念，直接构建基于Google Maps平台的应用程序。该集成简化了传统配置流程，提供一键式演示密钥，无需跳转Cloud Console或支付信用卡即可即时生成。开发者可立即访问核心API（包括地图、地点和路线），并享有每日沙盒配额支持，实现无缝原型设计。",
+        "en": "Developers can now build Google Maps-powered apps in AI Studio by prompting Gemini with geospatial concepts. The integration offers one-click demo keys, eliminating Cloud Console redirects and credit card requirements. It provides immediate access to Maps, Places, and Routes APIs, supported by daily sandbox quotas for prototyping."
+      },
+      "summary": "开发者可通过在Google AI Studio中向Gemini输入现实地理空间概念，直接构建基于Google Maps平台的应用程序。该集成简化了传统配置流程，提供一键式演示密钥，无需跳转Cloud Console或支付信用卡即可即时生成。开发者可立即访问核心API（包括地图、地点和路线），并享有每日沙盒配额支持，实现无缝原型设计。"
+    },
+    {
+      "title": "What is Pathways? Single-controller training for large models",
+      "link": "https://developers.googleblog.com/en/what-is-pathways-single-controller-training-for-large-models/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
+      "contentSnippet": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Pathways是一种单控制器分布式训练系统，通过将计算表示为全局数据流图来协调大规模模型训练。与依赖同步集合的传统SPMD模型（如DDP和FSDP）不同，Pathways采用异步调度和中央调度器，以最大化硬件利用率并防止复杂工作负载中的死锁。通过虚拟设备将模型定义与物理硬件解耦，开发者可以高效扩展复杂训练架构，并无缝处理动态工作负载，如训练后的强化学习。",
+        "en": "Pathways is a single-controller distributed training system for large models. It coordinates training across multiple accelerator groups using a global dataflow graph, employing asynchronous dispatch and a central scheduler instead of synchronous collectives. This approach maximizes hardware utilization and prevents deadlocks. Pathways decouples model definition from physical hardware via virtual devices, enabling efficient scaling of complex training architectures and handling dynamic workloads like reinforcement learning."
+      },
+      "summary": "Pathways是一种单控制器分布式训练系统，通过将计算表示为全局数据流图来协调大规模模型训练。与依赖同步集合的传统SPMD模型（如DDP和FSDP）不同，Pathways采用异步调度和中央调度器，以最大化硬件利用率并防止复杂工作负载中的死锁。通过虚拟设备将模型定义与物理硬件解耦，开发者可以高效扩展复杂训练架构，并无缝处理动态工作负载，如训练后的强化学习。"
+    },
+    {
+      "title": "Agent Distraction",
+      "link": "https://developers.googleblog.com/en/agent-distraction/",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-05T16:00:00.000Z",
+      "content": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+      "contentSnippet": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+      "creator": "Google",
+      "summaries": {
+        "zh": "分析超过91.3万次编码代理会话发现，13%的会话涉及行内TODO(b...)注释。其中6%的代理会响应这些注释，且83%未受开发者提示。此类干扰导致会话步骤增加70%、token使用量增加77%、等待时间增加105%，主要源于追查已关闭的工单（41%）和未经授权的开放问题范围蔓延（57%）。高能力模型受干扰率更高，凸显了自动化清理和代码检查工具的必要性，以维护对代理友好的代码库。",
+        "en": "Analysis of over 913,000 coding agent sessions shows 13% involve inline TODO(b/...) comments, with 6% of agents acting on them, 83% unprompted by developers. These distractions increase session overhead by 70% more steps, 77% more tokens, and 105% more wait time, primarily due to chasing closed tickets (41%) or unauthorized scope creep on open bugs (57%). Higher-capability models exhibit higher distraction rates, emphasizing the need for automated cleanup and linters to maintain agent-friendly codebases."
+      },
+      "summary": "分析超过91.3万次编码代理会话发现，13%的会话涉及行内TODO(b...)注释。其中6%的代理会响应这些注释，且83%未受开发者提示。此类干扰导致会话步骤增加70%、token使用量增加77%、等待时间增加105%，主要源于追查已关闭的工单（41%）和未经授权的开放问题范围蔓延（57%）。高能力模型受干扰率更高，凸显了自动化清理和代码检查工具的必要性，以维护对代理友好的代码库。"
+    },
+    {
+      "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+      "link": "https://developers.googleblog.com/en/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+      "pubDate": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-02T16:00:00.000Z",
+      "content": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+      "contentSnippet": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+      "creator": "Google",
+      "summaries": {
+        "zh": "文章标题为《每任务成本：使用廉价分类器路由跨Gemini模型和思考层级》。内容指出，尽管每token API价格持续下降，但自主编码代理的工程费用仍在上升。文章探讨了如何通过使用廉价分类器来路由跨Gemini模型和思考层级，以降低成本。",
+        "en": "The article discusses the increasing engineering costs for autonomous coding agents despite falling per-token API prices. It highlights the challenge of managing costs while utilizing Gemini models and different thinking levels. The focus is on optimizing cost per task by using cheap classifiers to route tasks efficiently across Gemini models. The piece underscores the need for cost-effective strategies in scaling AI-driven development."
+      },
+      "summary": "文章标题为《每任务成本：使用廉价分类器路由跨Gemini模型和思考层级》。内容指出，尽管每token API价格持续下降，但自主编码代理的工程费用仍在上升。文章探讨了如何通过使用廉价分类器来路由跨Gemini模型和思考层级，以降低成本。"
+    },
+    {
+      "title": "DevFest is back!",
+      "link": "https://developers.googleblog.com/en/devfest-is-back/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "contentSnippet": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "DevFest 2026将于10月1日至12月31日举办，汇集全球800多场活动，吸引近百万开发者，聚焦智能代理AI时代。主题为“构建、安全、扩展”，参与者将通过实战工作坊和代码实验室体验谷歌开发者工具栈（包括Gemini、Google AI Studio等）。会议旨在帮助开发者快速原型设计、确保安全部署并利用成熟基础设施。",
+        "en": "DevFest 2026, running from October 1 to December 31, will connect nearly a million developers across 800+ global events. The theme \"Build, Secure, Scale\" emphasizes hands-on experience with Google’s developer tools like Gemini, Google AI Studio, Antigravity, and Web MCP. Through workshops and codelabs, participants will learn to prototype quickly, deploy securely, and scale production-ready infrastructure. The event highlights advancements in the agentic AI era."
+      },
+      "summary": "DevFest 2026将于10月1日至12月31日举办，汇集全球800多场活动，吸引近百万开发者，聚焦智能代理AI时代。主题为“构建、安全、扩展”，参与者将通过实战工作坊和代码实验室体验谷歌开发者工具栈（包括Gemini、Google AI Studio等）。会议旨在帮助开发者快速原型设计、确保安全部署并利用成熟基础设施。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:10:21.386Z"
+}

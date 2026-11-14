@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8152c868080d225f57504bdfb8f43d4aea8d6dc5f7d5a0bc387040de8d87825d/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10868<br>Forks: 814",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10868\nForks: 814",
+      "creator": "backnotprop",
+      "summaries": {
+        "zh": "\"backnotprop/plannotator\"是一个协作工作空间，用于管理智能体（agents），支持形状设计、决策规划、注释、代码审查、团队共享等功能。用户可通过一键操作将所有反馈发送给智能体。该项目使用TypeScript开发，获得10416星和783次分叉。",
+        "en": "The \"backnotprop/plannotator\" project is a workspace designed for managing agents, offering features like shaping, decision-making, planning, annotation, code review, team collaboration, and one-click feedback distribution to agents. It is built in TypeScript and has 10,416 stars and 783 forks on its repository."
+      },
+      "summary": "\"backnotprop/plannotator\"是一个协作工作空间，用于管理智能体（agents），支持形状设计、决策规划、注释、代码审查、团队共享等功能。用户可通过一键操作将所有反馈发送给智能体。该项目使用TypeScript开发，获得10416星和783次分叉。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ab97612fda720452bf1abfea7f4e21c08b6ab064d186f684091fbdbb79bdc9b/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 5638<br>Forks: 303",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 5638\nForks: 303",
+      "creator": "GoogleChrome",
+      "summaries": {
+        "zh": "谷歌Chrome项目中的modern-web-guidance-src分支使用TypeScript开发，拥有1493个星标和132个分支。",
+        "en": "The article discusses Google Chrome's modern web guidance using TypeScript. It has 1,493 stars and 132 forks. The content focuses on TypeScript integration and best practices for web development in Chrome."
+      },
+      "summary": "谷歌Chrome项目中的modern-web-guidance-src分支使用TypeScript开发，拥有1493个星标和132个分支。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/219b7dc82e12ce949847aa9233f3d1fcaf73e081ac27b7341416cf459c9aa509/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 4595<br>Forks: 903",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 4595\nForks: 903",
+      "creator": "tradermonty",
+      "summaries": {
+        "zh": "Claude交易技能项目为股票投资者和交易者提供市场分析、技术图表、经济日历、筛选器和交易策略开发功能。使用Python语言开发，获得4127星和859次分叉。",
+        "en": "The repository \"Claude Trading Skills\" provides Python tools for equity investors and traders. It includes features like market analysis, technical charting, economic calendars, screeners, and trading strategy development. The project has 4,127 stars and 859 forks on GitHub."
+      },
+      "summary": "Claude交易技能项目为股票投资者和交易者提供市场分析、技术图表、经济日历、筛选器和交易策略开发功能。使用Python语言开发，获得4127星和859次分叉。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9ef312e1ebbb277775820fe750fe2585b0c098fa9d8a71140d5f696adcf3c27f/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 56124<br>Forks: 4657",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 56124\nForks: 4657",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代理的Chrome开发者工具，使用TypeScript开发。该项目拥有55426个星标和4602个分支。",
+        "en": "The article discusses Chrome DevTools for coding agents, specifically using TypeScript. It highlights the project's popularity with 55,426 stars and 4,602 forks on its repository. The focus is on leveraging Chrome DevTools for developing coding agents, emphasizing TypeScript as the primary language. The summary remains objective, providing key metrics and the technical context without additional interpretation."
+      },
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代理的Chrome开发者工具，使用TypeScript开发。该项目拥有55426个星标和4602个分支。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 51238<br>Forks: 3824",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 51238\nForks: 3824",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "该工具是一款安全、快速、高效的混合架构代码审查工具，适用于阿里巴巴规模。其特点包括确定性流程+LLM代理、精确行级注释、内置多语言规则集（如NPE、线程安全、XSS、SQL注入），并兼容OpenAI和Anthropic。使用Go语言开发，获得50551星标和3755个分支。",
+        "en": "The \"alibaba/open-code-review\" is a hybrid architecture code review tool designed for secure, fast, and efficient performance, tested at Alibaba's scale. It features deterministic pipelines, LLM Agents, precise line-level comments, and a built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection). The tool is compatible with OpenAI and Anthropic, written in Go, with 50,551 stars and 3,755 forks."
+      },
+      "summary": "该工具是一款安全、快速、高效的混合架构代码审查工具，适用于阿里巴巴规模。其特点包括确定性流程+LLM代理、精确行级注释、内置多语言规则集（如NPE、线程安全、XSS、SQL注入），并兼容OpenAI和Anthropic。使用Go语言开发，获得50551星标和3755个分支。"
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "link": "https://github.com/QwenLM/qwen-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ab97612fda720452bf1abfea7f4e21c08b6ab064d186f684091fbdbb79bdc9b/QwenLM/qwen-code\" referrerpolicy=\"no-referrer\"><br>An open-source AI coding agent that lives in your terminal.<br><br>Language: TypeScript<br>Stars: 30225<br>Forks: 3425",
+      "contentSnippet": "An open-source AI coding agent that lives in your terminal.\nLanguage: TypeScript\nStars: 30225\nForks: 3425",
+      "creator": "QwenLM",
+      "summaries": {
+        "zh": "开源AI编程代理QwenLM/qwen-code，基于TypeScript开发，可在终端运行。该项目拥有30225个星标和3425个分支。",
+        "en": "The open-source AI coding agent \"QwenLM/qwen-code\" is built in TypeScript and operates within the terminal. It has garnered 30,225 stars and 3,425 forks on its repository."
+      },
+      "summary": "开源AI编程代理QwenLM/qwen-code，基于TypeScript开发，可在终端运行。该项目拥有30225个星标和3425个分支。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326\" referrerpolicy=\"no-referrer\"><br>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.<br><br>Language: TypeScript<br>Stars: 24340<br>Forks: 2110",
+      "contentSnippet": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\nLanguage: TypeScript\nStars: 24340\nForks: 2110",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "Univer Office SDK 是一个可扩展的开源平台，支持构建 AI 办公室应用。该 SDK 集成编辑、计算、协作和文件处理功能，适用于人与 AI 代理。基于 TypeScript 开发，目前拥有 24340 个星标和 2110 个分支。",
+        "en": "Univer Office SDK allows users to build their own AI office solutions by integrating editing, calculation, collaboration, and file processing capabilities into their products. It is built on an extensible open-source core and uses TypeScript. The SDK supports both people and AI agents, offering flexibility for various applications. It has garnered 24,340 stars and 2,110 forks on its repository."
+      },
+      "summary": "Univer Office SDK 是一个可扩展的开源平台，支持构建 AI 办公室应用。该 SDK 集成编辑、计算、协作和文件处理功能，适用于人与 AI 代理。基于 TypeScript 开发，目前拥有 24340 个星标和 2110 个分支。"
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9957034845bc19c6acee3a9231ddea9fb89587778876f43280f3f80cc85ac19d/ag-ui-protocol/ag-ui\" referrerpolicy=\"no-referrer\"><br>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.<br><br>Language: TypeScript<br>Stars: 17252<br>Forks: 1584",
+      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nLanguage: TypeScript\nStars: 17252\nForks: 1584",
+      "creator": "ag-ui-protocol",
+      "summaries": {
+        "zh": "AG-UI是一种代理-用户交互协议，旨在将代理技术引入前端应用。该协议使用TypeScript开发，目前获得17252个星标和1584次分叉。",
+        "en": "The AG-UI protocol is an Agent-User Interaction Protocol designed to integrate agents into frontend applications. It is implemented in TypeScript. The project has gained significant popularity, with 17,252 stars and 1,584 forks on its repository."
+      },
+      "summary": "AG-UI是一种代理-用户交互协议，旨在将代理技术引入前端应用。该协议使用TypeScript开发，目前获得17252个星标和1584次分叉。"
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "link": "https://github.com/ashhart/TensorFold",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e9dc646ea6f324a8dbc8acda2a2681b7f64e42b63295db6119b1124de5baa740/ashhart/TensorFold\" referrerpolicy=\"no-referrer\"><br>LLM Inference Engine for Metal, CUDA and Vulkan.<br><br>Language: Zig<br>Stars: 2118<br>Forks: 409",
+      "contentSnippet": "LLM Inference Engine for Metal, CUDA and Vulkan.\nLanguage: Zig\nStars: 2118\nForks: 409",
+      "creator": "ashhart",
+      "summaries": {
+        "zh": "ashhart/TensorFold是一个支持Metal、CUDA和Vulkan的LLM推理引擎，使用Zig语言开发。该项目在GitHub上拥有2118个星标和409个分支。",
+        "en": "The project \"ashhart/TensorFold\" is an LLM inference engine designed for Metal, CUDA, and Vulkan. It is written in Zig and has 2118 stars and 409 forks on its repository. The engine supports various hardware acceleration frameworks, making it versatile for different computing environments."
+      },
+      "summary": "ashhart/TensorFold是一个支持Metal、CUDA和Vulkan的LLM推理引擎，使用Zig语言开发。该项目在GitHub上拥有2118个星标和409个分支。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f845c5663ca1ea169be63134ade908224f31ec5f9da5aeed8fe1b6142d1c12d8/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 119908<br>Forks: 6993",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 119908\nForks: 6993",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "标题：JuliusBrussee/caveman\n\n简介：该项目使用“原始人”语言风格，通过代理技术显著减少编码代理的token使用量，将token消耗降低65%。尽管少量token即可实现效果，但项目提倡使用更多token以增强病毒传播效果。语言：Go。Star数：119,908；Fork数：6,993。",
+        "en": "The article discusses using a \"caveman\" language style to reduce token usage by 65% in coding agents. It highlights the effectiveness of few tokens for achieving results, suggesting a viral skill approach. The content also mentions using proxies for coding agents to further optimize token consumption. The project, titled \"JuliusBrussee/caveman,\" has 119,908 GoStars and 6,993 forks."
+      },
+      "summary": "标题：JuliusBrussee/caveman\n\n简介：该项目使用“原始人”语言风格，通过代理技术显著减少编码代理的token使用量，将token消耗降低65%。尽管少量token即可实现效果，但项目提倡使用更多token以增强病毒传播效果。语言：Go。Star数：119,908；Fork数：6,993。"
+    },
+    {
+      "title": "louislam/uptime-kuma",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223\" referrerpolicy=\"no-referrer\"><br>A fancy self-hosted monitoring tool<br><br>Language: JavaScript<br>Stars: 94131<br>Forks: 8737",
+      "contentSnippet": "A fancy self-hosted monitoring tool\nLanguage: JavaScript\nStars: 94131\nForks: 8737",
+      "creator": "louislam",
+      "summaries": {
+        "zh": "这是一个名为 Uptime-Kuma 的开源监控工具，采用 JavaScript 开发，支持自托管。该工具功能强大，用户可通过其进行系统监控。目前，该项目在 GitHub 上拥有 93,823 个星标和 8,720 个分支。",
+        "en": "Uptime-Kuma is a self-hosted monitoring tool developed with JavaScript. It offers comprehensive monitoring capabilities for applications and services. The project has gained significant popularity, boasting 93,823 stars and 8,720 forks on its repository. As an open-source solution, it allows users to deploy and manage monitoring systems on their own infrastructure. The tool is designed to provide detailed insights into system performance and availability. Its popularity suggests strong community support and utility for developers and system administrators seeking reliable monitoring solutions."
+      },
+      "summary": "这是一个名为 Uptime-Kuma 的开源监控工具，采用 JavaScript 开发，支持自托管。该工具功能强大，用户可通过其进行系统监控。目前，该项目在 GitHub 上拥有 93,823 个星标和 8,720 个分支。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ebb9963feb4bfd62c2b9fdd50d021ab00b8b9e957304d9d6f21d9f4ebcec209d/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 15139<br>Forks: 1149",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 15139\nForks: 1149",
+      "creator": "we-promise",
+      "summaries": {
+        "zh": "这是一款面向所有人的个人理财应用程序，使用Ruby开发。该应用广受欢迎，拥有11688个星标和878个分支。",
+        "en": "The article introduces \"we-promise/sure,\" a personal finance app designed for a broad audience. It is developed using Ruby and has garnered 11,688 stars and 878 forks on its repository. The app aims to provide accessible financial management tools for users of all backgrounds."
+      },
+      "summary": "这是一款面向所有人的个人理财应用程序，使用Ruby开发。该应用广受欢迎，拥有11688个星标和878个分支。"
+    },
+    {
+      "title": "Tencent/LoopForge",
+      "link": "https://github.com/Tencent/LoopForge",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cdcc40ddbe423318fa6a46ea4143e7b74cfa0757f22f5f052e51c14afd1839d1/Tencent/LoopForge\" referrerpolicy=\"no-referrer\"><br>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.<br><br>Language: Go<br>Stars: 786<br>Forks: 123",
+      "contentSnippet": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.\nLanguage: Go\nStars: 786\nForks: 123",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "腾讯与LoopForge合作，提供本地化代码代理交付工作流程。通过脚本和人工审批，可编排CodeBuddy、Codex和Claude Code。支持本地代码助手工作流。项目使用Go语言开发，GitHub上获786星、123次分叉。",
+        "en": "Tencent/LoopForge provides self-hosted workflows for coding-agent delivery, enabling users to orchestrate CodeBuddy, Codex, and Claude Code via scripts and human approval gates. It also supports local workflows for coding assistants. The project is written in Go, has 786 stars and 123 forks on GitHub."
+      },
+      "summary": "腾讯与LoopForge合作，提供本地化代码代理交付工作流程。通过脚本和人工审批，可编排CodeBuddy、Codex和Claude Code。支持本地代码助手工作流。项目使用Go语言开发，GitHub上获786星、123次分叉。"
+    },
+    {
+      "title": "Likely7/Veyra-NRVideo",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc91fc43577cacf49d43bb3396c8e48ea29add093be76fd0e0457220c7be6fec/Likely7/Veyra-NRVideo\" referrerpolicy=\"no-referrer\"><br>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.<br><br>Language: C++<br>Stars: 1948<br>Forks: 89",
+      "contentSnippet": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.\nLanguage: C++\nStars: 1948\nForks: 89",
+      "creator": "Likely7",
+      "summaries": {
+        "zh": "该工具支持将PS5版《侠盗猎车手6》提升至120FPS，并使用DLSS 5技术。它是一款高级Windows视频播放器及录制增强工具，具备实时预览功能，支持视频、图片和采集卡源。结合AI超分辨率、DLSS 5图像增强和帧生成技术，提供下一代视觉体验。项目使用C++开发，有1590颗星和71次分叉。",
+        "en": "The article discusses a Windows video player and capture tool that enables 120FPS playback of PS5 GTA6 using DLSS 5. It highlights real-time preview for videos, images, and capture card sources. Features include AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation for an advanced visual experience. The tool is developed in C++ with 1,590 stars and 71 forks on its repository."
+      },
+      "summary": "该工具支持将PS5版《侠盗猎车手6》提升至120FPS，并使用DLSS 5技术。它是一款高级Windows视频播放器及录制增强工具，具备实时预览功能，支持视频、图片和采集卡源。结合AI超分辨率、DLSS 5图像增强和帧生成技术，提供下一代视觉体验。项目使用C++开发，有1590颗星和71次分叉。"
+    },
+    {
+      "title": "martin-olivier/airgorah",
+      "link": "https://github.com/martin-olivier/airgorah",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543516398/e65da23d-0cc8-424f-a670-84271590d291\" referrerpolicy=\"no-referrer\"><br>A WiFi security auditing software<br><br>Language: Rust<br>Stars: 5639<br>Forks: 934",
+      "contentSnippet": "A WiFi security auditing software\nLanguage: Rust\nStars: 5639\nForks: 934",
+      "creator": "martin-olivier",
+      "summaries": {
+        "zh": "该软件是一款使用Rust语言开发的WiFi安全审计工具，GitHub上拥有5639个星标和934个分支。",
+        "en": "The software \"airgorah\" is a WiFi security auditing tool written in Rust. It has 5,639 stars and 934 forks on its repository."
+      },
+      "summary": "该软件是一款使用Rust语言开发的WiFi安全审计工具，GitHub上拥有5639个星标和934个分支。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:13:14.704Z"
+}

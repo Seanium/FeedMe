@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "pubDate": "Fri, 13 Nov 2026 20:30:00 +0000",
+      "isoDate": "2026-11-13T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_BlogBanner_990x556.max-600x600.format-webp.webp\">Claim your Google Cloud Credits in Google AI Studio",
+      "contentSnippet": "Claim your Google Cloud Credits in Google AI Studio",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bala Muthukrishnan"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌AI工作室提供Google Cloud积分兑换活动。用户可在该平台领取免费云服务额度，用于支持AI项目开发。具体兑换流程及资格要求需登录平台查看。",
+        "en": "The article explains how to claim Google Cloud credits through Google AI Studio. It outlines the process for accessing and utilizing these credits, which are designed to support AI development projects. The content likely includes steps for linking a Google Cloud account, verifying eligibility, and applying the credits to specific services within the AI Studio platform. The focus is on making it easy for users to leverage these resources for their AI initiatives."
+      },
+      "summary": "谷歌AI工作室提供Google Cloud积分兑换活动。用户可在该平台领取免费云服务额度，用于支持AI项目开发。具体兑换流程及资格要求需登录平台查看。"
+    },
+    {
+      "title": "Connect Google Wallet to Gemini for personal finance insights",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "pubDate": "Fri, 13 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-13T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp\">All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+      "contentSnippet": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "美国所有Gemini应用用户均可将Google Wallet连接起来，以获取基于其消费习惯的个性化财务洞察。",
+        "en": "Gemini app users in the U.S. can link their Google Wallet to receive personalized financial insights based on their spending data. This integration provides tailored responses reflecting their spending habits."
+      },
+      "summary": "美国所有Gemini应用用户均可将Google Wallet连接起来，以获取基于其消费习惯的个性化财务洞察。"
+    },
+    {
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "pubDate": "Thu, 12 Nov 2026 20:30:00 +0000",
+      "isoDate": "2026-11-12T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp\">Designed by filmmakers and visual artists, five new Google Flow Tools will help you bring your next story to life.",
+      "contentSnippet": "Designed by filmmakers and visual artists, five new Google Flow Tools will help you bring your next story to life.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Arathi Sethumadhavan"
+        ],
+        "title": [
+          "Director of User Experience Research, Technology & Society"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌推出五款新Flow工具，由电影制作人和视觉艺术家设计，旨在帮助用户创作故事。这些工具将提升创作效率，支持多媒体内容制作。",
+        "en": "Five new Google Flow Tools, designed by filmmakers and visual artists, are introduced to assist users in creating and bringing their stories to life. The tools aim to enhance storytelling capabilities."
+      },
+      "summary": "谷歌推出五款新Flow工具，由电影制作人和视觉艺术家设计，旨在帮助用户创作故事。这些工具将提升创作效率，支持多媒体内容制作。"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "pubDate": "Thu, 12 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-12T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp\">We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "contentSnippet": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Robby Stein"
+        ],
+        "title": [
+          "VP of Product, Google Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索将全球推出Gemini 4 Hydrogen重大升级，旨在提供更实用、直观和可视化的回复。",
+        "en": "Google Search is receiving a major upgrade with the introduction of Gemini 4 Hydrogen globally. This update aims to deliver more helpful, visual, and intuitive responses to users."
+      },
+      "summary": "谷歌搜索将全球推出Gemini 4 Hydrogen重大升级，旨在提供更实用、直观和可视化的回复。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "pubDate": "Thu, 12 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-12T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp\">Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "contentSnippet": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出全新模型Gemini 4 Hydrogen，旨在提升开发者的日常编程和自动化工作流程效率。该模型以成本效益为核心，支持高效编码和调试。开发者可通过Google AI Studio立即开始使用。",
+        "en": "Gemini 4 Hydrogen is Google's new model designed for cost-efficient agentic coding and debugging. It enables developers to build faster by integrating with Google AI Studio. The model supports everyday coding tasks and enhances workflow productivity."
+      },
+      "summary": "谷歌推出全新模型Gemini 4 Hydrogen，旨在提升开发者的日常编程和自动化工作流程效率。该模型以成本效益为核心，支持高效编码和调试。开发者可通过Google AI Studio立即开始使用。"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "pubDate": "Thu, 12 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-12T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp\">Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "contentSnippet": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "今日推出Gemini 4 Hydrogen，专为自动化工作流程设计的日常驱动工具。",
+        "en": "Gemini 4 Hydrogen is introduced as the company's daily driver for agentic workflows. The announcement highlights its role in facilitating automated and intelligent task management."
+      },
+      "summary": "今日推出Gemini 4 Hydrogen，专为自动化工作流程设计的日常驱动工具。"
+    },
+    {
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-12T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp\">Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "contentSnippet": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "creator": "",
+      "summaries": {
+        "zh": "科学家正利用谷歌人工智能技术帮助恢复巨藻林。这些海底森林为海岸提供保护、创造栖息地并支持海洋生态系统，但全球正因海水变暖而逐渐消失。在COP31会议期间，该技术被应用于恢复项目。",
+        "en": "Scientists are employing Google AI to aid in the restoration of giant kelp forests, which protect coastlines, provide habitat, and support marine ecosystems. These forests are declining globally due to ocean warming. The AI technology is being utilized to monitor and analyze environmental data, helping to identify optimal conditions for kelp regrowth and inform conservation efforts."
+      },
+      "summary": "科学家正利用谷歌人工智能技术帮助恢复巨藻林。这些海底森林为海岸提供保护、创造栖息地并支持海洋生态系统，但全球正因海水变暖而逐渐消失。在COP31会议期间，该技术被应用于恢复项目。"
+    },
+    {
+      "title": "Meet the 2026 Google PhD Fellows",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-12T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp\">Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+      "contentSnippet": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Leslie Yeh"
+        ],
+        "title": [
+          "Director"
+        ],
+        "department": [
+          "Scientific Progress"
+        ],
+        "company": [
+          "Google.org"
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌组织将提供1300万美元资金，支持2026年谷歌博士研究员项目。",
+        "en": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows. The initiative aims to assist doctoral students in their research."
+      },
+      "summary": "谷歌组织将提供1300万美元资金，支持2026年谷歌博士研究员项目。"
+    },
+    {
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-12T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp\">Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
+      "contentSnippet": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌将在西弗吉尼亚州启动一项价值1000万美元的能源影响计划，用于资助家庭维修和能效升级。请立即查看您的资格。",
+        "en": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. The program aims to help residents improve their homes, and eligibility information is available for those interested to apply."
+      },
+      "summary": "谷歌将在西弗吉尼亚州启动一项价值1000万美元的能源影响计划，用于资助家庭维修和能效升级。请立即查看您的资格。"
+    },
+    {
+      "title": "Get quick answers from Gemini on any website.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-12T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp\">Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+      "contentSnippet": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+      "creator": "",
+      "summaries": {
+        "zh": "使用Chrome中的Gemini快速获取网站信息。Gemini可总结文章、比较产品、解释复杂主题，直接在侧边栏显示答案。立即体验。",
+        "en": "Gemini offers quick answers in Chrome by summarizing articles, comparing products, and explaining complex topics in a side panel. Users can access these features directly on any website. The tool is designed for efficient information retrieval and comprehension."
+      },
+      "summary": "使用Chrome中的Gemini快速获取网站信息。Gemini可总结文章、比较产品、解释复杂主题，直接在侧边栏显示答案。立即体验。"
+    },
+    {
+      "title": "Designing for privacy on intelligent eyewear",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-12T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.max-600x600.format-webp.webp\">Learn more about privacy protections on intelligent eyewear.",
+      "contentSnippet": "Learn more about privacy protections on intelligent eyewear.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shahram Izadi"
+        ],
+        "title": [
+          "VP & GM"
+        ],
+        "department": [
+          "XR"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "智能眼镜的隐私保护设计。文章介绍了智能眼镜的隐私保护措施，帮助读者了解相关技术如何保障用户数据安全。内容涵盖隐私保护的基本原理、技术实现及应用场景，强调在智能眼镜设计中需重视用户隐私。",
+        "en": "The article discusses privacy protections for intelligent eyewear. It emphasizes the importance of designing eyewear to safeguard user data and ensure confidentiality. The focus is on implementing features that protect against unauthorized access and data breaches. The content highlights the need for robust privacy measures in the development of smart eyewear."
+      },
+      "summary": "智能眼镜的隐私保护设计。文章介绍了智能眼镜的隐私保护措施，帮助读者了解相关技术如何保障用户数据安全。内容涵盖隐私保护的基本原理、技术实现及应用场景，强调在智能眼镜设计中需重视用户隐私。"
+    },
+    {
+      "title": "See our intelligent eyewear lineup and pre-order your pair",
+      "link": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-12T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp\">Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
+      "contentSnippet": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shahram Izadi"
+        ],
+        "title": [
+          "VP & GM"
+        ],
+        "department": [
+          "XR"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "三星、谷歌与Warby Parker、Gentle Monster联合设计的智能眼镜现已开放预订。该产品由三星和谷歌工程支持，Warby Parker和Gentle Monster负责设计。",
+        "en": "Google's intelligent eyewear, designed by Warby Parker and Gentle Monster and engineered by Samsung, is now available for pre-order. The product combines advanced technology with stylish design, offering users a new smart eyewear option."
+      },
+      "summary": "三星、谷歌与Warby Parker、Gentle Monster联合设计的智能眼镜现已开放预订。该产品由三星和谷歌工程支持，Warby Parker和Gentle Monster负责设计。"
+    },
+    {
+      "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+      "link": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+      "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+      "isoDate": "2026-11-12T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_05_Laptop_Overview_Unbl.max-600x600.format-webp.webp\">Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+      "contentSnippet": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keerat Sharma"
+        ],
+        "title": [
+          "VP & General Manager"
+        ],
+        "department": [
+          "Ads Privacy and Safety"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌广告推出新的透明度工具，用于检测无效流量。该工具包含无效流量概览卡，可查看2026年11月的节省金额和信用额度。具体详情请参考相关说明。",
+        "en": "Google Ads is launching a new transparency tool, the Invalid Traffic Overview Card, to enhance campaign transparency. This feature allows users to view savings and credits resulting from invalid traffic, specifically from November 2026. The tool provides detailed insights to help advertisers better understand and manage their ad spend."
+      },
+      "summary": "谷歌广告推出新的透明度工具，用于检测无效流量。该工具包含无效流量概览卡，可查看2026年11月的节省金额和信用额度。具体详情请参考相关说明。"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "pubDate": "Wed, 11 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-11T18:00:00.000Z",
+      "content": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "contentSnippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Min Choi"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Decisions API由先进的Gemini Decision模型驱动，提供快速、校准的多模态决策功能。该API适用于高效处理多模态数据，确保决策的准确性和一致性。",
+        "en": "The Gemini Decisions API is a new tool powered by the Gemini Decision model, designed to provide fast and calibrated multimodal decision-making. It leverages advanced technology to ensure efficient and accurate results across various applications."
+      },
+      "summary": "Gemini Decisions API由先进的Gemini Decision模型驱动，提供快速、校准的多模态决策功能。该API适用于高效处理多模态数据，确保决策的准确性和一致性。"
+    },
+    {
+      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+      "pubDate": "Wed, 11 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-11T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_Cavill_thumbnail_v2.max-600x600.format-webp.webp\">Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
+      "contentSnippet": "Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Menaka Shroff (MK)"
+        ],
+        "title": [
+          "Vice President, Marketing"
+        ],
+        "department": [
+          "Global Android Ecosystem"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "亨利·卡维尔（Henry Cavill）的“胡须协议”（Mustache Protocol）游戏已上线。该游戏通过Googlebook展示制作过程，旨在为男性健康筹集50万美元。",
+        "en": "Henry Cavill’s \"Mustache Protocol\" video game is now live on Googlebook. The game was developed to support Movember and raise $500,000 for men’s health. The article highlights the creation process of the game on Googlebook."
+      },
+      "summary": "亨利·卡维尔（Henry Cavill）的“胡须协议”（Mustache Protocol）游戏已上线。该游戏通过Googlebook展示制作过程，旨在为男性健康筹集50万美元。"
+    },
+    {
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-11T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp\">In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "contentSnippet": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌云及曼迪安安全专家在《安全2027》分析中，解读了塑造未来防御的关键趋势。",
+        "en": "Google Cloud and Mandiant leaders discuss key cybersecurity trends for 2027 in their \"Security 2027\" analysis, outlining critical shifts in defense strategies. The report focuses on emerging challenges and advancements shaping the future of cybersecurity."
+      },
+      "summary": "谷歌云及曼迪安安全专家在《安全2027》分析中，解读了塑造未来防御的关键趋势。"
+    },
+    {
+      "title": "Google’s ongoing commitment to the veteran community",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-11T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veterans_Day_Hero_iJrsqZ1.max-600x600.format-webp.webp\">On Veterans’ Day 2026, we’re spotlighting how Google invests in career pathways for veterans and the military community.",
+      "contentSnippet": "On Veterans’ Day 2026, we’re spotlighting how Google invests in career pathways for veterans and the military community.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Reeves"
+        ],
+        "title": [
+          "Global co-lead, Google Veterans Network, Employee Resource Group"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌将于2026年退伍军人节期间，重点展示其如何为退伍军人及军事社区提供职业发展支持。公司持续致力于帮助退伍军人进入职业道路，并推动相关领域的投入。",
+        "en": "Google will highlight its commitment to the veteran community on Veterans’ Day 2026, focusing on investments in career pathways for veterans and military personnel. The company aims to support their professional development and integration into the workforce."
+      },
+      "summary": "谷歌将于2026年退伍军人节期间，重点展示其如何为退伍军人及军事社区提供职业发展支持。公司持续致力于帮助退伍军人进入职业道路，并推动相关领域的投入。"
+    },
+    {
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-11T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp\">Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "contentSnippet": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Gary Eimerman"
+        ],
+        "title": [
+          "Managing Director"
+        ],
+        "department": [
+          "Google GTM Learning Practice Lead"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌云今日宣布推出新的专业代理架构师认证。该认证旨在评估专业人士在代理架构领域的技能和知识。",
+        "en": "Google Cloud has introduced the new Professional Agentic Architect certification. This certification is designed to validate expertise in the field, recognizing professionals' skills and knowledge. The announcement highlights the importance of this role in shaping future cloud solutions. The certification aims to set a standard for architects working with Google Cloud technologies, ensuring they meet industry requirements. This move reflects Google Cloud's commitment to professional development and industry leadership. The certification is now available for individuals seeking to demonstrate their expertise in agentic architecture."
+      },
+      "summary": "谷歌云今日宣布推出新的专业代理架构师认证。该认证旨在评估专业人士在代理架构领域的技能和知识。"
+    },
+    {
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-11T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp\">Gemini is now available on Apple CarPlay.",
+      "contentSnippet": "Gemini is now available on Apple CarPlay.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karan Daryanani"
+        ],
+        "title": [
+          "Sr. Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini应用现已登陆Apple CarPlay平台，用户可在车载系统上使用该服务。",
+        "en": "Gemini is now available on Apple CarPlay, allowing users to access the service through their vehicles' infotainment systems. This integration enables hands-free communication and information access while driving."
+      },
+      "summary": "Gemini应用现已登陆Apple CarPlay平台，用户可在车载系统上使用该服务。"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-11T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp\">Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "contentSnippet": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Roman Nurik"
+        ],
+        "title": [
+          "Design & Engineering Lead, Google Labs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Tabletop是谷歌实验室推出的一项新式协作工具，旨在帮助团队进行互动式规划。用户可创建行程、投票和对阵赛等，与团队成员共同协作。目前该项目处于实验阶段，需加入等候名单才能使用。",
+        "en": "Tabletop is a Google Labs experiment designed for group collaboration. It allows users to create interactive itineraries, polls, and brackets with their teams. The platform aims to facilitate planning and teamwork. Participants can join the waitlist to access the service."
+      },
+      "summary": "Tabletop是谷歌实验室推出的一项新式协作工具，旨在帮助团队进行互动式规划。用户可创建行程、投票和对阵赛等，与团队成员共同协作。目前该项目处于实验阶段，需加入等候名单才能使用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T17:09:56.428Z"
+}
