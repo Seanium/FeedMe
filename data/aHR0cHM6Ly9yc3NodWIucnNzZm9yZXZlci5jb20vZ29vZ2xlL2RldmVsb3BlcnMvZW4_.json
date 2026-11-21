@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+      "link": "https://developers.googleblog.com/en/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+      "contentSnippet": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何通过Egress Agent Gateway、Private Service Connect、FQDN范围的Private Cloud DNS和双头OAuth 2.0认证，将Gemini Enterprise安全地连接到Cloud Run上的内部StreamableHTTP MCP服务器。这些方法确保了私网连接的稳定性和安全性。",
+        "en": "To securely connect Gemini Enterprise to internal Cloud Run MCP servers on Cloud Run, use the Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication. These methods ensure private and secure communication between the systems."
+      },
+      "summary": "本文介绍了如何通过Egress Agent Gateway、Private Service Connect、FQDN范围的Private Cloud DNS和双头OAuth 2.0认证，将Gemini Enterprise安全地连接到Cloud Run上的内部StreamableHTTP MCP服务器。这些方法确保了私网连接的稳定性和安全性。"
+    },
+    {
+      "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+      "link": "https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry API, it evaluates full conversations for behavioral drift without needing access to the agent's underlying runtime. This enables security teams to detect risks like rogue behaviors, tool misuse, and resource exhaustion across multi-cloud environments.",
+      "contentSnippet": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry API, it evaluates full conversations for behavioral drift without needing access to the agent's underlying runtime. This enables security teams to detect risks like rogue behaviors, tool misuse, and resource exhaustion across multi-cloud environments.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "代理异常检测服务现已监控运行在AWS、Azure或本地环境的ADK代理，通过分析其在Google Cloud项目中的跟踪和日志数据。该服务通过Telemetry API摄取OpenTelemetry格式数据，无需访问代理底层运行时，即可评估完整对话中的行为漂移，帮助安全团队跨多云环境检测异常行为、工具滥用和资源耗尽等风险。",
+        "en": "Agent Anomaly Detection monitors ADK agents across AWS, Azure, and on-premises by analyzing traces and logs in Google Cloud. It ingests OpenTelemetry-formatted data via the Telemetry API to evaluate conversations for behavioral drift, identifying risks like rogue behaviors, tool misuse, and resource exhaustion without accessing the agent's runtime. This safeguards agents in multi-cloud environments."
+      },
+      "summary": "代理异常检测服务现已监控运行在AWS、Azure或本地环境的ADK代理，通过分析其在Google Cloud项目中的跟踪和日志数据。该服务通过Telemetry API摄取OpenTelemetry格式数据，无需访问代理底层运行时，即可评估完整对话中的行为漂移，帮助安全团队跨多云环境检测异常行为、工具滥用和资源耗尽等风险。"
+    },
+    {
+      "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+      "link": "https://developers.googleblog.com/en/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent and plain-language rules to prevent unauthorized data sharing and prompt injection attacks. Developers can easily attach natural-language constraints to their agents and monitor auditable verdicts through Cloud Logging.",
+      "contentSnippet": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent and plain-language rules to prevent unauthorized data sharing and prompt injection attacks. Developers can easily attach natural-language constraints to their agents and monitor auditable verdicts through Cloud Logging.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "语义治理策略使开发者能够通过在执行前评估每个拟议的工具调用来管理AI代理。该策略通过代理网关运行，将每个操作与用户意图和纯语言规则进行比对，以防止未经授权的数据共享和提示注入攻击。开发者可以轻松地将自然语言约束附加到代理上，并通过云日志监控可审计的裁决结果。",
+        "en": "Semantic governance policies allow developers to control AI agents by reviewing every tool call before execution. The policy engine, integrated via Agent Gateway, checks actions against user intent and plain-language rules to stop unauthorized data sharing and prompt injection attacks. Developers can add natural-language constraints to agents and monitor decisions via Cloud Logging for transparency. This ensures AI actions align with predefined policies while maintaining security and auditability."
+      },
+      "summary": "语义治理策略使开发者能够通过在执行前评估每个拟议的工具调用来管理AI代理。该策略通过代理网关运行，将每个操作与用户意图和纯语言规则进行比对，以防止未经授权的数据共享和提示注入攻击。开发者可以轻松地将自然语言约束附加到代理上，并通过云日志监控可审计的裁决结果。"
+    },
+    {
+      "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+      "link": "https://developers.googleblog.com/en/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager.",
+      "contentSnippet": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "在Gemini Enterprise上构建自定义企业UI时，开发者需手动实现三层核心认证。包括通过Google身份或工作负载身份联盟认证用户/工作负载，通过密钥库管理第三方OAuth（3LO）联盟连接器，以及使用Vertex AI Agent Engine和GCP认证管理器为自定义ADK代理配置按需工具级OAuth认证。",
+        "en": "When building a custom UI on Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include: 1) authenticating users/workloads via Google Identity or Workforce/Workload Identity Federation, 2) managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and 3) configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager."
+      },
+      "summary": "在Gemini Enterprise上构建自定义企业UI时，开发者需手动实现三层核心认证。包括通过Google身份或工作负载身份联盟认证用户/工作负载，通过密钥库管理第三方OAuth（3LO）联盟连接器，以及使用Vertex AI Agent Engine和GCP认证管理器为自定义ADK代理配置按需工具级OAuth认证。"
+    },
+    {
+      "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+      "link": "https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "pubDate": "Wed, 18 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-18T16:00:00.000Z",
+      "content": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.",
+      "contentSnippet": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了开发者如何使用Tunix和Gemma 4在Google Cloud TPU上训练多轮、使用工具的大型语言模型（LLM）智能体。通过利用智能体式的相对策略优化（GRPO）和异步vLLM推理，该方法显著提升了复杂推理和工具交互环境中的合规性。",
+        "en": "This article guides developers on training a multi-turn, tool-using LLM agent with Tunix and Gemma 4 on Google TPUs. It employs agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts to enhance complex reasoning and tool compliance in interactive scenarios. The method leverages cloud TPUs for efficient execution."
+      },
+      "summary": "本文介绍了开发者如何使用Tunix和Gemma 4在Google Cloud TPU上训练多轮、使用工具的大型语言模型（LLM）智能体。通过利用智能体式的相对策略优化（GRPO）和异步vLLM推理，该方法显著提升了复杂推理和工具交互环境中的合规性。"
+    },
+    {
+      "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+      "link": "https://developers.googleblog.com/en/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+      "pubDate": "Wed, 18 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-18T16:00:00.000Z",
+      "content": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60× and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.",
+      "contentSnippet": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60× and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "在MaxText中，Streaming DiLoCo技术通过流式传输参数片段而非同步全模型，实现了跨城市TPU切片的高效分布式LLM训练。该方法将跨切片通信量减少60倍以上，消除网络阻塞，支持无质量损耗的多数据中心无缝扩展。",
+        "en": "Streaming DiLoCo in MaxText enables efficient distributed LLM training across geographically dispersed TPU slices by streaming parameter fragments, reducing cross-slice communication by over 60× and eliminating network stalls. This method supports seamless multi-datacenter scaling without compromising model convergence or quality."
+      },
+      "summary": "在MaxText中，Streaming DiLoCo技术通过流式传输参数片段而非同步全模型，实现了跨城市TPU切片的高效分布式LLM训练。该方法将跨切片通信量减少60倍以上，消除网络阻塞，支持无质量损耗的多数据中心无缝扩展。"
+    },
+    {
+      "title": "Accelerating development for massive Git repositories",
+      "link": "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/",
+      "pubDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-16T16:00:00.000Z",
+      "content": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to &lt;8s and builds to ~2m.",
+      "contentSnippet": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to <8s and builds to ~2m.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌开源了 Another Build File Service (ABFS)，一种内容寻址文件系统和构建缓存。该服务能将 Android 代码检出时间缩短至 8 秒以内，构建时间降至约 2 分钟。ABFS 通过优化文件存储和访问效率，显著提升了大型 Git 仓库的开发速度。",
+        "en": "ABFS is Google's open-source content-addressable filesystem and build cache designed to accelerate development for massive Git repositories. It reduces Android checkout times to under 8 seconds and build times to approximately 2 minutes. The service improves efficiency by caching build artifacts and leveraging content addressing for faster access and consistency."
+      },
+      "summary": "谷歌开源了 Another Build File Service (ABFS)，一种内容寻址文件系统和构建缓存。该服务能将 Android 代码检出时间缩短至 8 秒以内，构建时间降至约 2 分钟。ABFS 通过优化文件存储和访问效率，显著提升了大型 Git 仓库的开发速度。"
+    },
+    {
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+      "link": "https://developers.googleblog.com/en/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+      "pubDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-16T16:00:00.000Z",
+      "content": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
+      "contentSnippet": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌AI Studio现支持开发者通过单条提示构建、测试并发布完整栈Kotlin Android应用，集成云Firestore、Firebase认证、Firebase AI逻辑等功能。平台提供高速HD模拟器（含音视频）、截图调试及直接发布至个人Google Play库的便捷功能。",
+        "en": "Google AI Studio enables developers to create full-stack Kotlin Android apps using a single prompt. The platform integrates Cloud Firestore, Firebase Authentication, and Firebase AI Logic. It features an enhanced HD emulator with audio support, visual screenshot debugging, and direct publishing to the personal Google Play library. This streamlined process simplifies app development, testing, and deployment."
+      },
+      "summary": "谷歌AI Studio现支持开发者通过单条提示构建、测试并发布完整栈Kotlin Android应用，集成云Firestore、Firebase认证、Firebase AI逻辑等功能。平台提供高速HD模拟器（含音视频）、截图调试及直接发布至个人Google Play库的便捷功能。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+      "link": "https://developers.googleblog.com/en/gemini-hydrogen-for-robotics/",
+      "pubDate": "Mon, 16 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-16T16:00:00.000Z",
+      "content": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench supporting rapid hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can leverage these tools to transition from an unboxed robot arm to a fully functional real-to-sim-to-real application in an afternoon using natural language prompts and day-one support in the google-genai SDKs.",
+      "contentSnippet": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench supporting rapid hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can leverage these tools to transition from an unboxed robot arm to a fully functional real-to-sim-to-real application in an afternoon using natural language prompts and day-one support in the google-genai SDKs.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出Gemini 4 Hydrogen模型，专为通用机器人设计，具备强大的空间和具身推理能力，运行高效。配合Antigravity平台的机器人插件，可支持硬件快速部署、MuJoCo模拟和闭环控制。开发者通过自然语言提示和SDK支持，可将机器人从离盒状态快速转为全功能实到模到实应用，仅需半天。",
+        "en": "Google's Gemini 4 Hydrogen is a fast, efficient model designed for robotics, offering strong spatial and embodied reasoning capabilities. The new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench, supporting hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can quickly transition from an unboxed robot arm to a fully functional real-to-sim-to-real application in an afternoon using natural language prompts and SDK support."
+      },
+      "summary": "谷歌推出Gemini 4 Hydrogen模型，专为通用机器人设计，具备强大的空间和具身推理能力，运行高效。配合Antigravity平台的机器人插件，可支持硬件快速部署、MuJoCo模拟和闭环控制。开发者通过自然语言提示和SDK支持，可将机器人从离盒状态快速转为全功能实到模到实应用，仅需半天。"
+    },
+    {
+      "title": "TPU Model Design Considerations and Optimization Guide",
+      "link": "https://developers.googleblog.com/en/tpu-model-design-considerations-and-optimization-guide/",
+      "pubDate": "Sun, 15 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-15T16:00:00.000Z",
+      "content": "The newly launched AI-Hypercomputer/tpu-codesign guide provides hardware-grounded design rules to help developers maximize performance on TPUs for LLMs and Mixture-of-Experts (MoE) workloads. Key principles include aligning reduction and output dimensions to 256 for systolic arrays, adopting LatentMoE to compress routed token traffic, and mapping parallel axes directly onto physical links.",
+      "contentSnippet": "The newly launched AI-Hypercomputer/tpu-codesign guide provides hardware-grounded design rules to help developers maximize performance on TPUs for LLMs and Mixture-of-Experts (MoE) workloads. Key principles include aligning reduction and output dimensions to 256 for systolic arrays, adopting LatentMoE to compress routed token traffic, and mapping parallel axes directly onto physical links.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "《TPU模型设计考虑与优化指南》发布，为开发者提供硬件导向设计规则，旨在提升LLM和MoE工作负载在TPU上的性能。核心原则包括：将缩减和输出维度对齐至256以适配 systolic arrays，采用 LatentMoE 压缩路由token流量，以及将并行轴直接映射到物理链路。该指南助力开发者优化TPU性能。",
+        "en": "The AI-Hypercomputer/tpu-codesign guide offers hardware-based design rules for optimizing TPU performance on LLMs and MoE workloads. Key recommendations include aligning reduction and output dimensions to 256 for systolic arrays, using LatentMoE to reduce token traffic, and directly mapping parallel axes to physical links. These principles aim to maximize efficiency and performance."
+      },
+      "summary": "《TPU模型设计考虑与优化指南》发布，为开发者提供硬件导向设计规则，旨在提升LLM和MoE工作负载在TPU上的性能。核心原则包括：将缩减和输出维度对齐至256以适配 systolic arrays，采用 LatentMoE 压缩路由token流量，以及将并行轴直接映射到物理链路。该指南助力开发者优化TPU性能。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T09:49:42.819Z"
+}

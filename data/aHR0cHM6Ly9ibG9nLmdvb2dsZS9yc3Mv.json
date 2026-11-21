@@ -1,0 +1,497 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-20T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp\">Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "contentSnippet": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出新连接应用，简化年终任务。用户可直接在搜索中管理杂货、信用评分和家居服务。详情请关注2026年11月。",
+        "en": "Google Connected Apps streamline year-end tasks by integrating grocery management, credit score tracking, and home service control into Search. Users can access these features directly for efficient organization. Details for November 2026 are available."
+      },
+      "summary": "谷歌推出新连接应用，简化年终任务。用户可直接在搜索中管理杂货、信用评分和家居服务。详情请关注2026年11月。"
+    },
+    {
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "pubDate": "Fri, 20 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-20T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp\">Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "contentSnippet": "Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Eve Andersson"
+        ],
+        "title": [
+          "Senior Director for Social Impact"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Watch Duty利用Gemini技术将嘈杂的火警无线电转为文本，能在30秒内识别出野火调度信息，从而加快警报发布速度。该系统能有效处理噪音干扰，提高信息提取效率，确保快速响应。",
+        "en": "Watch Duty employs Gemini to convert noisy fire radio broadcasts into text, enabling it to identify wildfire dispatches within 30 seconds. This technology accelerates alert dissemination, ensuring faster response times."
+      },
+      "summary": "Watch Duty利用Gemini技术将嘈杂的火警无线电转为文本，能在30秒内识别出野火调度信息，从而加快警报发布速度。该系统能有效处理噪音干扰，提高信息提取效率，确保快速响应。"
+    },
+    {
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "pubDate": "Thu, 19 Nov 2026 20:30:00 +0000",
+      "isoDate": "2026-11-19T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp\">Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "contentSnippet": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini支持导入其他AI应用的聊天记录和ZIP压缩文件中的AI摘要，以便用户无缝继续对话。具体操作详情请参考相关说明。",
+        "en": "You can transfer chat history from other AI apps into Gemini by importing ZIP files and AI summaries. This allows for seamless continuation of conversations. For more details, refer to the source."
+      },
+      "summary": "Gemini支持导入其他AI应用的聊天记录和ZIP压缩文件中的AI摘要，以便用户无缝继续对话。具体操作详情请参考相关说明。"
+    },
+    {
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "pubDate": "Thu, 19 Nov 2026 19:00:00 +0000",
+      "isoDate": "2026-11-19T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Quantum_Contextuality_Social_Sh.max-600x600.format-webp.webp\">Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "contentSnippet": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌量子AI研究证实，量子算法在规模上受益于量子力学的深层特征——上下文相关性。该研究展示了其量子处理器如何超越经典计算极限。具体细节请参阅相关报告。",
+        "en": "Google Quantum AI research demonstrates that contextuality enhances quantum algorithms at scale, surpassing classical limits. The study confirms the power of contextual effects in quantum computing, showcasing advancements in quantum processor performance."
+      },
+      "summary": "谷歌量子AI研究证实，量子算法在规模上受益于量子力学的深层特征——上下文相关性。该研究展示了其量子处理器如何超越经典计算极限。具体细节请参阅相关报告。"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "pubDate": "Thu, 19 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-19T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\">Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "contentSnippet": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lucia Loher"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini API"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini API 新增工具检索功能，预览版支持代理访问数百种工具，同时减少 token 消耗。",
+        "en": "Tool Retrieval in the Gemini API allows agents to access hundreds of tools using fewer tokens, now available in preview. The feature enhances efficiency by reducing token consumption, enabling more tools to be utilized within the same resource limits."
+      },
+      "summary": "Gemini API 新增工具检索功能，预览版支持代理访问数百种工具，同时减少 token 消耗。"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\">Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "contentSnippet": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "creator": "",
+      "summaries": {
+        "zh": "瓦尔特·艾萨克森在谷歌探讨了历史上伟大创新者如何启发人工智能时代的创造力和人类判断力。他强调了好奇心在创新中的重要性，并分析了AI与人类智慧的协同关系。艾萨克森认为，历史中的创新者通过不断探索和质疑，推动了科技进步。他呼吁在AI时代保持好奇心，以激发创造力。",
+        "en": "Walter Isaacson discusses the role of curiosity and creativity in the AI era during his talk at Google. He explores how historical innovators can inspire creativity and human judgment alongside artificial intelligence. The event includes a video of the discussion."
+      },
+      "summary": "瓦尔特·艾萨克森在谷歌探讨了历史上伟大创新者如何启发人工智能时代的创造力和人类判断力。他强调了好奇心在创新中的重要性，并分析了AI与人类智慧的协同关系。艾萨克森认为，历史中的创新者通过不断探索和质疑，推动了科技进步。他呼吁在AI时代保持好奇心，以激发创造力。"
+    },
+    {
+      "title": "A smarter way to track and buy clean energy",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp\">Learn how Google is scaling granular certificates to track clean energy hour by hour and support a cleaner, more reliable power grid.",
+      "contentSnippet": "Learn how Google is scaling granular certificates to track clean energy hour by hour and support a cleaner, more reliable power grid.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenna Stauffer"
+        ],
+        "title": [
+          "Head of Strategic Priorities"
+        ],
+        "department": [
+          "Climate Operations"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌正通过扩展精细化的证书系统，实现每小时追踪清洁能源，以支持更清洁、更可靠的电网。",
+        "en": "Google is scaling granular certificates to track clean energy hour by hour, supporting a cleaner and more reliable power grid. This approach enables precise monitoring and purchasing of clean energy, enhancing transparency and efficiency in the sector."
+      },
+      "summary": "谷歌正通过扩展精细化的证书系统，实现每小时追踪清洁能源，以支持更清洁、更可靠的电网。"
+    },
+    {
+      "title": "Small businesses, big results: How teams scale with AI",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp\">See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "contentSnippet": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yulie Kwon Kim"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product"
+        ],
+        "company": [
+          "Google Workspace"
+        ]
+      },
+      "summaries": {
+        "zh": "小型企业借助AI实现高效增长：四家公司使用谷歌工作空间与Gemini工具，简化工作流程，节省成本，实现自主发展。",
+        "en": "Four small businesses leverage Google Workspace with Gemini to reduce administrative tasks, save thousands, and scale efficiently. The AI-powered tools streamline workflows, enabling growth while maintaining control."
+      },
+      "summary": "小型企业借助AI实现高效增长：四家公司使用谷歌工作空间与Gemini工具，简化工作流程，节省成本，实现自主发展。"
+    },
+    {
+      "title": "Genie 4 is now available on the Gemini API.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp\">Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+      "contentSnippet": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+      "creator": "",
+      "summaries": {
+        "zh": "Genie 4 已在 Google Gemini API 上发布。用户可通过该平台构建交互式 720p 世界，生成连贯环境并支持原生音频和实时控制。",
+        "en": "Genie 4 is now available on the Google Gemini API. It enables users to build interactive 720p worlds with coherent environments, native audio, and real-time controls. The tool is designed for creating immersive experiences and is ready for use."
+      },
+      "summary": "Genie 4 已在 Google Gemini API 上发布。用户可通过该平台构建交互式 720p 世界，生成连贯环境并支持原生音频和实时控制。"
+    },
+    {
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp\">Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "contentSnippet": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过专家级A/B测试策略提升您的Google Ads表现。最新指南涵盖AI Max实验和智能出价。请收听。",
+        "en": "This guide offers expert A/B testing strategies to enhance Google Ads performance. It covers AI Max experiments and Smart Bidding, providing insights to optimize ad effectiveness. The resource is designed for listeners seeking actionable techniques to improve their campaigns."
+      },
+      "summary": "通过专家级A/B测试策略提升您的Google Ads表现。最新指南涵盖AI Max实验和智能出价。请收听。"
+    },
+    {
+      "title": "Let Gemini tackle repetitive chores on your Mac",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp\">The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "contentSnippet": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Friedman"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini/macOS应用现已支持电脑使用功能，可协助用户处理重复性任务。",
+        "en": "The Gemini app for Mac now features computer use to assist with repetitive tasks."
+      },
+      "summary": "Gemini/macOS应用现已支持电脑使用功能，可协助用户处理重复性任务。"
+    },
+    {
+      "title": "See some of the work from Google Flow and Flow Music Sessions artists",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ss_Seagull_still_1.1.1.max-600x600.format-webp.webp\">Explore the work of Flow and Flow Music Sessions artists from our latest residency programs.",
+      "contentSnippet": "Explore the work of Flow and Flow Music Sessions artists from our latest residency programs.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Brianna Doyle"
+        ],
+        "title": [
+          "Head of Community, Google Labs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Flow及Flow Music Sessions最新驻留项目艺术家作品展示。探索这些艺术家的部分创作成果。",
+        "en": "The article highlights Google Flow and Flow Music Sessions artists featured in recent residency programs. It invites readers to explore their work."
+      },
+      "summary": "谷歌Flow及Flow Music Sessions最新驻留项目艺术家作品展示。探索这些艺术家的部分创作成果。"
+    },
+    {
+      "title": "Building the right way: Lessons from 20 years in The Dalles",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/",
+      "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
+      "isoDate": "2026-11-19T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp\">As our first data center in The Dalles, Oregon, turns 20, we’re looking back and announcing new investments in the local community.",
+      "contentSnippet": "As our first data center in The Dalles, Oregon, turns 20, we’re looking back and announcing new investments in the local community.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Katy Bowman"
+        ],
+        "title": [
+          "Community Development Manager - The Dalles, Oregon"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "俄勒冈州大瀑布的首个数据中心迎来20周年，公司回顾历程并宣布将加大当地社区投资。",
+        "en": "The Dalles, Oregon's first data center, marks its 20th anniversary. The company reflects on its history while announcing new investments in the local community. The milestone highlights growth and commitment to the area."
+      },
+      "summary": "俄勒冈州大瀑布的首个数据中心迎来20周年，公司回顾历程并宣布将加大当地社区投资。"
+    },
+    {
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "pubDate": "Thu, 19 Nov 2026 13:00:00 +0000",
+      "isoDate": "2026-11-19T13:00:00.000Z",
+      "content": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "contentSnippet": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们与蓝色起源合作，启动了Project Suncatcher首个重型运载火箭发射。该项目旨在通过太空资源扩展AI基础设施，属于一项长期探索计划。此次合作标志着Project Suncatcher迈出关键一步。",
+        "en": "We are collaborating with Blue Origin on Project Suncatcher's first heavy-lift launch. Project Suncatcher aims to expand AI infrastructure in space. The partnership involves a significant mission to achieve this long-term goal."
+      },
+      "summary": "我们与蓝色起源合作，启动了Project Suncatcher首个重型运载火箭发射。该项目旨在通过太空资源扩展AI基础设施，属于一项长期探索计划。此次合作标志着Project Suncatcher迈出关键一步。"
+    },
+    {
+      "title": "Google’s water stewardship commitments for local communities",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+      "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000",
+      "isoDate": "2026-11-19T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp\">Learn about our new water stewardship commitments, initiatives and recent Water Replenishment Projects Request for Information.",
+      "contentSnippet": "Learn about our new water stewardship commitments, initiatives and recent Water Replenishment Projects Request for Information.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben Townsend"
+        ],
+        "title": [
+          "Head of Infrastructure & Sustainability"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌宣布了新的水资源管理承诺，包括具体举措和近期发布的水资源补充项目信息征集。这些措施旨在加强当地社区的水资源保护和管理。",
+        "en": "Google has announced new water stewardship commitments, initiatives, and recently released a Request for Information (RFI) for Water Replenishment Projects. The updates focus on sustainable water management and community engagement. The RFI aims to gather proposals for projects that enhance local water resources. These efforts reflect Google's ongoing dedication to responsible water use and supporting regional water sustainability."
+      },
+      "summary": "谷歌宣布了新的水资源管理承诺，包括具体举措和近期发布的水资源补充项目信息征集。这些措施旨在加强当地社区的水资源保护和管理。"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "pubDate": "Wed, 18 Nov 2026 21:00:00 +0000",
+      "isoDate": "2026-11-18T21:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp\">Today, we’re introducing Gemini 4 Neon",
+      "contentSnippet": "Today, we’re introducing Gemini 4 Neon",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "今日推出Gemini 4 Neon。",
+        "en": "Gemini 4 Neon has been introduced. The content provides no additional details about the product or its features."
+      },
+      "summary": "今日推出Gemini 4 Neon。"
+    },
+    {
+      "title": "Las Vegas race week brings big rewards to Google Play",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+      "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-18T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp\">Unlock digital perks via our rewards case and Use tab, or join The Auction by Google Play live in Las Vegas.",
+      "contentSnippet": "Unlock digital perks via our rewards case and Use tab, or join The Auction by Google Play live in Las Vegas.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Grinsted"
+        ],
+        "title": [
+          "Product Director, Google Play"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "拉斯维加斯赛事周期间，Google Play推出丰厚奖励活动。用户可通过奖励案例和使用标签解锁数字福利，或参与拉斯维加斯的Google Play拍卖会。",
+        "en": "Google Play's Las Vegas race week offers users rewards, including digital perks accessible via the rewards case and Use tab, as well as participation in The Auction by Google Play live in the city."
+      },
+      "summary": "拉斯维加斯赛事周期间，Google Play推出丰厚奖励活动。用户可通过奖励案例和使用标签解锁数字福利，或参与拉斯维加斯的Google Play拍卖会。"
+    },
+    {
+      "title": "Google for Mexico: Technology impact that goes beyond business",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
+      "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-18T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_Hero_Pic_GoogleforMexic.max-600x600.format-webp.webp\">At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+      "contentSnippet": "At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sebastian Valverde"
+        ],
+        "title": [
+          "Country Managing Director, Google Mexico"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "在今年的墨西哥谷歌活动中，我们宣布了最新的AI创新和合作如何转化为墨西哥全国范围内的实际增长。",
+        "en": "Google for Mexico highlighted the impact of its AI innovations and partnerships on real-world growth in the country. The event showcased how these advancements are driving progress beyond business sectors."
+      },
+      "summary": "在今年的墨西哥谷歌活动中，我们宣布了最新的AI创新和合作如何转化为墨西哥全国范围内的实际增长。"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-18T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp\">We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "contentSnippet": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Diego Rivas"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌已向符合条件的Google AI Ultra用户推出新版Project Genie体验，开放对全新Genie 4世界模型的访问。",
+        "en": "Genie 4 is now available for eligible Google AI Ultra subscribers, providing access to the new Genie 4 world model as part of the updated Project Genie experience."
+      },
+      "summary": "谷歌已向符合条件的Google AI Ultra用户推出新版Project Genie体验，开放对全新Genie 4世界模型的访问。"
+    },
+    {
+      "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+      "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-18T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp\">Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
+      "contentSnippet": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "11月YouTube需求生成活动助力假日购物季。把握假日销售高峰，利用该活动提升营销效果。",
+        "en": "YouTube's November Demand Gen Drop offers a chance to capitalize on the holiday shopping season. Businesses can leverage this opportunity to boost their marketing efforts during the peak period. The event provides tools and resources to enhance demand generation strategies. By participating, companies can target holiday shoppers effectively and optimize their campaigns. This initiative aims to help businesses maximize their visibility and sales during this crucial time. Stay ahead by utilizing the resources available through the November Demand Gen Drop."
+      },
+      "summary": "11月YouTube需求生成活动助力假日购物季。把握假日销售高峰，利用该活动提升营销效果。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T09:49:39.733Z"
+}

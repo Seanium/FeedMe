@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a39e5aade0e42a8386561585e7bb4b8f5a4b2aa2ed53d55990ea5af7e1ac875b/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 13998<br>Forks: 1400",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 13998\nForks: 1400",
+      "creator": "backnotprop",
+      "summaries": {
+        "zh": "\"backnotprop/plannotator\"是一个协作工具，用于管理智能体工作流程。它支持形状设计、决策制定、计划安排、注释标注、代码审查、团队共享等功能，并可通过一键操作将所有反馈发送给智能体。该工具使用TypeScript开发，获得10869个星标和814次分叉。",
+        "en": "The \"backnotprop/plannotator\" is a workspace designed for managing agents, offering features like shaping, decision-making, planning, annotation, code review, team collaboration, and one-click feedback distribution to agents. It is built in TypeScript and has 10,869 stars and 814 forks on its repository."
+      },
+      "summary": "\"backnotprop/plannotator\"是一个协作工具，用于管理智能体工作流程。它支持形状设计、决策制定、计划安排、注释标注、代码审查、团队共享等功能，并可通过一键操作将所有反馈发送给智能体。该工具使用TypeScript开发，获得10869个星标和814次分叉。"
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/287f61bddec67a8d9fb8cf71b395b7b49f090914fe89b5d2b2fadd1ee6fc230e/google-labs-code/stitch-skills\" referrerpolicy=\"no-referrer\"><br>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.<br><br>Language: TypeScript<br>Stars: 11172<br>Forks: 1418",
+      "contentSnippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\nLanguage: TypeScript\nStars: 11172\nForks: 1418",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "谷歌实验室开发的Stitch Skills库，专为Stitch MCP服务器设计，包含遵循Agent Skills开放标准的智能体技能，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码智能体。该库使用TypeScript编写，在GitHub上获得9937星和1298次分叉。",
+        "en": "The \"google-labs-code/stitch-skills\" repository contains a library of Agent Skills compatible with the Stitch MCP server. These skills adhere to the Agent Skills open standard, ensuring interoperability with coding agents like Antigravity, Gemini CLI, Claude Code, and Cursor. The library is written in TypeScript and has garnered significant popularity, with 9,937 stars and 1,298 forks on platforms like GitHub."
+      },
+      "summary": "谷歌实验室开发的Stitch Skills库，专为Stitch MCP服务器设计，包含遵循Agent Skills开放标准的智能体技能，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码智能体。该库使用TypeScript编写，在GitHub上获得9937星和1298次分叉。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7cce4553ae22f742be50284c55be21118183d4e2ffa80bcb4ac7cc05604b9e8a/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 9650<br>Forks: 773",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 9650\nForks: 773",
+      "creator": "GoogleChrome",
+      "summaries": {
+        "zh": "该文章标题为“GoogleChrome/modern-web-guidance-src”，内容强调需更新编程代理以符合最新的网络最佳实践，使用TypeScript语言编写，获得7916个星标和693次分叉。",
+        "en": "The article discusses maintaining a coding agent updated with modern web best practices using TypeScript. It has 7,916 stars and 693 forks."
+      },
+      "summary": "该文章标题为“GoogleChrome/modern-web-guidance-src”，内容强调需更新编程代理以符合最新的网络最佳实践，使用TypeScript语言编写，获得7916个星标和693次分叉。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 54911<br>Forks: 4536",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 54911\nForks: 4536",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "该工具是阿里巴巴的混合架构代码审查工具，具备安全、快速、高效等特点，并在阿里巴巴大规模生产环境中经过验证。工具采用确定性流程+LLM智能体，提供精确的行级注释，内置多语言规则集（如NPE、线程安全、XSS、SQL注入等），兼容OpenAI和Anthropic。使用Go语言开发，拥有52867星标和4288个分支。",
+        "en": "The \"alibaba/open-code-review\" is a secure, fast, and efficient hybrid architecture code review tool used at Alibaba's scale. It features deterministic pipelines, LLM Agents, precise line-level comments, and a built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection). The tool is compatible with OpenAI and Anthropic and is written in Go. It has 52,867 stars and 4,288 forks on its repository."
+      },
+      "summary": "该工具是阿里巴巴的混合架构代码审查工具，具备安全、快速、高效等特点，并在阿里巴巴大规模生产环境中经过验证。工具采用确定性流程+LLM智能体，提供精确的行级注释，内置多语言规则集（如NPE、线程安全、XSS、SQL注入等），兼容OpenAI和Anthropic。使用Go语言开发，拥有52867星标和4288个分支。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1e2cb66954c0870c8309417b9d0130ca61ecbf22b473d5bdd4b352b2afec827f/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 71645<br>Forks: 6347",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 71645\nForks: 6347",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "该技能名为“last30days-skill”，是一款AI代理工具，可跨平台（Reddit、X、YouTube、HN、Polymarket及网络）研究任意主题，并整合信息生成可靠摘要。该工具使用Python开发，获得69648星和6211次分叉。",
+        "en": "The AI agent skill \"mvanhorn/last30days-skill\" researches topics across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary. It is implemented in Python, with 69,648 stars and 6,211 forks on its repository."
+      },
+      "summary": "该技能名为“last30days-skill”，是一款AI代理工具，可跨平台（Reddit、X、YouTube、HN、Polymarket及网络）研究任意主题，并整合信息生成可靠摘要。该工具使用Python开发，获得69648星和6211次分叉。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0bf9efdf5bbf318076b353611de5e19c676503fff163d951f588a77119182830/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 58596<br>Forks: 4894",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 58596\nForks: 4894",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代码代理的Chrome开发者工具，使用TypeScript开发。该项目目前有57,938个星标和4,865个分支。",
+        "en": "The article discusses Chrome DevTools for coding agents, specifically mentioning it is built using TypeScript. It has 57,938 stars and 4,865 forks on its repository. The content focuses on the tool's use in coding and its technical foundation."
+      },
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于编写代码代理的Chrome开发者工具，使用TypeScript开发。该项目目前有57,938个星标和4,865个分支。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14d5ac94697f6f6aaa27372190bd24b316fa30f99f72bc07b9d859d86c952c27/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 7505<br>Forks: 1473",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 7505\nForks: 1473",
+      "creator": "tradermonty",
+      "summaries": {
+        "zh": "Claude交易技能库为股票投资者和交易者提供市场分析、技术图表、经济日历、筛选器和交易策略开发等功能。该库使用Python开发，获得6743星和1390次分叉。",
+        "en": "The repository \"Claude Trading Skills\" provides Python tools for equity investors and traders. It includes features for market analysis, technical charting, economic calendars, screeners, and trading strategy development. The project has 6,743 stars and 1,390 forks on GitHub."
+      },
+      "summary": "Claude交易技能库为股票投资者和交易者提供市场分析、技术图表、经济日历、筛选器和交易策略开发等功能。该库使用Python开发，获得6743星和1390次分叉。"
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/66e16aff8938ca172230bba7f136804caf0cf8633ce628cf114fbd4402b1fa72/ag-ui-protocol/ag-ui\" referrerpolicy=\"no-referrer\"><br>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.<br><br>Language: TypeScript<br>Stars: 20884<br>Forks: 2132",
+      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nLanguage: TypeScript\nStars: 20884\nForks: 2132",
+      "creator": "ag-ui-protocol",
+      "summaries": {
+        "zh": "AG-UI协议是一种将智能体（Agents）引入前端应用的交互协议。该协议使用TypeScript编写，目前获得20299个星标和2088次分叉。",
+        "en": "The AG-UI protocol is an Agent-User Interaction Protocol designed to integrate agents into frontend applications. It is implemented in TypeScript. The project has garnered 20,299 stars and 2,088 forks on platforms like GitHub, indicating significant community interest and adoption."
+      },
+      "summary": "AG-UI协议是一种将智能体（Agents）引入前端应用的交互协议。该协议使用TypeScript编写，目前获得20299个星标和2088次分叉。"
+    },
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b732517d3b3abdfeb64591c49ad4b342163e6aadb8579c84cb0845bc5d9f3682/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 31514<br>Forks: 2476",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 31514\nForks: 2476",
+      "creator": "meta",
+      "summaries": {
+        "zh": "开源设计系统Meta/Astryx，支持完全定制和智能体适配，使用TypeScript开发。该系统获得27891个星标和2166次分叉，具有高度可扩展性。",
+        "en": "The article introduces \"meta/astryx,\" an open-source design system built with TypeScript. It is fully customizable and designed to be agent-ready. The project has gained significant popularity, with 27,891 stars and 2,166 forks on its repository. The summary highlights its key features, popularity, and technical foundation."
+      },
+      "summary": "开源设计系统Meta/Astryx，支持完全定制和智能体适配，使用TypeScript开发。该系统获得27891个星标和2166次分叉，具有高度可扩展性。"
+    },
+    {
+      "title": "pookjw/HermesEnabler",
+      "link": "https://github.com/pookjw/HermesEnabler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/87aa2df4d88f23e4565bfa9a09593b4d22fdf83750bf338f930106614161a6cf/pookjw/HermesEnabler\" referrerpolicy=\"no-referrer\"><br>Enable Hermès Watch Faces on any Apple Watch devices<br><br>Language: Objective-C<br>Stars: 2323<br>Forks: 198",
+      "contentSnippet": "Enable Hermès Watch Faces on any Apple Watch devices\nLanguage: Objective-C\nStars: 2323\nForks: 198",
+      "creator": "pookjw",
+      "summaries": {
+        "zh": "标题：pookjw/HermesEnabler  \n简介：该项目允许在任意Apple Watch设备上启用Hermès表盘。使用Objective-C语言开发，获得2224星和189次分叉。",
+        "en": "The GitHub project \"pookjw/HermesEnabler\" allows users to enable Hermès Watch Faces on any Apple Watch devices. Developed in Objective-C, it has garnered 2,224 stars and 189 forks. The tool provides a way to customize Apple Watch interfaces with Hermès-designed watch faces, which are typically exclusive to Hermès Apple Watch models. The project is popular among developers seeking to unlock additional watch face options."
+      },
+      "summary": "标题：pookjw/HermesEnabler  \n简介：该项目允许在任意Apple Watch设备上启用Hermès表盘。使用Objective-C语言开发，获得2224星和189次分叉。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/574aa7e22b77db4f7150e09fb9f23a91126b331185d5034e2a02f9fa68855580/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 16986<br>Forks: 1489",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 16986\nForks: 1489",
+      "creator": "we-promise",
+      "summaries": {
+        "zh": "这是一款面向所有人的个人理财应用，由社区共同开发和维护。该应用使用Ruby语言编写，在GitHub上拥有15607个星标和1366个分支。",
+        "en": "The article introduces \"we-promise/sure,\" a personal finance app designed for broad accessibility. It is developed using Ruby and has garnered significant popularity, with 15,607 stars and 1,366 forks on its repository. The app aims to provide financial management tools for users of all backgrounds, emphasizing inclusivity in its design and functionality."
+      },
+      "summary": "这是一款面向所有人的个人理财应用，由社区共同开发和维护。该应用使用Ruby语言编写，在GitHub上拥有15607个星标和1366个分支。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326\" referrerpolicy=\"no-referrer\"><br>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.<br><br>Language: TypeScript<br>Stars: 31001<br>Forks: 2828",
+      "contentSnippet": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\nLanguage: TypeScript\nStars: 31001\nForks: 2828",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "Univer Office SDK 可用于构建自定义 AI 办公室，支持编辑、计算、协作和文件处理，适用于人和 AI 代理。基于可扩展的开源核心，使用 TypeScript 开发，目前获得 29812 个星标和 2674 次分叉。",
+        "en": "Univer Office SDK enables users to build their own AI office by integrating editing, calculation, collaboration, and file processing capabilities into their products. It is built on an extensible open-source core and uses TypeScript. The project has 29,812 stars and 2,674 forks on its repository."
+      },
+      "summary": "Univer Office SDK 可用于构建自定义 AI 办公室，支持编辑、计算、协作和文件处理，适用于人和 AI 代理。基于可扩展的开源核心，使用 TypeScript 开发，目前获得 29812 个星标和 2674 次分叉。"
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "link": "https://github.com/kajisho5/ffmpeg-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1356077516/f66b5343-33ba-4d7f-b3cc-72c5eab733f0\" referrerpolicy=\"no-referrer\"><br>Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.<br><br>Language: Python<br>Stars: 9038<br>Forks: 825",
+      "contentSnippet": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.\nLanguage: Python\nStars: 9038\nForks: 825",
+      "creator": "kajisho5",
+      "summaries": {
+        "zh": "这是一个本地视频编辑工具，专为编码代理设计，包含42种FFmpeg功能，支持机器可读协议和MCP服务器，适用于Claude Code、Cursor和Codex。主要功能包括视频剪辑、字幕添加、重新帧、音量调整和跨平台导出。无需云服务或API密钥，使用Python开发，获得8151星和765次分叉。",
+        "en": "Kajisho5 is a local video editor designed for coding agents, offering 42 FFmpeg tools with a machine-readable contract and an MCP server. It supports Claude Code, Cursor, and Codex, enabling users to cut, add captions, reframe, adjust loudness, and export videos for various platforms. The tool operates without cloud dependency or API keys, written in Python. It has 8,151 stars and 765 forks on its repository."
+      },
+      "summary": "这是一个本地视频编辑工具，专为编码代理设计，包含42种FFmpeg功能，支持机器可读协议和MCP服务器，适用于Claude Code、Cursor和Codex。主要功能包括视频剪辑、字幕添加、重新帧、音量调整和跨平台导出。无需云服务或API密钥，使用Python开发，获得8151星和765次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T09:49:54.420Z"
+}

@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "How AI Is Reshaping China's Industrial Policy ",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
+      "pubDate": "Sat, 21 Nov 2026 09:12:17 GMT",
+      "isoDate": "2026-11-21T09:12:17.000Z",
+      "content": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors — and we also discuss Huawei’s efforts to compete with Nvidia and why technological success doesn’t necessarily translate into strong returns for stock investors in China.  (Source: Bloomberg)",
+      "contentSnippet": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors — and we also discuss Huawei’s efforts to compete with Nvidia and why technological success doesn’t necessarily translate into strong returns for stock investors in China.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "文章探讨了中国科技公司如何在实现技术自给自足的同时参与AI军备竞赛。作者Kyle Chan分析了北京对全球AI浪潮的应对策略，以及中国公司商业目标与政府长期规划之间的张力。他指出，企业通过共享专业知识和供应链拓展至智能手机、机器人、电动汽车和半导体等领域。文章还讨论了华为与英伟达的竞争，以及中国技术成功并未必然带来股市高回报的现象。",
+        "en": "China's industrial policy leverages tech companies to achieve technological self-reliance amid the AI arms race, balancing commercial goals with government plans. Companies like Huawei collaborate through shared expertise and supply chains in sectors such as smartphones, robotics, EVs, and semiconductors. However, success in technology doesn't always correlate with strong stock market returns. The discussion highlights tensions between corporate ambitions and national strategy. (98 words)"
+      },
+      "summary": "文章探讨了中国科技公司如何在实现技术自给自足的同时参与AI军备竞赛。作者Kyle Chan分析了北京对全球AI浪潮的应对策略，以及中国公司商业目标与政府长期规划之间的张力。他指出，企业通过共享专业知识和供应链拓展至智能手机、机器人、电动汽车和半导体等领域。文章还讨论了华为与英伟达的竞争，以及中国技术成功并未必然带来股市高回报的现象。"
+    },
+    {
+      "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+      "pubDate": "Sat, 21 Nov 2026 07:53:21 GMT",
+      "isoDate": "2026-11-21T07:53:21.000Z",
+      "content": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
+      "contentSnippet": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
+      "creator": "Betty Hou",
+      "summaries": {
+        "zh": "台湾为提振市场信心，在股价因人工智能担忧大跌后，扩大了对本地股票卖空限制，并宣布已开始买入股票。此举旨在应对台湾基准指数遭遇35年来最差周表现的情况。",
+        "en": "Taiwan expanded short sale restrictions on local stocks and announced share purchases to boost confidence amid a significant market downturn. The island's benchmark index experienced its worst weekly decline in 35 years, prompting these measures to stabilize the market following sharp share price drops driven by concerns over artificial intelligence."
+      },
+      "summary": "台湾为提振市场信心，在股价因人工智能担忧大跌后，扩大了对本地股票卖空限制，并宣布已开始买入股票。此举旨在应对台湾基准指数遭遇35年来最差周表现的情况。"
+    },
+    {
+      "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
+      "pubDate": "Sat, 21 Nov 2026 02:33:58 GMT",
+      "isoDate": "2026-11-21T02:33:58.000Z",
+      "content": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+      "contentSnippet": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国正推动5G技术在制造业中的普及，全国已建成超过2.6万个私有工业5G网络。同时，6G测试也在进行中。央视报道了这一进展。",
+        "en": "China is expanding 5G deployment across its manufacturing sector, with over 26,000 private industrial 5G networks established nationwide, according to CCTV. The move supports the country's advanced manufacturing base as 6G testing progresses."
+      },
+      "summary": "中国正推动5G技术在制造业中的普及，全国已建成超过2.6万个私有工业5G网络。同时，6G测试也在进行中。央视报道了这一进展。"
+    },
+    {
+      "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+      "pubDate": "Sat, 21 Nov 2026 00:17:14 GMT",
+      "isoDate": "2026-11-21T00:17:14.000Z",
+      "content": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years.",
+      "contentSnippet": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years.",
+      "creator": "Elena Eisenstadt and Rachel Metz",
+      "summaries": {
+        "zh": "Anthropic公司一名研究员声称，其AI软件Claude成功解决了困扰数学家150多年的著名数论问题——黎曼猜想。该消息传出之际，Anthropic公司刚完成创纪录的IPO。目前尚无权威验证，但此声明引发广泛关注。",
+        "en": "A researcher at Anthropic claims to have solved the Riemann Hypothesis, a long-standing number theory problem, using the company's AI software, Claude. The announcement comes shortly after Anthropic's record-breaking IPO. The claim involves leveraging AI to address the hypothesis, which has eluded mathematicians for over 150 years."
+      },
+      "summary": "Anthropic公司一名研究员声称，其AI软件Claude成功解决了困扰数学家150多年的著名数论问题——黎曼猜想。该消息传出之际，Anthropic公司刚完成创纪录的IPO。目前尚无权威验证，但此声明引发广泛关注。"
+    },
+    {
+      "title": "Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
+      "pubDate": "Sat, 21 Nov 2026 00:13:38 GMT",
+      "isoDate": "2026-11-21T00:13:38.000Z",
+      "content": "This week, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss what the Treasury and Fed can do to tackle the nation’s debt crisis. Plus, what Grand Theft Auto 6’s release means for a video game industry that routinely faces layoffs, delays and slowing consumer spending. Later, surging healthcare costs affect businesses and their employees as Americans choose their insurance policies for the year ahead. And, how is AI changing the cybersecurity stakes for small businesses? (Source: Bloomberg)",
+      "contentSnippet": "This week, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss what the Treasury and Fed can do to tackle the nation’s debt crisis. Plus, what Grand Theft Auto 6’s release means for a video game industry that routinely faces layoffs, delays and slowing consumer spending. Later, surging healthcare costs affect businesses and their employees as Americans choose their insurance policies for the year ahead. And, how is AI changing the cybersecurity stakes for small businesses? (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "本周，前纽约联储主席比尔·杜德利和哥伦比亚法学院凯瑟琳·贾奇讨论了财政部和美联储如何应对国家债务危机。此外， GTA 6 的发布对面临裁员、延期和消费放缓的视频游戏行业有何意义。同时，不断上涨的医疗成本影响企业和员工，美国人正为新一年的保险政策做选择。AI 如何改变小企业的网络安全格局？(信息来源：彭博)",
+        "en": "This week's discussion covers the U.S. debt crisis, with former NY Fed President Bill Dudley and Kathryn Judge exploring Treasury and Fed solutions. The release of Grand Theft Auto 6 is analyzed for its impact on the struggling video game industry. Rising healthcare costs are affecting businesses and employees during annual insurance selections. Finally, AI's role in enhancing cybersecurity challenges for small businesses is examined. (Source: Bloomberg)"
+      },
+      "summary": "本周，前纽约联储主席比尔·杜德利和哥伦比亚法学院凯瑟琳·贾奇讨论了财政部和美联储如何应对国家债务危机。此外， GTA 6 的发布对面临裁员、延期和消费放缓的视频游戏行业有何意义。同时，不断上涨的医疗成本影响企业和员工，美国人正为新一年的保险政策做选择。AI 如何改变小企业的网络安全格局？(信息来源：彭博)"
+    },
+    {
+      "title": "Tony Wang on CrowdStrike-Zscaler Deal, AI Trade",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video",
+      "pubDate": "Fri, 20 Nov 2026 23:27:12 GMT",
+      "isoDate": "2026-11-20T23:27:12.000Z",
+      "content": "Tony Wang, Portfolio Manager of the Science and Technology Equity Strategy at T. Rowe Price, is asked whether the AI cycle has changed and whether recent declines create a buying opportunity. He also flags Wednesday’s PCE inflation report as a potential catalyst for markets. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Tony Wang, Portfolio Manager of the Science and Technology Equity Strategy at T. Rowe Price, is asked whether the AI cycle has changed and whether recent declines create a buying opportunity. He also flags Wednesday’s PCE inflation report as a potential catalyst for markets. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "万先生是T. Rowe Price科技股策略组合经理，接受采访时讨论AI周期变化及近期下跌是否为买入机会，并指出本周三的PCE通胀报告可能成为市场催化剂。对话由Romaine Bostick主持，来源：彭博。",
+        "en": "Tony Wang, a Portfolio Manager at T. Rowe Price, discusses the AI cycle and potential market opportunities amid recent declines. He also notes the upcoming PCE inflation report as a key market catalyst. The interview is part of \"The Close\" with Romaine Bostick. (Source: Bloomberg)"
+      },
+      "summary": "万先生是T. Rowe Price科技股策略组合经理，接受采访时讨论AI周期变化及近期下跌是否为买入机会，并指出本周三的PCE通胀报告可能成为市场催化剂。对话由Romaine Bostick主持，来源：彭博。"
+    },
+    {
+      "title": "Wonder Explores Sale of Delivery Service Grubhub, WSJ Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/wonder-explores-sale-of-delivery-service-grubhub-wsj-reports",
+      "pubDate": "Fri, 20 Nov 2026 23:10:53 GMT",
+      "isoDate": "2026-11-20T23:10:53.000Z",
+      "content": "Grubhub owner Wonder is considering a sale of the food-delivery business, the Wall Street Journal reported, adding to a wave of dealmaking in the sector.",
+      "contentSnippet": "Grubhub owner Wonder is considering a sale of the food-delivery business, the Wall Street Journal reported, adding to a wave of dealmaking in the sector.",
+      "creator": "Nick Turner",
+      "summaries": {
+        "zh": "据《华尔街日报》报道，外卖平台Grubhub的所有者Wonder正考虑出售该业务。此举加剧了该行业的交易浪潮。",
+        "en": "Wonder is reportedly considering selling its food-delivery service Grubhub, according to the Wall Street Journal. The potential sale adds to ongoing deal activity in the sector."
+      },
+      "summary": "据《华尔街日报》报道，外卖平台Grubhub的所有者Wonder正考虑出售该业务。此举加剧了该行业的交易浪潮。"
+    },
+    {
+      "title": "‘Grand Theft Auto’ Drives Internet Providers to Record Usage",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever",
+      "pubDate": "Fri, 20 Nov 2026 21:54:22 GMT",
+      "isoDate": "2026-11-20T21:54:22.000Z",
+      "content": "Record demand for the hot new video game Grand Theft Auto VI sent US internet traffic soaring this week.",
+      "contentSnippet": "Record demand for the hot new video game Grand Theft Auto VI sent US internet traffic soaring this week.",
+      "creator": "Kelcee Griffis",
+      "summaries": {
+        "zh": "《侠盗猎车手6》需求激增，美国互联网流量创纪录。本周，这款热门新游戏引发美国互联网流量飙升，促使网络服务提供商开始记录使用情况。",
+        "en": "Record demand for Grand Theft Auto VI caused a surge in US internet traffic this week, prompting internet providers to monitor usage."
+      },
+      "summary": "《侠盗猎车手6》需求激增，美国互联网流量创纪录。本周，这款热门新游戏引发美国互联网流量飙升，促使网络服务提供商开始记录使用情况。"
+    },
+    {
+      "title": "Hindlian Advisory CEO on AI & Anthropic Market Sell-off",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
+      "pubDate": "Fri, 20 Nov 2026 22:58:38 GMT",
+      "isoDate": "2026-11-20T22:58:38.000Z",
+      "content": "Amanda Hindlian, Founder and CEO of Hindlian Advisory and Former Global Head of Capital Markets at the New York Stock Exchange, says Anthropic’s IPO should be judged separately from a volatile week for markets. She notes that investors had been uncertain about the pricing and overall execution just two weeks earlier, but the offering priced well, drew a significantly oversubscribed book—estimated at five to seven times—and traded strongly on its first day. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Amanda Hindlian, Founder and CEO of Hindlian Advisory and Former Global Head of Capital Markets at the New York Stock Exchange, says Anthropic’s IPO should be judged separately from a volatile week for markets. She notes that investors had been uncertain about the pricing and overall execution just two weeks earlier, but the offering priced well, drew a significantly oversubscribed book—estimated at five to seven times—and traded strongly on its first day. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "hindlian advisory创始人兼首席执行官 Amanda Hindlian 表示，Anthropic的IPO应独立于市场波动进行评判。她指出，两周前投资者对定价和整体执行仍存疑虑，但Anthropic的IPO定价良好，获超额认购5至7倍，首日交易强劲。她与Romaine Bostick在\"The Close\"节目中对谈。（来源：彭博）",
+        "en": "Amanda Hindlian, CEO of Hindlian Advisory, advises evaluating Anthropic's IPO separately from broader market volatility. She notes investors were previously uncertain about the offering's pricing and execution but Anthropic priced well, with a five-to-seven times oversubscribed book and strong first-day trading. (Source: Bloomberg)"
+      },
+      "summary": "hindlian advisory创始人兼首席执行官 Amanda Hindlian 表示，Anthropic的IPO应独立于市场波动进行评判。她指出，两周前投资者对定价和整体执行仍存疑虑，但Anthropic的IPO定价良好，获超额认购5至7倍，首日交易强劲。她与Romaine Bostick在\"The Close\"节目中对谈。（来源：彭博）"
+    },
+    {
+      "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+      "pubDate": "Fri, 20 Nov 2026 22:38:25 GMT",
+      "isoDate": "2026-11-20T22:38:25.000Z",
+      "content": "Jennifer Smith, Co-Founder and CEO of Scribe and a former Consultant at McKinsey, discusses AI valuations to adoption, noting research that puts AI use for workplace tasks below 4%. She says the findings contrast with the widespread chatbot and AI use they observe in their own circle. She speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
+      "contentSnippet": "Jennifer Smith, Co-Founder and CEO of Scribe and a former Consultant at McKinsey, discusses AI valuations to adoption, noting research that puts AI use for workplace tasks below 4%. She says the findings contrast with the widespread chatbot and AI use they observe in their own circle. She speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Scribe公司联合创始人兼CEO詹妮弗·史密斯在接受采访时指出，尽管聊天机器人和AI应用广泛，但调查显示企业将AI用于工作任务的比率低于4%。她提到该发现与其观察到的现象存在差异。此内容来源于彭博社。",
+        "en": "Jennifer Smith, CEO of Scribe, discusses AI adoption in the workplace, citing research showing AI use for tasks below 4%, which contrasts with observed widespread chatbot use. She highlights a gap between AI valuations and actual implementation, speaking with Romaine Bostick on “The Close.” (Source: Bloomberg)"
+      },
+      "summary": "Scribe公司联合创始人兼CEO詹妮弗·史密斯在接受采访时指出，尽管聊天机器人和AI应用广泛，但调查显示企业将AI用于工作任务的比率低于4%。她提到该发现与其观察到的现象存在差异。此内容来源于彭博社。"
+    },
+    {
+      "title": "Cognition in Talks for $75 Billion Value With New Funding",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+      "pubDate": "Fri, 20 Nov 2026 20:47:55 GMT",
+      "isoDate": "2026-11-20T20:47:55.000Z",
+      "content": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
+      "contentSnippet": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
+      "creator": "Rebecca Torrence",
+      "summaries": {
+        "zh": "人工智能编程初创公司Cognition AI Inc.正进行融资谈判，估值达750亿美元，距离上次宣布最新融资仅两个月。消息人士透露。",
+        "en": "Cognition AI Inc., an AI coding startup, is currently in funding discussions valued at $75 billion. This follows its recent funding round, with the news coming from sources familiar with the matter. The company specializes in artificial intelligence for coding applications."
+      },
+      "summary": "人工智能编程初创公司Cognition AI Inc.正进行融资谈判，估值达750亿美元，距离上次宣布最新融资仅两个月。消息人士透露。"
+    },
+    {
+      "title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+      "pubDate": "Fri, 20 Nov 2026 21:05:11 GMT",
+      "isoDate": "2026-11-20T21:05:11.000Z",
+      "content": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector.",
+      "contentSnippet": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector.",
+      "creator": "Ryan Gould and David Carnevali",
+      "summaries": {
+        "zh": "CrowdStrike Holdings Inc.与Zscaler Inc.正在进行收购谈判，据知情人士透露，该交易将是网络安全领域迄今为止最大规模的交易之一。",
+        "en": "CrowdStrike Holdings Inc. is in discussions to buy Zscaler Inc., sources say. The potential acquisition would be one of the biggest in the cybersecurity industry."
+      },
+      "summary": "CrowdStrike Holdings Inc.与Zscaler Inc.正在进行收购谈判，据知情人士透露，该交易将是网络安全领域迄今为止最大规模的交易之一。"
+    },
+    {
+      "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+      "pubDate": "Fri, 20 Nov 2026 15:38:52 GMT",
+      "isoDate": "2026-11-20T15:38:52.000Z",
+      "content": "Measures of perceived US credit risk reached levels not seen in nearly eight months and the cost of protecting the debt of some of the biggest tech firms against default jumped on Friday, as the wobbling AI trade spurred volatility in global markets and sent investors piling into safe havens.",
+      "contentSnippet": "Measures of perceived US credit risk reached levels not seen in nearly eight months and the cost of protecting the debt of some of the biggest tech firms against default jumped on Friday, as the wobbling AI trade spurred volatility in global markets and sent investors piling into safe havens.",
+      "creator": "Caleb Mutua and Emily Graffeo",
+      "summaries": {
+        "zh": "美国信用担忧达到近八个月高位，部分大型科技企业债务违约风险保护成本周五上涨。人工智能市场波动引发全球市场动荡，投资者涌向避险资产。",
+        "en": "US credit risk measures hit an eight-month high as investors grew wary of tech firms, particularly AI, amid market volatility. The cost of credit protection for major tech companies rose sharply, prompting investors to seek safe-haven assets. The AI sector's instability contributed to broader market uncertainty."
+      },
+      "summary": "美国信用担忧达到近八个月高位，部分大型科技企业债务违约风险保护成本周五上涨。人工智能市场波动引发全球市场动荡，投资者涌向避险资产。"
+    },
+    {
+      "title": "Emerging Stocks Enter Bear Market as AI Triggers Global Selloff",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+      "pubDate": "Fri, 20 Nov 2026 01:05:34 GMT",
+      "isoDate": "2026-11-20T01:05:34.000Z",
+      "content": "The MSCI emerging-market stock index entered a bear market Friday, declining for a seventh day, the longest losing streak since 2024, amid a selloff in global tech shares.",
+      "contentSnippet": "The MSCI emerging-market stock index entered a bear market Friday, declining for a seventh day, the longest losing streak since 2024, amid a selloff in global tech shares.",
+      "creator": "Ray Ndlovu, Prima Wirayani and Nicolle Yapur",
+      "summaries": {
+        "zh": "新兴市场股票或将进入熊市，主要受人工智能股价下跌、全球利率上升担忧及贸易紧张局势影响，投资者信心受挫。",
+        "en": "Emerging-market stocks are heading toward a bear market due to declining AI shares, concerns over rising global interest rates, and trade tensions. These factors have negatively impacted investor sentiment, driving down the market."
+      },
+      "summary": "新兴市场股票或将进入熊市，主要受人工智能股价下跌、全球利率上升担忧及贸易紧张局势影响，投资者信心受挫。"
+    },
+    {
+      "title": "Victor Peng Sees AI, Quantum Computing as Long-Term Opportunities",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video",
+      "pubDate": "Fri, 20 Nov 2026 21:36:56 GMT",
+      "isoDate": "2026-11-20T21:36:56.000Z",
+      "content": "Victor Peng, CEO of PsiQuantum and former Advanced Micro Devices president, says quantum computing and optical switching could lower compute costs on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Victor Peng, CEO of PsiQuantum and former Advanced Micro Devices president, says quantum computing and optical switching could lower compute costs on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "彭建超，PsiQuantum首席执行官及前AMD总裁，在彭博《闭市报道》中称，量子计算和光交换技术有望降低计算成本。",
+        "en": "Victor Peng, CEO of PsiQuantum and former AMD president, discussed the long-term potential of quantum computing and optical switching to reduce compute costs during an interview on \"Bloomberg The Close.\" (Source: Bloomberg)"
+      },
+      "summary": "彭建超，PsiQuantum首席执行官及前AMD总裁，在彭博《闭市报道》中称，量子计算和光交换技术有望降低计算成本。"
+    },
+    {
+      "title": "Wall Street Reels as AI Fears Erupt; Nasdaq 100 Near Bear Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+      "pubDate": "Fri, 20 Nov 2026 13:26:57 GMT",
+      "isoDate": "2026-11-20T13:26:57.000Z",
+      "content": "Wall Street reeled on Friday as nagging concerns about the AI trade, which propelled US stocks from one high to the next for much of the year, turned into a full-blown, market-wide selloff. Anthropic PBC slumped after soaring in its public-market debut, while Nvidia Corp. sank 14%, pushing the Nasdaq 100 to the brink of a bear market.",
+      "contentSnippet": "Wall Street reeled on Friday as nagging concerns about the AI trade, which propelled US stocks from one high to the next for much of the year, turned into a full-blown, market-wide selloff. Anthropic PBC slumped after soaring in its public-market debut, while Nvidia Corp. sank 14%, pushing the Nasdaq 100 to the brink of a bear market.",
+      "creator": "Judy Lagrou and Geoffrey Morgan",
+      "summaries": {
+        "zh": "标普500指数因连续失望的科技巨头财报及英伟达丑闻，在过去两周内进一步进入修正区间，市场对人工智能的热情消退。Anthropic PBC创下纪录的IPO也未提振市场情绪。",
+        "en": "The S&P 500 Index declined further into correction mode due to weak Big Tech earnings and Nvidia's scandal, undermining AI sector confidence. Despite Anthropic's record IPO, market sentiment remained subdued."
+      },
+      "summary": "标普500指数因连续失望的科技巨头财报及英伟达丑闻，在过去两周内进一步进入修正区间，市场对人工智能的热情消退。Anthropic PBC创下纪录的IPO也未提振市场情绪。"
+    },
+    {
+      "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+      "pubDate": "Fri, 20 Nov 2026 19:25:37 GMT",
+      "isoDate": "2026-11-20T19:25:37.000Z",
+      "content": "<p>The best-reviewed game ever is also the fastest-selling</p>",
+      "contentSnippet": "The best-reviewed game ever is also the fastest-selling",
+      "creator": "Jason Schreier",
+      "summaries": {
+        "zh": "《侠盗猎车手6》销售额达37.9亿美元，成为史上最成功的娱乐产品发布。该游戏也是史上评价最高的游戏，销量最快。",
+        "en": "\"Grand Theft Auto VI\" sold $3.79 billion, setting a record as the biggest entertainment launch in history. It is also the best-reviewed game ever released."
+      },
+      "summary": "《侠盗猎车手6》销售额达37.9亿美元，成为史上最成功的娱乐产品发布。该游戏也是史上评价最高的游戏，销量最快。"
+    },
+    {
+      "title": "Anthropic CEO Vacations at Italian Resort After Public Listing",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
+      "pubDate": "Fri, 20 Nov 2026 20:57:42 GMT",
+      "isoDate": "2026-11-20T20:57:42.000Z",
+      "content": "Anthropic PBC Chief Executive Officer Dario Amodei is vacationing at a luxury resort in the south of Italy after completing a blockbuster initial public offering, according to people familiar with the matter.",
+      "contentSnippet": "Anthropic PBC Chief Executive Officer Dario Amodei is vacationing at a luxury resort in the south of Italy after completing a blockbuster initial public offering, according to people familiar with the matter.",
+      "creator": "Daniele Lepido and Tiago Ramos Alfaro",
+      "summaries": {
+        "zh": "Anthropic PBC的首席执行官Dario Amodei在完成备受瞩目的首次公开募股后，正在意大利南部的一家豪华度假村度假。消息人士透露了这一情况。",
+        "en": "Anthropic PBC's CEO, Dario Amodei, is vacationing at a luxury Italian resort following the company's successful initial public offering (IPO). The information comes from sources familiar with the matter."
+      },
+      "summary": "Anthropic PBC的首席执行官Dario Amodei在完成备受瞩目的首次公开募股后，正在意大利南部的一家豪华度假村度假。消息人士透露了这一情况。"
+    },
+    {
+      "title": "JPMorgan Gets Lowballed Below 80 Cents for Qualtrics Hung Debt",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/jpmorgan-gets-lowballed-below-80-cents-for-qualtrics-hung-debt",
+      "pubDate": "Fri, 20 Nov 2026 20:51:21 GMT",
+      "isoDate": "2026-11-20T20:51:21.000Z",
+      "content": "JPMorgan Chase &amp; Co. is fielding rock-bottom offers from investors as it weighs a potential debt sale tied to an acquisition by Qualtrics International Inc.",
+      "contentSnippet": "JPMorgan Chase & Co. is fielding rock-bottom offers from investors as it weighs a potential debt sale tied to an acquisition by Qualtrics International Inc.",
+      "creator": "Reshmi Basu and Gowri Gurumurthy",
+      "summaries": {
+        "zh": "摩根大通正考虑出售与Qualtrics国际公司收购相关的债务，但目前投资者提出的报价远低于80美分。",
+        "en": "JPMorgan is considering a debt sale related to Qualtrics International's acquisition, receiving low offers below 80 cents on the dollar. Investors are submitting rock-bottom bids as the bank evaluates the potential transaction."
+      },
+      "summary": "摩根大通正考虑出售与Qualtrics国际公司收购相关的债务，但目前投资者提出的报价远低于80美分。"
+    },
+    {
+      "title": "Nvidia Employees Complained About Huang's Behavior Years Ago ",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video",
+      "pubDate": "Fri, 20 Nov 2026 20:33:16 GMT",
+      "isoDate": "2026-11-20T20:33:16.000Z",
+      "content": "Ian King, Bloomberg News US semiconductor reporter, said that a lawsuit from two former Nvidia employees shows the price employees paid for the remarkable success achieved by former CEO Jensen Huang, as his behavior is scrutinized after allegations of multiple affairs. Huang's representatives said that the allegations in the complaint are from a long time ago and aren't a representation of Huang's behavior and how he's thought of inside Nvidia.  (Source: Bloomberg)",
+      "contentSnippet": "Ian King, Bloomberg News US semiconductor reporter, said that a lawsuit from two former Nvidia employees shows the price employees paid for the remarkable success achieved by former CEO Jensen Huang, as his behavior is scrutinized after allegations of multiple affairs. Huang's representatives said that the allegations in the complaint are from a long time ago and aren't a representation of Huang's behavior and how he's thought of inside Nvidia.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "据彭博社报道，两名前英伟达员工提起的诉讼显示，前CEO黄仁勋为英伟达的辉煌成就付出的代价。随着多项婚外情指控的曝光，黄仁勋的行为受到审视。英伟达代表称，诉讼中的指控是多年前的旧事，不代表黄仁勋的行为及他在英伟达的为人。",
+        "en": "A lawsuit from two former Nvidia employees alleges past inappropriate behavior by CEO Jensen Huang, now under scrutiny amid affair claims. Ian King of Bloomberg notes the suit highlights the personal costs employees faced for the company's success. Huang's representatives dismiss the allegations as outdated, stating they don't reflect his current standing at Nvidia. (49 words)"
+      },
+      "summary": "据彭博社报道，两名前英伟达员工提起的诉讼显示，前CEO黄仁勋为英伟达的辉煌成就付出的代价。随着多项婚外情指控的曝光，黄仁勋的行为受到审视。英伟达代表称，诉讼中的指控是多年前的旧事，不代表黄仁勋的行为及他在英伟达的为人。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T09:49:35.433Z"
+}
