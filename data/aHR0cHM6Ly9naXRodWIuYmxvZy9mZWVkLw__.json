@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Art of play in the age of AI",
+      "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "pubDate": "Wed, 25 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-25T16:00:00.000Z",
+      "content": "<p>Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/\">Art of play in the age of AI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.\nThe post Art of play in the age of AI appeared first on The GitHub Blog.",
+      "creator": "Polly Davidson",
+      "summaries": {
+        "zh": "在AI时代，代码开发速度加快，开发者有更多时间将项目作为乐趣进行探索。这一过程揭示了开发者可通过“玩耍”学习的关键点。文章强调，在AI时代，开发者应重视项目本身的乐趣，从中汲取经验。",
+        "en": "In the age of AI, rapid coding enables developers to focus on projects for enjoyment. This \"art of play\" in development fosters creativity and learning. The GitHub Blog highlights how this shift allows for more experimental and fulfilling work."
+      },
+      "summary": "在AI时代，代码开发速度加快，开发者有更多时间将项目作为乐趣进行探索。这一过程揭示了开发者可通过“玩耍”学习的关键点。文章强调，在AI时代，开发者应重视项目本身的乐趣，从中汲取经验。"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+      "isoDate": "2026-11-25T15:00:00.000Z",
+      "content": "<p>Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/\">How to choose the next safe step in application modernization</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.\nThe post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+      "creator": "Sam Quakenbush",
+      "summaries": {
+        "zh": "本文介绍了如何评估遗留应用程序，选择有边界的现代化步骤，并利用GitHub Copilot代理技能重复该方法。通过分步评估和选择安全、可控的现代化方案，企业可逐步实现应用现代化目标。",
+        "en": "The article provides guidance on modernizing legacy applications by assessing them and selecting a bounded, safe modernization step. It suggests using a GitHub Copilot agent skill to reuse this method. The content focuses on a systematic approach to application modernization, emphasizing controlled and manageable transitions."
+      },
+      "summary": "本文介绍了如何评估遗留应用程序，选择有边界的现代化步骤，并利用GitHub Copilot代理技能重复该方法。通过分步评估和选择安全、可控的现代化方案，企业可逐步实现应用现代化目标。"
+    },
+    {
+      "title": "These are the gifts developers will actually want",
+      "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-24T16:00:00.000Z",
+      "content": "<p>The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/\">These are the gifts developers will actually want</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.\nThe post These are the gifts developers will actually want appeared first on The GitHub Blog.",
+      "creator": "Lavinia Sfetcu",
+      "summaries": {
+        "zh": "开发者实际想要的礼物清单揭晓。若不确定收礼对象，可参考这份推荐。GitHub博客还提供黑五折扣优惠。",
+        "en": "The article suggests gifts developers may appreciate, though it doesn't specify the items. It also mentions a Black Friday discount available that week. The content is from The GitHub Blog."
+      },
+      "summary": "开发者实际想要的礼物清单揭晓。若不确定收礼对象，可参考这份推荐。GitHub博客还提供黑五折扣优惠。"
+    },
+    {
+      "title": "The best things in open source are built together",
+      "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-19T16:00:00.000Z",
+      "content": "<p>Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/\">The best things in open source are built together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.\nThe post The best things in open source are built together appeared first on The GitHub Blog.",
+      "creator": "Katie Liu",
+      "summaries": {
+        "zh": "开源项目Replica和开源无障碍框架Open Source Accessibility Framework发布，旨在促进协作与包容。GitHub博客发文强调，开源的卓越成果源于共同建设。",
+        "en": "The GitHub Blog introduces Replica and the Open Source Accessibility Framework, two new open source projects designed to foster collaboration and inclusion. These initiatives highlight the value of collective effort in open source development."
+      },
+      "summary": "开源项目Replica和开源无障碍框架Open Source Accessibility Framework发布，旨在促进协作与包容。GitHub博客发文强调，开源的卓越成果源于共同建设。"
+    },
+    {
+      "title": "Maintainers don’t need more AI bug reports. They need fixes. ",
+      "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "pubDate": "Tue, 17 Nov 2026 18:29:29 +0000",
+      "isoDate": "2026-11-17T18:29:29.000Z",
+      "content": "<p>In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/\">Maintainers don&#8217;t need more AI bug reports. They need fixes. </a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.\nThe post Maintainers don’t need more AI bug reports. They need fixes.  appeared first on The GitHub Blog.",
+      "creator": "Ashley Wolf",
+      "summaries": {
+        "zh": "GitHub和微软在Codename MDASH试点项目中，将数千份原始AI发现转化为99份经审核的私有报告，并为六个常用开源项目提供了修复建议。维护者已修复其中超过一半的问题。该项目表明，维护者需要的不是更多AI报告，而是具体的修复方案。",
+        "en": "GitHub and Microsoft converted thousands of raw AI findings into 99 checked, private reports with fixes for six open-source projects in the Codename MDASH pilot. Maintainers have fixed over half of these issues. The GitHub Blog highlights the need for actionable solutions over raw reports."
+      },
+      "summary": "GitHub和微软在Codename MDASH试点项目中，将数千份原始AI发现转化为99份经审核的私有报告，并为六个常用开源项目提供了修复建议。维护者已修复其中超过一半的问题。该项目表明，维护者需要的不是更多AI报告，而是具体的修复方案。"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "pubDate": "Tue, 17 Nov 2026 18:20:40 +0000",
+      "isoDate": "2026-11-17T18:20:40.000Z",
+      "content": "<p>Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.</p>\n<p>The post <a href=\"https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/\">Building the Agent Host Protocol for sessions that continue across devices</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.\nThe post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog.",
+      "creator": "Connor Peet",
+      "summaries": {
+        "zh": "本文介绍了GitHub开源的Agent Host协议，该协议旨在实现跨设备会话的持续访问。该协议支持在编辑器、应用程序、手机和云端之间无缝切换，确保用户会话的连续性。该技术通过标准化设备间的数据传输和状态同步，提升了跨平台协作的便捷性。",
+        "en": "The Agent Host Protocol is an open standard designed to enable seamless continuation of agent sessions across various devices, including editors, apps, phones, and cloud platforms. The GitHub Blog highlights its development, emphasizing accessibility and interoperability. The protocol aims to unify session management, allowing users to maintain context regardless of the device or platform. This advancement enhances productivity by ensuring continuity in tasks and workflows. The post details the creation of this protocol, focusing on its cross-device compatibility and open-source nature."
+      },
+      "summary": "本文介绍了GitHub开源的Agent Host协议，该协议旨在实现跨设备会话的持续访问。该协议支持在编辑器、应用程序、手机和云端之间无缝切换，确保用户会话的连续性。该技术通过标准化设备间的数据传输和状态同步，提升了跨平台协作的便捷性。"
+    },
+    {
+      "title": "GitHub availability report: October 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "pubDate": "Fri, 13 Nov 2026 00:20:16 +0000",
+      "isoDate": "2026-11-13T00:20:16.000Z",
+      "content": "<p>In October, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-october-2026/\">GitHub availability report: October 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summaries": {
+        "zh": "2026年10月GitHub可用性报告显示，该月发生八起事件，导致GitHub服务性能下降。",
+        "en": "GitHub's October 2026 availability report highlights eight incidents that caused degraded performance across its services. The report, published on The GitHub Blog, details the service disruptions experienced during the month."
+      },
+      "summary": "2026年10月GitHub可用性报告显示，该月发生八起事件，导致GitHub服务性能下降。"
+    },
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "pubDate": "Thu, 12 Nov 2026 22:54:52 +0000",
+      "isoDate": "2026-11-12T22:54:52.000Z",
+      "content": "<p>Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/\">Build once, run on any agent: A practical guide to agent skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.\nThe post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "文章《一次性构建，在任何代理上运行：代理技能实用指南》介绍了代理技能的概念。代理技能将可重复的工程工作捕获到文件中，供团队审查和重用，而工具、项目上下文和权限则保持特定于运行它们的宿主。这一方法提高了工程效率并促进了团队协作。",
+        "en": "Agent skills enable reusable engineering tasks in files, which teams can review and reuse across different agents. These files maintain tool, project context, and permissions specific to the host agent. The guide emphasizes building once and running on any agent, streamlining workflows while ensuring flexibility. The article is from The GitHub Blog."
+      },
+      "summary": "文章《一次性构建，在任何代理上运行：代理技能实用指南》介绍了代理技能的概念。代理技能将可重复的工程工作捕获到文件中，供团队审查和重用，而工具、项目上下文和权限则保持特定于运行它们的宿主。这一方法提高了工程效率并促进了团队协作。"
+    },
+    {
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-10T18:00:00.000Z",
+      "content": "<p>Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/\">Git security vulnerabilities announced</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know.\nThe post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+      "creator": "Elijah Newren",
+      "summaries": {
+        "zh": "Git发布更新，修复了六个安全漏洞，影响递归克隆、引用处理、合并、二进制补丁和导入功能。用户需了解相关情况。",
+        "en": "Git has released updates to address six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. The updates aim to mitigate risks associated with these issues. Users are advised to apply the patches to ensure system security. The announcement was made on The GitHub Blog."
+      },
+      "summary": "Git发布更新，修复了六个安全漏洞，影响递归克隆、引用处理、合并、二进制补丁和导入功能。用户需了解相关情况。"
+    },
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "pubDate": "Fri, 06 Nov 2026 22:15:59 +0000",
+      "isoDate": "2026-11-06T22:15:59.000Z",
+      "content": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog.",
+      "creator": "Nick Liffen",
+      "summaries": {
+        "zh": "文章《超越代码生成：开发者指南：智能工程》介绍了如何使用GitHub Copilot进行计划、编写代码、审查变更和调查生产问题。尽管代码生成速度加快，但相关工作仍需开发者判断。文章探讨了智能工程如何提升开发效率，并指出当前仍需人工干预的部分。",
+        "en": "The article \"Beyond code generation: A developer’s guide to agentic engineering\" discusses how tools like GitHub Copilot can accelerate coding tasks but still require developer oversight for planning, reviewing changes, and addressing production issues. It highlights the need for human judgment in the engineering process despite advancements in code generation. The piece appears on The GitHub Blog."
+      },
+      "summary": "文章《超越代码生成：开发者指南：智能工程》介绍了如何使用GitHub Copilot进行计划、编写代码、审查变更和调查生产问题。尽管代码生成速度加快，但相关工作仍需开发者判断。文章探讨了智能工程如何提升开发效率，并指出当前仍需人工干预的部分。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:27:34.799Z"
+}

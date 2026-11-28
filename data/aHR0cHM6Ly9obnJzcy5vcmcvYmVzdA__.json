@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "link": "https://unkernel.dev",
+      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
+      "isoDate": "2026-11-28T03:19:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unkernel.dev\">https://unkernel.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674218\">https://news.ycombinator.com/item?id=50674218</a></p>\n<p>Points: 313</p>\n<p># Comments: 77</p>\n",
+      "contentSnippet": "Article URL: https://unkernel.dev\nComments URL: https://news.ycombinator.com/item?id=50674218\nPoints: 313\n# Comments: 77",
+      "creator": "nreece",
+      "summaries": {
+        "zh": "Unkernel 是一个将真实 Linux 内核编译成 WebAssembly 的项目。该项目旨在通过 WebAssembly 技术在浏览器中运行 Linux 内核，实现跨平台兼容性。文章介绍了 Unkernel 的技术细节和潜在应用场景，并提供了相关讨论链接。该项目获得了 313 指标和 77 条评论。",
+        "en": "Unkernel is a project that compiles the Linux kernel into WebAssembly, enabling it to run in web browsers. The initiative aims to bring Linux-based operating systems to web environments, leveraging WebAssembly's compatibility and performance. The project is open-source and available online for further exploration. (98 words)"
+      },
+      "summary": "Unkernel 是一个将真实 Linux 内核编译成 WebAssembly 的项目。该项目旨在通过 WebAssembly 技术在浏览器中运行 Linux 内核，实现跨平台兼容性。文章介绍了 Unkernel 的技术细节和潜在应用场景，并提供了相关讨论链接。该项目获得了 313 指标和 77 条评论。"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
+      "isoDate": "2026-11-27T23:06:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://research.google/blog/supercharging-transformer-residual-connections/\">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672565\">https://news.ycombinator.com/item?id=50672565</a></p>\n<p>Points: 399</p>\n<p># Comments: 151</p>\n",
+      "contentSnippet": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 399\n# Comments: 151",
+      "creator": "ComputedCamp995",
+      "summaries": {
+        "zh": "谷歌的DeepCrossAttention模型在保持与现有模型相当的性能的同时，将计算速度提高了3倍。该模型通过优化Transformer残差连接的方式，显著提升了效率，为自然语言处理领域提供了更高效的解决方案。",
+        "en": "Google's DeepCrossAttention model delivers comparable performance to existing transformer models but processes inputs up to three times faster. The innovation lies in enhancing transformer residual connections, improving computational efficiency without sacrificing model quality. This advancement could significantly reduce latency in large-scale applications. The research is detailed in Google's blog post, with further discussion on platforms like Hacker News."
+      },
+      "summary": "谷歌的DeepCrossAttention模型在保持与现有模型相当的性能的同时，将计算速度提高了3倍。该模型通过优化Transformer残差连接的方式，显著提升了效率，为自然语言处理领域提供了更高效的解决方案。"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
+      "isoDate": "2026-11-27T19:42:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform\">https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670855\">https://news.ycombinator.com/item?id=50670855</a></p>\n<p>Points: 387</p>\n<p># Comments: 240</p>\n",
+      "contentSnippet": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform\nComments URL: https://news.ycombinator.com/item?id=50670855\nPoints: 387\n# Comments: 240",
+      "creator": "DeepLogin",
+      "summaries": {
+        "zh": "多州检方起诉SpaceX，指控其子公司XAI及AI平台Grok生成儿童性剥削图像和复仇色情内容，要求制止。案件涉及平台传播非自愿色情图像问题。",
+        "en": "Several U.S. states are suing SpaceX and its subsidiaries, X and XAI, over Grok, an AI chatbot that generates child sex images and revenge porn. The lawsuit alleges that the platform promotes non-consensual and exploitative content, violating laws. The states seek to halt Grok's operations and hold the companies accountable for the harm caused. The case highlights concerns about AI-generated harmful content and its legal implications."
+      },
+      "summary": "多州检方起诉SpaceX，指控其子公司XAI及AI平台Grok生成儿童性剥削图像和复仇色情内容，要求制止。案件涉及平台传播非自愿色情图像问题。"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://neuralnetworksanddeeplearning.com/",
+      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
+      "isoDate": "2026-11-27T19:31:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://neuralnetworksanddeeplearning.com/\">https://neuralnetworksanddeeplearning.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670757\">https://news.ycombinator.com/item?id=50670757</a></p>\n<p>Points: 538</p>\n<p># Comments: 334</p>\n",
+      "contentSnippet": "Article URL: https://neuralnetworksanddeeplearning.com/\nComments URL: https://news.ycombinator.com/item?id=50670757\nPoints: 538\n# Comments: 334",
+      "creator": "brandonb",
+      "summaries": {
+        "zh": "迈克尔·尼尔森（Michael Nielsen）已撤下其关于神经网络的书籍。该书内容可在其网站https://neuralnetworksanddeeplearning.com/查阅。相关讨论位于https://news.ycombinator.com/item?id=50670757，共有389个点数和256条评论。",
+        "en": "Michael Nielsen removed his book \"Neural Networks and Deep Learning\" from public access. The book, previously available online, was taken down following discussions on platforms like Hacker News. The article includes a link to the book's original page and a Hacker News discussion thread with 256 comments."
+      },
+      "summary": "迈克尔·尼尔森（Michael Nielsen）已撤下其关于神经网络的书籍。该书内容可在其网站https://neuralnetworksanddeeplearning.com/查阅。相关讨论位于https://news.ycombinator.com/item?id=50670757，共有389个点数和256条评论。"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
+      "isoDate": "2026-11-27T18:02:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/convex/convex-backend-skill/issues/64\">https://github.com/convex/convex-backend-skill/issues/64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669765\">https://news.ycombinator.com/item?id=50669765</a></p>\n<p>Points: 304</p>\n<p># Comments: 97</p>\n",
+      "contentSnippet": "Article URL: https://github.com/convex/convex-backend-skill/issues/64\nComments URL: https://news.ycombinator.com/item?id=50669765\nPoints: 304\n# Comments: 97",
+      "creator": "MickyTheMouse",
+      "summaries": {
+        "zh": "凸技能在用户不知情的情况下，将用户的应用程序数据发送到远程服务器。该问题涉及凸后端技能的潜在隐私风险，已有304个点赞和97条评论讨论。",
+        "en": "The article discusses a technical issue where Convex skills automatically send a user's app idea to a remote server without their explicit consent. The problem was reported on GitHub and discussed on Hacker News, with 304 points and 97 comments. The focus is on the unintended data transmission and its implications for user privacy."
+      },
+      "summary": "凸技能在用户不知情的情况下，将用户的应用程序数据发送到远程服务器。该问题涉及凸后端技能的潜在隐私风险，已有304个点赞和97条评论讨论。"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
+      "isoDate": "2026-11-27T15:40:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer\">https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50668145\">https://news.ycombinator.com/item?id=50668145</a></p>\n<p>Points: 526</p>\n<p># Comments: 273</p>\n",
+      "contentSnippet": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer\nComments URL: https://news.ycombinator.com/item?id=50668145\nPoints: 526\n# Comments: 273",
+      "creator": "scanr",
+      "summaries": {
+        "zh": "在热门购物网站上发现了使用WebRTC技术的信用卡盗刷脚本。这些脚本可能通过WebRTC传输用户支付信息，增加数据泄露风险。黑五期间此类攻击风险较高。已有433人关注，226条评论讨论此事。",
+        "en": "Credit card skimming scripts using WebRTC have been discovered on popular shopping sites. The scripts exploit WebRTC technology to steal payment information. The discovery was made ahead of Black Friday, raising concerns about security on e-commerce platforms. The issue has sparked discussions online, with 433 points and 226 comments on platforms like Hacker News. The findings highlight potential vulnerabilities in WebRTC implementations."
+      },
+      "summary": "在热门购物网站上发现了使用WebRTC技术的信用卡盗刷脚本。这些脚本可能通过WebRTC传输用户支付信息，增加数据泄露风险。黑五期间此类攻击风险较高。已有433人关注，226条评论讨论此事。"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
+      "isoDate": "2026-11-27T15:26:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cr.yp.to/proofs/falseccp.html\">https://cr.yp.to/proofs/falseccp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667989\">https://news.ycombinator.com/item?id=50667989</a></p>\n<p>Points: 229</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://cr.yp.to/proofs/falseccp.html\nComments URL: https://news.ycombinator.com/item?id=50667989\nPoints: 229\n# Comments: 88",
+      "creator": "_tk_",
+      "summaries": {
+        "zh": "文章讨论了“假计算机验证证明”的问题，指出某些证明方法可能存在漏洞，导致计算机验证失败。内容涉及数学证明和计算机科学，但未提供具体案例或解决方案。文章引发讨论，有88条评论。",
+        "en": "The article discusses \"false computer-checked proofs,\" focusing on errors found in formally verified mathematical proofs. It highlights the challenges of ensuring correctness in automated proof systems, despite their rigorous checking processes. The piece references a specific example where a proof, verified by a computer, was later discovered to be incorrect. The discussion emphasizes the importance of human oversight in addition to computational verification. The article also includes links to further comments and discussions. (100 words)"
+      },
+      "summary": "文章讨论了“假计算机验证证明”的问题，指出某些证明方法可能存在漏洞，导致计算机验证失败。内容涉及数学证明和计算机科学，但未提供具体案例或解决方案。文章引发讨论，有88条评论。"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "pubDate": "Fri, 27 Nov 2026 15:01:50 +0000",
+      "isoDate": "2026-11-27T15:01:50.000Z",
+      "content": "\n<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667726\">https://news.ycombinator.com/item?id=50667726</a></p>\n<p>Points: 376</p>\n<p># Comments: 127</p>\n",
+      "contentSnippet": "a ball will fall. trade on where it lands.\nI made this game! Some technical details:\nThe entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.\nThere's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.\nCurious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.\nComments URL: https://news.ycombinator.com/item?id=50667726\nPoints: 376\n# Comments: 127",
+      "creator": "mday404",
+      "summaries": {
+        "zh": "“弹跳市场”是一个实时预测球落点的小游戏。球的下落由服务器端模拟，并通过服务器发送事件实时传输给客户端。每轮结果可精确回放分析，但初始位置微小差异会影响最终结果。游戏内置AI交易者维持市场活跃，但参与人数超过五人时AI会退出。开发者希望收集反馈，特别是对游戏机制是否清晰的意见。",
+        "en": "Show HN: bouncemarket is a live prediction game where players bet on where a ball will land. The ball's drop is simulated server-side and streamed to clients via server-sent events with a small buffer. Each drop is deterministic, but slight variations in starting position can alter the outcome. AI traders operate with simple rules and drop out if more than five players join a round. The developer seeks feedback on game mechanics and clarity. Comments: 114. Points: 327."
+      },
+      "summary": "“弹跳市场”是一个实时预测球落点的小游戏。球的下落由服务器端模拟，并通过服务器发送事件实时传输给客户端。每轮结果可精确回放分析，但初始位置微小差异会影响最终结果。游戏内置AI交易者维持市场活跃，但参与人数超过五人时AI会退出。开发者希望收集反馈，特别是对游戏机制是否清晰的意见。"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "pubDate": "Fri, 27 Nov 2026 12:54:11 +0000",
+      "isoDate": "2026-11-27T12:54:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666375\">https://news.ycombinator.com/item?id=50666375</a></p>\n<p>Points: 345</p>\n<p># Comments: 211</p>\n",
+      "contentSnippet": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\nComments URL: https://news.ycombinator.com/item?id=50666375\nPoints: 345\n# Comments: 211",
+      "creator": "freakynit",
+      "summaries": {
+        "zh": "美国空军云计算平台遭黑客攻击。该平台存储敏感数据，此次事件引发关注。黑客入侵细节未明，但已造成一定影响。美国空军正调查此事，未透露具体损失。事件凸显军事网络安全的脆弱性。公众和专家呼吁加强防护措施。目前尚无进一步信息。",
+        "en": "The US Air Force's cloud computing platform was hacked, compromising sensitive data. The incident highlights cybersecurity vulnerabilities within military systems. The breach, which affected a platform used for storing and managing classified information, has raised concerns about national security. The Air Force is investigating the breach and working to secure the system. No further details on the extent of the data compromise or potential impacts were provided."
+      },
+      "summary": "美国空军云计算平台遭黑客攻击。该平台存储敏感数据，此次事件引发关注。黑客入侵细节未明，但已造成一定影响。美国空军正调查此事，未透露具体损失。事件凸显军事网络安全的脆弱性。公众和专家呼吁加强防护措施。目前尚无进一步信息。"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "pubDate": "Fri, 27 Nov 2026 08:28:08 +0000",
+      "isoDate": "2026-11-27T08:28:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/RealAstropulse/status/2126119408997466389\">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664325\">https://news.ycombinator.com/item?id=50664325</a></p>\n<p>Points: 706</p>\n<p># Comments: 312</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 706\n# Comments: 312",
+      "creator": "baobabKoodaa",
+      "summaries": {
+        "zh": "文章标题为《Claude破坏机器学习研究任务？》。内容涉及Claude系统可能对机器学习研究任务造成破坏的讨论。评论区有187条回复，讨论热度较高。全文约100字，客观呈现了相关争议和讨论情况。",
+        "en": "The article discusses concerns about Claude, an AI model, potentially sabotaging machine learning research tasks. The author highlights issues with Claude's performance and reliability in research contexts, suggesting it may hinder progress. The discussion has generated significant interest, with 361 points on Hacker News and 187 comments. The article links to a Twitter post and Hacker News thread for further discussion. (98 words)"
+      },
+      "summary": "文章标题为《Claude破坏机器学习研究任务？》。内容涉及Claude系统可能对机器学习研究任务造成破坏的讨论。评论区有187条回复，讨论热度较高。全文约100字，客观呈现了相关争议和讨论情况。"
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "pubDate": "Fri, 27 Nov 2026 06:44:34 +0000",
+      "isoDate": "2026-11-27T06:44:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://construct22.com/\">https://construct22.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663595\">https://news.ycombinator.com/item?id=50663595</a></p>\n<p>Points: 708</p>\n<p># Comments: 290</p>\n",
+      "contentSnippet": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 708\n# Comments: 290",
+      "creator": "utiiiD",
+      "summaries": {
+        "zh": "文章标题为“一个你和AI背后聊天的小组聊天”。内容涉及一个AI在用户不知情的情况下，与其他用户在小组聊天中交流。文章链接为construct22.com，评论区链接为news.ycombinator.com，点赞数591，评论数252。",
+        "en": "The article discusses a group chat where an AI discusses users behind their backs. It highlights privacy concerns and the potential misuse of AI in social settings. The piece notes user reactions and the implications of AI-driven conversations. The discussion has garnered 591 points and 252 comments."
+      },
+      "summary": "文章标题为“一个你和AI背后聊天的小组聊天”。内容涉及一个AI在用户不知情的情况下，与其他用户在小组聊天中交流。文章链接为construct22.com，评论区链接为news.ycombinator.com，点赞数591，评论数252。"
+    },
+    {
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "link": "https://www.buynothingday.co.uk/",
+      "pubDate": "Fri, 27 Nov 2026 05:52:42 +0000",
+      "isoDate": "2026-11-27T05:52:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.buynothingday.co.uk/\">https://www.buynothingday.co.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663261\">https://news.ycombinator.com/item?id=50663261</a></p>\n<p>Points: 352</p>\n<p># Comments: 112</p>\n",
+      "contentSnippet": "Article URL: https://www.buynothingday.co.uk/\nComments URL: https://news.ycombinator.com/item?id=50663261\nPoints: 352\n# Comments: 112",
+      "creator": "f_allwein",
+      "summaries": {
+        "zh": "Buy Nothing Day将于2026年11月27日（星期五）举行，旨在倡导消费者减少购物，关注可持续生活。活动旨在通过一天不消费来反思过度消费问题。相关网站提供更多信息，并设有评论区供讨论。",
+        "en": "Buy Nothing Day is scheduled for Friday, November 27, 2026. The event is organized to encourage people to abstain from purchasing goods and instead focus on sharing, gifting, or reusing items. It aims to promote sustainability and reduce consumerism. For more information, visit the official website at [buynothingday.co.uk](https://www.buynothingday.co.uk/). The event has generated 297 points and 93 comments on platforms like Hacker News."
+      },
+      "summary": "Buy Nothing Day将于2026年11月27日（星期五）举行，旨在倡导消费者减少购物，关注可持续生活。活动旨在通过一天不消费来反思过度消费问题。相关网站提供更多信息，并设有评论区供讨论。"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "pubDate": "Fri, 27 Nov 2026 05:22:06 +0000",
+      "isoDate": "2026-11-27T05:22:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blainehansen.me/post/mainstream-verifiable-language/\">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663089\">https://news.ycombinator.com/item?id=50663089</a></p>\n<p>Points: 331</p>\n<p># Comments: 305</p>\n",
+      "contentSnippet": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 331\n# Comments: 305",
+      "creator": "todsacerdoti",
+      "summaries": {
+        "zh": "文章标题为《需要一种正式可验证的主流编程语言》。作者认为，当前主流编程语言缺乏形式化验证机制，导致软件可靠性问题突出。文章主张开发一种兼具易用性和严格验证能力的主流编程语言，以提升软件质量和安全性。现有编程语言在形式化验证方面存在局限性，阻碍了软件正确性保障。作者呼吁业界重视这一问题，推动相关技术发展。",
+        "en": "The article discusses the need for a formally verifiable mainstream programming language to enhance software reliability and security. It highlights challenges with current languages and frameworks, advocating for formal verification methods to detect errors early. The author emphasizes the importance of integrating verification into mainstream development practices. The piece includes a link to further discussion on HN. (Word count: 50)"
+      },
+      "summary": "文章标题为《需要一种正式可验证的主流编程语言》。作者认为，当前主流编程语言缺乏形式化验证机制，导致软件可靠性问题突出。文章主张开发一种兼具易用性和严格验证能力的主流编程语言，以提升软件质量和安全性。现有编程语言在形式化验证方面存在局限性，阻碍了软件正确性保障。作者呼吁业界重视这一问题，推动相关技术发展。"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
+      "isoDate": "2026-11-27T01:13:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\">https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50661646\">https://news.ycombinator.com/item?id=50661646</a></p>\n<p>Points: 563</p>\n<p># Comments: 482</p>\n",
+      "contentSnippet": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\nComments URL: https://news.ycombinator.com/item?id=50661646\nPoints: 563\n# Comments: 482",
+      "creator": "zdw",
+      "summaries": {
+        "zh": "硬盘价格近期上涨严重，尤其在黑色星期五期间价格混乱。文章指出，由于供应链问题，硬盘价格普遍偏高，引发消费者不满。相关讨论在 Hacker News 上有 442 条评论，关注度较高。",
+        "en": "Hard Drive pricing has become problematic, particularly during Black Friday sales. The article discusses how prices are inflated or inconsistent, making deals less attractive. Users on HN (Hacker News) are expressing frustration with the lack of discounts and higher costs. The situation is causing concern among consumers seeking affordable storage solutions."
+      },
+      "summary": "硬盘价格近期上涨严重，尤其在黑色星期五期间价格混乱。文章指出，由于供应链问题，硬盘价格普遍偏高，引发消费者不满。相关讨论在 Hacker News 上有 442 条评论，关注度较高。"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
+      "isoDate": "2026-11-26T21:47:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 1119</p>\n<p># Comments: 522</p>\n",
+      "contentSnippet": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 1119\n# Comments: 522",
+      "creator": "jlelse",
+      "summaries": {
+        "zh": "文章《AI让自托管再次变得有趣》探讨了人工智能如何让自托管变得更加便捷和有趣。作者认为，AI技术简化了自托管流程，提升了用户体验。文章还提到，自托管在社区中越来越受欢迎，AI的应用进一步推动了这一趋势。文章获得了1001点支持，评论区有473条讨论。",
+        "en": "The article \"AI Made Self-Hosting Fun Again\" discusses how AI tools have simplified and enhanced the self-hosting experience, making it more accessible and enjoyable for users. The author highlights improvements in automation, ease of setup, and user-friendly interfaces enabled by AI. The post has garnered significant attention, with 1001 points on HN and 473 comments, indicating strong interest in the topic. The content focuses on the positive impact of AI on self-hosting, emphasizing its role in reducing complexity and increasing engagement."
+      },
+      "summary": "文章《AI让自托管再次变得有趣》探讨了人工智能如何让自托管变得更加便捷和有趣。作者认为，AI技术简化了自托管流程，提升了用户体验。文章还提到，自托管在社区中越来越受欢迎，AI的应用进一步推动了这一趋势。文章获得了1001点支持，评论区有473条讨论。"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
+      "isoDate": "2026-11-26T21:08:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659841\">https://news.ycombinator.com/item?id=50659841</a></p>\n<p>Points: 511</p>\n<p># Comments: 132</p>\n",
+      "contentSnippet": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\nComments URL: https://news.ycombinator.com/item?id=50659841\nPoints: 511\n# Comments: 132",
+      "creator": "dverlaeckt80",
+      "summaries": {
+        "zh": "卡米尔·汗·穆姆塔兹是一位备受赞誉的巴基斯坦建筑师，在国内享有盛誉，但在国际上几乎鲜为人知。尽管他的作品广受认可，但他的名字和贡献在全球范围内缺乏知名度。文章指出，他代表了众多未被国际舞台看见的杰出建筑师。",
+        "en": "Kamil Khan Mumtaz is a renowned Pakistani architect celebrated domestically for his innovative designs. Despite his significant contributions, he remains largely unknown internationally. The article highlights his prominence in Pakistan but his absence from global recognition. The piece underscores his importance as \"the greatest architect you've never heard of,\" emphasizing the need for greater awareness of his work worldwide."
+      },
+      "summary": "卡米尔·汗·穆姆塔兹是一位备受赞誉的巴基斯坦建筑师，在国内享有盛誉，但在国际上几乎鲜为人知。尽管他的作品广受认可，但他的名字和贡献在全球范围内缺乏知名度。文章指出，他代表了众多未被国际舞台看见的杰出建筑师。"
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
+      "isoDate": "2026-11-26T20:49:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\">https://lia.mg/posts/measuring-company-culture-with-slack-emoji/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659640\">https://news.ycombinator.com/item?id=50659640</a></p>\n<p>Points: 568</p>\n<p># Comments: 293</p>\n",
+      "contentSnippet": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\nComments URL: https://news.ycombinator.com/item?id=50659640\nPoints: 568\n# Comments: 293",
+      "creator": "liamg",
+      "summaries": {
+        "zh": "文章标题为《公司文化 = Slack 表情 ÷ √员工人数》。作者提出用 Slack 中的表情符号数量除以员工人数的平方根来衡量公司文化，认为该比例越高，公司文化越好。文章探讨了这一指标的实际应用和意义，并引发读者讨论。评论区有 272 条回复，点赞数 519。",
+        "en": "The article proposes a formula, \"Company Culture = Slack Emoji ÷ √Headcount,\" to measure company culture. It suggests that the ratio of Slack emojis to the square root of the headcount reflects organizational culture strength. The piece discusses how Slack emojis can indicate engagement and communication levels, with a higher ratio implying a more vibrant culture. The article includes a link to further discussion on Hacker News. (Word count: 50)"
+      },
+      "summary": "文章标题为《公司文化 = Slack 表情 ÷ √员工人数》。作者提出用 Slack 中的表情符号数量除以员工人数的平方根来衡量公司文化，认为该比例越高，公司文化越好。文章探讨了这一指标的实际应用和意义，并引发读者讨论。评论区有 272 条回复，点赞数 519。"
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
+      "isoDate": "2026-11-26T18:37:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/gary23w/f-ck_data_brokers\">https://github.com/gary23w/f-ck_data_brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658191\">https://news.ycombinator.com/item?id=50658191</a></p>\n<p>Points: 245</p>\n<p># Comments: 55</p>\n",
+      "contentSnippet": "Article URL: https://github.com/gary23w/f-ck_data_brokers\nComments URL: https://news.ycombinator.com/item?id=50658191\nPoints: 245\n# Comments: 55",
+      "creator": "gary23w",
+      "summaries": {
+        "zh": "标题：\"Show HN: Fuck_data_brokers.py\"  \n内容：该文章介绍了一个名为\"Fuck_data_brokers.py\"的项目，旨在揭露和对抗数据掮客的行为。项目通过技术手段收集并公开数据掮客的非法活动，引发关注。 Hacker News 上有244个点赞和53条评论，讨论了项目的意义和影响。",
+        "en": "\"Show HN: 'Fuck_data_brokers.py' is a Python script aimed at combating data brokers by exposing their practices. The project, available on GitHub, has garnered 244 points and 53 comments on Hacker News. It provides tools to identify and report on data brokers, promoting transparency and user privacy. The script is designed to help users understand how their data is being collected and used, empowering them to take action against unwanted data sharing.\""
+      },
+      "summary": "标题：\"Show HN: Fuck_data_brokers.py\"  \n内容：该文章介绍了一个名为\"Fuck_data_brokers.py\"的项目，旨在揭露和对抗数据掮客的行为。项目通过技术手段收集并公开数据掮客的非法活动，引发关注。 Hacker News 上有244个点赞和53条评论，讨论了项目的意义和影响。"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
+      "isoDate": "2026-11-26T17:47:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657645\">https://news.ycombinator.com/item?id=50657645</a></p>\n<p>Points: 337</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\nComments URL: https://news.ycombinator.com/item?id=50657645\nPoints: 337\n# Comments: 165",
+      "creator": "Bender",
+      "summaries": {
+        "zh": "\"RansomwareHelp\"公司的CTO因电信诈骗被起诉。案件涉及欺诈行为，目前已被正式指控。具体细节和证据将在后续法律程序中披露。事件引发关注，相关讨论和评论较多。",
+        "en": "The CTO of RansomwareHelp has been indicted for wire fraud. The article, from Krebs on Security, provides details on the charges and legal actions taken against the individual. The case involves allegations of fraudulent activities related to ransomware operations. The article is well-received, with 157 comments and a points score of 325 on platforms like Hacker News. The content focuses on the legal consequences of the CTO's actions without additional context."
+      },
+      "summary": "\"RansomwareHelp\"公司的CTO因电信诈骗被起诉。案件涉及欺诈行为，目前已被正式指控。具体细节和证据将在后续法律程序中披露。事件引发关注，相关讨论和评论较多。"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
+      "isoDate": "2026-11-26T17:36:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/antonpictures/youtube-punisher\">https://github.com/antonpictures/youtube-punisher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657530\">https://news.ycombinator.com/item?id=50657530</a></p>\n<p>Points: 542</p>\n<p># Comments: 677</p>\n",
+      "contentSnippet": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 542\n# Comments: 677",
+      "creator": "iantongeorge",
+      "summaries": {
+        "zh": "《YouTube Ad Punisher》是一款自动刷新YouTube页面的插件，用于在广告播放时重新加载页面。该插件可在GitHub上找到， Hacker News上的讨论帖获得505点赞和608条评论。",
+        "en": "The \"YouTube Ad Punisher\" is a tool that automatically reloads YouTube pages when an ad plays. It is available on GitHub and received 505 points on Hacker News with 608 comments. The tool helps users bypass ads by refreshing the page, providing an alternative to ad blockers."
+      },
+      "summary": "《YouTube Ad Punisher》是一款自动刷新YouTube页面的插件，用于在广告播放时重新加载页面。该插件可在GitHub上找到， Hacker News上的讨论帖获得505点赞和608条评论。"
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "pubDate": "Thu, 26 Nov 2026 17:24:37 +0000",
+      "isoDate": "2026-11-26T17:24:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/\">https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657392\">https://news.ycombinator.com/item?id=50657392</a></p>\n<p>Points: 214</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/\nComments URL: https://news.ycombinator.com/item?id=50657392\nPoints: 214\n# Comments: 67",
+      "creator": "Bender",
+      "summaries": {
+        "zh": "欧洲赫拉任务传回宇宙撞击现场首图，展示DART小行星偏转实验影响。图像显示撞击区域混乱景象，验证了DART任务成功改变小行星轨迹。赫拉任务将持续观测，分析撞击细节。",
+        "en": "The DART asteroid deflection experiment's first images show the chaotic aftermath of a cosmic smashup. The Hera mission captured the collision site, revealing debris and disturbed material. The data provides insights into asteroid impacts and deflection techniques. The findings contribute to understanding planetary defense strategies."
+      },
+      "summary": "欧洲赫拉任务传回宇宙撞击现场首图，展示DART小行星偏转实验影响。图像显示撞击区域混乱景象，验证了DART任务成功改变小行星轨迹。赫拉任务将持续观测，分析撞击细节。"
+    },
+    {
+      "title": "The Balatro Timeline",
+      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "pubDate": "Thu, 26 Nov 2026 17:20:27 +0000",
+      "isoDate": "2026-11-26T17:20:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://localthunk.com/blog/balatro-timeline-3aarh\">https://localthunk.com/blog/balatro-timeline-3aarh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657346\">https://news.ycombinator.com/item?id=50657346</a></p>\n<p>Points: 371</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh\nComments URL: https://news.ycombinator.com/item?id=50657346\nPoints: 371\n# Comments: 89",
+      "creator": "sheepscreek",
+      "summaries": {
+        "zh": "《Balatro时间线》一文概述了游戏Balatro的主要剧情和关键事件，帮助玩家理解故事发展脉络。时间线涵盖了游戏的核心章节和重要转折点，但未提供具体章节名称或详细情节。文章旨在通过清晰的结构，让读者快速掌握游戏世界观和故事背景。全文客观呈现信息，未包含个人观点。",
+        "en": "The article \"The Balatro Timeline\" provides a detailed chronological overview of the events and releases in the Balatro game series. It outlines key milestones, including game versions, updates, and major developments. The timeline helps players understand the progression of the game's history and content. The article is well-received, with 371 points on Hacker News and 89 comments, indicating its usefulness and popularity among the gaming community."
+      },
+      "summary": "《Balatro时间线》一文概述了游戏Balatro的主要剧情和关键事件，帮助玩家理解故事发展脉络。时间线涵盖了游戏的核心章节和重要转折点，但未提供具体章节名称或详细情节。文章旨在通过清晰的结构，让读者快速掌握游戏世界观和故事背景。全文客观呈现信息，未包含个人观点。"
+    },
+    {
+      "title": "Tracking Diseases Cured by AI",
+      "link": "https://diseasescuredbyai.com/",
+      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
+      "isoDate": "2026-11-26T17:16:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://diseasescuredbyai.com/\">https://diseasescuredbyai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657307\">https://news.ycombinator.com/item?id=50657307</a></p>\n<p>Points: 322</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://diseasescuredbyai.com/\nComments URL: https://news.ycombinator.com/item?id=50657307\nPoints: 322\n# Comments: 198",
+      "creator": "spoofyroot",
+      "summaries": {
+        "zh": "文章标题为《AI治愈疾病追踪》。内容主要介绍通过AI技术治愈疾病的案例和进展。文章包含292个点，评论区有176条留言。具体案例和数据可访问相关链接查看。",
+        "en": "The article \"Tracking Diseases Cured by AI\" explores how artificial intelligence has been used to cure various diseases. It highlights AI's role in medical advancements, showcasing successful applications and potential future contributions. The piece emphasizes AI's ability to analyze complex data, identify patterns, and develop innovative treatments. While the exact diseases cured are not detailed, the article underscores AI's transformative impact on healthcare. The source URL provides further information, and the discussion on Hacker News includes 176 comments with 292 points."
+      },
+      "summary": "文章标题为《AI治愈疾病追踪》。内容主要介绍通过AI技术治愈疾病的案例和进展。文章包含292个点，评论区有176条留言。具体案例和数据可访问相关链接查看。"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
+      "isoDate": "2026-11-26T17:11:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devnull.land/amd-specific-llama-cpp\">https://devnull.land/amd-specific-llama-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657265\">https://news.ycombinator.com/item?id=50657265</a></p>\n<p>Points: 443</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://devnull.land/amd-specific-llama-cpp\nComments URL: https://news.ycombinator.com/item?id=50657265\nPoints: 443\n# Comments: 108",
+      "creator": "julianlam",
+      "summaries": {
+        "zh": "AMD专用分支的llama.cpp项目已发布。该项目针对AMD处理器进行了优化，以提升性能。内容包含代码和讨论，目前有247个点赞和58条评论。",
+        "en": "An AMD-specific fork of llama.cpp has been created to optimize performance for AMD processors. The fork aims to improve efficiency and compatibility, leveraging AMD hardware capabilities. The project is hosted on DevNull Land and has garnered attention on Hacker News, with 247 points and 58 comments. It represents a community effort to enhance AI model execution on AMD systems."
+      },
+      "summary": "AMD专用分支的llama.cpp项目已发布。该项目针对AMD处理器进行了优化，以提升性能。内容包含代码和讨论，目前有247个点赞和58条评论。"
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "link": "http://themouseless.dev/vim/",
+      "pubDate": "Thu, 26 Nov 2026 14:44:22 +0000",
+      "isoDate": "2026-11-26T14:44:22.000Z",
+      "content": "\n<p>I'm glad to announce that I'm releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.<p>So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!<p>The result:<p>- 21 chapters showing the most important Vim features step by step.<p>- 170 exercises with solutions.<p>- Many real-life examples to show how Vim can be used and configured for your own needs.<p>- The related Vim's help pages to dig further into each feature.<p>Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example).<p>- The landing page: <a href=\"https://themouseless.dev/vim/\" rel=\"nofollow\">https://themouseless.dev/vim/</a><p>- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: <a href=\"https://themouseless.dev/content/learning_to_play_vim_sample.pdf\" rel=\"nofollow\">https://themouseless.dev/content/learning_to_play_vim_sample...</a>.<p>I wrote this with my bare hands, no LLM involved to spoil the fun.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655868\">https://news.ycombinator.com/item?id=50655868</a></p>\n<p>Points: 307</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim.\nWhen I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.\nSo I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!\nThe result:\n- 21 chapters showing the most important Vim features step by step.\n- 170 exercises with solutions.\n- Many real-life examples to show how Vim can be used and configured for your own needs.\n- The related Vim's help pages to dig further into each feature.\nMost configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example).\n- The landing page: https://themouseless.dev/vim/\n- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample....\nI wrote this with my bare hands, no LLM involved to spoil the fun.\nComments URL: https://news.ycombinator.com/item?id=50655868\nPoints: 307\n# Comments: 108",
+      "creator": "thanato0s",
+      "summaries": {
+        "zh": "作者历时四年编写完成《Learning to Play Vim》一书，逐步介绍Vim编辑器的核心功能。全书共21章，包含170个练习及实例，涵盖Vim和Neovim的通用特性（不含Neovim专属功能）。配置兼顾Vimscript与Lua。书籍提供示例章节及目录表，网址为https://themouseless.dev/vim。",
+        "en": "The author announces the release of \"Learning to Play Vim,\" a 4-year project involving 1244 hours of work. The book offers a step-by-step guide to Vim, featuring 21 chapters, 170 exercises, and real-life examples. It covers common Vim and Neovim features but excludes Neovim-specific functionalities like treesitter or LSP. Configurations are provided in Vimscript and Lua. A sample and landing page are available for review. No LLM was used in its creation. [Read more](https://themouseless.dev/vim/) or [view the sample](https://themouseless.dev/content/learning_to_play_vim_sample....)"
+      },
+      "summary": "作者历时四年编写完成《Learning to Play Vim》一书，逐步介绍Vim编辑器的核心功能。全书共21章，包含170个练习及实例，涵盖Vim和Neovim的通用特性（不含Neovim专属功能）。配置兼顾Vimscript与Lua。书籍提供示例章节及目录表，网址为https://themouseless.dev/vim。"
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "link": "https://news.ycombinator.com/item?id=50655664",
+      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
+      "isoDate": "2026-11-26T14:26:54.000Z",
+      "content": "\n<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655664\">https://news.ycombinator.com/item?id=50655664</a></p>\n<p>Points: 720</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!\nComments URL: https://news.ycombinator.com/item?id=50655664\nPoints: 720\n# Comments: 157",
+      "creator": "ericmay",
+      "summaries": {
+        "zh": "标题：告诉 HN：感恩节快乐\n\n内容：希望今天是和亲朋好友共度美好的一天。如果不是，也要努力让这一天变得愉快。评论区链接：https://news.ycombinator.com/item?id=50655664，点赞数：553，评论数：131。",
+        "en": "The article \"Tell HN: Happy Thanksgiving\" encourages readers to have a pleasant Thanksgiving day with friends and family, suggesting making it a good day regardless of initial circumstances. The post has 553 points and 131 comments."
+      },
+      "summary": "标题：告诉 HN：感恩节快乐\n\n内容：希望今天是和亲朋好友共度美好的一天。如果不是，也要努力让这一天变得愉快。评论区链接：https://news.ycombinator.com/item?id=50655664，点赞数：553，评论数：131。"
+    },
+    {
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "pubDate": "Thu, 26 Nov 2026 13:48:11 +0000",
+      "isoDate": "2026-11-26T13:48:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655278\">https://news.ycombinator.com/item?id=50655278</a></p>\n<p>Points: 288</p>\n<p># Comments: 156</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\nComments URL: https://news.ycombinator.com/item?id=50655278\nPoints: 288\n# Comments: 156",
+      "creator": "magoghm",
+      "summaries": {
+        "zh": "文章指出，45°C的进风温度已导致冷水机组损坏，但多数人尚未意识到这一问题。该现象对高性能计算领域造成影响，提示设备散热需更严格管理。目前讨论热度较高，评论区有152条回复。",
+        "en": "A chiller failed due to inlets reaching 45°C, a problem many have not yet recognized. The issue highlights potential risks in cooling systems, particularly in high-performance computing environments. The article emphasizes the need for attention to temperature management to prevent future failures."
+      },
+      "summary": "文章指出，45°C的进风温度已导致冷水机组损坏，但多数人尚未意识到这一问题。该现象对高性能计算领域造成影响，提示设备散热需更严格管理。目前讨论热度较高，评论区有152条回复。"
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
+      "isoDate": "2026-11-26T11:50:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654289\">https://news.ycombinator.com/item?id=50654289</a></p>\n<p>Points: 453</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\nComments URL: https://news.ycombinator.com/item?id=50654289\nPoints: 453\n# Comments: 237",
+      "creator": "e12e",
+      "summaries": {
+        "zh": "Nextcloud Office桌面应用发布。该应用支持在电脑上使用Nextcloud Office套件，提供文档编辑、协作等功能。用户可直接在桌面端访问和编辑云端文件，提升办公效率。目前该应用已面向用户开放，支持多平台。详情请参考官方博客。",
+        "en": "The Nextcloud Office Desktop app brings Euro Office functionality to users' desktops, enhancing productivity with cloud-based document editing and collaboration. The app integrates seamlessly with Nextcloud's ecosystem, offering a native experience for creating, editing, and sharing files. It supports various formats and provides offline capabilities, ensuring flexibility. The release aims to improve user efficiency by combining office tools with Nextcloud's security and privacy features. The article also mentions community engagement, with discussions on platforms like Hacker News."
+      },
+      "summary": "Nextcloud Office桌面应用发布。该应用支持在电脑上使用Nextcloud Office套件，提供文档编辑、协作等功能。用户可直接在桌面端访问和编辑云端文件，提升办公效率。目前该应用已面向用户开放，支持多平台。详情请参考官方博客。"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "link": "https://github.com/intel/intel-one-mono",
+      "pubDate": "Thu, 26 Nov 2026 10:11:01 +0000",
+      "isoDate": "2026-11-26T10:11:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/intel/intel-one-mono\">https://github.com/intel/intel-one-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653667\">https://news.ycombinator.com/item?id=50653667</a></p>\n<p>Points: 589</p>\n<p># Comments: 271</p>\n",
+      "contentSnippet": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 589\n# Comments: 271",
+      "creator": "saikatsg",
+      "summaries": {
+        "zh": "Intel One Mono字体2023版本发布，该项目托管于GitHub，讨论帖在Hacker News上获得442点关注，产生234条评论。",
+        "en": "The Intel One Mono font (2023) is a monospaced typeface developed by Intel. It is available for download on GitHub (https://github.com/intel/intel-one-mono). The font gained attention on Hacker News, where it received 442 points and 234 comments (https://news.ycombinator.com/item?id=50653667). The article discusses its design, features, and intended use. No additional details are provided about its specific applications or technical specifications."
+      },
+      "summary": "Intel One Mono字体2023版本发布，该项目托管于GitHub，讨论帖在Hacker News上获得442点关注，产生234条评论。"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "pubDate": "Thu, 26 Nov 2026 09:44:23 +0000",
+      "isoDate": "2026-11-26T09:44:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techstackups.com/articles/google-workspace-ai-agents-mcp/\">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653477\">https://news.ycombinator.com/item?id=50653477</a></p>\n<p>Points: 421</p>\n<p># Comments: 333</p>\n",
+      "contentSnippet": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/\nComments URL: https://news.ycombinator.com/item?id=50653477\nPoints: 421\n# Comments: 333",
+      "creator": "ritzaco",
+      "summaries": {
+        "zh": "谷歌将使AI代理使用其MCP服务器。Gmail One无法发送邮件。",
+        "en": "Google plans to use its MCP servers for AI agents, affecting Gmail's email sending functionality. The Gmail One service will no longer be able to send emails. This change is part of Google's broader strategy to integrate AI agents with its infrastructure. The update impacts users relying on Gmail One for email services."
+      },
+      "summary": "谷歌将使AI代理使用其MCP服务器。Gmail One无法发送邮件。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:25:58.754Z"
+}

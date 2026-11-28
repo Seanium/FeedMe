@@ -1,0 +1,481 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "15 years of investing in Colombia’s talent and future",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+      "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-26T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_Doodle.max-600x600.format-webp.webp\">Google marks 15 years in Colombia with over $1M in Google.org funding for AI education, small businesses, rural youth, and disaster relief.",
+      "contentSnippet": "Google marks 15 years in Colombia with over $1M in Google.org funding for AI education, small businesses, rural youth, and disaster relief.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Edgardo Frias"
+        ],
+        "title": [
+          "Country Director, Andean Region"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌在哥伦比亚投资15周年，通过Google.org提供超过100万美元的资助，用于人工智能教育、中小企业发展、农村青年帮扶和灾害救援。",
+        "en": "Google has marked 15 years in Colombia by distributing over $1 million in funding from Google.org. The initiative supports AI education, small businesses, rural youth, and disaster relief efforts. The company highlights its long-term commitment to investing in Colombia's talent and future through these programs."
+      },
+      "summary": "谷歌在哥伦比亚投资15周年，通过Google.org提供超过100万美元的资助，用于人工智能教育、中小企业发展、农村青年帮扶和灾害救援。"
+    },
+    {
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "pubDate": "Tue, 24 Nov 2026 19:30:00 +0000",
+      "isoDate": "2026-11-24T19:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp\">Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "contentSnippet": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Oran Kelly"
+        ],
+        "title": [
+          "Research Scientist"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌推出人类首次考试，通过544个提示测试大语言模型的可靠性，并同步举办Kaggle黑客马拉松活动。此举旨在评估LLM在不同场景下的表现，推动技术发展。",
+        "en": "Google is launching Humanity's First Exam, a comprehensive assessment using 544 prompts to evaluate the reliability of large language models (LLMs). The initiative also includes a Kaggle hackathon to further test and improve LLM performance. The exam aims to measure how well AI systems understand and respond to diverse human scenarios. This project represents a significant step in assessing and advancing the capabilities of LLMs."
+      },
+      "summary": "谷歌推出人类首次考试，通过544个提示测试大语言模型的可靠性，并同步举办Kaggle黑客马拉松活动。此举旨在评估LLM在不同场景下的表现，推动技术发展。"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp\">Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "contentSnippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Gemini与金州勇士队合作，为其球迷体验和商业运营提供支持，涵盖勇士队、女巫队和 Chase Center。此次合作旨在提升组织效率，优化球迷互动。",
+        "en": "Google's Gemini partnership enhances Golden State Warriors' fan experiences and business operations across their teams and Chase Center. The collaboration aims to improve engagement and streamline processes."
+      },
+      "summary": "谷歌Gemini与金州勇士队合作，为其球迷体验和商业运营提供支持，涵盖勇士队、女巫队和 Chase Center。此次合作旨在提升组织效率，优化球迷互动。"
+    },
+    {
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "isoDate": "2026-11-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.max-600x600.format-webp.webp\">See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "contentSnippet": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章标题：《See what 5 builders are making with Gemini 4 Neon》  \n文章内容总结：介绍了五名开发者使用Gemini 4 Neon创建的项目，包括发光的3D地球、Three.js蝴蝶动画以及互动黑洞等创意作品。",
+        "en": "Five builders showcase projects using Gemini 4 Neon, including a glowing 3D Earth, Three.js butterflies, and an interactive black hole. The content highlights diverse creations made with the technology."
+      },
+      "summary": "文章标题：《See what 5 builders are making with Gemini 4 Neon》  \n文章内容总结：介绍了五名开发者使用Gemini 4 Neon创建的项目，包括发光的3D地球、Three.js蝴蝶动画以及互动黑洞等创意作品。"
+    },
+    {
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 +0000",
+      "isoDate": "2026-11-24T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp\">Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+      "contentSnippet": "Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prashant Paulose"
+        ],
+        "title": [
+          "Global Lead"
+        ],
+        "department": [
+          "Envisioning Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "印度独立电影制作人利用Google Flow创作原创短片。WIF印度电影节遴选了五部获奖作品，现已上线。",
+        "en": "Independent filmmakers in India utilize Google Flow to produce original short films. The WIF India Filmathon showcased five winning stories created with this tool. View the films to explore these big-screen narratives."
+      },
+      "summary": "印度独立电影制作人利用Google Flow创作原创短片。WIF印度电影节遴选了五部获奖作品，现已上线。"
+    },
+    {
+      "title": "We’re expanding our London home in King's Cross.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "pubDate": "Tue, 24 Nov 2026 08:00:00 +0000",
+      "isoDate": "2026-11-24T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp\">In 2016, we arrived in King’s Cross as founding residents of the Knowledge Quarter. Today, we’re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint…",
+      "contentSnippet": "In 2016, we arrived in King’s Cross as founding residents of the Knowledge Quarter. Today, we’re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kate Alessi"
+        ],
+        "title": [
+          "Vice President and Managing Director"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google UK & Ireland"
+        ]
+      },
+      "summaries": {
+        "zh": "我们将在伦敦国王十字区扩大总部规模，计划收购6 Pancras Square。此举旨在进一步发展位于知识区的业务。",
+        "en": "The company is expanding its London headquarters in King's Cross by purchasing 6 Pancras Square. This follows its founding presence in the Knowledge Quarter in 2016. The new acquisition will be adjacent to Central Saint."
+      },
+      "summary": "我们将在伦敦国王十字区扩大总部规模，计划收购6 Pancras Square。此举旨在进一步发展位于知识区的业务。"
+    },
+    {
+      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp\">See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "contentSnippet": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Molly McHugh-Johnson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章标题：《See what 6 builders are making with Gemini 4 Hydrogen》  \n内容摘要：介绍了六位创作者使用Gemini 4 Hydrogen制作的六个项目，包括雨天的科幻天空、像素化鲤鱼池和互动式飞蛾等。",
+        "en": "The article showcases six projects created using Gemini 4 Hydrogen. These include rainy sci-fi skies, pixelated koi ponds, and an interactive moth. The content highlights the versatility of the tool in generating diverse visual and interactive designs."
+      },
+      "summary": "文章标题：《See what 6 builders are making with Gemini 4 Hydrogen》  \n内容摘要：介绍了六位创作者使用Gemini 4 Hydrogen制作的六个项目，包括雨天的科幻天空、像素化鲤鱼池和互动式飞蛾等。"
+    },
+    {
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp\">Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "contentSnippet": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Gemini Canvas可提升效率，支持构建网页应用、定制学习工具，并实现文档协同编辑。用户可在聊天中尝试其功能。",
+        "en": "Google Gemini Canvas boosts productivity by enabling users to build web apps, create custom study tools, and refine writing side-by-side. It can be utilized in chats for enhanced functionality."
+      },
+      "summary": "谷歌Gemini Canvas可提升效率，支持构建网页应用、定制学习工具，并实现文档协同编辑。用户可在聊天中尝试其功能。"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp\">Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "contentSnippet": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Robby Stein"
+        ],
+        "title": [
+          "VP of Product, Google Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索将提供更个性化的结果。用户可通过安全连接Google钱包、云端硬盘和Gemini应用，将其与AI模式的个人智能整合，以获得更精准的搜索体验。",
+        "en": "Opt in to connect Google Wallet, Drive, and the Gemini app to AI Mode for a more tailored Google Search experience. This integration enhances search responses with personalized, secure data from your connected accounts."
+      },
+      "summary": "谷歌搜索将提供更个性化的结果。用户可通过安全连接Google钱包、云端硬盘和Gemini应用，将其与AI模式的个人智能整合，以获得更精准的搜索体验。"
+    },
+    {
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "link": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/video_6262_wagtailvideo-cdfg3q0i_thumb.jpg\">Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "contentSnippet": "Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌相册推出五项新更新，帮助用户整理和分享假日回忆。新增功能包括使用Gemini处理视频任务，以及按共享相册中的人员进行筛选。建议用户尽快尝试这些新功能。",
+        "en": "Google Photos introduces five updates to organize and share holiday memories. Users can leverage Gemini for video editing tasks and filter shared albums by specific people. These features enhance convenience and personalization for managing holiday photos."
+      },
+      "summary": "谷歌相册推出五项新更新，帮助用户整理和分享假日回忆。新增功能包括使用Gemini处理视频任务，以及按共享相册中的人员进行筛选。建议用户尽快尝试这些新功能。"
+    },
+    {
+      "title": "Introducing file slicing controls in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "pubDate": "Mon, 23 Nov 2026 16:12:00 +0000",
+      "isoDate": "2026-11-23T16:12:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Introducing-File-Slicing-Contro.max-600x600.format-webp.webp\">New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
+      "contentSnippet": "New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rohan Doshi"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini API新增文件切片控制功能，并原生支持Office文件。该功能允许代理在Google AI Studio和Vertex AI中检查特定文件切片，且只需为实际使用的切片付费。",
+        "en": "The Gemini API introduces file slicing controls and native Office file support, enabling agents to inspect specific slices of files in Google AI Studio and Vertex AI. This feature allows users to pay only for the processed data, optimizing cost efficiency."
+      },
+      "summary": "Gemini API新增文件切片控制功能，并原生支持Office文件。该功能允许代理在Google AI Studio和Vertex AI中检查特定文件切片，且只需为实际使用的切片付费。"
+    },
+    {
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-20T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp\">Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "contentSnippet": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出新连接应用，简化年终任务。用户可直接在搜索中管理杂货、信用评分和家居服务。详情请关注2026年11月。",
+        "en": "Google Connected Apps streamline year-end tasks by integrating grocery management, credit score tracking, and home service control into Search. Users can access these features directly for efficient organization. Details for November 2026 are available."
+      },
+      "summary": "谷歌推出新连接应用，简化年终任务。用户可直接在搜索中管理杂货、信用评分和家居服务。详情请关注2026年11月。"
+    },
+    {
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "pubDate": "Fri, 20 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-20T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp\">Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "contentSnippet": "Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Eve Andersson"
+        ],
+        "title": [
+          "Senior Director for Social Impact"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Watch Duty利用Gemini技术将嘈杂的火警无线电转为文本，能在30秒内识别出野火调度信息，从而加快警报发布速度。该系统能有效处理噪音干扰，提高信息提取效率，确保快速响应。",
+        "en": "Watch Duty employs Gemini to convert noisy fire radio broadcasts into text, enabling it to identify wildfire dispatches within 30 seconds. This technology accelerates alert dissemination, ensuring faster response times."
+      },
+      "summary": "Watch Duty利用Gemini技术将嘈杂的火警无线电转为文本，能在30秒内识别出野火调度信息，从而加快警报发布速度。该系统能有效处理噪音干扰，提高信息提取效率，确保快速响应。"
+    },
+    {
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "pubDate": "Thu, 19 Nov 2026 20:30:00 +0000",
+      "isoDate": "2026-11-19T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp\">Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "contentSnippet": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini支持导入其他AI应用的聊天记录和ZIP压缩文件中的AI摘要，以便用户无缝继续对话。具体操作详情请参考相关说明。",
+        "en": "You can transfer chat history from other AI apps into Gemini by importing ZIP files and AI summaries. This allows for seamless continuation of conversations. For more details, refer to the source."
+      },
+      "summary": "Gemini支持导入其他AI应用的聊天记录和ZIP压缩文件中的AI摘要，以便用户无缝继续对话。具体操作详情请参考相关说明。"
+    },
+    {
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "pubDate": "Thu, 19 Nov 2026 19:00:00 +0000",
+      "isoDate": "2026-11-19T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Quantum_Contextuality_Social_Sh.max-600x600.format-webp.webp\">Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "contentSnippet": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌量子AI研究证实，量子算法在规模上受益于量子力学的深层特征——上下文相关性。该研究展示了其量子处理器如何超越经典计算极限。具体细节请参阅相关报告。",
+        "en": "Google Quantum AI research demonstrates that contextuality enhances quantum algorithms at scale, surpassing classical limits. The study confirms the power of contextual effects in quantum computing, showcasing advancements in quantum processor performance."
+      },
+      "summary": "谷歌量子AI研究证实，量子算法在规模上受益于量子力学的深层特征——上下文相关性。该研究展示了其量子处理器如何超越经典计算极限。具体细节请参阅相关报告。"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "pubDate": "Thu, 19 Nov 2026 18:00:00 +0000",
+      "isoDate": "2026-11-19T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp\">Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "contentSnippet": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lucia Loher"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini API"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini API 新增工具检索功能，预览版支持代理访问数百种工具，同时减少 token 消耗。",
+        "en": "Tool Retrieval in the Gemini API allows agents to access hundreds of tools using fewer tokens, now available in preview. The feature enhances efficiency by reducing token consumption, enabling more tools to be utilized within the same resource limits."
+      },
+      "summary": "Gemini API 新增工具检索功能，预览版支持代理访问数百种工具，同时减少 token 消耗。"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\">Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "contentSnippet": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "creator": "",
+      "summaries": {
+        "zh": "瓦尔特·艾萨克森在谷歌探讨了历史上伟大创新者如何启发人工智能时代的创造力和人类判断力。他强调了好奇心在创新中的重要性，并分析了AI与人类智慧的协同关系。艾萨克森认为，历史中的创新者通过不断探索和质疑，推动了科技进步。他呼吁在AI时代保持好奇心，以激发创造力。",
+        "en": "Walter Isaacson discusses the role of curiosity and creativity in the AI era during his talk at Google. He explores how historical innovators can inspire creativity and human judgment alongside artificial intelligence. The event includes a video of the discussion."
+      },
+      "summary": "瓦尔特·艾萨克森在谷歌探讨了历史上伟大创新者如何启发人工智能时代的创造力和人类判断力。他强调了好奇心在创新中的重要性，并分析了AI与人类智慧的协同关系。艾萨克森认为，历史中的创新者通过不断探索和质疑，推动了科技进步。他呼吁在AI时代保持好奇心，以激发创造力。"
+    },
+    {
+      "title": "Small businesses, big results: How teams scale with AI",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp\">See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "contentSnippet": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yulie Kwon Kim"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product"
+        ],
+        "company": [
+          "Google Workspace"
+        ]
+      },
+      "summaries": {
+        "zh": "小型企业借助AI实现高效增长：四家公司使用谷歌工作空间与Gemini工具，简化工作流程，节省成本，实现自主发展。",
+        "en": "Four small businesses leverage Google Workspace with Gemini to reduce administrative tasks, save thousands, and scale efficiently. The AI-powered tools streamline workflows, enabling growth while maintaining control."
+      },
+      "summary": "小型企业借助AI实现高效增长：四家公司使用谷歌工作空间与Gemini工具，简化工作流程，节省成本，实现自主发展。"
+    },
+    {
+      "title": "Let Gemini tackle repetitive chores on your Mac",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp\">The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "contentSnippet": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Friedman"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini/macOS应用现已支持电脑使用功能，可协助用户处理重复性任务。",
+        "en": "The Gemini app for Mac now features computer use to assist with repetitive tasks."
+      },
+      "summary": "Gemini/macOS应用现已支持电脑使用功能，可协助用户处理重复性任务。"
+    },
+    {
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "isoDate": "2026-11-19T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp\">Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "contentSnippet": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过专家级A/B测试策略提升您的Google Ads表现。最新指南涵盖AI Max实验和智能出价。请收听。",
+        "en": "This guide offers expert A/B testing strategies to enhance Google Ads performance. It covers AI Max experiments and Smart Bidding, providing insights to optimize ad effectiveness. The resource is designed for listeners seeking actionable techniques to improve their campaigns."
+      },
+      "summary": "通过专家级A/B测试策略提升您的Google Ads表现。最新指南涵盖AI Max实验和智能出价。请收听。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:27:08.496Z"
+}

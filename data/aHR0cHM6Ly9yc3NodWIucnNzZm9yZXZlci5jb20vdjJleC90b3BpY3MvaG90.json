@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "Antigravity 被封号了",
+      "link": "https://www.v2ex.com/t/1260571",
+      "pubDate": "Sat, 28 Nov 2026 07:32:04 GMT",
+      "isoDate": "2026-11-28T07:32:04.000Z",
+      "content": "sift: <p>今天使用 Antigravity 的时候突然报<br>\nThis service has been disabled in this account for violation of Terms of Service. Please submit an appeal to continue using this product.</p>\n<p>顿时心里一紧，联想到有使用 magpie 接入其他 agent，赶紧关停并谷歌解决方案。提交了申诉表也在开发社区提交了申请，目前还没结果。有老哥遇到过这种情况吗？有没有出结果的？能够申诉回来吗？自用了好几年的主账号，刚入手了黑五年费套餐，还没怎么蹬就遇到封号，肉疼啊。。。</p>\n<p>ps：x 上有很多反映使用了 magpie 导致封号的，还没有反馈结果的，magpie 官方也在跟进。还以为 magpie 的机制应该比较稳，没想到谷歌对反代的封禁力度一点不逊色 Claude 对地区用户封禁的力度，目前就暂时别用 magpie 接 Antigravity 了。申诉不能加急，没有反馈，没有邮件通知，忐忑。。。</p>\n",
+      "contentSnippet": "sift: \n今天使用 Antigravity 的时候突然报\n顿时心里一紧，联想到有使用 magpie 接入其他 agent，赶紧关停并谷歌解决方案。提交了申诉表也在开发社区提交了申请，目前还没结果。有老哥遇到过这种情况吗？有没有出结果的？能够申诉回来吗？自用了好几年的主账号，刚入手了黑五年费套餐，还没怎么蹬就遇到封号，肉疼啊。。。\nps：x 上有很多反映使用了 magpie 导致封号的，还没有反馈结果的，magpie 官方也在跟进。还以为 magpie 的机制应该比较稳，没想到谷歌对反代的封禁力度一点不逊色 Claude 对地区用户封禁的力度，目前就暂时别用 magpie 接 Antigravity 了。申诉不能加急，没有反馈，没有邮件通知，忐忑。。。",
+      "creator": "sift",
+      "summaries": {
+        "zh": "用户在使用Antigravity服务时收到账号被封禁的通知，原因是违反服务条款。用户已提交申诉并寻求解决方案，但尚未收到结果。同时，用户发现使用magpie接入Antigravity也可能导致封号，并提醒其他用户谨慎使用。目前情况不明，用户在等待进一步通知。",
+        "en": "The user's Antigravity account was disabled for violating Terms of Service. They submitted an appeal and reported the issue in a development community but had no updates. The user noted that many others on X had similar issues with magpie causing account bans, and magpie's official team was investigating. The user decided to stop using magpie with Antigravity due to Google's strict stance, comparing it to Claude's regional user bans. The appeal process was slow, with no feedback or notifications."
+      },
+      "summary": "用户在使用Antigravity服务时收到账号被封禁的通知，原因是违反服务条款。用户已提交申诉并寻求解决方案，但尚未收到结果。同时，用户发现使用magpie接入Antigravity也可能导致封号，并提醒其他用户谨慎使用。目前情况不明，用户在等待进一步通知。"
+    },
+    {
+      "title": "作为一名普通程序员，好像看不到未来了",
+      "link": "https://www.v2ex.com/t/1260547",
+      "pubDate": "Sat, 28 Nov 2026 05:14:33 GMT",
+      "isoDate": "2026-11-28T05:14:33.000Z",
+      "content": "chihohung98: <p>转行过来的，在小公司蹲了 4 年。第一年通过自学 dotnet wpf 开发扎紧了上位机的岗位，然后 gpt 横空出世之后开发效率提高了很多，到现在直接 vibe coding 可以解决 99%的上位机问题。回想当年天天下班还要看教程学框架觉得自己像个原始人一样。但如今下位机（嵌入式）的同事在工作中定了通讯协议其实也可以 vibe 上位机出来，之前做过一点互联网后端的，看到隔壁组的现在都是 ai 全栈开发。好像找不到任何可以继续努力的方向了，如今公司业务也疲惫，客户拿不出钱和订单，转行也不知道还有什么机会。</p>\n",
+      "contentSnippet": "chihohung98: \n转行过来的，在小公司蹲了 4 年。第一年通过自学 dotnet wpf 开发扎紧了上位机的岗位，然后 gpt 横空出世之后开发效率提高了很多，到现在直接 vibe coding 可以解决 99%的上位机问题。回想当年天天下班还要看教程学框架觉得自己像个原始人一样。但如今下位机（嵌入式）的同事在工作中定了通讯协议其实也可以 vibe 上位机出来，之前做过一点互联网后端的，看到隔壁组的现在都是 ai 全栈开发。好像找不到任何可以继续努力的方向了，如今公司业务也疲惫，客户拿不出钱和订单，转行也不知道还有什么机会。",
+      "creator": "chihohung98",
+      "summaries": {
+        "zh": "普通程序员转行后在小公司工作四年，通过自学掌握上位机开发。GPT出现后开发效率大幅提升，但感觉职业方向受限。同事的嵌入式和AI全栈开发也让他迷茫，公司业务下滑，转行前景不明。",
+        "en": "The author, a programmer with four years of experience in a small company, initially secured an上位机 (HMI) position through self-taught .NET and WPF development. They now leverage GPT for efficient coding, solving 99% of HMI issues. However, they feel stuck as they observe colleagues using AI in embedded systems and nearby teams adopting AI full-stack development. The company faces business fatigue and lack of orders, leaving the author uncertain about future career prospects."
+      },
+      "summary": "普通程序员转行后在小公司工作四年，通过自学掌握上位机开发。GPT出现后开发效率大幅提升，但感觉职业方向受限。同事的嵌入式和AI全栈开发也让他迷茫，公司业务下滑，转行前景不明。"
+    },
+    {
+      "title": "译哥 Poly：Mac 本机把视频换成另一种语言，并用原片音色配音（v 站用户送 10 个买断码）",
+      "link": "https://www.v2ex.com/t/1260512",
+      "pubDate": "Sat, 28 Nov 2026 02:13:30 GMT",
+      "isoDate": "2026-11-28T02:13:30.000Z",
+      "content": "shisaq0: <p>我平时做视频，经常要把一条视频换成另一种语言：要么把中文视频发到海外，要么把生肉英文教程转成中文看。只翻字幕准确率堪忧，云端 AI 配音按分钟收费、声音还是那几个熟悉的「傲娇大姐孤独小帅」，自己手搓「扒词 → 翻译 → TTS → 对轨 → 压字幕」一条 5 分钟的片子能耗掉一下午。</p>\n<p>所以我用原生 Swift 写了个 macOS 应用：<strong>译哥 Poly</strong>。视频拖进去点开始，不到 1 分钟出成片：换了语言、保留原片音色，双语字幕一并压好（目前中 ↔ 英）。</p>\n<p>效果（47 秒中文口播 → 英文配音成片），官网首页能直接看视频：<a href=\"https://poly.uulili.com/\" rel=\"nofollow\">https://poly.uulili.com</a></p>\n<p><img alt=\"左边原片，右边译哥配好的英文版\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://poly.uulili.com/media/hero-poster.jpg\"></p>\n<h3>适合场景和人群</h3>\n<ul>\n<li>单人口播：适合你把中文视频一键做成海外版发布（反过来也行）</li>\n<li>软件录屏教程：让油管的高质量英文博主，开口说中文</li>\n<li>课程讲座翻译：产品教程可以用这种方式翻译成其他语言</li>\n<li>快速做双语字幕：为视频快速制作自己指定样式的双语字幕</li>\n</ul>\n<h3>核心功能和技术栈</h3>\n<p><img alt=\"主界面：拖进去，点开始\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://poly.uulili.com/img/main.jpg\"><br>\n识别和配音全部在 Apple Silicon 本机跑，视频不上传。</p>\n<ul>\n<li><strong>识别</strong>：SenseVoice（sherpa-onnx）+ Silero VAD；英文、日文用系统语音识别。</li>\n<li><strong>翻译</strong>：整句翻译，不按碎词断句。Apple Translation（免费、本机）/ Google / DeepSeek / 智谱等多种渠道，Key 安全存入钥匙串。走云端大模型时只发字幕文本，token 用量很低。</li>\n<li><strong>校对</strong>：可选的校对窗口（设置里决定要不要介入），原文、配音字幕、断行都能改；支持大模型一键润色；还有术语表，自定义处理人名、品牌名这类逢听必错的词。</li>\n<li><strong>配音</strong>：常规配音，或零样本克隆原片音色。内置 Qwen3-TTS 0.6B / 1.7B，<code>mlx-audio-swift</code> 跑在本机。不用录样本，自动从原片挑约 10 秒干净人声当参考。</li>\n<li><strong>对齐</strong>：配音保持自然语速，反过来只让说话那几段的画面变速（最多 1.5 倍），原片的气口和停顿原样保留。</li>\n<li><strong>合成导出</strong>：纯 AVFoundation，不依赖 ffmpeg，导出快到来不及看进度条。</li>\n</ul>\n<p>当然里面还有很多细节，有快速断行、修改后自动翻译、字幕样式等等，主要是用户体验的优化，尽量确保用户在不用学习的情况下就知道怎么使用。</p>\n<p><img alt=\"字幕样式可以自己调\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://poly.uulili.com/img/style.jpg\"></p>\n<h3>关键数据</h3>\n<ul>\n<li>硬件门槛：<strong>Apple 芯片 Mac，macOS 26 及以上，8 GB 内存起</strong>；</li>\n<li>47 秒口播，M5 Pro 全流程 39 秒；38 秒样片，M2 Max 约 31 秒；</li>\n<li>配音阶段内存峰值约 7 GB，8 GB 的 M1 MacBook Air 实测能跑完。</li>\n</ul>\n<h3>价格和送码</h3>\n<ul>\n<li>纯字幕功能永久免费；配音每个视频前 3 分钟免费导出（带水印）；</li>\n<li>买断版首发 <strong>¥69</strong>，之后 ¥129。一次买断，没有订阅。解锁不限时长配音、去水印、1.7B 高质量配音模型、批量排队。</li>\n</ul>\n<p>其实就相当于你请我吃顿便饭，我用 Poly 把你以后双语配音和字幕的事都包了。</p>\n<p><strong>回帖送码</strong>：回帖聊聊你最想拿它翻什么视频，或者直接拍砖提建议呦。12 月 4 日 前我从回复里挑 10 位送买断版激活码。</p>\n<p>官网：<a href=\"https://poly.uulili.com/\" rel=\"nofollow\">https://poly.uulili.com</a><br>\nBug 和建议：<a href=\"https://github.com/shisaq/Poly/issues\" rel=\"nofollow\">GitHub issue 链接</a></p>\n",
+      "contentSnippet": "shisaq0: \n我平时做视频，经常要把一条视频换成另一种语言：要么把中文视频发到海外，要么把生肉英文教程转成中文看。只翻字幕准确率堪忧，云端 AI 配音按分钟收费、声音还是那几个熟悉的「傲娇大姐孤独小帅」，自己手搓「扒词 → 翻译 → TTS → 对轨 → 压字幕」一条 5 分钟的片子能耗掉一下午。\n所以我用原生 Swift 写了个 macOS 应用：译哥 Poly。视频拖进去点开始，不到 1 分钟出成片：换了语言、保留原片音色，双语字幕一并压好（目前中 ↔ 英）。\n效果（47 秒中文口播 → 英文配音成片），官网首页能直接看视频：https://poly.uulili.com\n\n适合场景和人群\n单人口播：适合你把中文视频一键做成海外版发布（反过来也行）\n软件录屏教程：让油管的高质量英文博主，开口说中文\n课程讲座翻译：产品教程可以用这种方式翻译成其他语言\n快速做双语字幕：为视频快速制作自己指定样式的双语字幕\n核心功能和技术栈\n\n识别：SenseVoice（sherpa-onnx）+ Silero VAD；英文、日文用系统语音识别。\n翻译：整句翻译，不按碎词断句。Apple Translation（免费、本机）/ Google / DeepSeek / 智谱等多种渠道，Key 安全存入钥匙串。走云端大模型时只发字幕文本，token 用量很低。\n校对：可选的校对窗口（设置里决定要不要介入），原文、配音字幕、断行都能改；支持大模型一键润色；还有术语表，自定义处理人名、品牌名这类逢听必错的词。\n配音：常规配音，或零样本克隆原片音色。内置 Qwen3-TTS 0.6B / 1.7B，mlx-audio-swift 跑在本机。不用录样本，自动从原片挑约 10 秒干净人声当参考。\n对齐：配音保持自然语速，反过来只让说话那几段的画面变速（最多 1.5 倍），原片的气口和停顿原样保留。\n合成导出：纯 AVFoundation，不依赖 ffmpeg，导出快到来不及看进度条。\n当然里面还有很多细节，有快速断行、修改后自动翻译、字幕样式等等，主要是用户体验的优化，尽量确保用户在不用学习的情况下就知道怎么使用。\n\n关键数据\n硬件门槛：Apple 芯片 Mac，macOS 26 及以上，8 GB 内存起；\n47 秒口播，M5 Pro 全流程 39 秒；38 秒样片，M2 Max 约 31 秒；\n配音阶段内存峰值约 7 GB，8 GB 的 M1 MacBook Air 实测能跑完。\n价格和送码\n纯字幕功能永久免费；配音每个视频前 3 分钟免费导出（带水印）；\n买断版首发 ¥69，之后 ¥129。一次买断，没有订阅。解锁不限时长配音、去水印、1.7B 高质量配音模型、批量排队。\n其实就相当于你请我吃顿便饭，我用 Poly 把你以后双语配音和字幕的事都包了。\n回帖送码：回帖聊聊你最想拿它翻什么视频，或者直接拍砖提建议呦。12 月 4 日 前我从回复里挑 10 位送买断版激活码。\n官网：https://poly.uulili.com\nGitHub issue 链接",
+      "creator": "shisaq0",
+      "summaries": {
+        "zh": "《译哥 Poly》是一款 macOS 应用，可将视频语言一键转换，保留原片音色并生成双语字幕（中/英）。支持单人口播、软件教程、课程讲座等场景，核心功能包括语音识别、整句翻译、音色克隆及精准对齐。应用基于 Apple Silicon 本机运行，无需上传视频，支持多种翻译引擎和术语表。买断版售价 ¥69/¥129，含不限时长配音、去水印等权益。近期活动期间回帖互动可获激活码。",
+        "en": "**Summary:**  \n\n\"译哥 Poly\" is a macOS app for local video language conversion with original audio coloration. It offers fast, accurate translation (currently supports Chinese ↔ English) and TTS, preserving the original voice tone. Key features include Apple Silicon-native processing, offline operation, multiple translation options, and customizable subtitles. The app is ideal for creating localized videos, tutorials, and bilingual subtitles. A free version exists, with a paid license unlocking unlimited features. A contest offers 10 free licenses. Requirements include Apple Silicon Mac with macOS 10.26+, 8GB RAM."
+      },
+      "summary": "《译哥 Poly》是一款 macOS 应用，可将视频语言一键转换，保留原片音色并生成双语字幕（中/英）。支持单人口播、软件教程、课程讲座等场景，核心功能包括语音识别、整句翻译、音色克隆及精准对齐。应用基于 Apple Silicon 本机运行，无需上传视频，支持多种翻译引擎和术语表。买断版售价 ¥69/¥129，含不限时长配音、去水印等权益。近期活动期间回帖互动可获激活码。"
+    },
+    {
+      "title": "用闪极充电头充电导致 MacBook Pro 损坏",
+      "link": "https://www.v2ex.com/t/1260509",
+      "pubDate": "Sat, 28 Nov 2026 01:57:33 GMT",
+      "isoDate": "2026-11-28T01:57:33.000Z",
+      "content": "nanoxx: <p>有一段时间持续用闪极充电头给 M 芯片的 MacBook Pro 充电，有一天电脑突然黑屏断电，然后再也无法开机，用原装磁吸充电也没反应了。天才吧说主板已无任何响应，需要更换主板，最后找第三方把主板上的电源芯片换了就好了。再也不敢用第三方的充电头了，用了很久都没问题，但是一出问题就是大问题。</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/LJY2D0i.jpeg\"></p>\n",
+      "contentSnippet": "nanoxx: \n有一段时间持续用闪极充电头给 M 芯片的 MacBook Pro 充电，有一天电脑突然黑屏断电，然后再也无法开机，用原装磁吸充电也没反应了。天才吧说主板已无任何响应，需要更换主板，最后找第三方把主板上的电源芯片换了就好了。再也不敢用第三方的充电头了，用了很久都没问题，但是一出问题就是大问题。",
+      "creator": "nanoxx",
+      "summaries": {
+        "zh": "用户nanoxx报告称，长期使用闪极充电头为M芯片MacBook Pro充电后，电脑突然黑屏断电且无法开机。经苹果天才吧检测，主板无响应需更换。后通过第三方维修更换主板电源芯片解决。此事提醒用户第三方充电头虽曾使用无碍，但风险较大，一旦出问题后果严重。",
+        "en": "A user reported that using a third-party Shanzhi charging head to power a M-series MacBook Pro for an extended period caused the device to suddenly shut down and black screen. It failed to turn on afterward, even with the original MagSafe charger. Apple's Genius Bar diagnosed a non-responsive motherboard, requiring replacement. A third-party repair service replaced the power chip on the motherboard, resolving the issue. The user emphasized the severe risks of using non-Apple chargers, despite previous uneventful use."
+      },
+      "summary": "用户nanoxx报告称，长期使用闪极充电头为M芯片MacBook Pro充电后，电脑突然黑屏断电且无法开机。经苹果天才吧检测，主板无响应需更换。后通过第三方维修更换主板电源芯片解决。此事提醒用户第三方充电头虽曾使用无碍，但风险较大，一旦出问题后果严重。"
+    },
+    {
+      "title": "谷歌订阅 AI PRO 黑五提前买歪打正着",
+      "link": "https://www.v2ex.com/t/1260494",
+      "pubDate": "Sat, 28 Nov 2026 00:58:41 GMT",
+      "isoDate": "2026-11-28T00:58:41.000Z",
+      "content": "B1ankCat: <p>前情提要：<a href=\"https://www.v2ex.com/t/1258863\" rel=\"nofollow\">https://www.v2ex.com/t/1258863</a></p>\n<p>没想到谷谷歌歌对老用户还挺好，老用户订阅五折，新用户六折</p>\n<p>本来只是想早点用，没想到歪打正着，终于不是老用户是狗时间了</p>\n",
+      "contentSnippet": "B1ankCat: \n前情提要：https://www.v2ex.com/t/1258863\n没想到谷谷歌歌对老用户还挺好，老用户订阅五折，新用户六折\n本来只是想早点用，没想到歪打正着，终于不是老用户是狗时间了",
+      "creator": "B1ankCat",
+      "summaries": {
+        "zh": "谷歌在黑五提前开放AI PRO订阅，老用户享五折优惠，新用户六折。用户原本只为尽早使用，却意外受益，不再受老用户优先待遇。",
+        "en": "Google offered AI PRO subscriptions at a 50% discount for existing users and a 60% discount for new users during Black Friday. A user found this deal beneficial, as they were able to access the service at a lower price than expected. The user noted that this was a pleasant surprise, as they were not previously considered an existing user."
+      },
+      "summary": "谷歌在黑五提前开放AI PRO订阅，老用户享五折优惠，新用户六折。用户原本只为尽早使用，却意外受益，不再受老用户优先待遇。"
+    },
+    {
+      "title": "按照 NVIDIA 的迭代速度，是不是现在投入买算力越狠的，后面淘汰的越快",
+      "link": "https://www.v2ex.com/t/1260493",
+      "pubDate": "Sat, 28 Nov 2026 00:53:32 GMT",
+      "isoDate": "2026-11-28T00:53:32.000Z",
+      "content": "break: <p>24 年的 B200 比 23 年的 H200 算力高两倍<br>\n25 年的 B300 比 24 年的 B200 算力高 1.6 倍<br>\n26 年的 R100 比 25 年的旗舰 算力高 3 倍  比三年前的 H200 理论算力要高 18～25 倍了</p>\n<p>那再过两年，花大价钱部署的 H200 B200 直接淘汰的级别，卖二手都不一定有人接，卖出去可能也是骨折骨灰价格</p>\n<p>或者说过两三年，这些卡会掉价进入普通用户市场</p>\n<p>到时候不追求最新模型的普通用户，就能本地跑当前版本模型的无限 token</p>\n<p>大家怎么看，预计无限 token 要多久进入家家户户</p>\n",
+      "contentSnippet": "break: \n24 年的 B200 比 23 年的 H200 算力高两倍\n那再过两年，花大价钱部署的 H200 B200 直接淘汰的级别，卖二手都不一定有人接，卖出去可能也是骨折骨灰价格\n或者说过两三年，这些卡会掉价进入普通用户市场\n到时候不追求最新模型的普通用户，就能本地跑当前版本模型的无限 token\n大家怎么看，预计无限 token 要多久进入家家户户",
+      "creator": "break",
+      "summaries": {
+        "zh": "NVIDIA算力迭代速度极快。例如，24年B200比23年H200算力高2倍，25年B300比24年B200高1.6倍，26年R100比25年旗舰高3倍，比三年前H200高18至25倍。未来两年，高价部署的H200、B200可能被淘汰，二手价值大幅缩水，甚至进入普通用户市场。普通用户或能本地运行当前最新模型。预计无限token技术普及需两三年。",
+        "en": "NVIDIA's rapid iteration rate indicates that higher-end GPUs become obsolete quickly. For example, the 24-year-old B200 is twice as powerful as the 23-year-old H200, and the 25-year-old B300 is 1.6 times more powerful than the B200. By 2026, the R100 could be 3 times more powerful than the 25-year-old flagship, and 18–25 times more powerful than the H200 from three years ago. Consequently, current high-end GPUs like the H200 and B200 may be rapidly devalued or even unsellable in a few years. These cards might then enter the consumer market, allowing average users to run the latest model's infinite tokens locally. The timeline for infinite tokens to become widely accessible is uncertain."
+      },
+      "summary": "NVIDIA算力迭代速度极快。例如，24年B200比23年H200算力高2倍，25年B300比24年B200高1.6倍，26年R100比25年旗舰高3倍，比三年前H200高18至25倍。未来两年，高价部署的H200、B200可能被淘汰，二手价值大幅缩水，甚至进入普通用户市场。普通用户或能本地运行当前最新模型。预计无限token技术普及需两三年。"
+    },
+    {
+      "title": "社交圈太小，怎么才能认识更多异性？",
+      "link": "https://www.v2ex.com/t/1260472",
+      "pubDate": "Fri, 27 Nov 2026 15:59:45 GMT",
+      "isoDate": "2026-11-27T15:59:45.000Z",
+      "content": "bofei: <p>本人是个 i 人，有焦虑症躯体化的问题，目前有在吃药。性格比较内向，也不太擅长主动社交。</p>\n<p>平时除了上班，基本都窝在出租屋里。每逢周末，不知道去哪儿，也不知道该做些什么，时间久了就感觉挺压抑的。</p>\n<p>想改变一下目前的生活状态，扩大自己的社交圈，多认识一些朋友，却不知道该从哪里开始。</p>\n<p>多参加社交活动？培养兴趣爱好？勇敢主动一点？还是通过相亲？</p>\n<p>想请教各位老哥，你们平时都是通过什么方式认识异性的？如果有类似的经历，能否分享一些经验或建议？</p>\n<p>感谢各位！</p>\n",
+      "contentSnippet": "bofei: \n本人是个 i 人，有焦虑症躯体化的问题，目前有在吃药。性格比较内向，也不太擅长主动社交。\n平时除了上班，基本都窝在出租屋里。每逢周末，不知道去哪儿，也不知道该做些什么，时间久了就感觉挺压抑的。\n想改变一下目前的生活状态，扩大自己的社交圈，多认识一些朋友，却不知道该从哪里开始。\n多参加社交活动？培养兴趣爱好？勇敢主动一点？还是通过相亲？\n想请教各位老哥，你们平时都是通过什么方式认识异性的？如果有类似的经历，能否分享一些经验或建议？\n感谢各位！",
+      "creator": "bofei",
+      "summaries": {
+        "zh": "社交圈小，想认识更多异性。作者内向、焦虑，生活单一。想改变现状，扩大社交圈，但不知如何开始。考虑参加社交活动、培养兴趣爱好、主动社交或相亲等方式。希望得到建议和经验分享。",
+        "en": "The author, an introverted and anxious individual with a sedentary lifestyle, seeks to expand their social circle and meet more people, particularly异性. They are unsure how to start, considering options like joining social events, developing hobbies, being more proactive, or相亲. The author asks for advice on effective ways to meet new people."
+      },
+      "summary": "社交圈小，想认识更多异性。作者内向、焦虑，生活单一。想改变现状，扩大社交圈，但不知如何开始。考虑参加社交活动、培养兴趣爱好、主动社交或相亲等方式。希望得到建议和经验分享。"
+    },
+    {
+      "title": "[推广] [发码] 做了个 AI 阅读器 ，我们想将 AI 和阅读器做深度结合，而不仅仅是简单问答",
+      "link": "https://www.v2ex.com/t/1260464",
+      "pubDate": "Fri, 27 Nov 2026 15:36:37 GMT",
+      "isoDate": "2026-11-27T15:36:37.000Z",
+      "content": "FukArtorias: <p>下面是我们已经做的 AI 功能，采用 BYOK 形式。</p>\n<ol>\n<li>阅读问答</li>\n</ol>\n<p>读到不理解的词句，可以选中文字向 AI 提问。围绕原书内容随读随问，解释疑惑，帮助你理解正在阅读的内容。</p>\n<ol>\n<li>主动陪读</li>\n</ol>\n<p>根据每本书的介入设置，在合适的时候提供续读回顾。当新读到的内容能够补充之前的问题时，也会适时给出跟进建议，帮助你衔接阅读思路。</p>\n<ol>\n<li>自动批注重点</li>\n</ol>\n<p>阅读页面稳定后，AI 会复核少量关键原文，自动添加批注，并通过落笔动画呈现，帮助你抓住阅读重点。</p>\n<ol>\n<li>按策略标注</li>\n</ol>\n<p>按照当前书籍的标注策略，自动标注当前可见原文中明确符合条件的内容，让阅读标记更贴合你的关注方向。</p>\n<ol>\n<li>双语阅读与翻译</li>\n</ol>\n<p>生成并复核译文，辅助双语阅读，还可以提前翻译下一章，方便你在阅读原文时理解内容。</p>\n<ol>\n<li>导读与章节总结</li>\n</ol>\n<p>生成导读、章节总结与相关学习内容，帮助你了解内容脉络、梳理章节重点，让阅读更有方向。</p>\n<ol>\n<li>书籍分析</li>\n</ol>\n<p>分析书籍内容，推荐适合的阅读方式和辅助功能，帮助你判断这本书该怎么读、可以搭配哪些阅读工具。</p>\n<ol>\n<li>理解自检与练习</li>\n</ol>\n<p>根据阅读内容生成自检问题与练习，检查理解情况，并提供批改反馈，帮助你发现尚未掌握的地方。</p>\n<ol>\n<li>书库助手</li>\n</ol>\n<p>帮你查找书籍，并针对书库文件夹提出整理方案，让查书和整理书库更有条理。</p>\n<ol>\n<li>统一记录整理</li>\n</ol>\n<p>检索并归纳已经保存的记录，整理阅读笔记，方便你回顾读过的内容与留下的想法。</p>\n<ol>\n<li>智能设置</li>\n</ol>\n<p>通过文字或语音调整相关设置，也能解释 AI 用量，并打开需要你手动操作的配置卡片，让设置调整更方便。</p>\n<ol>\n<li>昨日总结</li>\n</ol>\n<p>根据昨天实际阅读的内容与已保存的记录，生成阅读回顾，帮助你重新梳理昨日的重点与收获。</p>\n<ol>\n<li>今日发现</li>\n</ol>\n<p>每天精选一篇与你阅读内容相关的外部文章，为阅读补充新的视角，发现值得继续了解的内容。</p>\n<ol>\n<li>自动长期记忆</li>\n</ol>\n<p>从互动与阅读中自动提炼少量偏好，让后续提供的帮助更贴合你的阅读习惯与需求。</p>\n<ol>\n<li>扫描页面识别</li>\n</ol>\n<p>使用支持视觉的 AI 模型识别扫描页面内容，为扫描版书籍的阅读提供辅助。</p>\n<ol>\n<li>智能朗读编排</li>\n</ol>\n<p>提前判断人物与表达方式，配合调度可用声音，让朗读更贴合内容；播报过程不必等待 AI。</p>\n<p>注：自动批注重点、按策略标注、智能朗读编排默认关闭，可按需开启。</p>\n",
+      "contentSnippet": "FukArtorias: \n下面是我们已经做的 AI 功能，采用 BYOK 形式。\n阅读问答\n读到不理解的词句，可以选中文字向 AI 提问。围绕原书内容随读随问，解释疑惑，帮助你理解正在阅读的内容。\n主动陪读\n根据每本书的介入设置，在合适的时候提供续读回顾。当新读到的内容能够补充之前的问题时，也会适时给出跟进建议，帮助你衔接阅读思路。\n自动批注重点\n阅读页面稳定后，AI 会复核少量关键原文，自动添加批注，并通过落笔动画呈现，帮助你抓住阅读重点。\n按策略标注\n按照当前书籍的标注策略，自动标注当前可见原文中明确符合条件的内容，让阅读标记更贴合你的关注方向。\n双语阅读与翻译\n生成并复核译文，辅助双语阅读，还可以提前翻译下一章，方便你在阅读原文时理解内容。\n导读与章节总结\n生成导读、章节总结与相关学习内容，帮助你了解内容脉络、梳理章节重点，让阅读更有方向。\n书籍分析\n分析书籍内容，推荐适合的阅读方式和辅助功能，帮助你判断这本书该怎么读、可以搭配哪些阅读工具。\n理解自检与练习\n根据阅读内容生成自检问题与练习，检查理解情况，并提供批改反馈，帮助你发现尚未掌握的地方。\n书库助手\n帮你查找书籍，并针对书库文件夹提出整理方案，让查书和整理书库更有条理。\n统一记录整理\n检索并归纳已经保存的记录，整理阅读笔记，方便你回顾读过的内容与留下的想法。\n智能设置\n通过文字或语音调整相关设置，也能解释 AI 用量，并打开需要你手动操作的配置卡片，让设置调整更方便。\n昨日总结\n根据昨天实际阅读的内容与已保存的记录，生成阅读回顾，帮助你重新梳理昨日的重点与收获。\n今日发现\n每天精选一篇与你阅读内容相关的外部文章，为阅读补充新的视角，发现值得继续了解的内容。\n自动长期记忆\n从互动与阅读中自动提炼少量偏好，让后续提供的帮助更贴合你的阅读习惯与需求。\n扫描页面识别\n使用支持视觉的 AI 模型识别扫描页面内容，为扫描版书籍的阅读提供辅助。\n智能朗读编排\n提前判断人物与表达方式，配合调度可用声音，让朗读更贴合内容；播报过程不必等待 AI。\n注：自动批注重点、按策略标注、智能朗读编排默认关闭，可按需开启。",
+      "creator": "FukArtorias",
+      "summaries": {
+        "zh": "本文介绍一款AI阅读器，通过BYOK模式实现深度结合。主要功能包括：阅读问答、主动陪读、自动批注重点、按策略标注、双语阅读与翻译、导读与章节总结、书籍分析、理解自检与练习、书库助手、统一记录整理、智能设置、昨日总结、今日发现、自动长期记忆及扫描页面识别等。部分功能默认关闭，可按需开启。",
+        "en": "The article introduces an AI-powered reading assistant with deep integration into reading. Key features include question-answering, active reading companionship, automatic annotation, bilingual reading support, summaries, book analysis, self-assessment, library management, and personalized settings. The tool also offers daily summaries, related external content, and long-term memory learning. Visual scanning and intelligent narration are supported, with optional features like automatic annotation and narration."
+      },
+      "summary": "本文介绍一款AI阅读器，通过BYOK模式实现深度结合。主要功能包括：阅读问答、主动陪读、自动批注重点、按策略标注、双语阅读与翻译、导读与章节总结、书籍分析、理解自检与练习、书库助手、统一记录整理、智能设置、昨日总结、今日发现、自动长期记忆及扫描页面识别等。部分功能默认关闭，可按需开启。"
+    },
+    {
+      "title": "觉得 vibe coding 半天还不如直接花钱订阅成熟的软件",
+      "link": "https://www.v2ex.com/t/1260459",
+      "pubDate": "Fri, 27 Nov 2026 14:56:22 GMT",
+      "isoDate": "2026-11-27T14:56:22.000Z",
+      "content": "desususula: <p>就算开发者也在用 ai，不就相当于用户花一份钱买了未来一年作者的 token 用量么，比个人看 agent 吭哧吭哧跑既省钱又省时间</p>\n",
+      "contentSnippet": "desususula: \n就算开发者也在用 ai，不就相当于用户花一份钱买了未来一年作者的 token 用量么，比个人看 agent 吭哧吭哧跑既省钱又省时间",
+      "creator": "desususula",
+      "summaries": {
+        "zh": "觉得Vibe Coding半天效率不如直接付费订阅成熟软件。开发者使用AI相当于用户用一份钱买一年作者token，比手动操作既省钱又省时。",
+        "en": "The author argues that using AI tools like vibe coding is inefficient compared to subscribing to mature software. They suggest that paying for a subscription is more cost-effective and time-saving, as it allows users to purchase the author's token usage for a year, similar to how users pay for AI services. This approach is deemed better than the alternative of developers using AI, which they find less practical."
+      },
+      "summary": "觉得Vibe Coding半天效率不如直接付费订阅成熟软件。开发者使用AI相当于用户用一份钱买一年作者token，比手动操作既省钱又省时。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:28:20.249Z"
+}

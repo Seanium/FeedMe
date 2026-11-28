@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "isoDate": "2026-11-24T13:00:00.000Z",
+      "content": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "contentSnippet": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6模型能够通过推理和代码设计蛋白质结构和序列。实验验证了其在五种靶点上的结合效果，证明其具备内在的蛋白质设计能力。",
+        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities by creating protein structures and sequences through reasoning and code. Lab tests confirmed their ability to generate functional proteins with binding evidence across five different targets. The findings highlight GPT-6's potential in protein engineering."
+      },
+      "summary": "GPT-6模型能够通过推理和代码设计蛋白质结构和序列。实验验证了其在五种靶点上的结合效果，证明其具备内在的蛋白质设计能力。"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "isoDate": "2026-11-24T11:00:00.000Z",
+      "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "contentSnippet": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "creator": "",
+      "summaries": {
+        "zh": "两名业余天文学家利用Codex和Astra，通过分析NASA开普勒和TESS太空望远镜的公开数据，寻找潜在系外行星。",
+        "en": "Two amateur astronomers employed Codex and Astra to identify potential exoplanets using public data from NASA’s Kepler and TESS space telescopes. The article details their method for analyzing the datasets to discover distant planets."
+      },
+      "summary": "两名业余天文学家利用Codex和Astra，通过分析NASA开普勒和TESS太空望远镜的公开数据，寻找潜在系外行星。"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-24T00:00:00.000Z",
+      "content": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "contentSnippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章《Intentful如何用点来创造更多成长时间》介绍了Marina Petrova开发的点式工具Aria。该工具通过研究网站、构建提案、主动标记信息及解决问题等功能，帮助用户提升效率，从而为个人和团队创造更多时间用于成长。",
+        "en": "Marina Petrova’s tool, dot Aria, aids in researching websites and creating proposals. It also flags messages and resolves issues proactively, helping users save time for growth."
+      },
+      "summary": "文章《Intentful如何用点来创造更多成长时间》介绍了Marina Petrova开发的点式工具Aria。该工具通过研究网站、构建提案、主动标记信息及解决问题等功能，帮助用户提升效率，从而为个人和团队创造更多时间用于成长。"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-24T00:00:00.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "iFood通过建立自动化工具和流程，成功扩展了其编码代理，覆盖了15,000个代码库。公司利用机器学习和持续集成/持续部署（CI/CD）技术，提高了代码质量和开发效率。此外，iFood还实施了集中式监控和管理系统，以优化资源分配和降低维护成本。这些措施帮助iFood实现了大规模代码管理的目标，并提升了团队协作能力。",
+        "en": "iFood scaled its coding agents across 15,000 repositories using a modular architecture and automation tools. The process involved breaking down tasks into smaller, reusable components, enabling efficient management and deployment. By leveraging cloud infrastructure and continuous integration/continuous deployment (CI/CD) pipelines, iFood achieved rapid scaling while maintaining code quality. The approach reduced manual effort and improved productivity across the development team."
+      },
+      "summary": "iFood通过建立自动化工具和流程，成功扩展了其编码代理，覆盖了15,000个代码库。公司利用机器学习和持续集成/持续部署（CI/CD）技术，提高了代码质量和开发效率。此外，iFood还实施了集中式监控和管理系统，以优化资源分配和降低维护成本。这些措施帮助iFood实现了大规模代码管理的目标，并提升了团队协作能力。"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-24T00:00:00.000Z",
+      "content": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "contentSnippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "creator": "",
+      "summaries": {
+        "zh": "Clay公司通过整合ChatGPT和Codex技术，帮助销售团队进行交易研究，将数据转化为市场策略。GPT-6模型负责推理，提升工作效率。",
+        "en": "Clay leverages ChatGPT and Codex integrations to assist sales teams in researching deals and converting data into actionable go-to-market strategies. The GPT-6 models enhance reasoning capabilities, supporting users in achieving better outcomes."
+      },
+      "summary": "Clay公司通过整合ChatGPT和Codex技术，帮助销售团队进行交易研究，将数据转化为市场策略。GPT-6模型负责推理，提升工作效率。"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "isoDate": "2026-11-23T21:20:00.000Z",
+      "content": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "contentSnippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI和Cisco推出开源Linux运行时Shirudo。该工具旨在帮助团队在部署补丁时保护运行中的系统。",
+        "en": "OpenAI and Cisco have introduced Shirudo, an open-source runtime for Linux. Shirudo assists teams in safeguarding running systems during patch deployment."
+      },
+      "summary": "OpenAI和Cisco推出开源Linux运行时Shirudo。该工具旨在帮助团队在部署补丁时保护运行中的系统。"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-23T08:00:00.000Z",
+      "content": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "contentSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《企业内部法律部门的智能连接》\n\n内容摘要：OpenAI的Stacey Wang和Craig Bruney、LECGB的Mary O’Carroll以及Cooley的Richard Segal探讨了人工智能如何帮助企业内部法律团队连接业务背景、构建可复用的工作流程，并提升外部律师的合作效率。",
+        "en": "The article features a discussion by OpenAI’s Stacey Wang, Craig Bruney, Mary O’Carroll of LECG, and Richard Segal of Cooley on how AI assists in-house legal teams. They explore AI’s role in integrating business context, creating reusable workflows, and enhancing collaboration with external counsel. The session highlights AI’s potential to improve efficiency and effectiveness in legal operations. (98 words)"
+      },
+      "summary": "文章标题：《企业内部法律部门的智能连接》\n\n内容摘要：OpenAI的Stacey Wang和Craig Bruney、LECGB的Mary O’Carroll以及Cooley的Richard Segal探讨了人工智能如何帮助企业内部法律团队连接业务背景、构建可复用的工作流程，并提升外部律师的合作效率。"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-23T08:00:00.000Z",
+      "content": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "contentSnippet": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "creator": "",
+      "summaries": {
+        "zh": "Richpanel公司通过GPT-6 Astra、GPT-6.1 Sol和GPT-6 Luna等技术，使AI客服代理具备工具和流程，并优化对话能力，帮助企业在30天内实现50%的支持自动化。",
+        "en": "Richpanel enables companies to automate 50% of their support within 30 days using AI agents. The platform integrates GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna to equip its agents with tools, procedures, and conversational capabilities. This automation streamlines support processes and enhances efficiency."
+      },
+      "summary": "Richpanel公司通过GPT-6 Astra、GPT-6.1 Sol和GPT-6 Luna等技术，使AI客服代理具备工具和流程，并优化对话能力，帮助企业在30天内实现50%的支持自动化。"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-22T00:00:00.000Z",
+      "content": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "contentSnippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "creator": "",
+      "summaries": {
+        "zh": "\"困惑度\"如何衡量AI模型的进步，并可能帮助开发者建立评估新兴能力的共同方法。",
+        "en": "Perplexity serves as a metric to assess progress in AI models, indicating their ability to predict sequences. It helps developers establish a standardized approach for evaluating emerging AI capabilities by providing a quantifiable measure of performance. The metric is useful for comparing different models and tracking improvements, fostering a shared understanding of AI development milestones."
+      },
+      "summary": "\"困惑度\"如何衡量AI模型的进步，并可能帮助开发者建立评估新兴能力的共同方法。"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "isoDate": "2026-11-20T10:00:00.000Z",
+      "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "contentSnippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI采用分层对抗蒸馏方法，结合模型训练、安全防护、检测和执行，以防范能力提取风险。该方法旨在通过综合措施保护模型安全。",
+        "en": "OpenAI's layered approach to adversarial distillation integrates model training, safeguards, detection, and enforcement to safeguard against capability extraction. The strategy aims to mitigate risks by combining these elements to protect against adversarial threats."
+      },
+      "summary": "OpenAI采用分层对抗蒸馏方法，结合模型训练、安全防护、检测和执行，以防范能力提取风险。该方法旨在通过综合措施保护模型安全。"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-20T00:00:00.000Z",
+      "content": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "contentSnippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "creator": "",
+      "summaries": {
+        "zh": "Hebbia公司使用GPT-6 Astra进行金融研究测试。其预发布评估显示，该模型在信息来源覆盖面、引用相关性和呈现质量方面均有提升。",
+        "en": "Hebbia evaluated GPT-6 Astra for financial research, finding improvements in source coverage, citation relevance, and presentation quality during prerelease testing. The results indicate enhanced performance in handling financial data analysis."
+      },
+      "summary": "Hebbia公司使用GPT-6 Astra进行金融研究测试。其预发布评估显示，该模型在信息来源覆盖面、引用相关性和呈现质量方面均有提升。"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-20T00:00:00.000Z",
+      "content": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "contentSnippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "creator": "",
+      "summaries": {
+        "zh": "AI有助于科学家识别潜在的药物候选物。MedChemBench评估了AI模型在早期药物发现中解析分子结构、基于实验证据推理及筛选化合物的能力。",
+        "en": "MedChemBench assesses AI models' ability to interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery. The evaluation aims to determine if AI can effectively identify promising drug candidates."
+      },
+      "summary": "AI有助于科学家识别潜在的药物候选物。MedChemBench评估了AI模型在早期药物发现中解析分子结构、基于实验证据推理及筛选化合物的能力。"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-19T08:00:00.000Z",
+      "content": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "contentSnippet": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的“性能工厂”系统利用Codex工作流程，通过发现和修复性能问题，确保ChatGPT运行流畅。该系统旨在持续优化ChatGPT的性能，提升用户体验。",
+        "en": "OpenAI developed the Performance Factory, a Codex-powered system, to maintain ChatGPT's speed. The system identifies and resolves performance issues, ensuring efficient operation."
+      },
+      "summary": "OpenAI的“性能工厂”系统利用Codex工作流程，通过发现和修复性能问题，确保ChatGPT运行流畅。该系统旨在持续优化ChatGPT的性能，提升用户体验。"
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "contentSnippet": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：See PR scans in action  \n文章内容：观看PR扫描演示，了解演示者如何在拉取请求工作流程中评审扫描结果。",
+        "en": "The article provides a walkthrough of PR scans, demonstrating how a presenter reviews scan results within a pull request workflow. It visually illustrates the process of analyzing and interpreting scan outcomes during development."
+      },
+      "summary": "文章标题：See PR scans in action  \n文章内容：观看PR扫描演示，了解演示者如何在拉取请求工作流程中评审扫描结果。"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "contentSnippet": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "creator": "",
+      "summaries": {
+        "zh": "《部署日破红》一文介绍了使用Daybreak Red进行监督式安全调查的参考架构，涵盖安全控制、部署设置和监控等内容。该架构旨在提供系统化的安全分析流程，确保高效、可靠地识别和应对安全威胁。",
+        "en": "The article \"Deploying Daybreak Red\" explores a reference architecture for supervised security investigations. It covers safety controls, setup procedures, and monitoring techniques. The focus is on providing a structured approach for implementing Daybreak Red in security operations. The content aims to guide users through the key components and considerations for effective deployment."
+      },
+      "summary": "《部署日破红》一文介绍了使用Daybreak Red进行监督式安全调查的参考架构，涵盖安全控制、部署设置和监控等内容。该架构旨在提供系统化的安全分析流程，确保高效、可靠地识别和应对安全威胁。"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "contentSnippet": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "creator": "",
+      "summaries": {
+        "zh": "《探索Codex安全插件》介绍了Codex安全插件的功能。通过观看演示，用户可以了解从入门到结果审查的完整工作流程。演示展示了插件的实际操作过程，帮助用户全面掌握其使用方法。",
+        "en": "The Codex Security Plugin demo showcases its workflow, from initial setup to reviewing recorded results. The video demonstrates how to use the plugin effectively, highlighting its key features and functionality."
+      },
+      "summary": "《探索Codex安全插件》介绍了Codex安全插件的功能。通过观看演示，用户可以了解从入门到结果审查的完整工作流程。演示展示了插件的实际操作过程，帮助用户全面掌握其使用方法。"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "contentSnippet": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "creator": "",
+      "summaries": {
+        "zh": "《开始使用Daybreak Blue》一文介绍了如何完成Daybreak Blue的入门设置。文章通过视频演示，详细展示了从安装到首次使用的完整流程，重点讲解了初始配置过程和入门方法。内容旨在帮助用户快速上手，熟悉平台功能。",
+        "en": "The article provides a walkthrough of the Daybreak Blue onboarding process, focusing on the setup experience and guidance on how to begin using the platform. It aims to assist users in understanding the initial steps involved in setting up and starting with Daybreak Blue."
+      },
+      "summary": "《开始使用Daybreak Blue》一文介绍了如何完成Daybreak Blue的入门设置。文章通过视频演示，详细展示了从安装到首次使用的完整流程，重点讲解了初始配置过程和入门方法。内容旨在帮助用户快速上手，熟悉平台功能。"
+    },
+    {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "isoDate": "2026-11-18T10:00:00.000Z",
+      "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "contentSnippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题《沉默的共识》。OpenAI战略未来主管迪恩·鲍尔探讨了更强大的AI如何重塑社会，以及人们如何保持对机构的控制。",
+        "en": "\"Dean Ball, Head of Strategic Futures at OpenAI, discusses how advanced AI could reshape society and the importance of maintaining control over institutions. The article explores the potential impacts of more capable AI systems and suggests strategies for people to retain influence in their institutions.\""
+      },
+      "summary": "文章标题《沉默的共识》。OpenAI战略未来主管迪恩·鲍尔探讨了更强大的AI如何重塑社会，以及人们如何保持对机构的控制。"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "contentSnippet": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "creator": "",
+      "summaries": {
+        "zh": "三井生命公司领导层率先使用ChatGPT Enterprise，推动团队采用该平台。公司利用其进行保险公司研究、准备提案和起草投资分析代码等工作。领导层的早期应用促进了团队对该工具的广泛采纳。",
+        "en": "Sumitomo Life's leaders adopted ChatGPT Enterprise by using it for insurer research, proposal preparation, and investment analysis code drafting. Their early usage played a key role in encouraging team-wide adoption."
+      },
+      "summary": "三井生命公司领导层率先使用ChatGPT Enterprise，推动团队采用该平台。公司利用其进行保险公司研究、准备提案和起草投资分析代码等工作。领导层的早期应用促进了团队对该工具的广泛采纳。"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "contentSnippet": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "creator": "",
+      "summaries": {
+        "zh": "《研究加速：锯齿前沿》一文探讨了OpenAI如何衡量编码代理加速AI研究的效果。研究发现，编码代理的表现尚不稳定，这揭示了递归自我改进的挑战。研究指出，AI研究加速的进程仍存在明显波动，表明在实现全面突破前，仍需克服诸多障碍。",
+        "en": "OpenAI assesses how coding agents are speeding up AI research, noting uneven performance and its implications for recursive self-improvement. The study highlights variability in agent capabilities, suggesting challenges in consistent progress. Findings underscore the complexities of AI advancement through automated development."
+      },
+      "summary": "《研究加速：锯齿前沿》一文探讨了OpenAI如何衡量编码代理加速AI研究的效果。研究发现，编码代理的表现尚不稳定，这揭示了递归自我改进的挑战。研究指出，AI研究加速的进程仍存在明显波动，表明在实现全面突破前，仍需克服诸多障碍。"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "contentSnippet": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Inside the Codex sandbox》介绍了Codex如何在macOS、Linux和Windows系统上运行命令，同时通过用户设定的文件系统和网络限制来确保安全。该工具对系统资源进行精细控制，防止未授权操作，保障用户数据安全。",
+        "en": "Codex is a tool that runs commands on a user's machine while enforcing controlled filesystem and network limits across macOS, Linux, and Windows. It ensures security by restricting access within specified boundaries. The article explores how Codex operates within these constraints, providing insights into its functionality."
+      },
+      "summary": "《Inside the Codex sandbox》介绍了Codex如何在macOS、Linux和Windows系统上运行命令，同时通过用户设定的文件系统和网络限制来确保安全。该工具对系统资源进行精细控制，防止未授权操作，保障用户数据安全。"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "pubDate": "Wed, 18 Nov 2026 06:00:00 GMT",
+      "isoDate": "2026-11-18T06:00:00.000Z",
+      "content": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "contentSnippet": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI介绍了如何从训练到部署阶段管理前沿AI风险。主要措施包括模型对齐、沙盒测试、阻断性安全措施和持续监控，以确保AI系统的安全性和可控性。",
+        "en": "OpenAI outlines its approach to managing frontier AI risk, covering training through deployment. Key strategies include model alignment, sandboxing, blocking safeguards, and continuous monitoring to ensure safety and control."
+      },
+      "summary": "OpenAI介绍了如何从训练到部署阶段管理前沿AI风险。主要措施包括模型对齐、沙盒测试、阻断性安全措施和持续监控，以确保AI系统的安全性和可控性。"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-18T00:00:00.000Z",
+      "content": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "contentSnippet": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "creator": "",
+      "summaries": {
+        "zh": "费加罗集团与OpenAI合作，将通过摘要和节选将费加罗的新闻内容引入ChatGPT，并提供指向原始文章的链接。此举旨在扩大费加罗新闻的传播范围，方便用户获取关键信息。合作内容将直接整合到ChatGPT平台，用户可便捷查阅。",
+        "en": "Le Groupe Figaro and OpenAI have partnered to integrate Le Figaro's journalism into ChatGPT. The collaboration will provide summaries and excerpts from Le Figaro articles, with links to the original stories for further reading. This initiative aims to enhance accessibility and engagement with Le Figaro's content on the platform."
+      },
+      "summary": "费加罗集团与OpenAI合作，将通过摘要和节选将费加罗的新闻内容引入ChatGPT，并提供指向原始文章的链接。此举旨在扩大费加罗新闻的传播范围，方便用户获取关键信息。合作内容将直接整合到ChatGPT平台，用户可便捷查阅。"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-18T00:00:00.000Z",
+      "content": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "contentSnippet": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI模型通过优化Jalapeño芯片中的电路设计，并改进RISC-V核心设计，展示了AI辅助芯片设计的进展。GPT-6 Astra技术在其中发挥了关键作用。",
+        "en": "OpenAI models, specifically GPT-6 Astra, have optimized circuits for Jalapeño silicon and enhanced RISC-V core designs. The advancements demonstrate progress in AI-assisted chip design, leveraging OpenAI's capabilities to improve performance and efficiency."
+      },
+      "summary": "OpenAI模型通过优化Jalapeño芯片中的电路设计，并改进RISC-V核心设计，展示了AI辅助芯片设计的进展。GPT-6 Astra技术在其中发挥了关键作用。"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "isoDate": "2026-11-17T17:45:00.000Z",
+      "content": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "contentSnippet": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "creator": "",
+      "summaries": {
+        "zh": "介绍GPT-6.2 Astra和Sol，在ChatGPT Work、Codex和API中提供更专业的输出、编码、电脑使用效率，并降低成本。",
+        "en": "GPT-6.2 Astra and Sol have been introduced, offering improved professional outputs, coding capabilities, computer use, and efficiency at a lower cost. These advancements are available across ChatGPT Work, Codex, and the API."
+      },
+      "summary": "介绍GPT-6.2 Astra和Sol，在ChatGPT Work、Codex和API中提供更专业的输出、编码、电脑使用效率，并降低成本。"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "contentSnippet": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "北约与盟国正利用人工智能加强网络防御。OpenAI与北约及盟国网络机构合作，帮助可信防御者发现漏洞、测试修复方案并保护关键系统。此举旨在提升网络安全防护能力。",
+        "en": "OpenAI is collaborating with NATO and allied cyber agencies to enhance cyber defenses using AI. The partnership focuses on helping trusted defenders identify vulnerabilities, test fixes, and protect critical systems. The initiative aims to strengthen collective cybersecurity through advanced AI tools and techniques."
+      },
+      "summary": "北约与盟国正利用人工智能加强网络防御。OpenAI与北约及盟国网络机构合作，帮助可信防御者发现漏洞、测试修复方案并保护关键系统。此举旨在提升网络安全防护能力。"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-17T08:00:00.000Z",
+      "content": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "contentSnippet": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "creator": "",
+      "summaries": {
+        "zh": "《ChatGPT销售插件介绍》\n\n本文介绍了ChatGPT新增的销售插件及30余个扩展合作伙伴插件。这些插件可用于调研客户、准备提案、更新CRM系统，并推动交易进展。新功能旨在提升销售效率，帮助销售人员更便捷地完成工作。",
+        "en": "The article introduces a new Sales plugin and over 30 expanded partner plugins for ChatGPT. These tools assist sales professionals in researching prospects, preparing pitches, updating CRM systems, and advancing deals. The enhancements aim to streamline sales processes and improve efficiency."
+      },
+      "summary": "《ChatGPT销售插件介绍》\n\n本文介绍了ChatGPT新增的销售插件及30余个扩展合作伙伴插件。这些插件可用于调研客户、准备提案、更新CRM系统，并推动交易进展。新功能旨在提升销售效率，帮助销售人员更便捷地完成工作。"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "contentSnippet": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与智利政府合作，旨在推动负责任的AI应用，提升公共部门AI技能，并助力当地企业开发AI应用。",
+        "en": "OpenAI and the Government of Chile are collaborating to promote responsible AI adoption. The partnership aims to enhance public-sector AI skills and assist local startups in developing AI applications. The initiative focuses on fostering AI development while ensuring ethical implementation within Chile."
+      },
+      "summary": "OpenAI与智利政府合作，旨在推动负责任的AI应用，提升公共部门AI技能，并助力当地企业开发AI应用。"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "contentSnippet": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "creator": "",
+      "summaries": {
+        "zh": "Astra for Law在涵盖24个法律领域的启动评估中排名第一。目前，所有ChatGPT Enterprise用户均可申请访问。",
+        "en": "Astra for Law topped a launch evaluation covering 24 legal domains. All ChatGPT Enterprise users can now request access."
+      },
+      "summary": "Astra for Law在涵盖24个法律领域的启动评估中排名第一。目前，所有ChatGPT Enterprise用户均可申请访问。"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "isoDate": "2026-11-16T17:00:00.000Z",
+      "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "contentSnippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们将扩大面向学术研究人员的ChatGPT项目，为全球20万名研究人员提供免费的前沿模型访问权限。此举旨在提升科研人员对人工智能技术的应用能力，促进学术研究的发展。",
+        "en": "The ChatGPT for Academic Researchers program is expanding to provide 200,000 researchers globally with free access to advanced AI models. This initiative aims to broaden AI accessibility for the scientific community."
+      },
+      "summary": "我们将扩大面向学术研究人员的ChatGPT项目，为全球20万名研究人员提供免费的前沿模型访问权限。此举旨在提升科研人员对人工智能技术的应用能力，促进学术研究的发展。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:27:07.921Z"
+}

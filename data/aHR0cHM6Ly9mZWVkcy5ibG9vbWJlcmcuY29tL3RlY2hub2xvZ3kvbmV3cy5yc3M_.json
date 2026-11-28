@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "United Fidelity Shut in Biggest US Bank Failure in Two Years",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years",
+      "pubDate": "Sat, 28 Nov 2026 06:24:35 GMT",
+      "isoDate": "2026-11-28T06:24:35.000Z",
+      "content": "US federal regulators closed down Indiana-based United Fidelity Bank on Friday after finding the lender was likely unable to pay its obligations, the country’s largest bank failure in two years.",
+      "contentSnippet": "US federal regulators closed down Indiana-based United Fidelity Bank on Friday after finding the lender was likely unable to pay its obligations, the country’s largest bank failure in two years.",
+      "creator": "Olivia Poh",
+      "summaries": {
+        "zh": "美国联邦监管机构于周五关闭了总部位于印第安纳州的联合 fidelity 银行，称该银行可能无法履行其债务。这是美国两年内最大的银行倒闭事件。",
+        "en": "United Fidelity Bank, an Indiana-based lender, was shut down by U.S. federal regulators on Friday due to concerns about its ability to meet financial obligations. The closure marked the largest bank failure in the U.S. in two years. Regulators intervened after determining the bank was likely insolvent. This event highlights ongoing challenges in the banking sector."
+      },
+      "summary": "美国联邦监管机构于周五关闭了总部位于印第安纳州的联合 fidelity 银行，称该银行可能无法履行其债务。这是美国两年内最大的银行倒闭事件。"
+    },
+    {
+      "title": "Thailand to Ban Export of Chemicals to Myanmar Rare-Earth Mines",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-to-ban-export-of-chemicals-to-myanmar-rare-earth-mines",
+      "pubDate": "Sat, 28 Nov 2026 09:38:43 GMT",
+      "isoDate": "2026-11-28T09:38:43.000Z",
+      "content": "Thailand is set to issue a ban on Monday on exports of chemicals used in rare-earth mining in Myanmar, after elevated arsenic levels in rivers in the north raised a public health alarm.",
+      "contentSnippet": "Thailand is set to issue a ban on Monday on exports of chemicals used in rare-earth mining in Myanmar, after elevated arsenic levels in rivers in the north raised a public health alarm.",
+      "creator": "Patpicha Tanakasempipat",
+      "summaries": {
+        "zh": "泰国将从周一起禁止出口用于缅甸稀土开采的化学品。此前，由于北部河流中砷含量升高引发公众健康担忧。",
+        "en": "Thailand will ban exports of chemicals used in rare-earth mining in Myanmar starting Monday due to elevated arsenic levels in northern rivers, which triggered public health concerns. The move aims to address environmental and health risks associated with the mining operations."
+      },
+      "summary": "泰国将从周一起禁止出口用于缅甸稀土开采的化学品。此前，由于北部河流中砷含量升高引发公众健康担忧。"
+    },
+    {
+      "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+      "pubDate": "Fri, 27 Nov 2026 19:02:10 GMT",
+      "isoDate": "2026-11-27T19:02:10.000Z",
+      "content": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.",
+      "contentSnippet": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.",
+      "creator": "Erik Larson",
+      "summaries": {
+        "zh": "OpenAI指控苹果公司利用不公平的雇佣协议，并施压供应商，阻止其使用OpenAI技术及人才。双方贸易秘密纠纷升级，OpenAI称苹果破坏其供应链合作。",
+        "en": "OpenAI alleges that Apple pressured suppliers to avoid its devices and used unfair employment contracts to retain talent, escalating a trade-secret dispute between the companies. The accusation highlights tensions over AI technology and supplier relationships."
+      },
+      "summary": "OpenAI指控苹果公司利用不公平的雇佣协议，并施压供应商，阻止其使用OpenAI技术及人才。双方贸易秘密纠纷升级，OpenAI称苹果破坏其供应链合作。"
+    },
+    {
+      "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+      "link": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+      "pubDate": "Fri, 27 Nov 2026 20:02:48 GMT",
+      "isoDate": "2026-11-27T20:02:48.000Z",
+      "content": "<p>Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?</p>",
+      "contentSnippet": "Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?",
+      "creator": "Spencer Soper",
+      "summaries": {
+        "zh": "谷歌、亚马逊、Meta和OpenAI等公司正利用人工智能技术竞争圣诞礼物推荐服务。这些AI购物机器人旨在帮助消费者选择礼物，引发了对谁将主导未来购物决策的讨论。市场对谁更值得信赖的关注度提升，但具体结果尚不明确。",
+        "en": "AI-powered shopping bots are challenging the dominance of Amazon and Google in the gift selection market. Google, Amazon, Meta, and OpenAI are competing to assist consumers with their Christmas gift choices, prompting questions about which platform will gain consumer trust."
+      },
+      "summary": "谷歌、亚马逊、Meta和OpenAI等公司正利用人工智能技术竞争圣诞礼物推荐服务。这些AI购物机器人旨在帮助消费者选择礼物，引发了对谁将主导未来购物决策的讨论。市场对谁更值得信赖的关注度提升，但具体结果尚不明确。"
+    },
+    {
+      "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+      "pubDate": "Fri, 27 Nov 2026 11:45:46 GMT",
+      "isoDate": "2026-11-27T11:45:46.000Z",
+      "content": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+      "contentSnippet": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+      "creator": "Andy Lin, Mackenzie Hawkins and Kari Lindberg",
+      "summaries": {
+        "zh": "两家中国公司在一家与争议美国芯片制造商核心人物Alice Huang相关的上海数据中心安装了Nvidia的强大Blackwell半导体。",
+        "en": "Nvidia's Blackwell semiconductors were installed in a Shanghai data center by two Chinese firms. The facility is linked to Alice Huang, central to a controversy involving Nvidia. The report highlights the use of the advanced chips in the location."
+      },
+      "summary": "两家中国公司在一家与争议美国芯片制造商核心人物Alice Huang相关的上海数据中心安装了Nvidia的强大Blackwell半导体。"
+    },
+    {
+      "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
+      "pubDate": "Fri, 27 Nov 2026 18:12:57 GMT",
+      "isoDate": "2026-11-27T18:12:57.000Z",
+      "content": "Verizon Communications Inc. is in talks to buy the broadband operator Fidium in a $6 billion deal, the Financial Times reported, a move that would expand its network and allow the mobile giant to target more internet service subscribers across the US.",
+      "contentSnippet": "Verizon Communications Inc. is in talks to buy the broadband operator Fidium in a $6 billion deal, the Financial Times reported, a move that would expand its network and allow the mobile giant to target more internet service subscribers across the US.",
+      "creator": "Lynn Doan and Kelcee Griffis",
+      "summaries": {
+        "zh": "据《金融时报》报道，威瑞森通信公司正与宽带运营商Fidium进行价值60亿美元的收购谈判。此举旨在扩大其网络覆盖，使这家移动巨头能够在美国吸引更多互联网服务用户。",
+        "en": "Verizon Communications is reportedly in talks to acquire broadband operator Fidium for $6 billion, according to the Financial Times. The deal aims to expand Verizon's network and enable the mobile company to target more internet service subscribers in the U.S. The acquisition would strengthen Verizon's position in the competitive broadband market."
+      },
+      "summary": "据《金融时报》报道，威瑞森通信公司正与宽带运营商Fidium进行价值60亿美元的收购谈判。此举旨在扩大其网络覆盖，使这家移动巨头能够在美国吸引更多互联网服务用户。"
+    },
+    {
+      "title": "GTA VI’s Success Makes the Case for Human-Made Games",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video",
+      "pubDate": "Fri, 27 Nov 2026 17:31:45 GMT",
+      "isoDate": "2026-11-27T17:31:45.000Z",
+      "content": "Grand Theft Auto VI arrived after 13 years in development and it was made without using any generative AI according to Take-Two CEO Strauss Zelnick. It smashed all kinds of records. Gordon Bellamy, Director of Ethics at the USC School of Cinematic Arts, discusses what Rockstar’s blockbuster says about the value of human-made content in the AI era, why its extraordinary launch could reshape holiday spending across the gaming industry, and what smaller studios can learn from GTA VI’s success. (Source: Bloomberg)",
+      "contentSnippet": "Grand Theft Auto VI arrived after 13 years in development and it was made without using any generative AI according to Take-Two CEO Strauss Zelnick. It smashed all kinds of records. Gordon Bellamy, Director of Ethics at the USC School of Cinematic Arts, discusses what Rockstar’s blockbuster says about the value of human-made content in the AI era, why its extraordinary launch could reshape holiday spending across the gaming industry, and what smaller studios can learn from GTA VI’s success. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "《侠盗猎车手6》历经13年开发，未使用生成式AI，创纪录大获成功。该游戏的成功案例表明，在AI时代，人类创作内容仍具价值。南加州大学电影艺术学院伦理总监戈登·贝尔梅讨论了其意义，包括对游戏业假日消费的潜在影响及小工作室可借鉴之处。（源自彭博）",
+        "en": "Grand Theft Auto VI (GTA VI), developed over 13 years without generative AI, achieved record-breaking success, according to Take-Two CEO Strauss Zelnick. USC School of Cinematic Arts Director Gordon Bellamy highlights GTA VI's significance in the AI era, discussing its impact on holiday gaming spending and lessons for smaller studios. The game's human-made creation underscores the value of human craftsmanship in the industry. (Word count: 60)"
+      },
+      "summary": "《侠盗猎车手6》历经13年开发，未使用生成式AI，创纪录大获成功。该游戏的成功案例表明，在AI时代，人类创作内容仍具价值。南加州大学电影艺术学院伦理总监戈登·贝尔梅讨论了其意义，包括对游戏业假日消费的潜在影响及小工作室可借鉴之处。（源自彭博）"
+    },
+    {
+      "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+      "pubDate": "Fri, 27 Nov 2026 12:30:04 GMT",
+      "isoDate": "2026-11-27T12:30:04.000Z",
+      "content": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+      "contentSnippet": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+      "creator": "Zosia Wanat",
+      "summaries": {
+        "zh": "波兰将使用Palantir Technologies公司的人工智能软件分析战场数据，此举与部分欧洲盟友减少对美国关键技术依赖的趋势相悖。该协议金额达3亿美元。",
+        "en": "Poland has signed a $300 million deal with Palantir Technologies to utilize AI-based software for analyzing battlefield data. The agreement marks a departure from efforts by some European allies to reduce dependence on US technology for critical defense systems. The AI tools will enhance data analysis capabilities for Polish defense operations."
+      },
+      "summary": "波兰将使用Palantir Technologies公司的人工智能软件分析战场数据，此举与部分欧洲盟友减少对美国关键技术依赖的趋势相悖。该协议金额达3亿美元。"
+    },
+    {
+      "title": "How AI Is Changing Black Friday",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video",
+      "pubDate": "Fri, 27 Nov 2026 15:00:20 GMT",
+      "isoDate": "2026-11-27T15:00:20.000Z",
+      "content": "Matt Shay, president and CEO of the National Retail Federation, says this may mark a step change in how consumers interact with retailers, as AI begins changing how shoppers shop on Black Friday. (Source: Bloomberg)",
+      "contentSnippet": "Matt Shay, president and CEO of the National Retail Federation, says this may mark a step change in how consumers interact with retailers, as AI begins changing how shoppers shop on Black Friday. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "人工智能正改变黑色星期五的购物方式。全国零售联合会总裁兼首席执行官Matt Shay表示，这可能是消费者与零售商互动方式的转折点，标志着AI开始影响黑色星期五的购物体验。(源自彭博社)",
+        "en": "AI is reshaping Black Friday shopping, according to Matt Shay, president and CEO of the National Retail Federation. He suggests this marks a significant shift in consumer-retailer interactions, as AI influences shopping behaviors during the event. (Source: Bloomberg)"
+      },
+      "summary": "人工智能正改变黑色星期五的购物方式。全国零售联合会总裁兼首席执行官Matt Shay表示，这可能是消费者与零售商互动方式的转折点，标志着AI开始影响黑色星期五的购物体验。(源自彭博社)"
+    },
+    {
+      "title": "UK Pension Agency Takes Systems Offline After Cyber Incident",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/uk-pension-agency-takes-systems-offline-after-cyber-incident",
+      "pubDate": "Fri, 27 Nov 2026 14:56:55 GMT",
+      "isoDate": "2026-11-27T14:56:55.000Z",
+      "content": "The UK government’s Department for Work and Pensions took systems offline on Friday as a precautionary measure after officials detected a cyber incident.",
+      "contentSnippet": "The UK government’s Department for Work and Pensions took systems offline on Friday as a precautionary measure after officials detected a cyber incident.",
+      "creator": "Ryan Gallagher and Lucy White",
+      "summaries": {
+        "zh": "英国工作与养老金部因检测到网络事件，于周五暂停部分系统运行，采取预防措施。",
+        "en": "The UK’s Department for Work and Pensions temporarily shut down systems on Friday following the detection of a cyber incident. The move was a precautionary measure to ensure security. No further details were provided about the incident’s nature or impact."
+      },
+      "summary": "英国工作与养老金部因检测到网络事件，于周五暂停部分系统运行，采取预防措施。"
+    },
+    {
+      "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+      "pubDate": "Fri, 27 Nov 2026 12:43:02 GMT",
+      "isoDate": "2026-11-27T12:43:02.000Z",
+      "content": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker. \nThe gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan ($14 million) loan from Shanghai Innovation Bank, according to filings from the lender that were reviewed by Bloomberg News.\nBloomberg's Tom Keene and Paul Sweeney get details from Olivia Levieux, Markets Strategist with Bloomberg News (Source: Bloomberg)",
+      "contentSnippet": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker. \nThe gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan ($14 million) loan from Shanghai Innovation Bank, according to filings from the lender that were reviewed by Bloomberg News.\nBloomberg's Tom Keene and Paul Sweeney get details from Olivia Levieux, Markets Strategist with Bloomberg News (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "上海一家数据中心安装了英伟达Blackwell芯片，该数据中心与引发美国芯片商争议的人物Alice Huang有关。安装设备包括英伟达GB300 NVL72机架，其序列号出现在11月份提交给中国监管机构的文件中。上海说谣公司以该硬件为抵押，从上海创新银行获得9600万元人民币（1400万美元）贷款，相关文件由彭博社披露。",
+        "en": "Nvidia's Blackwell semiconductors, including a GB300 NVL72 rack, were installed at a Shanghai data center linked to Alice Huang. The installation was part of the Yangtze River Delta Project. Chinese firm Shanghai Shuoyao used the hardware as collateral to secure a 96 million yuan ($14 million) loan from Shanghai Innovation Bank. The details were revealed in documents submitted to Chinese regulators and lender filings reviewed by Bloomberg."
+      },
+      "summary": "上海一家数据中心安装了英伟达Blackwell芯片，该数据中心与引发美国芯片商争议的人物Alice Huang有关。安装设备包括英伟达GB300 NVL72机架，其序列号出现在11月份提交给中国监管机构的文件中。上海说谣公司以该硬件为抵押，从上海创新银行获得9600万元人民币（1400万美元）贷款，相关文件由彭博社披露。"
+    },
+    {
+      "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+      "pubDate": "Fri, 27 Nov 2026 12:12:23 GMT",
+      "isoDate": "2026-11-27T12:12:23.000Z",
+      "content": "AI-assisted traffic to US retail sites this holiday season will more than double last year’s, according to Adobe, demonstrating consumers are shifting from search engines to digital assistants. Bloomberg Intelligence's Abigail Gilmartin has the details. (Source: Bloomberg)",
+      "contentSnippet": "AI-assisted traffic to US retail sites this holiday season will more than double last year’s, according to Adobe, demonstrating consumers are shifting from search engines to digital assistants. Bloomberg Intelligence's Abigail Gilmartin has the details. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "黑五期间，美国零售网站AI辅助流量将同比翻倍，Adobe数据显示消费者正从搜索引擎转向数字助手。据彭博报道，Bloomberg Intelligence的Abigail Gilmartin对此有详细分析。",
+        "en": "AI-assisted traffic to US retail sites this holiday season is set to double from last year, per Adobe. This shift indicates consumers are increasingly using digital assistants instead of search engines to find Black Friday deals. Bloomberg Intelligence's Abigail Gilmartin provides further details on this trend."
+      },
+      "summary": "黑五期间，美国零售网站AI辅助流量将同比翻倍，Adobe数据显示消费者正从搜索引擎转向数字助手。据彭博报道，Bloomberg Intelligence的Abigail Gilmartin对此有详细分析。"
+    },
+    {
+      "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
+      "pubDate": "Fri, 27 Nov 2026 12:06:34 GMT",
+      "isoDate": "2026-11-27T12:06:34.000Z",
+      "content": "A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware.  (Source: Bloomberg)",
+      "contentSnippet": "A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware.  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "据彭博调查，与中国公司Alice Huang有关联的上海数据中心，在美方对硬件实施限制的情况下，安装了Nvidia GB300 Blackwell机架。",
+        "en": "A Bloomberg investigation reveals that Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, in violation of US restrictions on the hardware. The findings highlight potential bypassing of sanctions."
+      },
+      "summary": "据彭博调查，与中国公司Alice Huang有关联的上海数据中心，在美方对硬件实施限制的情况下，安装了Nvidia GB300 Blackwell机架。"
+    },
+    {
+      "title": "SAP Struggles With Turnover in the Executive Team",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/sap-struggles-with-turnover-in-the-executive-team",
+      "pubDate": "Fri, 27 Nov 2026 12:02:01 GMT",
+      "isoDate": "2026-11-27T12:02:01.000Z",
+      "content": "The software company is trying to fill big gaps in its executive team",
+      "contentSnippet": "The software company is trying to fill big gaps in its executive team",
+      "creator": "Christina Kyriasoglou",
+      "summaries": {
+        "zh": "SAP公司高管团队出现重大空缺，正努力填补这些职位。公司面临高层人员流失问题，试图稳定核心管理层。",
+        "en": "SAP is facing significant turnover in its executive team, struggling to fill key leadership gaps. The company is actively working to replace departing executives and stabilize its leadership structure."
+      },
+      "summary": "SAP公司高管团队出现重大空缺，正努力填补这些职位。公司面临高层人员流失问题，试图稳定核心管理层。"
+    },
+    {
+      "title": "Hackers Breached US Air Force’s Cloud Platform, Reuters Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform",
+      "pubDate": "Fri, 27 Nov 2026 11:20:39 GMT",
+      "isoDate": "2026-11-27T11:20:39.000Z",
+      "content": "Hackers breached the US Air Force’s flagship cloud infrastructure, called Cloud One, potentially putting large amounts of sensitive tactical and personnel data at risk, Reuters reported on Friday.",
+      "contentSnippet": "Hackers breached the US Air Force’s flagship cloud infrastructure, called Cloud One, potentially putting large amounts of sensitive tactical and personnel data at risk, Reuters reported on Friday.",
+      "creator": "Shona Ghosh",
+      "summaries": {
+        "zh": "路透社周五报道，黑客入侵了美国空军的旗舰云基础设施“云一号”，可能使大量敏感的战术和人事数据面临风险。",
+        "en": "Hackers breached the US Air Force's Cloud One cloud platform, according to Reuters. The incident potentially exposed large amounts of sensitive tactical and personnel data."
+      },
+      "summary": "路透社周五报道，黑客入侵了美国空军的旗舰云基础设施“云一号”，可能使大量敏感的战术和人事数据面临风险。"
+    },
+    {
+      "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+      "pubDate": "Fri, 27 Nov 2026 11:49:21 GMT",
+      "isoDate": "2026-11-27T11:49:21.000Z",
+      "content": "LIAN Group, a developer of infrastructure for artificial intelligence and computing, has chosen London as the venue for a potential initial public offering next year, in what would be a boost to the city’s lackluster market for new listings.",
+      "contentSnippet": "LIAN Group, a developer of infrastructure for artificial intelligence and computing, has chosen London as the venue for a potential initial public offering next year, in what would be a boost to the city’s lackluster market for new listings.",
+      "creator": "Pablo Mayo Cerqueiro",
+      "summaries": {
+        "zh": "AI数据中心开发商LIAN集团计划明年在英国伦敦进行5亿美元的首次公开募股，此举将提振伦敦低迷的新股市场。",
+        "en": "LIAN Group, an AI and computing infrastructure developer, plans a $500 million IPO in London next year. The move aims to support the city's underperforming new listings market."
+      },
+      "summary": "AI数据中心开发商LIAN集团计划明年在英国伦敦进行5亿美元的首次公开募股，此举将提振伦敦低迷的新股市场。"
+    },
+    {
+      "title": "Chip Stocks Look 'Very Attractive,' State Street Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/chip-stocks-look-very-attractive-state-street-says-video",
+      "pubDate": "Fri, 27 Nov 2026 11:16:20 GMT",
+      "isoDate": "2026-11-27T11:16:20.000Z",
+      "content": "Marija Veitmane of State Street says technology industry fundamentals have not weakened as much as the recent market selloff and outflows might suggest, and sees signs that sentiment is \"normalizing.\" Speaking on Bloomberg Television, she says the pullback is an opportunity for bargain hunting, especially in semiconductors. (Source: Bloomberg)",
+      "contentSnippet": "Marija Veitmane of State Street says technology industry fundamentals have not weakened as much as the recent market selloff and outflows might suggest, and sees signs that sentiment is \"normalizing.\" Speaking on Bloomberg Television, she says the pullback is an opportunity for bargain hunting, especially in semiconductors. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "州街证券的Marija Veitmane表示，近期科技行业的基本面并未像市场抛售和资金流出所暗示的那样大幅削弱，反而显示出情绪正在“正常化”的迹象。她在彭博电视采访中说，此次回调为半导体等领域的抄底提供了机会，该行业目前“非常有吸引力”。(来源：彭博)",
+        "en": "State Street analyst Marija Veitmane says technology industry fundamentals remain strong despite recent market selloffs and outflows, indicating sentiment is \"normalizing.\" She views the pullback as a buying opportunity, particularly for semiconductor stocks, which she finds \"very attractive.\" (Source: Bloomberg)"
+      },
+      "summary": "州街证券的Marija Veitmane表示，近期科技行业的基本面并未像市场抛售和资金流出所暗示的那样大幅削弱，反而显示出情绪正在“正常化”的迹象。她在彭博电视采访中说，此次回调为半导体等领域的抄底提供了机会，该行业目前“非常有吸引力”。(来源：彭博)"
+    },
+    {
+      "title": "SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video",
+      "pubDate": "Fri, 27 Nov 2026 11:11:54 GMT",
+      "isoDate": "2026-11-27T11:11:54.000Z",
+      "content": "“The Pulse With Francine Lacqua” is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday’s guests: Mohit Kumar, Jefferies Chief European Economist & Strategist; Ronald Lamola, South Africa Minister of International Relations & Cooperation; Alberto Nadal, Spanish People’s Party Deputy Economy Secretary; Carla Hobbs, European Council on Foreign Relations Madrid Office Head (Source: Bloomberg)",
+      "contentSnippet": "“The Pulse With Francine Lacqua” is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday’s guests: Mohit Kumar, Jefferies Chief European Economist & Strategist; Ronald Lamola, South Africa Minister of International Relations & Cooperation; Alberto Nadal, Spanish People’s Party Deputy Economy Secretary; Carla Hobbs, European Council on Foreign Relations Madrid Office Head (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "SAP计划裁员1万人，因人工智能重塑科技行业。文章《The Pulse With Francine Lacqua》聚焦全球商业、经济、金融及政治要闻，伦敦主办，提供独家访谈与市场动态。本期嘉宾包括Jefferies首席欧洲经济学家Mohit Kumar、南非外交部长Ronald Lamola、西班牙人民党副经济秘书Alberto Nadal及欧洲外交关系委员会马德里办事处负责人Carla Hobbs。",
+        "en": "SAP plans to cut 10,000 jobs as AI reshapes the tech industry. The article \"The Pulse With Francine Lacqua\" features interviews with high-profile guests on global business, economics, finance, and politics. Guests include Mohit Kumar (Jefferies Chief European Economist), Ronald Lamola (South Africa's International Relations Minister), Alberto Nadal (Spanish Economy Secretary), and Carla Hobbs (European Council on Foreign Relations Madrid Office Head). (Source: Bloomberg)"
+      },
+      "summary": "SAP计划裁员1万人，因人工智能重塑科技行业。文章《The Pulse With Francine Lacqua》聚焦全球商业、经济、金融及政治要闻，伦敦主办，提供独家访谈与市场动态。本期嘉宾包括Jefferies首席欧洲经济学家Mohit Kumar、南非外交部长Ronald Lamola、西班牙人民党副经济秘书Alberto Nadal及欧洲外交关系委员会马德里办事处负责人Carla Hobbs。"
+    },
+    {
+      "title": "Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video",
+      "pubDate": "Fri, 27 Nov 2026 10:36:01 GMT",
+      "isoDate": "2026-11-27T10:36:01.000Z",
+      "content": "Mohit Kumar, chief European economist and strategist at Jefferies, discusses the outlook for the Federal Reserve's December policy meeting and its potential impact on markets. \"My base case is that is the peak in hawkishness,\" Kumar tells Bloomberg Television. \"That is, in my mind, the turning point for markets.\" (Source: Bloomberg)",
+      "contentSnippet": "Mohit Kumar, chief European economist and strategist at Jefferies, discusses the outlook for the Federal Reserve's December policy meeting and its potential impact on markets. \"My base case is that is the peak in hawkishness,\" Kumar tells Bloomberg Television. \"That is, in my mind, the turning point for markets.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "美联储12月会议或成市场转折点：分析师称或达鸽派顶峰。Jefferies首席欧洲经济学家Mohit Kumar表示，其基本判断是鸽派立场达到顶峰，这被视为市场转折点。来源：彭博。",
+        "en": "The Federal Reserve's December policy meeting may mark a turning point for markets, according to Jefferies' chief European economist, Mohit Kumar. Kumar tells Bloomberg that his base case is \"the peak in hawkishness,\" suggesting the meeting could signal a shift in the Fed's stance. This potential change is viewed as a key moment for financial markets. (Source: Bloomberg)"
+      },
+      "summary": "美联储12月会议或成市场转折点：分析师称或达鸽派顶峰。Jefferies首席欧洲经济学家Mohit Kumar表示，其基本判断是鸽派立场达到顶峰，这被视为市场转折点。来源：彭博。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T10:27:05.205Z"
+}
